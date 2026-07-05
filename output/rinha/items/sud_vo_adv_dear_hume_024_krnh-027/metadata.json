@@ -1,0 +1,19 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/4/52333234/63a47c717f25bd507e8c3a440ac7cb7a",
+  "line_no": 433,
+  "voice_line_no": 437,
+  "text": "アイドルに戻ったら、\n真っ先に水をぶっかけてやるから。",
+  "speaker": "燐羽",
+  "voice_cue": "sud_vo_adv_dear_hume_024_krnh-027",
+  "bank_name": "sud_vo_adv_dear_hume_024",
+  "start": 280.9792893188,
+  "duration": 5.667012207,
+  "voice_start": 281.0792893188,
+  "voice_duration": 5.367,
+  "output_slug": "sud_vo_adv_dear_hume_024_krnh-027",
+  "subsong_index": 79,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\acb\\sud_vo_adv_dear_hume_024.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\scripts\\52333234_63a47c717f25bd507e8c3a440ac7cb7a.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_dear_hume_024_krnh-027\\voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_dear_hume_024_krnh-027\\subtitle.txt"
+}

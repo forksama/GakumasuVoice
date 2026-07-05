@@ -1,0 +1,19 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/4/5234363134/881e60544e16f09529856517e0641977",
+  "line_no": 458,
+  "voice_line_no": 459,
+  "text": "あぁ疲れた。もう最悪。せいせいする。\nしばらく会いたくない。",
+  "speaker": "燐羽",
+  "voice_cue": "sud_vo_adv_dear_ttmr_026_krnh-012",
+  "bank_name": "sud_vo_adv_dear_ttmr_026",
+  "start": 454.7083661978,
+  "duration": 7.9460000001,
+  "voice_start": 454.8083661979,
+  "voice_duration": 7.846,
+  "output_slug": "sud_vo_adv_dear_ttmr_026_krnh-012",
+  "subsong_index": 18,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\acb\\sud_vo_adv_dear_ttmr_026.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\scripts\\5234363134_881e60544e16f09529856517e0641977.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_dear_ttmr_026_krnh-012\\voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_dear_ttmr_026_krnh-012\\subtitle.txt"
+}

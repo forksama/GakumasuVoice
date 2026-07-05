@@ -1,0 +1,19 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/4/52333234/63a47c717f25bd507e8c3a440ac7cb7a",
+  "line_no": 221,
+  "voice_line_no": 222,
+  "text": "う～め。咲季お姉ちゃんのことだけど。",
+  "speaker": "燐羽",
+  "voice_cue": "sud_vo_adv_dear_hume_024_krnh-011",
+  "bank_name": "sud_vo_adv_dear_hume_024",
+  "start": 126.0343454307,
+  "duration": 4.9979969482,
+  "voice_start": 126.1343454307,
+  "voice_duration": 4.698,
+  "output_slug": "sud_vo_adv_dear_hume_024_krnh-011",
+  "subsong_index": 63,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\acb\\sud_vo_adv_dear_hume_024.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\scripts\\52333234_63a47c717f25bd507e8c3a440ac7cb7a.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_dear_hume_024_krnh-011\\voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_dear_hume_024_krnh-011\\subtitle.txt"
+}

@@ -1,0 +1,19 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/7/52333137/aa902e2d621dc28e9c375ef4e4898cdd",
+  "line_no": 124,
+  "voice_line_no": 125,
+  "text": "手毬ぃ～。食べもの買いすぎでしょ。\nまた太って、泣く姿が想像できるわ。",
+  "speaker": "燐羽",
+  "voice_cue": "sud_vo_adv_csprt-3-0096_02_krnh-001",
+  "bank_name": "sud_vo_adv_csprt-3-0096_02",
+  "start": 69.6523377859,
+  "duration": 8.2466641235,
+  "voice_start": 69.7523377859,
+  "voice_duration": 7.98,
+  "output_slug": "sud_vo_adv_csprt-3-0096_02_krnh-001",
+  "subsong_index": 9,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\acb\\sud_vo_adv_csprt-3-0096_02.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\scripts\\52333137_aa902e2d621dc28e9c375ef4e4898cdd.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_csprt-3-0096_02_krnh-001\\voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_csprt-3-0096_02_krnh-001\\subtitle.txt"
+}

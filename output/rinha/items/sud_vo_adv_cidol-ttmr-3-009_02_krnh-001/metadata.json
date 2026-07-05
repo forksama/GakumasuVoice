@@ -1,0 +1,19 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/9/5236363539/5f51cb1aed3fe9ff24a72c26a6f9968a",
+  "line_no": 4,
+  "voice_line_no": 5,
+  "text": "――ねぇっ、あなたたちも、\nライブを観にきたの！？",
+  "speaker": "？？？",
+  "voice_cue": "sud_vo_adv_cidol-ttmr-3-009_02_krnh-001",
+  "bank_name": "sud_vo_adv_cidol-ttmr-3-009_02",
+  "start": 0.8,
+  "duration": 4.2794671288,
+  "voice_start": 0.9,
+  "voice_duration": 3.999,
+  "output_slug": "sud_vo_adv_cidol-ttmr-3-009_02_krnh-001",
+  "subsong_index": 2,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\acb\\sud_vo_adv_cidol-ttmr-3-009_02.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\scripts\\5236363539_5f51cb1aed3fe9ff24a72c26a6f9968a.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_cidol-ttmr-3-009_02_krnh-001\\voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_cidol-ttmr-3-009_02_krnh-001\\subtitle.txt"
+}

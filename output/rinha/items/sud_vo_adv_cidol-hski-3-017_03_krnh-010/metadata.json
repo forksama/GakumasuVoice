@@ -1,0 +1,19 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/9/5235373239/22e08396fb24c3796f4e8ff9dc44da35",
+  "line_no": 254,
+  "voice_line_no": 255,
+  "text": "らしくなってきた。",
+  "speaker": "燐羽",
+  "voice_cue": "sud_vo_adv_cidol-hski-3-017_03_krnh-010",
+  "bank_name": "sud_vo_adv_cidol-hski-3-017_03",
+  "start": 156.4403329886,
+  "duration": 1.9583526611,
+  "voice_start": 156.5403329886,
+  "voice_duration": 1.625,
+  "output_slug": "sud_vo_adv_cidol-hski-3-017_03_krnh-010",
+  "subsong_index": 43,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\acb\\sud_vo_adv_cidol-hski-3-017_03.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\scripts\\5235373239_22e08396fb24c3796f4e8ff9dc44da35.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_cidol-hski-3-017_03_krnh-010\\voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_cidol-hski-3-017_03_krnh-010\\subtitle.txt"
+}

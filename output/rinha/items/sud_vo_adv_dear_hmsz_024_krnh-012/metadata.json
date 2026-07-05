@@ -1,0 +1,19 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/6/52363836/4931e1dc5c6ef31bb8a782aad2940c84",
+  "line_no": 387,
+  "voice_line_no": 388,
+  "text": "大見出しで『トップアイドル\n十王星南誕生！！』って。",
+  "speaker": "燐羽",
+  "voice_cue": "sud_vo_adv_dear_hmsz_024_krnh-012",
+  "bank_name": "sud_vo_adv_dear_hmsz_024",
+  "start": 243.1973412689,
+  "duration": 4.9,
+  "voice_start": 243.2973412689,
+  "voice_duration": 4.8,
+  "output_slug": "sud_vo_adv_dear_hmsz_024_krnh-012",
+  "subsong_index": 53,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\acb\\sud_vo_adv_dear_hmsz_024.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\scripts\\52363836_4931e1dc5c6ef31bb8a782aad2940c84.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_dear_hmsz_024_krnh-012\\voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_dear_hmsz_024_krnh-012\\subtitle.txt"
+}

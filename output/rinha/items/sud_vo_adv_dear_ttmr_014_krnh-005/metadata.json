@@ -1,0 +1,19 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/6/5235363936/ee3d8851053e83cc1fe5495fadc8af10",
+  "line_no": 22,
+  "voice_line_no": 23,
+  "text": "大人気で羨ましい。",
+  "speaker": "燐羽",
+  "voice_cue": "sud_vo_adv_dear_ttmr_014_krnh-005",
+  "bank_name": "sud_vo_adv_dear_ttmr_014",
+  "start": 35.3722712071,
+  "duration": 3.1301025926,
+  "voice_start": 35.4722712071,
+  "voice_duration": 2.928,
+  "output_slug": "sud_vo_adv_dear_ttmr_014_krnh-005",
+  "subsong_index": 11,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\acb\\sud_vo_adv_dear_ttmr_014.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\scripts\\5235363936_ee3d8851053e83cc1fe5495fadc8af10.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_dear_ttmr_014_krnh-005\\voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_dear_ttmr_014_krnh-005\\subtitle.txt"
+}

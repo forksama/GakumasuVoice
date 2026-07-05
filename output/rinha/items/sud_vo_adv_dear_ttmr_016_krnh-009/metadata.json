@@ -1,0 +1,19 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/9/5231303339/607c52562bf329f18f0db7b0c733b455",
+  "line_no": 101,
+  "voice_line_no": 104,
+  "text": "だって私、もうアイドルじゃないもの。",
+  "speaker": "燐羽",
+  "voice_cue": "sud_vo_adv_dear_ttmr_016_krnh-009",
+  "bank_name": "sud_vo_adv_dear_ttmr_016",
+  "start": 75.7356841119,
+  "duration": 4.203998455,
+  "voice_start": 75.8356841119,
+  "voice_duration": 3.984,
+  "output_slug": "sud_vo_adv_dear_ttmr_016_krnh-009",
+  "subsong_index": 9,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\acb\\sud_vo_adv_dear_ttmr_016.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\scripts\\5231303339_607c52562bf329f18f0db7b0c733b455.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_dear_ttmr_016_krnh-009\\voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_dear_ttmr_016_krnh-009\\subtitle.txt"
+}

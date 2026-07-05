@@ -1,0 +1,19 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/4/5234363134/881e60544e16f09529856517e0641977",
+  "line_no": 251,
+  "voice_line_no": 257,
+  "text": "手毬ぃ～～、\nずいぶん疲れているみたいじゃない？",
+  "speaker": "燐羽",
+  "voice_cue": "sud_vo_adv_dear_ttmr_026_krnh-001",
+  "bank_name": "sud_vo_adv_dear_ttmr_026",
+  "start": 282.3066517375,
+  "duration": 5.0950061035,
+  "voice_start": 282.4066517375,
+  "voice_duration": 4.895,
+  "output_slug": "sud_vo_adv_dear_ttmr_026_krnh-001",
+  "subsong_index": 7,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\acb\\sud_vo_adv_dear_ttmr_026.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\scripts\\5234363134_881e60544e16f09529856517e0641977.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_dear_ttmr_026_krnh-001\\voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_dear_ttmr_026_krnh-001\\subtitle.txt"
+}

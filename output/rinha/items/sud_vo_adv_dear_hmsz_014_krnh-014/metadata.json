@@ -1,0 +1,19 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/9/5236333639/0ec9af266bf320a4451c4d27b69bc36d",
+  "line_no": 296,
+  "voice_line_no": 297,
+  "text": "そんなことしたら、いますぐ帰るから。\nうっとうしいのよ、あの子――",
+  "speaker": "燐羽",
+  "voice_cue": "sud_vo_adv_dear_hmsz_014_krnh-014",
+  "bank_name": "sud_vo_adv_dear_hmsz_014",
+  "start": 225.2703100227,
+  "duration": 5.7573404541,
+  "voice_start": 225.3703100227,
+  "voice_duration": 5.624,
+  "output_slug": "sud_vo_adv_dear_hmsz_014_krnh-014",
+  "subsong_index": 52,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\acb\\sud_vo_adv_dear_hmsz_014.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\scripts\\5236333639_0ec9af266bf320a4451c4d27b69bc36d.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_dear_hmsz_014_krnh-014\\voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_dear_hmsz_014_krnh-014\\subtitle.txt"
+}

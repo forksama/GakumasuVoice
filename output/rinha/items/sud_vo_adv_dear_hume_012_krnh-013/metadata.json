@@ -1,0 +1,19 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/7/52363537/e1c4a6049c42ac49d345da9ed963a5b8",
+  "line_no": 431,
+  "voice_line_no": 432,
+  "text": "――――――………………………………",
+  "speaker": "燐羽",
+  "voice_cue": "sud_vo_adv_dear_hume_012_krnh-013",
+  "bank_name": "sud_vo_adv_dear_hume_012",
+  "start": 312.6750399432,
+  "duration": 2.2866717338,
+  "voice_start": 312.7750399432,
+  "voice_duration": 1.833,
+  "output_slug": "sud_vo_adv_dear_hume_012_krnh-013",
+  "subsong_index": 61,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\acb\\sud_vo_adv_dear_hume_012.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\scripts\\52363537_e1c4a6049c42ac49d345da9ed963a5b8.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_dear_hume_012_krnh-013\\voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_dear_hume_012_krnh-013\\subtitle.txt"
+}

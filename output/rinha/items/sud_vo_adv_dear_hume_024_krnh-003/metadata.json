@@ -1,0 +1,19 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/4/52333234/63a47c717f25bd507e8c3a440ac7cb7a",
+  "line_no": 64,
+  "voice_line_no": 70,
+  "text": "私が<em=>預けた</em>ファンたちとは、\n上手くやれている？",
+  "speaker": "燐羽",
+  "voice_cue": "sud_vo_adv_dear_hume_024_krnh-003",
+  "bank_name": "sud_vo_adv_dear_hume_024",
+  "start": 28.4386629553,
+  "duration": 4.6390007629,
+  "voice_start": 28.5386629553,
+  "voice_duration": 4.339,
+  "output_slug": "sud_vo_adv_dear_hume_024_krnh-003",
+  "subsong_index": 55,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\acb\\sud_vo_adv_dear_hume_024.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\scripts\\52333234_63a47c717f25bd507e8c3a440ac7cb7a.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_dear_hume_024_krnh-003\\voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_dear_hume_024_krnh-003\\subtitle.txt"
+}

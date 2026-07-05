@@ -1,0 +1,19 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/6/52363836/4931e1dc5c6ef31bb8a782aad2940c84",
+  "line_no": 416,
+  "voice_line_no": 417,
+  "text": "なぁに、ふたりして。その訳知り顔。",
+  "speaker": "燐羽",
+  "voice_cue": "sud_vo_adv_dear_hmsz_024_krnh-014",
+  "bank_name": "sud_vo_adv_dear_hmsz_024",
+  "start": 263.3773310772,
+  "duration": 3.7489816895,
+  "voice_start": 263.4773310772,
+  "voice_duration": 3.449,
+  "output_slug": "sud_vo_adv_dear_hmsz_024_krnh-014",
+  "subsong_index": 55,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\acb\\sud_vo_adv_dear_hmsz_024.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\scripts\\52363836_4931e1dc5c6ef31bb8a782aad2940c84.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_dear_hmsz_024_krnh-014\\voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_dear_hmsz_024_krnh-014\\subtitle.txt"
+}

@@ -1,0 +1,19 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/9/5231303339/607c52562bf329f18f0db7b0c733b455",
+  "line_no": 20,
+  "voice_line_no": 21,
+  "text": "息切れせずに、歌い切れるように、\nなったじゃない。",
+  "speaker": "燐羽",
+  "voice_cue": "sud_vo_adv_dear_ttmr_016_krnh-003",
+  "bank_name": "sud_vo_adv_dear_ttmr_016",
+  "start": 7.0195882847,
+  "duration": 4.5286665459,
+  "voice_start": 7.1195882847,
+  "voice_duration": 4.302,
+  "output_slug": "sud_vo_adv_dear_ttmr_016_krnh-003",
+  "subsong_index": 3,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\acb\\sud_vo_adv_dear_ttmr_016.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\scripts\\5231303339_607c52562bf329f18f0db7b0c733b455.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_dear_ttmr_016_krnh-003\\voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_dear_ttmr_016_krnh-003\\subtitle.txt"
+}

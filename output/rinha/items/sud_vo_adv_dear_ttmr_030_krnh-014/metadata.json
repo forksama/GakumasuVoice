@@ -1,0 +1,19 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/4/5233363834/9f01334b62df6b1a4d1cc6b2f27dab3e",
+  "line_no": 445,
+  "voice_line_no": 448,
+  "text": "――咲季お姉ちゃんと。",
+  "speaker": "燐羽",
+  "voice_cue": "sud_vo_adv_dear_ttmr_030_krnh-014",
+  "bank_name": "sud_vo_adv_dear_ttmr_030",
+  "start": 253.5458905416,
+  "duration": 2.2710030518,
+  "voice_start": 253.6458905416,
+  "voice_duration": 1.871,
+  "output_slug": "sud_vo_adv_dear_ttmr_030_krnh-014",
+  "subsong_index": 25,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\acb\\sud_vo_adv_dear_ttmr_030.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\scripts\\5233363834_9f01334b62df6b1a4d1cc6b2f27dab3e.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_dear_ttmr_030_krnh-014\\voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_dear_ttmr_030_krnh-014\\subtitle.txt"
+}

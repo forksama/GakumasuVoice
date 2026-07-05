@@ -1,0 +1,19 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/9/52383039/72e099696c3310e3a442a222695f83fa",
+  "line_no": 198,
+  "voice_line_no": 199,
+  "text": "私にも、アイドルのお姉ちゃんがいて。\n憧れていて、一番の目標で。",
+  "speaker": "燐羽",
+  "voice_cue": "sud_vo_adv_dear_hski_026_krnh-012",
+  "bank_name": "sud_vo_adv_dear_hski_026",
+  "start": 100.0746666997,
+  "duration": 9.0760030518,
+  "voice_start": 100.1746666997,
+  "voice_duration": 8.676,
+  "output_slug": "sud_vo_adv_dear_hski_026_krnh-012",
+  "subsong_index": 46,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\acb\\sud_vo_adv_dear_hski_026.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\scripts\\52383039_72e099696c3310e3a442a222695f83fa.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_dear_hski_026_krnh-012\\voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_dear_hski_026_krnh-012\\subtitle.txt"
+}

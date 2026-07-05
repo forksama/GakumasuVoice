@@ -1,0 +1,19 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/6/5235363936/ee3d8851053e83cc1fe5495fadc8af10",
+  "line_no": 12,
+  "voice_line_no": 13,
+  "text": "バカじゃないの？　アイドルやめたら？",
+  "speaker": "？？？",
+  "voice_cue": "sud_vo_adv_dear_ttmr_014_krnh-002",
+  "bank_name": "sud_vo_adv_dear_ttmr_014",
+  "start": 8.7918292262,
+  "duration": 3.2207026939,
+  "voice_start": 8.8918292262,
+  "voice_duration": 2.995,
+  "output_slug": "sud_vo_adv_dear_ttmr_014_krnh-002",
+  "subsong_index": 8,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\acb\\sud_vo_adv_dear_ttmr_014.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\scripts\\5235363936_ee3d8851053e83cc1fe5495fadc8af10.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_dear_ttmr_014_krnh-002\\voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_dear_ttmr_014_krnh-002\\subtitle.txt"
+}

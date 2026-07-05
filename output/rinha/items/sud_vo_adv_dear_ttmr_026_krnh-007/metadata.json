@@ -1,0 +1,19 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/4/5234363134/881e60544e16f09529856517e0641977",
+  "line_no": 352,
+  "voice_line_no": 353,
+  "text": "どう？　憧れを追い越した気分は？",
+  "speaker": "燐羽",
+  "voice_cue": "sud_vo_adv_dear_ttmr_026_krnh-007",
+  "bank_name": "sud_vo_adv_dear_ttmr_026",
+  "start": 383.4941997284,
+  "duration": 4.3340000001,
+  "voice_start": 383.5941997285,
+  "voice_duration": 4.234,
+  "output_slug": "sud_vo_adv_dear_ttmr_026_krnh-007",
+  "subsong_index": 13,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\acb\\sud_vo_adv_dear_ttmr_026.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\scripts\\5234363134_881e60544e16f09529856517e0641977.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_dear_ttmr_026_krnh-007\\voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_dear_ttmr_026_krnh-007\\subtitle.txt"
+}

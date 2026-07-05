@@ -1,0 +1,19 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/9/5231303339/607c52562bf329f18f0db7b0c733b455",
+  "line_no": 162,
+  "voice_line_no": 163,
+  "text": "アイドルとしての<em=>終活</em>を、\n手伝ってやろうって。",
+  "speaker": "燐羽",
+  "voice_cue": "sud_vo_adv_dear_ttmr_016_krnh-019",
+  "bank_name": "sud_vo_adv_dear_ttmr_016",
+  "start": 146.0925139356,
+  "duration": 4.1506747284,
+  "voice_start": 146.1925139356,
+  "voice_duration": 4.004,
+  "output_slug": "sud_vo_adv_dear_ttmr_016_krnh-019",
+  "subsong_index": 19,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\acb\\sud_vo_adv_dear_ttmr_016.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\scripts\\5231303339_607c52562bf329f18f0db7b0c733b455.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_dear_ttmr_016_krnh-019\\voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_dear_ttmr_016_krnh-019\\subtitle.txt"
+}

@@ -1,0 +1,19 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/9/5236333639/0ec9af266bf320a4451c4d27b69bc36d",
+  "line_no": 287,
+  "voice_line_no": 288,
+  "text": "一度も会ってないけど。\n手毬に用なんてないもの。",
+  "speaker": "燐羽",
+  "voice_cue": "sud_vo_adv_dear_hmsz_014_krnh-013",
+  "bank_name": "sud_vo_adv_dear_hmsz_014",
+  "start": 218.1689766942,
+  "duration": 5.141,
+  "voice_start": 218.2689766942,
+  "voice_duration": 5.041,
+  "output_slug": "sud_vo_adv_dear_hmsz_014_krnh-013",
+  "subsong_index": 51,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\acb\\sud_vo_adv_dear_hmsz_014.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\scripts\\5236333639_0ec9af266bf320a4451c4d27b69bc36d.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_dear_hmsz_014_krnh-013\\voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_dear_hmsz_014_krnh-013\\subtitle.txt"
+}

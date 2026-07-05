@@ -1,0 +1,19 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/4/5234363134/881e60544e16f09529856517e0641977",
+  "line_no": 331,
+  "voice_line_no": 332,
+  "text": "はじめて会った日のこと、覚えている？",
+  "speaker": "燐羽",
+  "voice_cue": "sud_vo_adv_dear_ttmr_026_krnh-006",
+  "bank_name": "sud_vo_adv_dear_ttmr_026",
+  "start": 363.6457236778,
+  "duration": 4.13,
+  "voice_start": 363.7457236778,
+  "voice_duration": 4.03,
+  "output_slug": "sud_vo_adv_dear_ttmr_026_krnh-006",
+  "subsong_index": 12,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\acb\\sud_vo_adv_dear_ttmr_026.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\scripts\\5234363134_881e60544e16f09529856517e0641977.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_dear_ttmr_026_krnh-006\\voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_dear_ttmr_026_krnh-006\\subtitle.txt"
+}

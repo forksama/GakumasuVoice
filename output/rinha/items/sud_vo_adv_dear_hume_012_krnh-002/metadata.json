@@ -1,0 +1,19 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/7/52363537/e1c4a6049c42ac49d345da9ed963a5b8",
+  "line_no": 322,
+  "voice_line_no": 323,
+  "text": "馴れ馴れしく呼ばないでくれる？",
+  "speaker": "燐羽",
+  "voice_cue": "sud_vo_adv_dear_hume_012_krnh-002",
+  "bank_name": "sud_vo_adv_dear_hume_012",
+  "start": 228.5466841731,
+  "duration": 2.4666472435,
+  "voice_start": 228.6466841731,
+  "voice_duration": 2.33,
+  "output_slug": "sud_vo_adv_dear_hume_012_krnh-002",
+  "subsong_index": 50,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\acb\\sud_vo_adv_dear_hume_012.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\scripts\\52363537_e1c4a6049c42ac49d345da9ed963a5b8.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_dear_hume_012_krnh-002\\voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_dear_hume_012_krnh-002\\subtitle.txt"
+}

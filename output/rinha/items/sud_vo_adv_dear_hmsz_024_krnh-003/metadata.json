@@ -1,0 +1,19 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/6/52363836/4931e1dc5c6ef31bb8a782aad2940c84",
+  "line_no": 95,
+  "voice_line_no": 96,
+  "text": "ストレッチくらいなら……\n先にはじめちゃってもいいかな～。",
+  "speaker": "燐羽",
+  "voice_cue": "sud_vo_adv_dear_hmsz_024_krnh-003",
+  "bank_name": "sud_vo_adv_dear_hmsz_024",
+  "start": 29.2933373139,
+  "duration": 5.3690007629,
+  "voice_start": 29.3933373139,
+  "voice_duration": 5.069,
+  "output_slug": "sud_vo_adv_dear_hmsz_024_krnh-003",
+  "subsong_index": 44,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\acb\\sud_vo_adv_dear_hmsz_024.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\scripts\\52363836_4931e1dc5c6ef31bb8a782aad2940c84.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_dear_hmsz_024_krnh-003\\voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_dear_hmsz_024_krnh-003\\subtitle.txt"
+}

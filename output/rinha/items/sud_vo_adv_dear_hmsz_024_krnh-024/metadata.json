@@ -1,0 +1,19 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/6/52363836/4931e1dc5c6ef31bb8a782aad2940c84",
+  "line_no": 566,
+  "voice_line_no": 567,
+  "text": "私は、一アイドルファンとして、\n賀陽燐羽をアイドルだとは認めない。",
+  "speaker": "燐羽",
+  "voice_cue": "sud_vo_adv_dear_hmsz_024_krnh-024",
+  "bank_name": "sud_vo_adv_dear_hmsz_024",
+  "start": 354.3843681885,
+  "duration": 6.424,
+  "voice_start": 354.4843681885,
+  "voice_duration": 6.324,
+  "output_slug": "sud_vo_adv_dear_hmsz_024_krnh-024",
+  "subsong_index": 65,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\acb\\sud_vo_adv_dear_hmsz_024.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\scripts\\52363836_4931e1dc5c6ef31bb8a782aad2940c84.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_dear_hmsz_024_krnh-024\\voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_dear_hmsz_024_krnh-024\\subtitle.txt"
+}

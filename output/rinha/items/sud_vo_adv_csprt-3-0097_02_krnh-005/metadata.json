@@ -1,0 +1,19 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/4/5233343534/76e393efbcf469585dba60b08585cd5d",
+  "line_no": 98,
+  "voice_line_no": 106,
+  "text": "絶対それだけじゃない……ほら、\nあいつら、学園内で人喰いクマを\n見つけたような顔してる。",
+  "speaker": "燐羽",
+  "voice_cue": "sud_vo_adv_csprt-3-0097_02_krnh-005",
+  "bank_name": "sud_vo_adv_csprt-3-0097_02",
+  "start": 53.8349964484,
+  "duration": 9.247,
+  "voice_start": 53.9349964484,
+  "voice_duration": 9.147,
+  "output_slug": "sud_vo_adv_csprt-3-0097_02_krnh-005",
+  "subsong_index": 9,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\acb\\sud_vo_adv_csprt-3-0097_02.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\scripts\\5233343534_76e393efbcf469585dba60b08585cd5d.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_csprt-3-0097_02_krnh-005\\voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_csprt-3-0097_02_krnh-005\\subtitle.txt"
+}

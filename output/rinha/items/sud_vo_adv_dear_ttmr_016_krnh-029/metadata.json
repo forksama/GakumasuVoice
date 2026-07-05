@@ -1,0 +1,19 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/9/5231303339/607c52562bf329f18f0db7b0c733b455",
+  "line_no": 328,
+  "voice_line_no": 330,
+  "text": "そうやって泣けば……\n私が言うことを聞くと思って……",
+  "speaker": "燐羽",
+  "voice_cue": "sud_vo_adv_dear_ttmr_016_krnh-029",
+  "bank_name": "sud_vo_adv_dear_ttmr_016",
+  "start": 279.411197874,
+  "duration": 5.2999816895,
+  "voice_start": 279.511197874,
+  "voice_duration": 5.0,
+  "output_slug": "sud_vo_adv_dear_ttmr_016_krnh-029",
+  "subsong_index": 29,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\acb\\sud_vo_adv_dear_ttmr_016.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\scripts\\5231303339_607c52562bf329f18f0db7b0c733b455.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_dear_ttmr_016_krnh-029\\voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_dear_ttmr_016_krnh-029\\subtitle.txt"
+}

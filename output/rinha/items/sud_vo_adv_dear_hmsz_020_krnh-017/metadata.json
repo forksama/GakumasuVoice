@@ -1,0 +1,19 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5233393733/7cde23d4c88fe8f5323e11faada7d569",
+  "line_no": 215,
+  "voice_line_no": 216,
+  "text": "――その顔が見たかったの。\nあぁ、スカッとする。",
+  "speaker": "燐羽",
+  "voice_cue": "sud_vo_adv_dear_hmsz_020_krnh-017",
+  "bank_name": "sud_vo_adv_dear_hmsz_020",
+  "start": 192.0086566574,
+  "duration": 6.398,
+  "voice_start": 192.1086566574,
+  "voice_duration": 6.298,
+  "output_slug": "sud_vo_adv_dear_hmsz_020_krnh-017",
+  "subsong_index": 49,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\acb\\sud_vo_adv_dear_hmsz_020.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\scripts\\5233393733_7cde23d4c88fe8f5323e11faada7d569.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_dear_hmsz_020_krnh-017\\voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_dear_hmsz_020_krnh-017\\subtitle.txt"
+}

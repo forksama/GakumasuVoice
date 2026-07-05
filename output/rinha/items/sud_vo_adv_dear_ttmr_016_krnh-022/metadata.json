@@ -1,0 +1,19 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/9/5231303339/607c52562bf329f18f0db7b0c733b455",
+  "line_no": 177,
+  "voice_line_no": 178,
+  "text": "ファンを奪い合う『N.I.A』の\nシステムは、うってつけだったわ。",
+  "speaker": "燐羽",
+  "voice_cue": "sud_vo_adv_dear_ttmr_016_krnh-022",
+  "bank_name": "sud_vo_adv_dear_ttmr_016",
+  "start": 167.5495311622,
+  "duration": 4.8523313179,
+  "voice_start": 167.6495311622,
+  "voice_duration": 4.639,
+  "output_slug": "sud_vo_adv_dear_ttmr_016_krnh-022",
+  "subsong_index": 22,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\acb\\sud_vo_adv_dear_ttmr_016.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\scripts\\5231303339_607c52562bf329f18f0db7b0c733b455.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_dear_ttmr_016_krnh-022\\voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_dear_ttmr_016_krnh-022\\subtitle.txt"
+}

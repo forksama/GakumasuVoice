@@ -1,0 +1,19 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/9/5235373239/22e08396fb24c3796f4e8ff9dc44da35",
+  "line_no": 91,
+  "voice_line_no": 92,
+  "text": "わざわざ自分に合わせた楽曲を\n作り直してもらわなくても、",
+  "speaker": "燐羽",
+  "voice_cue": "sud_vo_adv_cidol-hski-3-017_03_krnh-002",
+  "bank_name": "sud_vo_adv_cidol-hski-3-017_03",
+  "start": 47.7739959673,
+  "duration": 5.1,
+  "voice_start": 47.8739959673,
+  "voice_duration": 5.0,
+  "output_slug": "sud_vo_adv_cidol-hski-3-017_03_krnh-002",
+  "subsong_index": 35,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\acb\\sud_vo_adv_cidol-hski-3-017_03.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\scripts\\5235373239_22e08396fb24c3796f4e8ff9dc44da35.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_cidol-hski-3-017_03_krnh-002\\voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_cidol-hski-3-017_03_krnh-002\\subtitle.txt"
+}

@@ -1,0 +1,19 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/9/52383039/72e099696c3310e3a442a222695f83fa",
+  "line_no": 299,
+  "voice_line_no": 300,
+  "text": "私たちより、ちょっとはマシな結末に\nなればいいな、って。そう思ったのよ。",
+  "speaker": "燐羽",
+  "voice_cue": "sud_vo_adv_dear_hski_026_krnh-024",
+  "bank_name": "sud_vo_adv_dear_hski_026",
+  "start": 188.9453809555,
+  "duration": 9.5656534423,
+  "voice_start": 189.0453809555,
+  "voice_duration": 9.099,
+  "output_slug": "sud_vo_adv_dear_hski_026_krnh-024",
+  "subsong_index": 58,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\acb\\sud_vo_adv_dear_hski_026.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\scripts\\52383039_72e099696c3310e3a442a222695f83fa.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_dear_hski_026_krnh-024\\voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_dear_hski_026_krnh-024\\subtitle.txt"
+}

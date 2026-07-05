@@ -1,0 +1,19 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/9/5236333639/0ec9af266bf320a4451c4d27b69bc36d",
+  "line_no": 193,
+  "voice_line_no": 202,
+  "text": "『N.I.A』のオーディションで\n知り合ったの。――ね、佑芽？",
+  "speaker": "燐羽",
+  "voice_cue": "sud_vo_adv_dear_hmsz_014_krnh-008",
+  "bank_name": "sud_vo_adv_dear_hmsz_014",
+  "start": 143.6039401946,
+  "duration": 6.0176778564,
+  "voice_start": 143.7039401946,
+  "voice_duration": 5.651,
+  "output_slug": "sud_vo_adv_dear_hmsz_014_krnh-008",
+  "subsong_index": 46,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\acb\\sud_vo_adv_dear_hmsz_014.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\scripts\\5236333639_0ec9af266bf320a4451c4d27b69bc36d.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_dear_hmsz_014_krnh-008\\voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_dear_hmsz_014_krnh-008\\subtitle.txt"
+}

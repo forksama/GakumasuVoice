@@ -1,0 +1,19 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/7/5233353237/6ea2152bf9e05cb6a8f3e5ed5e0209f9",
+  "line_no": 278,
+  "voice_line_no": 279,
+  "text": "あなた、メッキなんてない方が素敵よ。",
+  "speaker": "燐羽",
+  "voice_cue": "sud_vo_adv_dear_hski_016_krnh-012",
+  "bank_name": "sud_vo_adv_dear_hski_016",
+  "start": 144.5882811083,
+  "duration": 4.1000093933,
+  "voice_start": 144.5882811083,
+  "voice_duration": 4.042,
+  "output_slug": "sud_vo_adv_dear_hski_016_krnh-012",
+  "subsong_index": 51,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\acb\\sud_vo_adv_dear_hski_016.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\scripts\\5233353237_6ea2152bf9e05cb6a8f3e5ed5e0209f9.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_dear_hski_016_krnh-012\\voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_dear_hski_016_krnh-012\\subtitle.txt"
+}

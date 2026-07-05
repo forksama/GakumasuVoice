@@ -1,0 +1,19 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/7/52363537/e1c4a6049c42ac49d345da9ed963a5b8",
+  "line_no": 388,
+  "voice_line_no": 389,
+  "text": "嫌いなのよね……あなたみたいなの。",
+  "speaker": "燐羽",
+  "voice_cue": "sud_vo_adv_dear_hume_012_krnh-009",
+  "bank_name": "sud_vo_adv_dear_hume_012",
+  "start": 282.5670205676,
+  "duration": 3.7800184249,
+  "voice_start": 282.6670205676,
+  "voice_duration": 3.563,
+  "output_slug": "sud_vo_adv_dear_hume_012_krnh-009",
+  "subsong_index": 57,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\acb\\sud_vo_adv_dear_hume_012.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\scripts\\52363537_e1c4a6049c42ac49d345da9ed963a5b8.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_dear_hume_012_krnh-009\\voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_dear_hume_012_krnh-009\\subtitle.txt"
+}

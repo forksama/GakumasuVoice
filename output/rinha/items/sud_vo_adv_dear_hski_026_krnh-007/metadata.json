@@ -1,0 +1,19 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/9/52383039/72e099696c3310e3a442a222695f83fa",
+  "line_no": 129,
+  "voice_line_no": 130,
+  "text": "……思ってたのと違うのは、そうね。\nだけど……",
+  "speaker": "燐羽",
+  "voice_cue": "sud_vo_adv_dear_hski_026_krnh-007",
+  "bank_name": "sud_vo_adv_dear_hski_026",
+  "start": 57.9453365064,
+  "duration": 6.3110007629,
+  "voice_start": 58.0453365064,
+  "voice_duration": 6.011,
+  "output_slug": "sud_vo_adv_dear_hski_026_krnh-007",
+  "subsong_index": 41,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\acb\\sud_vo_adv_dear_hski_026.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\scripts\\52383039_72e099696c3310e3a442a222695f83fa.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_dear_hski_026_krnh-007\\voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_dear_hski_026_krnh-007\\subtitle.txt"
+}

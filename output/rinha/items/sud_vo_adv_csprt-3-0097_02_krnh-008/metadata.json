@@ -1,0 +1,19 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/4/5233343534/76e393efbcf469585dba60b08585cd5d",
+  "line_no": 146,
+  "voice_line_no": 147,
+  "text": "まったく……相変わらずっていうか。\n懐かしい気分。",
+  "speaker": "燐羽",
+  "voice_cue": "sud_vo_adv_csprt-3-0097_02_krnh-008",
+  "bank_name": "sud_vo_adv_csprt-3-0097_02",
+  "start": 78.8149884836,
+  "duration": 7.4506610718,
+  "voice_start": 79.408992717,
+  "voice_duration": 6.484,
+  "output_slug": "sud_vo_adv_csprt-3-0097_02_krnh-008",
+  "subsong_index": 12,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\acb\\sud_vo_adv_csprt-3-0097_02.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\scripts\\5233343534_76e393efbcf469585dba60b08585cd5d.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_csprt-3-0097_02_krnh-008\\voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_csprt-3-0097_02_krnh-008\\subtitle.txt"
+}

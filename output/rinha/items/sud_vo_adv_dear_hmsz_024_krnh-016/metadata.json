@@ -1,0 +1,19 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/6/52363836/4931e1dc5c6ef31bb8a782aad2940c84",
+  "line_no": 452,
+  "voice_line_no": 453,
+  "text": "あっ、そうそう。このニュースで、\n十王星南の株が急騰したじゃない？",
+  "speaker": "燐羽",
+  "voice_cue": "sud_vo_adv_dear_hmsz_024_krnh-016",
+  "bank_name": "sud_vo_adv_dear_hmsz_024",
+  "start": 281.0903124568,
+  "duration": 6.794,
+  "voice_start": 281.1903124568,
+  "voice_duration": 6.694,
+  "output_slug": "sud_vo_adv_dear_hmsz_024_krnh-016",
+  "subsong_index": 57,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\acb\\sud_vo_adv_dear_hmsz_024.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\scripts\\52363836_4931e1dc5c6ef31bb8a782aad2940c84.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_dear_hmsz_024_krnh-016\\voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_dear_hmsz_024_krnh-016\\subtitle.txt"
+}

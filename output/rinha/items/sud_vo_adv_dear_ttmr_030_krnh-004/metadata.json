@@ -1,0 +1,19 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/4/5233363834/9f01334b62df6b1a4d1cc6b2f27dab3e",
+  "line_no": 338,
+  "voice_line_no": 341,
+  "text": "ったく、いまの手毬をさっきの子たちに\n見せてあげたい。",
+  "speaker": "燐羽",
+  "voice_cue": "sud_vo_adv_dear_ttmr_030_krnh-004",
+  "bank_name": "sud_vo_adv_dear_ttmr_030",
+  "start": 177.6978686208,
+  "duration": 5.737,
+  "voice_start": 177.7978686208,
+  "voice_duration": 5.637,
+  "output_slug": "sud_vo_adv_dear_ttmr_030_krnh-004",
+  "subsong_index": 15,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\acb\\sud_vo_adv_dear_ttmr_030.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\scripts\\5233363834_9f01334b62df6b1a4d1cc6b2f27dab3e.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_dear_ttmr_030_krnh-004\\voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_dear_ttmr_030_krnh-004\\subtitle.txt"
+}

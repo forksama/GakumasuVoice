@@ -1,0 +1,19 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/9/5231303339/607c52562bf329f18f0db7b0c733b455",
+  "line_no": 409,
+  "voice_line_no": 410,
+  "text": "――――――――――――――――――",
+  "speaker": "燐羽",
+  "voice_cue": "sud_vo_adv_dear_ttmr_016_krnh-035",
+  "bank_name": "sud_vo_adv_dear_ttmr_016",
+  "start": 352.9124046369,
+  "duration": 2.466644268,
+  "voice_start": 353.0124046369,
+  "voice_duration": 1.88,
+  "output_slug": "sud_vo_adv_dear_ttmr_016_krnh-035",
+  "subsong_index": 35,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\acb\\sud_vo_adv_dear_ttmr_016.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\scripts\\5231303339_607c52562bf329f18f0db7b0c733b455.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_dear_ttmr_016_krnh-035\\voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_dear_ttmr_016_krnh-035\\subtitle.txt"
+}

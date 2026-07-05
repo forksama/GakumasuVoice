@@ -1,0 +1,19 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/4/5234363134/881e60544e16f09529856517e0641977",
+  "line_no": 446,
+  "voice_line_no": 451,
+  "text": "――ほんっと、\nいい加減にしてほしいわ。",
+  "speaker": "燐羽",
+  "voice_cue": "sud_vo_adv_dear_ttmr_026_krnh-011",
+  "bank_name": "sud_vo_adv_dear_ttmr_026",
+  "start": 450.2986996171,
+  "duration": 4.203,
+  "voice_start": 450.3986996171,
+  "voice_duration": 4.103,
+  "output_slug": "sud_vo_adv_dear_ttmr_026_krnh-011",
+  "subsong_index": 17,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\acb\\sud_vo_adv_dear_ttmr_026.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\scripts\\5234363134_881e60544e16f09529856517e0641977.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_dear_ttmr_026_krnh-011\\voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_dear_ttmr_026_krnh-011\\subtitle.txt"
+}

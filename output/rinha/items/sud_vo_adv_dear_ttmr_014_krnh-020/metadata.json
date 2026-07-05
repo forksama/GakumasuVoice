@@ -1,0 +1,19 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/6/5235363936/ee3d8851053e83cc1fe5495fadc8af10",
+  "line_no": 64,
+  "voice_line_no": 65,
+  "text": "961プロの2軍3軍ふぜいが……\n言葉遣いに気を付けなさい。",
+  "speaker": "燐羽",
+  "voice_cue": "sud_vo_adv_dear_ttmr_014_krnh-020",
+  "bank_name": "sud_vo_adv_dear_ttmr_014",
+  "start": 146.3808179908,
+  "duration": 6.8853403969,
+  "voice_start": 146.4808179908,
+  "voice_duration": 6.589,
+  "output_slug": "sud_vo_adv_dear_ttmr_014_krnh-020",
+  "subsong_index": 26,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\acb\\sud_vo_adv_dear_ttmr_014.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\scripts\\5235363936_ee3d8851053e83cc1fe5495fadc8af10.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_dear_ttmr_014_krnh-020\\voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_dear_ttmr_014_krnh-020\\subtitle.txt"
+}

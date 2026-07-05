@@ -1,0 +1,19 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/4/5233363834/9f01334b62df6b1a4d1cc6b2f27dab3e",
+  "line_no": 427,
+  "voice_line_no": 428,
+  "text": "愛知に新しくアイドルのトレーニング\n施設ができたの、しってる？",
+  "speaker": "燐羽",
+  "voice_cue": "sud_vo_adv_dear_ttmr_030_krnh-012",
+  "bank_name": "sud_vo_adv_dear_ttmr_030",
+  "start": 231.6855797214,
+  "duration": 5.9456687012,
+  "voice_start": 231.7855797214,
+  "voice_duration": 5.479,
+  "output_slug": "sud_vo_adv_dear_ttmr_030_krnh-012",
+  "subsong_index": 23,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\acb\\sud_vo_adv_dear_ttmr_030.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\scripts\\5233363834_9f01334b62df6b1a4d1cc6b2f27dab3e.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_dear_ttmr_030_krnh-012\\voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_dear_ttmr_030_krnh-012\\subtitle.txt"
+}

@@ -1,0 +1,19 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/6/52363836/4931e1dc5c6ef31bb8a782aad2940c84",
+  "line_no": 472,
+  "voice_line_no": 473,
+  "text": "見てコレ、\n『H.I.F』限定のぬいぐるみ。\n当日現地で買っておいてよかった～♡",
+  "speaker": "燐羽",
+  "voice_cue": "sud_vo_adv_dear_hmsz_024_krnh-018",
+  "bank_name": "sud_vo_adv_dear_hmsz_024",
+  "start": 296.6803124282,
+  "duration": 8.835,
+  "voice_start": 296.7803124282,
+  "voice_duration": 8.735,
+  "output_slug": "sud_vo_adv_dear_hmsz_024_krnh-018",
+  "subsong_index": 59,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\acb\\sud_vo_adv_dear_hmsz_024.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\scripts\\52363836_4931e1dc5c6ef31bb8a782aad2940c84.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_dear_hmsz_024_krnh-018\\voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_dear_hmsz_024_krnh-018\\subtitle.txt"
+}

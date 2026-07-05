@@ -1,0 +1,19 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/9/5231303339/607c52562bf329f18f0db7b0c733b455",
+  "line_no": 143,
+  "voice_line_no": 144,
+  "text": "……私を慕ってくれるあの子たちと、\nきちんとお別れをしたかった。",
+  "speaker": "燐羽",
+  "voice_cue": "sud_vo_adv_dear_ttmr_016_krnh-014",
+  "bank_name": "sud_vo_adv_dear_ttmr_016",
+  "start": 113.8765007113,
+  "duration": 8.5616627503,
+  "voice_start": 113.9765007113,
+  "voice_duration": 8.355,
+  "output_slug": "sud_vo_adv_dear_ttmr_016_krnh-014",
+  "subsong_index": 14,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\acb\\sud_vo_adv_dear_ttmr_016.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\scripts\\5231303339_607c52562bf329f18f0db7b0c733b455.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_dear_ttmr_016_krnh-014\\voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_dear_ttmr_016_krnh-014\\subtitle.txt"
+}

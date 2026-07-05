@@ -1,0 +1,19 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/6/52363836/4931e1dc5c6ef31bb8a782aad2940c84",
+  "line_no": 457,
+  "voice_line_no": 458,
+  "text": "すべてのグッズが一瞬で\nソールドアウトしたらしいわよ。",
+  "speaker": "燐羽",
+  "voice_cue": "sud_vo_adv_dear_hmsz_024_krnh-017",
+  "bank_name": "sud_vo_adv_dear_hmsz_024",
+  "start": 288.0709791044,
+  "duration": 3.882,
+  "voice_start": 288.1709791044,
+  "voice_duration": 3.782,
+  "output_slug": "sud_vo_adv_dear_hmsz_024_krnh-017",
+  "subsong_index": 58,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\acb\\sud_vo_adv_dear_hmsz_024.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\scripts\\52363836_4931e1dc5c6ef31bb8a782aad2940c84.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_dear_hmsz_024_krnh-017\\voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_dear_hmsz_024_krnh-017\\subtitle.txt"
+}

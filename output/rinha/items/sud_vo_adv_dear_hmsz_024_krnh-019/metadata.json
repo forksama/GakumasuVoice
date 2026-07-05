@@ -1,0 +1,19 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/6/52363836/4931e1dc5c6ef31bb8a782aad2940c84",
+  "line_no": 496,
+  "voice_line_no": 497,
+  "text": "でしょ♪　自慢したかったの。\n他にも色々買っちゃった。\n花海姉妹のと、一応あなたたちのと――",
+  "speaker": "燐羽",
+  "voice_cue": "sud_vo_adv_dear_hmsz_024_krnh-019",
+  "bank_name": "sud_vo_adv_dear_hmsz_024",
+  "start": 308.7830124876,
+  "duration": 10.2813404541,
+  "voice_start": 308.8830124876,
+  "voice_duration": 10.148,
+  "output_slug": "sud_vo_adv_dear_hmsz_024_krnh-019",
+  "subsong_index": 60,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\acb\\sud_vo_adv_dear_hmsz_024.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\scripts\\52363836_4931e1dc5c6ef31bb8a782aad2940c84.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_dear_hmsz_024_krnh-019\\voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_dear_hmsz_024_krnh-019\\subtitle.txt"
+}

@@ -1,0 +1,19 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/6/52363836/4931e1dc5c6ef31bb8a782aad2940c84",
+  "line_no": 393,
+  "voice_line_no": 394,
+  "text": "レジェンドたちとの共演の場で、\n大々的に勝利宣言したらしいわよ。\nずいぶん頼もしい先輩じゃない？",
+  "speaker": "燐羽",
+  "voice_cue": "sud_vo_adv_dear_hmsz_024_krnh-013",
+  "bank_name": "sud_vo_adv_dear_hmsz_024",
+  "start": 248.2973412689,
+  "duration": 9.41,
+  "voice_start": 248.3973412689,
+  "voice_duration": 9.31,
+  "output_slug": "sud_vo_adv_dear_hmsz_024_krnh-013",
+  "subsong_index": 54,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\acb\\sud_vo_adv_dear_hmsz_024.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\scripts\\52363836_4931e1dc5c6ef31bb8a782aad2940c84.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_dear_hmsz_024_krnh-013\\voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_dear_hmsz_024_krnh-013\\subtitle.txt"
+}

@@ -1,0 +1,19 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/6/52363836/4931e1dc5c6ef31bb8a782aad2940c84",
+  "line_no": 586,
+  "voice_line_no": 587,
+  "text": "意識と覚悟がないアイドルなんて、\n心がこもっていないライブなんて、\n認めないし許さない。",
+  "speaker": "燐羽",
+  "voice_cue": "sud_vo_adv_dear_hmsz_024_krnh-026",
+  "bank_name": "sud_vo_adv_dear_hmsz_024",
+  "start": 371.607713786,
+  "duration": 8.113,
+  "voice_start": 371.707713786,
+  "voice_duration": 8.013,
+  "output_slug": "sud_vo_adv_dear_hmsz_024_krnh-026",
+  "subsong_index": 67,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\acb\\sud_vo_adv_dear_hmsz_024.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\scripts\\52363836_4931e1dc5c6ef31bb8a782aad2940c84.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_dear_hmsz_024_krnh-026\\voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_dear_hmsz_024_krnh-026\\subtitle.txt"
+}

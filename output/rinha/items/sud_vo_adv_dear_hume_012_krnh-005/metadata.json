@@ -1,0 +1,19 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/7/52363537/e1c4a6049c42ac49d345da9ed963a5b8",
+  "line_no": 341,
+  "voice_line_no": 342,
+  "text": "必要なかったみたいね？",
+  "speaker": "燐羽",
+  "voice_cue": "sud_vo_adv_dear_hume_012_krnh-005",
+  "bank_name": "sud_vo_adv_dear_hume_012",
+  "start": 244.163996125,
+  "duration": 2.2400060654,
+  "voice_start": 244.263996125,
+  "voice_duration": 2.063,
+  "output_slug": "sud_vo_adv_dear_hume_012_krnh-005",
+  "subsong_index": 53,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\acb\\sud_vo_adv_dear_hume_012.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\scripts\\52363537_e1c4a6049c42ac49d345da9ed963a5b8.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_dear_hume_012_krnh-005\\voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_dear_hume_012_krnh-005\\subtitle.txt"
+}

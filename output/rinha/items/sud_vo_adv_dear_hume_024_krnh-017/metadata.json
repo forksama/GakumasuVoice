@@ -1,0 +1,19 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/4/52333234/63a47c717f25bd507e8c3a440ac7cb7a",
+  "line_no": 312,
+  "voice_line_no": 318,
+  "text": "鏡を見なさい。そういう顔よ。\n――あ～あ、自分で自分がわからない。",
+  "speaker": "燐羽",
+  "voice_cue": "sud_vo_adv_dear_hume_024_krnh-017",
+  "bank_name": "sud_vo_adv_dear_hume_024",
+  "start": 186.1730004491,
+  "duration": 9.2189969482,
+  "voice_start": 186.2730004491,
+  "voice_duration": 8.919,
+  "output_slug": "sud_vo_adv_dear_hume_024_krnh-017",
+  "subsong_index": 69,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\acb\\sud_vo_adv_dear_hume_024.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\scripts\\52333234_63a47c717f25bd507e8c3a440ac7cb7a.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_dear_hume_024_krnh-017\\voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_dear_hume_024_krnh-017\\subtitle.txt"
+}

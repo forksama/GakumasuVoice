@@ -1,0 +1,19 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/9/5231303339/607c52562bf329f18f0db7b0c733b455",
+  "line_no": 121,
+  "voice_line_no": 122,
+  "text": "内部進学して特待生になったのは……\n十王<em=>社長</em>に引き留められたから。",
+  "speaker": "燐羽",
+  "voice_cue": "sud_vo_adv_dear_ttmr_016_krnh-012",
+  "bank_name": "sud_vo_adv_dear_ttmr_016",
+  "start": 92.5315815543,
+  "duration": 6.4213313179,
+  "voice_start": 92.6315815543,
+  "voice_duration": 6.208,
+  "output_slug": "sud_vo_adv_dear_ttmr_016_krnh-012",
+  "subsong_index": 12,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\acb\\sud_vo_adv_dear_ttmr_016.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\scripts\\5231303339_607c52562bf329f18f0db7b0c733b455.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_dear_ttmr_016_krnh-012\\voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_dear_ttmr_016_krnh-012\\subtitle.txt"
+}

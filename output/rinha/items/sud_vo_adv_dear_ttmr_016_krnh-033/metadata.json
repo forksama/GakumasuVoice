@@ -1,0 +1,19 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/9/5231303339/607c52562bf329f18f0db7b0c733b455",
+  "line_no": 385,
+  "voice_line_no": 386,
+  "text": "ちょ、ちょっと待ちなさい！　\nいま、なんて言ったの！？",
+  "speaker": "燐羽",
+  "voice_cue": "sud_vo_adv_dear_ttmr_016_krnh-033",
+  "bank_name": "sud_vo_adv_dear_ttmr_016",
+  "start": 335.1838320362,
+  "duration": 4.3333497143,
+  "voice_start": 335.2838320362,
+  "voice_duration": 4.16,
+  "output_slug": "sud_vo_adv_dear_ttmr_016_krnh-033",
+  "subsong_index": 33,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\acb\\sud_vo_adv_dear_ttmr_016.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\scripts\\5231303339_607c52562bf329f18f0db7b0c733b455.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_dear_ttmr_016_krnh-033\\voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_dear_ttmr_016_krnh-033\\subtitle.txt"
+}

@@ -1,0 +1,19 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/4/52333234/63a47c717f25bd507e8c3a440ac7cb7a",
+  "line_no": 331,
+  "voice_line_no": 332,
+  "text": "やっと望んだものが見られたのに……\n私、なにが不満なのかしら？",
+  "speaker": "燐羽",
+  "voice_cue": "sud_vo_adv_dear_hume_024_krnh-019",
+  "bank_name": "sud_vo_adv_dear_hume_024",
+  "start": 202.2056642356,
+  "duration": 6.0610207416,
+  "voice_start": 202.3056642356,
+  "voice_duration": 5.741,
+  "output_slug": "sud_vo_adv_dear_hume_024_krnh-019",
+  "subsong_index": 71,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\acb\\sud_vo_adv_dear_hume_024.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\scripts\\52333234_63a47c717f25bd507e8c3a440ac7cb7a.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_dear_hume_024_krnh-019\\voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_dear_hume_024_krnh-019\\subtitle.txt"
+}

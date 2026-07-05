@@ -1,0 +1,19 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/4/5234363134/881e60544e16f09529856517e0641977",
+  "line_no": 261,
+  "voice_line_no": 262,
+  "text": "そんなザマで大丈夫？",
+  "speaker": "燐羽",
+  "voice_cue": "sud_vo_adv_dear_ttmr_026_krnh-002",
+  "bank_name": "sud_vo_adv_dear_ttmr_026",
+  "start": 287.601657841,
+  "duration": 2.529,
+  "voice_start": 287.7016578409,
+  "voice_duration": 2.429,
+  "output_slug": "sud_vo_adv_dear_ttmr_026_krnh-002",
+  "subsong_index": 8,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\acb\\sud_vo_adv_dear_ttmr_026.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\scripts\\5234363134_881e60544e16f09529856517e0641977.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_dear_ttmr_026_krnh-002\\voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_dear_ttmr_026_krnh-002\\subtitle.txt"
+}

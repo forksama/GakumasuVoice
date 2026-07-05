@@ -1,0 +1,19 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/9/5231303339/607c52562bf329f18f0db7b0c733b455",
+  "line_no": 112,
+  "voice_line_no": 115,
+  "text": "私の夢は、とっくに終わってるの。",
+  "speaker": "燐羽",
+  "voice_cue": "sud_vo_adv_dear_ttmr_016_krnh-010",
+  "bank_name": "sud_vo_adv_dear_ttmr_016",
+  "start": 81.795908784,
+  "duration": 3.5386687107,
+  "voice_start": 81.895908784,
+  "voice_duration": 3.332,
+  "output_slug": "sud_vo_adv_dear_ttmr_016_krnh-010",
+  "subsong_index": 10,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\acb\\sud_vo_adv_dear_ttmr_016.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\scripts\\5231303339_607c52562bf329f18f0db7b0c733b455.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_dear_ttmr_016_krnh-010\\voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_dear_ttmr_016_krnh-010\\subtitle.txt"
+}

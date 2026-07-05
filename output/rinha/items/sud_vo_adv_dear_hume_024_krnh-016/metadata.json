@@ -1,0 +1,19 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/4/52333234/63a47c717f25bd507e8c3a440ac7cb7a",
+  "line_no": 297,
+  "voice_line_no": 303,
+  "text": "そんな顔をしているくせに……\n……意外とおバカじゃないのね？",
+  "speaker": "燐羽",
+  "voice_cue": "sud_vo_adv_dear_hume_024_krnh-016",
+  "bank_name": "sud_vo_adv_dear_hume_024",
+  "start": 177.5023255968,
+  "duration": 5.3819969482,
+  "voice_start": 177.6023255968,
+  "voice_duration": 5.082,
+  "output_slug": "sud_vo_adv_dear_hume_024_krnh-016",
+  "subsong_index": 68,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\acb\\sud_vo_adv_dear_hume_024.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\scripts\\52333234_63a47c717f25bd507e8c3a440ac7cb7a.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_dear_hume_024_krnh-016\\voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_dear_hume_024_krnh-016\\subtitle.txt"
+}

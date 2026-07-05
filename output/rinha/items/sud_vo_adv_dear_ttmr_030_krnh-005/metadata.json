@@ -1,0 +1,19 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/4/5233363834/9f01334b62df6b1a4d1cc6b2f27dab3e",
+  "line_no": 347,
+  "voice_line_no": 348,
+  "text": "予選ですこし調子が良かったくらいで\n舞い上がっちゃって、ばっかみたい。",
+  "speaker": "燐羽",
+  "voice_cue": "sud_vo_adv_dear_ttmr_030_krnh-005",
+  "bank_name": "sud_vo_adv_dear_ttmr_030",
+  "start": 183.6282018492,
+  "duration": 6.8933099364,
+  "voice_start": 183.7282018492,
+  "voice_duration": 6.26,
+  "output_slug": "sud_vo_adv_dear_ttmr_030_krnh-005",
+  "subsong_index": 16,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\acb\\sud_vo_adv_dear_ttmr_030.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\scripts\\5233363834_9f01334b62df6b1a4d1cc6b2f27dab3e.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_dear_ttmr_030_krnh-005\\voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_dear_ttmr_030_krnh-005\\subtitle.txt"
+}

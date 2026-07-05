@@ -1,0 +1,19 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/4/52333234/63a47c717f25bd507e8c3a440ac7cb7a",
+  "line_no": 239,
+  "voice_line_no": 242,
+  "text": "そもそも……あなたに言うべきか\nどうか……迷っていたし。",
+  "speaker": "燐羽",
+  "voice_cue": "sud_vo_adv_dear_hume_024_krnh-013",
+  "bank_name": "sud_vo_adv_dear_hume_024",
+  "start": 137.5220058792,
+  "duration": 5.2229969482,
+  "voice_start": 137.6220058792,
+  "voice_duration": 4.923,
+  "output_slug": "sud_vo_adv_dear_hume_024_krnh-013",
+  "subsong_index": 65,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\acb\\sud_vo_adv_dear_hume_024.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\scripts\\52333234_63a47c717f25bd507e8c3a440ac7cb7a.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_dear_hume_024_krnh-013\\voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_dear_hume_024_krnh-013\\subtitle.txt"
+}

@@ -1,0 +1,19 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/9/5236363539/5f51cb1aed3fe9ff24a72c26a6f9968a",
+  "line_no": 103,
+  "voice_line_no": 107,
+  "text": "――すごいでしょ、私のお姉ちゃん。",
+  "speaker": "燐羽",
+  "voice_cue": "sud_vo_adv_cidol-ttmr-3-009_02_krnh-003",
+  "bank_name": "sud_vo_adv_cidol-ttmr-3-009_02",
+  "start": 98.0758189098,
+  "duration": 3.7385878295,
+  "voice_start": 98.1758189098,
+  "voice_duration": 3.097,
+  "output_slug": "sud_vo_adv_cidol-ttmr-3-009_02_krnh-003",
+  "subsong_index": 4,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\acb\\sud_vo_adv_cidol-ttmr-3-009_02.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\scripts\\5236363539_5f51cb1aed3fe9ff24a72c26a6f9968a.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_cidol-ttmr-3-009_02_krnh-003\\voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_cidol-ttmr-3-009_02_krnh-003\\subtitle.txt"
+}

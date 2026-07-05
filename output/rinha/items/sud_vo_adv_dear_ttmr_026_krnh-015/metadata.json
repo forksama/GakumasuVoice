@@ -1,0 +1,19 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/4/5234363134/881e60544e16f09529856517e0641977",
+  "line_no": 488,
+  "voice_line_no": 491,
+  "text": "ったく……手毬ごときに、\nこう何度も負けちゃうんじゃあね……",
+  "speaker": "燐羽",
+  "voice_cue": "sud_vo_adv_dear_ttmr_026_krnh-015",
+  "bank_name": "sud_vo_adv_dear_ttmr_026",
+  "start": 478.3239795624,
+  "duration": 6.689,
+  "voice_start": 478.4239795623,
+  "voice_duration": 6.589,
+  "output_slug": "sud_vo_adv_dear_ttmr_026_krnh-015",
+  "subsong_index": 21,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\acb\\sud_vo_adv_dear_ttmr_026.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\scripts\\5234363134_881e60544e16f09529856517e0641977.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_dear_ttmr_026_krnh-015\\voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_dear_ttmr_026_krnh-015\\subtitle.txt"
+}

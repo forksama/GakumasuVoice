@@ -1,0 +1,19 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/6/5235363936/ee3d8851053e83cc1fe5495fadc8af10",
+  "line_no": 44,
+  "voice_line_no": 45,
+  "text": "大人しく謹慎していなさい。\n指をくわえて見ていればいいわ。",
+  "speaker": "燐羽",
+  "voice_cue": "sud_vo_adv_dear_ttmr_014_krnh-013",
+  "bank_name": "sud_vo_adv_dear_ttmr_014",
+  "start": 90.9223613868,
+  "duration": 6.0977830353,
+  "voice_start": 91.0223613868,
+  "voice_duration": 5.691,
+  "output_slug": "sud_vo_adv_dear_ttmr_014_krnh-013",
+  "subsong_index": 19,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\acb\\sud_vo_adv_dear_ttmr_014.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\scripts\\5235363936_ee3d8851053e83cc1fe5495fadc8af10.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_dear_ttmr_014_krnh-013\\voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_dear_ttmr_014_krnh-013\\subtitle.txt"
+}

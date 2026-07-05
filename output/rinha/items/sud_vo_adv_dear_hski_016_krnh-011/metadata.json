@@ -1,0 +1,19 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/7/5233353237/6ea2152bf9e05cb6a8f3e5ed5e0209f9",
+  "line_no": 267,
+  "voice_line_no": 268,
+  "text": "……羨ましい。",
+  "speaker": "燐羽",
+  "voice_cue": "sud_vo_adv_dear_hski_016_krnh-011",
+  "bank_name": "sud_vo_adv_dear_hski_016",
+  "start": 138.9936276706,
+  "duration": 1.4000213462,
+  "voice_start": 138.9936276706,
+  "voice_duration": 1.117,
+  "output_slug": "sud_vo_adv_dear_hski_016_krnh-011",
+  "subsong_index": 50,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\acb\\sud_vo_adv_dear_hski_016.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\scripts\\5233353237_6ea2152bf9e05cb6a8f3e5ed5e0209f9.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_dear_hski_016_krnh-011\\voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_dear_hski_016_krnh-011\\subtitle.txt"
+}

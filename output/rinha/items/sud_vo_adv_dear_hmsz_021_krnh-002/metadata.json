@@ -1,0 +1,19 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/4/5231353234/3cf4a0a04696cbc773903ea363752ae4",
+  "line_no": 167,
+  "voice_line_no": 168,
+  "text": "自分をアイドルに<em>戻す</em>ついでに、\n極月学園で特訓してあげる。",
+  "speaker": "燐羽",
+  "voice_cue": "sud_vo_adv_dear_hmsz_021_krnh-002",
+  "bank_name": "sud_vo_adv_dear_hmsz_021",
+  "start": 92.3303367782,
+  "duration": 5.784,
+  "voice_start": 92.4303367782,
+  "voice_duration": 5.684,
+  "output_slug": "sud_vo_adv_dear_hmsz_021_krnh-002",
+  "subsong_index": 31,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\acb\\sud_vo_adv_dear_hmsz_021.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\scripts\\5231353234_3cf4a0a04696cbc773903ea363752ae4.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_dear_hmsz_021_krnh-002\\voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_dear_hmsz_021_krnh-002\\subtitle.txt"
+}

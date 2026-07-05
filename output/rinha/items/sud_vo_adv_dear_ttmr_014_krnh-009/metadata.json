@@ -1,0 +1,19 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/6/5235363936/ee3d8851053e83cc1fe5495fadc8af10",
+  "line_no": 34,
+  "voice_line_no": 35,
+  "text": "事後対応が良かった。上手に\nイメージコントロールをしたみたい。",
+  "speaker": "燐羽",
+  "voice_cue": "sud_vo_adv_dear_ttmr_014_krnh-009",
+  "bank_name": "sud_vo_adv_dear_ttmr_014",
+  "start": 63.2652134985,
+  "duration": 5.5849975205,
+  "voice_start": 63.3652134985,
+  "voice_duration": 5.282,
+  "output_slug": "sud_vo_adv_dear_ttmr_014_krnh-009",
+  "subsong_index": 15,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\acb\\sud_vo_adv_dear_ttmr_014.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\scripts\\5235363936_ee3d8851053e83cc1fe5495fadc8af10.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_dear_ttmr_014_krnh-009\\voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\rinha\\items\\sud_vo_adv_dear_ttmr_014_krnh-009\\subtitle.txt"
+}
