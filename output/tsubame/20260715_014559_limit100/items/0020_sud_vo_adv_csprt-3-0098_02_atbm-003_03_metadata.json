@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5236353533/2f1510de65cdabe6c8fcc9be8be7f9b3",
+  "line_no": 25,
+  "voice_line_no": 31,
+  "text": "（む、いつもの感覚で、\n作りすぎてしまったか……）",
+  "speaker": "燕",
+  "voice_cue": "sud_vo_adv_csprt-3-0098_02_atbm-003",
+  "bank_name": "sud_vo_adv_csprt-3-0098_02",
+  "start": 11.7766665047,
+  "duration": 5.729,
+  "voice_start": 11.8766665047,
+  "voice_duration": 5.629,
+  "output_slug": "sud_vo_adv_csprt-3-0098_02_atbm-003",
+  "output_index": 20,
+  "subsong_index": 9,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\tsubame\\20260715_014559_limit100\\acb\\sud_vo_adv_csprt-3-0098_02.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\tsubame\\20260715_014559_limit100\\scripts\\5236353533_2f1510de65cdabe6c8fcc9be8be7f9b3.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\tsubame\\20260715_014559_limit100\\items\\0020_sud_vo_adv_csprt-3-0098_02_atbm-003_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\tsubame\\20260715_014559_limit100\\items\\0020_sud_vo_adv_csprt-3-0098_02_atbm-003_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\tsubame\\20260715_014559_limit100\\items\\0020_sud_vo_adv_csprt-3-0098_02_atbm-003_03_metadata.json"
+}

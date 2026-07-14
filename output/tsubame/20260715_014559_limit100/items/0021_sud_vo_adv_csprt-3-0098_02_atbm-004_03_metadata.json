@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5236353533/2f1510de65cdabe6c8fcc9be8be7f9b3",
+  "line_no": 52,
+  "voice_line_no": 58,
+  "text": "ん、有村……と、姫崎。\nお前たちも昼食か？",
+  "speaker": "燕",
+  "voice_cue": "sud_vo_adv_csprt-3-0098_02_atbm-004",
+  "bank_name": "sud_vo_adv_csprt-3-0098_02",
+  "start": 19.9335572859,
+  "duration": 5.06,
+  "voice_start": 20.0335572859,
+  "voice_duration": 4.96,
+  "output_slug": "sud_vo_adv_csprt-3-0098_02_atbm-004",
+  "output_index": 21,
+  "subsong_index": 10,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\tsubame\\20260715_014559_limit100\\acb\\sud_vo_adv_csprt-3-0098_02.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\tsubame\\20260715_014559_limit100\\scripts\\5236353533_2f1510de65cdabe6c8fcc9be8be7f9b3.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\tsubame\\20260715_014559_limit100\\items\\0021_sud_vo_adv_csprt-3-0098_02_atbm-004_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\tsubame\\20260715_014559_limit100\\items\\0021_sud_vo_adv_csprt-3-0098_02_atbm-004_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\tsubame\\20260715_014559_limit100\\items\\0021_sud_vo_adv_csprt-3-0098_02_atbm-004_03_metadata.json"
+}

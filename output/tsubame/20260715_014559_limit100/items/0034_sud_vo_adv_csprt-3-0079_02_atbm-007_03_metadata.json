@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5235303333/1ea65a47a56309f0fdf32b10970f2025",
+  "line_no": 124,
+  "voice_line_no": 125,
+  "text": "ええい、埒が明かんな。\n秦谷はどう思う？　――ん、秦谷？",
+  "speaker": "燕",
+  "voice_cue": "sud_vo_adv_csprt-3-0079_02_atbm-007",
+  "bank_name": "sud_vo_adv_csprt-3-0079_02",
+  "start": 85.4946661326,
+  "duration": 7.219,
+  "voice_start": 85.5946661326,
+  "voice_duration": 7.119,
+  "output_slug": "sud_vo_adv_csprt-3-0079_02_atbm-007",
+  "output_index": 34,
+  "subsong_index": 7,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\tsubame\\20260715_014559_limit100\\acb\\sud_vo_adv_csprt-3-0079_02.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\tsubame\\20260715_014559_limit100\\scripts\\5235303333_1ea65a47a56309f0fdf32b10970f2025.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\tsubame\\20260715_014559_limit100\\items\\0034_sud_vo_adv_csprt-3-0079_02_atbm-007_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\tsubame\\20260715_014559_limit100\\items\\0034_sud_vo_adv_csprt-3-0079_02_atbm-007_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\tsubame\\20260715_014559_limit100\\items\\0034_sud_vo_adv_csprt-3-0079_02_atbm-007_03_metadata.json"
+}

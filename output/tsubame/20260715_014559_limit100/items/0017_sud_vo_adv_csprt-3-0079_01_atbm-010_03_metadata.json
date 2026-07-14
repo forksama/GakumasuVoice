@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5234393333/75ddfa6a7a3271d4e21869d62eb863f0",
+  "line_no": 172,
+  "voice_line_no": 173,
+  "text": "いや待てぇ！　だからと言って、\nサボっていい理由にはならんぞ！",
+  "speaker": "燕",
+  "voice_cue": "sud_vo_adv_csprt-3-0079_01_atbm-010",
+  "bank_name": "sud_vo_adv_csprt-3-0079_01",
+  "start": 89.2616647474,
+  "duration": 5.0376656494,
+  "voice_start": 89.3616647474,
+  "voice_duration": 4.871,
+  "output_slug": "sud_vo_adv_csprt-3-0079_01_atbm-010",
+  "output_index": 17,
+  "subsong_index": 10,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\tsubame\\20260715_014559_limit100\\acb\\sud_vo_adv_csprt-3-0079_01.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\tsubame\\20260715_014559_limit100\\scripts\\5234393333_75ddfa6a7a3271d4e21869d62eb863f0.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\tsubame\\20260715_014559_limit100\\items\\0017_sud_vo_adv_csprt-3-0079_01_atbm-010_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\tsubame\\20260715_014559_limit100\\items\\0017_sud_vo_adv_csprt-3-0079_01_atbm-010_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\tsubame\\20260715_014559_limit100\\items\\0017_sud_vo_adv_csprt-3-0079_01_atbm-010_03_metadata.json"
+}

@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5234393333/75ddfa6a7a3271d4e21869d62eb863f0",
+  "line_no": 26,
+  "voice_line_no": 27,
+  "text": "サボった1年生を探すために、\nそこまでするのか？",
+  "speaker": "燕",
+  "voice_cue": "sud_vo_adv_csprt-3-0079_01_atbm-002",
+  "bank_name": "sud_vo_adv_csprt-3-0079_01",
+  "start": 9.5573332951,
+  "duration": 4.734,
+  "voice_start": 9.6573332951,
+  "voice_duration": 4.634,
+  "output_slug": "sud_vo_adv_csprt-3-0079_01_atbm-002",
+  "output_index": 9,
+  "subsong_index": 2,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\tsubame\\20260715_014559_limit100\\acb\\sud_vo_adv_csprt-3-0079_01.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\tsubame\\20260715_014559_limit100\\scripts\\5234393333_75ddfa6a7a3271d4e21869d62eb863f0.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\tsubame\\20260715_014559_limit100\\items\\0009_sud_vo_adv_csprt-3-0079_01_atbm-002_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\tsubame\\20260715_014559_limit100\\items\\0009_sud_vo_adv_csprt-3-0079_01_atbm-002_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\tsubame\\20260715_014559_limit100\\items\\0009_sud_vo_adv_csprt-3-0079_01_atbm-002_03_metadata.json"
+}

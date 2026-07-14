@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5233363633/c3a40e05945f85382e38231d45193416",
+  "line_no": 46,
+  "voice_line_no": 47,
+  "text": "だが、秦谷の指導が……",
+  "speaker": "燕",
+  "voice_cue": "sud_vo_adv_pstory_002_atbm_ending-normal-02_atbm-004",
+  "bank_name": "sud_vo_adv_pstory_002_atbm_ending-normal-02",
+  "start": 32.9296700315,
+  "duration": 3.0,
+  "voice_start": 33.0296700315,
+  "voice_duration": 2.9,
+  "output_slug": "sud_vo_adv_pstory_002_atbm_ending-normal-02_atbm-004",
+  "output_index": 4,
+  "subsong_index": 4,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\tsubame\\20260715_014559_limit100\\acb\\sud_vo_adv_pstory_002_atbm_ending-normal-02.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\tsubame\\20260715_014559_limit100\\scripts\\5233363633_c3a40e05945f85382e38231d45193416.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\tsubame\\20260715_014559_limit100\\items\\0004_sud_vo_adv_pstory_002_atbm_ending-normal-02_atbm-004_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\tsubame\\20260715_014559_limit100\\items\\0004_sud_vo_adv_pstory_002_atbm_ending-normal-02_atbm-004_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\tsubame\\20260715_014559_limit100\\items\\0004_sud_vo_adv_pstory_002_atbm_ending-normal-02_atbm-004_03_metadata.json"
+}

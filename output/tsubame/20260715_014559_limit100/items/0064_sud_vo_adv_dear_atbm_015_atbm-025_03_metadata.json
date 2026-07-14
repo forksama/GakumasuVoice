@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5232373933/1d6b56115e2f14ca944a055496bed593",
+  "line_no": 252,
+  "voice_line_no": 253,
+  "text": "正々堂々、アイドルとして\n勝負を挑んだらどうだ？",
+  "speaker": "燕",
+  "voice_cue": "sud_vo_adv_dear_atbm_015_atbm-025",
+  "bank_name": "sud_vo_adv_dear_atbm_015",
+  "start": 226.8696672698,
+  "duration": 4.5039969482,
+  "voice_start": 226.9696672698,
+  "voice_duration": 4.204,
+  "output_slug": "sud_vo_adv_dear_atbm_015_atbm-025",
+  "output_index": 64,
+  "subsong_index": 25,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\tsubame\\20260715_014559_limit100\\acb\\sud_vo_adv_dear_atbm_015.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\tsubame\\20260715_014559_limit100\\scripts\\5232373933_1d6b56115e2f14ca944a055496bed593.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\tsubame\\20260715_014559_limit100\\items\\0064_sud_vo_adv_dear_atbm_015_atbm-025_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\tsubame\\20260715_014559_limit100\\items\\0064_sud_vo_adv_dear_atbm_015_atbm-025_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\tsubame\\20260715_014559_limit100\\items\\0064_sud_vo_adv_dear_atbm_015_atbm-025_03_metadata.json"
+}

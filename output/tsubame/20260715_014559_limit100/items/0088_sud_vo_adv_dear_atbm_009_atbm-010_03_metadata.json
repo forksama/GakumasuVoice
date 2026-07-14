@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5231333233/c4a779d31735e0a5701fc21371e5bec5",
+  "line_no": 110,
+  "voice_line_no": 111,
+  "text": "――行ってくる。",
+  "speaker": "燕",
+  "voice_cue": "sud_vo_adv_dear_atbm_009_atbm-010",
+  "bank_name": "sud_vo_adv_dear_atbm_009",
+  "start": 65.3636636449,
+  "duration": 1.6013297729,
+  "voice_start": 65.4636636449,
+  "voice_duration": 0.768,
+  "output_slug": "sud_vo_adv_dear_atbm_009_atbm-010",
+  "output_index": 88,
+  "subsong_index": 10,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\tsubame\\20260715_014559_limit100\\acb\\sud_vo_adv_dear_atbm_009.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\tsubame\\20260715_014559_limit100\\scripts\\5231333233_c4a779d31735e0a5701fc21371e5bec5.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\tsubame\\20260715_014559_limit100\\items\\0088_sud_vo_adv_dear_atbm_009_atbm-010_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\tsubame\\20260715_014559_limit100\\items\\0088_sud_vo_adv_dear_atbm_009_atbm-010_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\tsubame\\20260715_014559_limit100\\items\\0088_sud_vo_adv_dear_atbm_009_atbm-010_03_metadata.json"
+}

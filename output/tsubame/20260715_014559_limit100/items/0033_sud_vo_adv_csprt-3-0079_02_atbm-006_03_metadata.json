@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5235303333/1ea65a47a56309f0fdf32b10970f2025",
+  "line_no": 111,
+  "voice_line_no": 112,
+  "text": "貴様のやり方はいつも性急なのだ！\n育成はすぐに結果が出るものではない！",
+  "speaker": "燕",
+  "voice_cue": "sud_vo_adv_csprt-3-0079_02_atbm-006",
+  "bank_name": "sud_vo_adv_csprt-3-0079_02",
+  "start": 73.9666665141,
+  "duration": 6.692,
+  "voice_start": 74.0666665141,
+  "voice_duration": 6.592,
+  "output_slug": "sud_vo_adv_csprt-3-0079_02_atbm-006",
+  "output_index": 33,
+  "subsong_index": 6,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\tsubame\\20260715_014559_limit100\\acb\\sud_vo_adv_csprt-3-0079_02.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\tsubame\\20260715_014559_limit100\\scripts\\5235303333_1ea65a47a56309f0fdf32b10970f2025.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\tsubame\\20260715_014559_limit100\\items\\0033_sud_vo_adv_csprt-3-0079_02_atbm-006_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\tsubame\\20260715_014559_limit100\\items\\0033_sud_vo_adv_csprt-3-0079_02_atbm-006_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\tsubame\\20260715_014559_limit100\\items\\0033_sud_vo_adv_csprt-3-0079_02_atbm-006_03_metadata.json"
+}

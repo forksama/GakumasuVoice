@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5232373933/1d6b56115e2f14ca944a055496bed593",
+  "line_no": 64,
+  "voice_line_no": 65,
+  "text": "……確かに。\nなぜ、これで順位が上がっているのだ？",
+  "speaker": "燕",
+  "voice_cue": "sud_vo_adv_dear_atbm_015_atbm-007",
+  "bank_name": "sud_vo_adv_dear_atbm_015",
+  "start": 45.2319999525,
+  "duration": 7.671,
+  "voice_start": 45.3319999525,
+  "voice_duration": 7.571,
+  "output_slug": "sud_vo_adv_dear_atbm_015_atbm-007",
+  "output_index": 46,
+  "subsong_index": 7,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\tsubame\\20260715_014559_limit100\\acb\\sud_vo_adv_dear_atbm_015.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\tsubame\\20260715_014559_limit100\\scripts\\5232373933_1d6b56115e2f14ca944a055496bed593.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\tsubame\\20260715_014559_limit100\\items\\0046_sud_vo_adv_dear_atbm_015_atbm-007_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\tsubame\\20260715_014559_limit100\\items\\0046_sud_vo_adv_dear_atbm_015_atbm-007_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\tsubame\\20260715_014559_limit100\\items\\0046_sud_vo_adv_dear_atbm_015_atbm-007_03_metadata.json"
+}

@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5235353033/0aa65ac8bd25548c830b916937202542",
+  "line_no": 43,
+  "voice_line_no": 44,
+  "text": "有村、なんだそれは？",
+  "speaker": "燕",
+  "voice_cue": "sud_vo_adv_csprt-3-0053_03_atbm-002",
+  "bank_name": "sud_vo_adv_csprt-3-0053_03",
+  "start": 21.855665287,
+  "duration": 2.1313328247,
+  "voice_start": 21.955665287,
+  "voice_duration": 1.998,
+  "output_slug": "sud_vo_adv_csprt-3-0053_03_atbm-002",
+  "output_index": 37,
+  "subsong_index": 8,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\tsubame\\20260715_014559_limit100\\acb\\sud_vo_adv_csprt-3-0053_03.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\tsubame\\20260715_014559_limit100\\scripts\\5235353033_0aa65ac8bd25548c830b916937202542.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\tsubame\\20260715_014559_limit100\\items\\0037_sud_vo_adv_csprt-3-0053_03_atbm-002_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\tsubame\\20260715_014559_limit100\\items\\0037_sud_vo_adv_csprt-3-0053_03_atbm-002_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\tsubame\\20260715_014559_limit100\\items\\0037_sud_vo_adv_csprt-3-0053_03_atbm-002_03_metadata.json"
+}

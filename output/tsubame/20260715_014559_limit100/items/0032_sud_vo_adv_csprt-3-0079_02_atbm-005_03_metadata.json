@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5235303333/1ea65a47a56309f0fdf32b10970f2025",
+  "line_no": 87,
+  "voice_line_no": 88,
+  "text": "まずは基礎をしっかり固めることに\n集中させたほうがいい。",
+  "speaker": "燕",
+  "voice_cue": "sud_vo_adv_csprt-3-0079_02_atbm-005",
+  "bank_name": "sud_vo_adv_csprt-3-0079_02",
+  "start": 59.2506681163,
+  "duration": 3.7483328247,
+  "voice_start": 59.3506681163,
+  "voice_duration": 3.615,
+  "output_slug": "sud_vo_adv_csprt-3-0079_02_atbm-005",
+  "output_index": 32,
+  "subsong_index": 5,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\tsubame\\20260715_014559_limit100\\acb\\sud_vo_adv_csprt-3-0079_02.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\tsubame\\20260715_014559_limit100\\scripts\\5235303333_1ea65a47a56309f0fdf32b10970f2025.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\tsubame\\20260715_014559_limit100\\items\\0032_sud_vo_adv_csprt-3-0079_02_atbm-005_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\tsubame\\20260715_014559_limit100\\items\\0032_sud_vo_adv_csprt-3-0079_02_atbm-005_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\tsubame\\20260715_014559_limit100\\items\\0032_sud_vo_adv_csprt-3-0079_02_atbm-005_03_metadata.json"
+}

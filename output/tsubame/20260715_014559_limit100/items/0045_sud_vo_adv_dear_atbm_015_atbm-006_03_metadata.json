@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5232373933/1d6b56115e2f14ca944a055496bed593",
+  "line_no": 55,
+  "voice_line_no": 57,
+  "text": "盛ってみましたではない！\nむしろ炎上を煽っているだろうが！",
+  "speaker": "燕",
+  "voice_cue": "sud_vo_adv_dear_atbm_015_atbm-006",
+  "bank_name": "sud_vo_adv_dear_atbm_015",
+  "start": 37.5626656782,
+  "duration": 5.256,
+  "voice_start": 37.6626656782,
+  "voice_duration": 5.156,
+  "output_slug": "sud_vo_adv_dear_atbm_015_atbm-006",
+  "output_index": 45,
+  "subsong_index": 6,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\tsubame\\20260715_014559_limit100\\acb\\sud_vo_adv_dear_atbm_015.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\tsubame\\20260715_014559_limit100\\scripts\\5232373933_1d6b56115e2f14ca944a055496bed593.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\tsubame\\20260715_014559_limit100\\items\\0045_sud_vo_adv_dear_atbm_015_atbm-006_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\tsubame\\20260715_014559_limit100\\items\\0045_sud_vo_adv_dear_atbm_015_atbm-006_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\tsubame\\20260715_014559_limit100\\items\\0045_sud_vo_adv_dear_atbm_015_atbm-006_03_metadata.json"
+}

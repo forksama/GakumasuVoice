@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5232373933/1d6b56115e2f14ca944a055496bed593",
+  "line_no": 174,
+  "voice_line_no": 175,
+  "text": "フン、貴様が私のプロデューサーに\n利用されただけだろう？",
+  "speaker": "燕",
+  "voice_cue": "sud_vo_adv_dear_atbm_015_atbm-018",
+  "bank_name": "sud_vo_adv_dear_atbm_015",
+  "start": 138.6303367595,
+  "duration": 5.078,
+  "voice_start": 138.7303367595,
+  "voice_duration": 4.978,
+  "output_slug": "sud_vo_adv_dear_atbm_015_atbm-018",
+  "output_index": 57,
+  "subsong_index": 18,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\tsubame\\20260715_014559_limit100\\acb\\sud_vo_adv_dear_atbm_015.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\tsubame\\20260715_014559_limit100\\scripts\\5232373933_1d6b56115e2f14ca944a055496bed593.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\tsubame\\20260715_014559_limit100\\items\\0057_sud_vo_adv_dear_atbm_015_atbm-018_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\tsubame\\20260715_014559_limit100\\items\\0057_sud_vo_adv_dear_atbm_015_atbm-018_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\tsubame\\20260715_014559_limit100\\items\\0057_sud_vo_adv_dear_atbm_015_atbm-018_03_metadata.json"
+}

@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5236353533/2f1510de65cdabe6c8fcc9be8be7f9b3",
+  "line_no": 181,
+  "voice_line_no": 184,
+  "text": "有村、それだけでは、\n応援団には足りないだろう。\nほら、食べていけ。",
+  "speaker": "燕",
+  "voice_cue": "sud_vo_adv_csprt-3-0098_02_atbm-009",
+  "bank_name": "sud_vo_adv_csprt-3-0098_02",
+  "start": 91.1562369721,
+  "duration": 5.325,
+  "voice_start": 91.2562369721,
+  "voice_duration": 5.225,
+  "output_slug": "sud_vo_adv_csprt-3-0098_02_atbm-009",
+  "output_index": 26,
+  "subsong_index": 15,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\tsubame\\20260715_014559_limit100\\acb\\sud_vo_adv_csprt-3-0098_02.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\tsubame\\20260715_014559_limit100\\scripts\\5236353533_2f1510de65cdabe6c8fcc9be8be7f9b3.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\tsubame\\20260715_014559_limit100\\items\\0026_sud_vo_adv_csprt-3-0098_02_atbm-009_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\tsubame\\20260715_014559_limit100\\items\\0026_sud_vo_adv_csprt-3-0098_02_atbm-009_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\tsubame\\20260715_014559_limit100\\items\\0026_sud_vo_adv_csprt-3-0098_02_atbm-009_03_metadata.json"
+}

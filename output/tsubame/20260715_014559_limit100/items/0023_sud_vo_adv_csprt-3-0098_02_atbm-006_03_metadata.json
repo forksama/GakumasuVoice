@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5236353533/2f1510de65cdabe6c8fcc9be8be7f9b3",
+  "line_no": 116,
+  "voice_line_no": 120,
+  "text": "ふたりとも、遠慮なく食べてくれ。\n黒豆は割と自信作だ。",
+  "speaker": "燕",
+  "voice_cue": "sud_vo_adv_csprt-3-0098_02_atbm-006",
+  "bank_name": "sud_vo_adv_csprt-3-0098_02",
+  "start": 54.0705705915,
+  "duration": 4.245,
+  "voice_start": 54.1705705915,
+  "voice_duration": 4.145,
+  "output_slug": "sud_vo_adv_csprt-3-0098_02_atbm-006",
+  "output_index": 23,
+  "subsong_index": 12,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\tsubame\\20260715_014559_limit100\\acb\\sud_vo_adv_csprt-3-0098_02.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\tsubame\\20260715_014559_limit100\\scripts\\5236353533_2f1510de65cdabe6c8fcc9be8be7f9b3.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\tsubame\\20260715_014559_limit100\\items\\0023_sud_vo_adv_csprt-3-0098_02_atbm-006_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\tsubame\\20260715_014559_limit100\\items\\0023_sud_vo_adv_csprt-3-0098_02_atbm-006_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\tsubame\\20260715_014559_limit100\\items\\0023_sud_vo_adv_csprt-3-0098_02_atbm-006_03_metadata.json"
+}

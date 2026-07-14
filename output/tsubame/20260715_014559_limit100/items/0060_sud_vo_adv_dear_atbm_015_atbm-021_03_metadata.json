@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5232373933/1d6b56115e2f14ca944a055496bed593",
+  "line_no": 204,
+  "voice_line_no": 207,
+  "text": "何を取っても一級品の技術。\nおそらく相当な努力をしたのだろう。",
+  "speaker": "燕",
+  "voice_cue": "sud_vo_adv_dear_atbm_015_atbm-021",
+  "bank_name": "sud_vo_adv_dear_atbm_015",
+  "start": 171.3963121546,
+  "duration": 7.2470061035,
+  "voice_start": 171.4963121546,
+  "voice_duration": 7.047,
+  "output_slug": "sud_vo_adv_dear_atbm_015_atbm-021",
+  "output_index": 60,
+  "subsong_index": 21,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\tsubame\\20260715_014559_limit100\\acb\\sud_vo_adv_dear_atbm_015.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\tsubame\\20260715_014559_limit100\\scripts\\5232373933_1d6b56115e2f14ca944a055496bed593.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\tsubame\\20260715_014559_limit100\\items\\0060_sud_vo_adv_dear_atbm_015_atbm-021_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\tsubame\\20260715_014559_limit100\\items\\0060_sud_vo_adv_dear_atbm_015_atbm-021_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\tsubame\\20260715_014559_limit100\\items\\0060_sud_vo_adv_dear_atbm_015_atbm-021_03_metadata.json"
+}

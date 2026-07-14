@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5232373933/1d6b56115e2f14ca944a055496bed593",
+  "line_no": 327,
+  "voice_line_no": 330,
+  "text": "今は敵だが、この業界の後輩でもある。\nそれに、私はアイドルだからな。",
+  "speaker": "燕",
+  "voice_cue": "sud_vo_adv_dear_atbm_015_atbm-033",
+  "bank_name": "sud_vo_adv_dear_atbm_015",
+  "start": 287.3349973129,
+  "duration": 8.3719816895,
+  "voice_start": 287.4349973129,
+  "voice_duration": 8.072,
+  "output_slug": "sud_vo_adv_dear_atbm_015_atbm-033",
+  "output_index": 72,
+  "subsong_index": 33,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\tsubame\\20260715_014559_limit100\\acb\\sud_vo_adv_dear_atbm_015.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\tsubame\\20260715_014559_limit100\\scripts\\5232373933_1d6b56115e2f14ca944a055496bed593.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\tsubame\\20260715_014559_limit100\\items\\0072_sud_vo_adv_dear_atbm_015_atbm-033_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\tsubame\\20260715_014559_limit100\\items\\0072_sud_vo_adv_dear_atbm_015_atbm-033_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\tsubame\\20260715_014559_limit100\\items\\0072_sud_vo_adv_dear_atbm_015_atbm-033_03_metadata.json"
+}
