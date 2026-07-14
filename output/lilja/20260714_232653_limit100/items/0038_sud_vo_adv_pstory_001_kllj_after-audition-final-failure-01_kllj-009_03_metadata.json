@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5232393933/bd170d77f1570fccfb6348af63baf80c",
+  "line_no": 64,
+  "voice_line_no": 65,
+  "text": "……センパイ、\nなんで笑ってるんですか？",
+  "speaker": "リーリヤ",
+  "voice_cue": "sud_vo_adv_pstory_001_kllj_after-audition-final-failure-01_kllj-009",
+  "bank_name": "sud_vo_adv_pstory_001_kllj_after-audition-final-failure-01",
+  "start": 54.7739994277,
+  "duration": 6.02,
+  "voice_start": 54.8739994277,
+  "voice_duration": 5.92,
+  "output_slug": "sud_vo_adv_pstory_001_kllj_after-audition-final-failure-01_kllj-009",
+  "output_index": 38,
+  "subsong_index": 9,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\lilja\\20260714_232653_limit100\\acb\\sud_vo_adv_pstory_001_kllj_after-audition-final-failure-01.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\lilja\\20260714_232653_limit100\\scripts\\5232393933_bd170d77f1570fccfb6348af63baf80c.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\lilja\\20260714_232653_limit100\\items\\0038_sud_vo_adv_pstory_001_kllj_after-audition-final-failure-01_kllj-009_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\lilja\\20260714_232653_limit100\\items\\0038_sud_vo_adv_pstory_001_kllj_after-audition-final-failure-01_kllj-009_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\lilja\\20260714_232653_limit100\\items\\0038_sud_vo_adv_pstory_001_kllj_after-audition-final-failure-01_kllj-009_03_metadata.json"
+}

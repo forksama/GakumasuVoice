@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5236343733/041a4db7cf6152776422ca5df375f49c",
+  "line_no": 317,
+  "voice_line_no": 321,
+  "text": "わたくし、自慢ではございませんが……\n簡単なお料理しか作れませんわ！",
+  "speaker": "千奈",
+  "voice_cue": "sud_vo_adv_event_025_main-03_kcna-020",
+  "bank_name": "sud_vo_adv_event_025_main-03",
+  "start": 221.2516248337,
+  "duration": 6.4549969482,
+  "voice_start": 221.3516248337,
+  "voice_duration": 6.155,
+  "output_slug": "sud_vo_adv_event_025_main-03_kcna-020",
+  "output_index": 20,
+  "subsong_index": 53,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\china\\20260714_234531_limit100\\acb\\sud_vo_adv_event_025_main-03.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\china\\20260714_234531_limit100\\scripts\\5236343733_041a4db7cf6152776422ca5df375f49c.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\china\\20260714_234531_limit100\\items\\0020_sud_vo_adv_event_025_main-03_kcna-020_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\china\\20260714_234531_limit100\\items\\0020_sud_vo_adv_event_025_main-03_kcna-020_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\china\\20260714_234531_limit100\\items\\0020_sud_vo_adv_event_025_main-03_kcna-020_03_metadata.json"
+}

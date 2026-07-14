@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/52313333/b27f286278ef5809e64357af44b940cc",
+  "line_no": 136,
+  "voice_line_no": 137,
+  "text": "それなら、あたしの得意分野じゃん♪\nめっちゃ可愛くしてあげるねっ！",
+  "speaker": "清夏",
+  "voice_cue": "sud_vo_adv_csprt-3-0008_01_ssmk-011",
+  "bank_name": "sud_vo_adv_csprt-3-0008_01",
+  "start": 81.0898025193,
+  "duration": 5.4389984741,
+  "voice_start": 81.1898025193,
+  "voice_duration": 5.205,
+  "output_slug": "sud_vo_adv_csprt-3-0008_01_ssmk-011",
+  "output_index": 11,
+  "subsong_index": 20,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\sumika\\20260714_235935_limit100\\acb\\sud_vo_adv_csprt-3-0008_01.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\sumika\\20260714_235935_limit100\\scripts\\52313333_b27f286278ef5809e64357af44b940cc.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\sumika\\20260714_235935_limit100\\items\\0011_sud_vo_adv_csprt-3-0008_01_ssmk-011_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\sumika\\20260714_235935_limit100\\items\\0011_sud_vo_adv_csprt-3-0008_01_ssmk-011_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\sumika\\20260714_235935_limit100\\items\\0011_sud_vo_adv_csprt-3-0008_01_ssmk-011_03_metadata.json"
+}

@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5233363433/dda55224f0730cb20ee23549610b09ec",
+  "line_no": 100,
+  "voice_line_no": 103,
+  "text": "あ、あの、あたしのお弁当、\nすっげーフツーのやつで、\n正直、見劣りするっていうかぁ……",
+  "speaker": "ことね",
+  "voice_cue": "sud_vo_adv_csprt-3-0098_01_fktn-007",
+  "bank_name": "sud_vo_adv_csprt-3-0098_01",
+  "start": 53.4646580907,
+  "duration": 10.552,
+  "voice_start": 53.5646580907,
+  "voice_duration": 10.452,
+  "output_slug": "sud_vo_adv_csprt-3-0098_01_fktn-007",
+  "output_index": 7,
+  "subsong_index": 7,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\kotone\\20260714_230100_limit100\\acb\\sud_vo_adv_csprt-3-0098_01.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\kotone\\20260714_230100_limit100\\scripts\\5233363433_dda55224f0730cb20ee23549610b09ec.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\kotone\\20260714_230100_limit100\\items\\0007_sud_vo_adv_csprt-3-0098_01_fktn-007_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\kotone\\20260714_230100_limit100\\items\\0007_sud_vo_adv_csprt-3-0098_01_fktn-007_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\kotone\\20260714_230100_limit100\\items\\0007_sud_vo_adv_csprt-3-0098_01_fktn-007_03_metadata.json"
+}

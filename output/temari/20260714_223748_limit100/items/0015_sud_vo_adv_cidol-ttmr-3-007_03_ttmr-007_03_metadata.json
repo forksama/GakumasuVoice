@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5231333333/6e6752f7c7e9e2f1805c16b90c1ab7f9",
+  "line_no": 55,
+  "voice_line_no": 56,
+  "text": "大得意な曲で、思い出の曲で……\n……この曲で証明してみせると。",
+  "speaker": "手毬",
+  "voice_cue": "sud_vo_adv_cidol-ttmr-3-007_03_ttmr-007",
+  "bank_name": "sud_vo_adv_cidol-ttmr-3-007_03",
+  "start": 37.1519998515,
+  "duration": 7.321,
+  "voice_start": 37.2519998515,
+  "voice_duration": 7.221,
+  "output_slug": "sud_vo_adv_cidol-ttmr-3-007_03_ttmr-007",
+  "output_index": 15,
+  "subsong_index": 7,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\temari\\20260714_223748_limit100\\acb\\sud_vo_adv_cidol-ttmr-3-007_03.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\temari\\20260714_223748_limit100\\scripts\\5231333333_6e6752f7c7e9e2f1805c16b90c1ab7f9.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\temari\\20260714_223748_limit100\\items\\0015_sud_vo_adv_cidol-ttmr-3-007_03_ttmr-007_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\temari\\20260714_223748_limit100\\items\\0015_sud_vo_adv_cidol-ttmr-3-007_03_ttmr-007_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\temari\\20260714_223748_limit100\\items\\0015_sud_vo_adv_cidol-ttmr-3-007_03_ttmr-007_03_metadata.json"
+}

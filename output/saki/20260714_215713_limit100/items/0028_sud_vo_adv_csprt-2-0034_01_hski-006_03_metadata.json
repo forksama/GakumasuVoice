@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5235313833/c1d6633e9b0aab996f5b67911872ed76",
+  "line_no": 66,
+  "voice_line_no": 67,
+  "text": "ふっ、驚くのはまだ早いわ。",
+  "speaker": "咲季",
+  "voice_cue": "sud_vo_adv_csprt-2-0034_01_hski-006",
+  "bank_name": "sud_vo_adv_csprt-2-0034_01",
+  "start": 33.0513321766,
+  "duration": 3.2563328247,
+  "voice_start": 33.1513321766,
+  "voice_duration": 3.123,
+  "output_slug": "sud_vo_adv_csprt-2-0034_01_hski-006",
+  "output_index": 28,
+  "subsong_index": 6,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\acb\\sud_vo_adv_csprt-2-0034_01.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\scripts\\5235313833_c1d6633e9b0aab996f5b67911872ed76.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\items\\0028_sud_vo_adv_csprt-2-0034_01_hski-006_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\items\\0028_sud_vo_adv_csprt-2-0034_01_hski-006_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\items\\0028_sud_vo_adv_csprt-2-0034_01_hski-006_03_metadata.json"
+}

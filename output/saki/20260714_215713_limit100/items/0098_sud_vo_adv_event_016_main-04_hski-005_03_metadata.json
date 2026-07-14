@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5235323933/4e09a4f853e6e71a7be5fff5a1c73ae3",
+  "line_no": 102,
+  "voice_line_no": 103,
+  "text": "大丈夫。ハンデをあげるわ。\nわたしとあなたたち全員、\n3対1で勝負よ！",
+  "speaker": "咲季",
+  "voice_cue": "sud_vo_adv_event_016_main-04_hski-005",
+  "bank_name": "sud_vo_adv_event_016_main-04",
+  "start": 41.1565534484,
+  "duration": 8.166,
+  "voice_start": 41.2565534484,
+  "voice_duration": 8.066,
+  "output_slug": "sud_vo_adv_event_016_main-04_hski-005",
+  "output_index": 98,
+  "subsong_index": 28,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\acb\\sud_vo_adv_event_016_main-04.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\scripts\\5235323933_4e09a4f853e6e71a7be5fff5a1c73ae3.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\items\\0098_sud_vo_adv_event_016_main-04_hski-005_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\items\\0098_sud_vo_adv_event_016_main-04_hski-005_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\items\\0098_sud_vo_adv_event_016_main-04_hski-005_03_metadata.json"
+}

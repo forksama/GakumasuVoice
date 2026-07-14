@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5236323433/7caac344dfce07ac3f2fe16ca309af7e",
+  "line_no": 339,
+  "voice_line_no": 342,
+  "text": "そんなわけはないでしょう。",
+  "speaker": "美鈴",
+  "voice_cue": "sud_vo_adv_event_014_main-01_hmsz-007",
+  "bank_name": "sud_vo_adv_event_014_main-01",
+  "start": 213.2377411991,
+  "duration": 1.9020273438,
+  "voice_start": 213.3377411989,
+  "voice_duration": 1.699,
+  "output_slug": "sud_vo_adv_event_014_main-01_hmsz-007",
+  "output_index": 87,
+  "subsong_index": 7,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\misuzu\\20260715_010942_limit100\\acb\\sud_vo_adv_event_014_main-01.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\misuzu\\20260715_010942_limit100\\scripts\\5236323433_7caac344dfce07ac3f2fe16ca309af7e.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\misuzu\\20260715_010942_limit100\\items\\0087_sud_vo_adv_event_014_main-01_hmsz-007_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\misuzu\\20260715_010942_limit100\\items\\0087_sud_vo_adv_event_014_main-01_hmsz-007_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\misuzu\\20260715_010942_limit100\\items\\0087_sud_vo_adv_event_014_main-01_hmsz-007_03_metadata.json"
+}

@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5233303533/eece10c902056b8838ca9968c1180d92",
+  "line_no": 49,
+  "voice_line_no": 51,
+  "text": "夢に見るほど担当アイドルを\n意識してしまうだなんて。",
+  "speaker": "美鈴",
+  "voice_cue": "sud_vo_adv_cidol-hmsz-3-014_02_hmsz-006",
+  "bank_name": "sud_vo_adv_cidol-hmsz-3-014_02",
+  "start": 43.5480022365,
+  "duration": 4.236,
+  "voice_start": 43.6480022365,
+  "voice_duration": 4.136,
+  "output_slug": "sud_vo_adv_cidol-hmsz-3-014_02_hmsz-006",
+  "output_index": 29,
+  "subsong_index": 6,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\misuzu\\20260715_010942_limit100\\acb\\sud_vo_adv_cidol-hmsz-3-014_02.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\misuzu\\20260715_010942_limit100\\scripts\\5233303533_eece10c902056b8838ca9968c1180d92.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\misuzu\\20260715_010942_limit100\\items\\0029_sud_vo_adv_cidol-hmsz-3-014_02_hmsz-006_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\misuzu\\20260715_010942_limit100\\items\\0029_sud_vo_adv_cidol-hmsz-3-014_02_hmsz-006_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\misuzu\\20260715_010942_limit100\\items\\0029_sud_vo_adv_cidol-hmsz-3-014_02_hmsz-006_03_metadata.json"
+}

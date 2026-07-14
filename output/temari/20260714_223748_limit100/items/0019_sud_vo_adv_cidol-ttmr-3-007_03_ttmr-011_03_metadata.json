@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5231333333/6e6752f7c7e9e2f1805c16b90c1ab7f9",
+  "line_no": 81,
+  "voice_line_no": 84,
+  "text": "あっそ。……そういえば見たことある\n連中が、今日もきてくれてるね。",
+  "speaker": "手毬",
+  "voice_cue": "sud_vo_adv_cidol-ttmr-3-007_03_ttmr-011",
+  "bank_name": "sud_vo_adv_cidol-ttmr-3-007_03",
+  "start": 77.3933314079,
+  "duration": 6.7333374023,
+  "voice_start": 77.4933314079,
+  "voice_duration": 6.4,
+  "output_slug": "sud_vo_adv_cidol-ttmr-3-007_03_ttmr-011",
+  "output_index": 19,
+  "subsong_index": 11,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\temari\\20260714_223748_limit100\\acb\\sud_vo_adv_cidol-ttmr-3-007_03.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\temari\\20260714_223748_limit100\\scripts\\5231333333_6e6752f7c7e9e2f1805c16b90c1ab7f9.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\temari\\20260714_223748_limit100\\items\\0019_sud_vo_adv_cidol-ttmr-3-007_03_ttmr-011_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\temari\\20260714_223748_limit100\\items\\0019_sud_vo_adv_cidol-ttmr-3-007_03_ttmr-011_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\temari\\20260714_223748_limit100\\items\\0019_sud_vo_adv_cidol-ttmr-3-007_03_ttmr-011_03_metadata.json"
+}

@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5231373233/78608d3915910502d2734b488e9b8d72",
+  "line_no": 245,
+  "voice_line_no": 246,
+  "text": "お困りかい？",
+  "speaker": "麻央",
+  "voice_cue": "sud_vo_adv_cidol-ttmr-3-000_02_amao-010",
+  "bank_name": "sud_vo_adv_cidol-ttmr-3-000_02",
+  "start": 158.9366766558,
+  "duration": 1.3949808931,
+  "voice_start": 159.0366766558,
+  "voice_duration": 1.235,
+  "output_slug": "sud_vo_adv_cidol-ttmr-3-000_02_amao-010",
+  "output_index": 37,
+  "subsong_index": 10,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\acb\\sud_vo_adv_cidol-ttmr-3-000_02.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\scripts\\5231373233_78608d3915910502d2734b488e9b8d72.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\items\\0037_sud_vo_adv_cidol-ttmr-3-000_02_amao-010_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\items\\0037_sud_vo_adv_cidol-ttmr-3-000_02_amao-010_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\items\\0037_sud_vo_adv_cidol-ttmr-3-000_02_amao-010_03_metadata.json"
+}

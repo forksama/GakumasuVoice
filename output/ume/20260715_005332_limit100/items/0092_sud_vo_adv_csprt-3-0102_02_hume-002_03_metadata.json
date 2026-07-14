@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/523230363233/b134a57d3cda76153a02cff454ab84bf",
+  "line_no": 80,
+  "voice_line_no": 81,
+  "text": "一体感って、どうしたら出るんだろ。\nていうか、一体感ってなんなんだろ。",
+  "speaker": "佑芽",
+  "voice_cue": "sud_vo_adv_csprt-3-0102_02_hume-002",
+  "bank_name": "sud_vo_adv_csprt-3-0102_02",
+  "start": 44.501331743,
+  "duration": 5.474,
+  "voice_start": 44.601331743,
+  "voice_duration": 5.374,
+  "output_slug": "sud_vo_adv_csprt-3-0102_02_hume-002",
+  "output_index": 92,
+  "subsong_index": 13,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\acb\\sud_vo_adv_csprt-3-0102_02.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\scripts\\523230363233_b134a57d3cda76153a02cff454ab84bf.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\items\\0092_sud_vo_adv_csprt-3-0102_02_hume-002_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\items\\0092_sud_vo_adv_csprt-3-0102_02_hume-002_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\items\\0092_sud_vo_adv_csprt-3-0102_02_hume-002_03_metadata.json"
+}

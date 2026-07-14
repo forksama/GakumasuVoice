@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/523230363233/b134a57d3cda76153a02cff454ab84bf",
+  "line_no": 147,
+  "voice_line_no": 148,
+  "text": "もっとおでんを理解する必要が、\nわたしたちにはあるわっ！",
+  "speaker": "咲季",
+  "voice_cue": "sud_vo_adv_csprt-3-0102_02_hski-005",
+  "bank_name": "sud_vo_adv_csprt-3-0102_02",
+  "start": 76.2053285292,
+  "duration": 4.016,
+  "voice_start": 76.3053285292,
+  "voice_duration": 3.916,
+  "output_slug": "sud_vo_adv_csprt-3-0102_02_hski-005",
+  "output_index": 40,
+  "subsong_index": 11,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\acb\\sud_vo_adv_csprt-3-0102_02.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\scripts\\523230363233_b134a57d3cda76153a02cff454ab84bf.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\items\\0040_sud_vo_adv_csprt-3-0102_02_hski-005_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\items\\0040_sud_vo_adv_csprt-3-0102_02_hski-005_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\items\\0040_sud_vo_adv_csprt-3-0102_02_hski-005_03_metadata.json"
+}

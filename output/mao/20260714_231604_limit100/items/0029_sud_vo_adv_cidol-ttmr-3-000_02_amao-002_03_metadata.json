@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5231373233/78608d3915910502d2734b488e9b8d72",
+  "line_no": 31,
+  "voice_line_no": 32,
+  "text": "寮生たちから相談されたんだよ。\n少し奇妙な話なんだけど……",
+  "speaker": "麻央",
+  "voice_cue": "sud_vo_adv_cidol-ttmr-3-000_02_amao-002",
+  "bank_name": "sud_vo_adv_cidol-ttmr-3-000_02",
+  "start": 15.171666727,
+  "duration": 5.455,
+  "voice_start": 15.271666727,
+  "voice_duration": 5.355,
+  "output_slug": "sud_vo_adv_cidol-ttmr-3-000_02_amao-002",
+  "output_index": 29,
+  "subsong_index": 2,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\acb\\sud_vo_adv_cidol-ttmr-3-000_02.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\scripts\\5231373233_78608d3915910502d2734b488e9b8d72.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\items\\0029_sud_vo_adv_cidol-ttmr-3-000_02_amao-002_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\items\\0029_sud_vo_adv_cidol-ttmr-3-000_02_amao-002_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\items\\0029_sud_vo_adv_cidol-ttmr-3-000_02_amao-002_03_metadata.json"
+}

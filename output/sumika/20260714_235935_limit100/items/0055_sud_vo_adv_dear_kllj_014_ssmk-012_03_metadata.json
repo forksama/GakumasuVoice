@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5236363933/4da637f510a8cd24423de7e70fe6ac9c",
+  "line_no": 403,
+  "voice_line_no": 409,
+  "text": "そ、そっか……",
+  "speaker": "清夏",
+  "voice_cue": "sud_vo_adv_dear_kllj_014_ssmk-012",
+  "bank_name": "sud_vo_adv_dear_kllj_014",
+  "start": 332.525130618,
+  "duration": 2.75,
+  "voice_start": 332.625130618,
+  "voice_duration": 2.65,
+  "output_slug": "sud_vo_adv_dear_kllj_014_ssmk-012",
+  "output_index": 55,
+  "subsong_index": 62,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\sumika\\20260714_235935_limit100\\acb\\sud_vo_adv_dear_kllj_014.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\sumika\\20260714_235935_limit100\\scripts\\5236363933_4da637f510a8cd24423de7e70fe6ac9c.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\sumika\\20260714_235935_limit100\\items\\0055_sud_vo_adv_dear_kllj_014_ssmk-012_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\sumika\\20260714_235935_limit100\\items\\0055_sud_vo_adv_dear_kllj_014_ssmk-012_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\sumika\\20260714_235935_limit100\\items\\0055_sud_vo_adv_dear_kllj_014_ssmk-012_03_metadata.json"
+}

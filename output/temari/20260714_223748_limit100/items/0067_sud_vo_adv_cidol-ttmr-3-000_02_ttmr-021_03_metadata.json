@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5231373233/78608d3915910502d2734b488e9b8d72",
+  "line_no": 263,
+  "voice_line_no": 264,
+  "text": "ひとりでお風呂に入れなくて困っている\n子がいるかも、と思って。",
+  "speaker": "手毬",
+  "voice_cue": "sud_vo_adv_cidol-ttmr-3-000_02_ttmr-021",
+  "bank_name": "sud_vo_adv_cidol-ttmr-3-000_02",
+  "start": 164.4983422718,
+  "duration": 3.5700000286,
+  "voice_start": 164.5983422718,
+  "voice_duration": 3.4700000286,
+  "output_slug": "sud_vo_adv_cidol-ttmr-3-000_02_ttmr-021",
+  "output_index": 67,
+  "subsong_index": 44,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\temari\\20260714_223748_limit100\\acb\\sud_vo_adv_cidol-ttmr-3-000_02.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\temari\\20260714_223748_limit100\\scripts\\5231373233_78608d3915910502d2734b488e9b8d72.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\temari\\20260714_223748_limit100\\items\\0067_sud_vo_adv_cidol-ttmr-3-000_02_ttmr-021_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\temari\\20260714_223748_limit100\\items\\0067_sud_vo_adv_cidol-ttmr-3-000_02_ttmr-021_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\temari\\20260714_223748_limit100\\items\\0067_sud_vo_adv_cidol-ttmr-3-000_02_ttmr-021_03_metadata.json"
+}

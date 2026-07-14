@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/523533/1341f5bb78f304f705f98502515ebd5a",
+  "line_no": 156,
+  "voice_line_no": 160,
+  "text": "よくわからないのが……わたしの魅力？",
+  "speaker": "広",
+  "voice_cue": "sud_vo_adv_cidol-shro-3-001_03_shro-027",
+  "bank_name": "sud_vo_adv_cidol-shro-3-001_03",
+  "start": 154.6013021639,
+  "duration": 3.6710978361,
+  "voice_start": 154.7013439532,
+  "voice_duration": 3.571,
+  "output_slug": "sud_vo_adv_cidol-shro-3-001_03_shro-027",
+  "output_index": 80,
+  "subsong_index": 27,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\hiro\\20260715_001531_limit100\\acb\\sud_vo_adv_cidol-shro-3-001_03.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\hiro\\20260715_001531_limit100\\scripts\\523533_1341f5bb78f304f705f98502515ebd5a.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\hiro\\20260715_001531_limit100\\items\\0080_sud_vo_adv_cidol-shro-3-001_03_shro-027_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\hiro\\20260715_001531_limit100\\items\\0080_sud_vo_adv_cidol-shro-3-001_03_shro-027_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\hiro\\20260715_001531_limit100\\items\\0080_sud_vo_adv_cidol-shro-3-001_03_shro-027_03_metadata.json"
+}

@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5231373833/d36577ec5985cac906f46246eb801e82",
+  "line_no": 140,
+  "voice_line_no": 141,
+  "text": "……ホ、ホラーハウス？\nボク、怖いのはちょっと……",
+  "speaker": "麻央",
+  "voice_cue": "sud_vo_adv_dear_amao_033_amao-015",
+  "bank_name": "sud_vo_adv_dear_amao_033",
+  "start": 95.2729979941,
+  "duration": 5.694,
+  "voice_start": 95.3729979941,
+  "voice_duration": 5.594,
+  "output_slug": "sud_vo_adv_dear_amao_033_amao-015",
+  "output_index": 67,
+  "subsong_index": 15,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\acb\\sud_vo_adv_dear_amao_033.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\scripts\\5231373833_d36577ec5985cac906f46246eb801e82.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\items\\0067_sud_vo_adv_dear_amao_033_amao-015_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\items\\0067_sud_vo_adv_dear_amao_033_amao-015_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\items\\0067_sud_vo_adv_dear_amao_033_amao-015_03_metadata.json"
+}

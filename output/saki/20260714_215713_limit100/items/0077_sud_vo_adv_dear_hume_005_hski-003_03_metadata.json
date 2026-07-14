@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5233383733/c782efc799de1081e4b3dd5c35292ead",
+  "line_no": 39,
+  "voice_line_no": 40,
+  "text": "だけど、そー簡単に\n勝たせてはあげないわよ。",
+  "speaker": "咲季",
+  "voice_cue": "sud_vo_adv_dear_hume_005_hski-003",
+  "bank_name": "sud_vo_adv_dear_hume_005",
+  "start": 21.5053332889,
+  "duration": 4.132,
+  "voice_start": 21.6053332889,
+  "voice_duration": 4.032,
+  "output_slug": "sud_vo_adv_dear_hume_005_hski-003",
+  "output_index": 77,
+  "subsong_index": 3,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\acb\\sud_vo_adv_dear_hume_005.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\scripts\\5233383733_c782efc799de1081e4b3dd5c35292ead.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\items\\0077_sud_vo_adv_dear_hume_005_hski-003_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\items\\0077_sud_vo_adv_dear_hume_005_hski-003_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\items\\0077_sud_vo_adv_dear_hume_005_hski-003_03_metadata.json"
+}

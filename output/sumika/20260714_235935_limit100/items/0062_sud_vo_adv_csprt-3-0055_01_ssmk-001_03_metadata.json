@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5234383833/e395e885c1602fe636eddfac99d5327c",
+  "line_no": 22,
+  "voice_line_no": 23,
+  "text": "――ほら、リーリヤ！\n早く早く！",
+  "speaker": "清夏",
+  "voice_cue": "sud_vo_adv_csprt-3-0055_01_ssmk-001",
+  "bank_name": "sud_vo_adv_csprt-3-0055_01",
+  "start": 3.699999984,
+  "duration": 3.7332067585,
+  "voice_start": 3.989873441,
+  "voice_duration": 3.41,
+  "output_slug": "sud_vo_adv_csprt-3-0055_01_ssmk-001",
+  "output_index": 62,
+  "subsong_index": 9,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\sumika\\20260714_235935_limit100\\acb\\sud_vo_adv_csprt-3-0055_01.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\sumika\\20260714_235935_limit100\\scripts\\5234383833_e395e885c1602fe636eddfac99d5327c.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\sumika\\20260714_235935_limit100\\items\\0062_sud_vo_adv_csprt-3-0055_01_ssmk-001_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\sumika\\20260714_235935_limit100\\items\\0062_sud_vo_adv_csprt-3-0055_01_ssmk-001_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\sumika\\20260714_235935_limit100\\items\\0062_sud_vo_adv_csprt-3-0055_01_ssmk-001_03_metadata.json"
+}

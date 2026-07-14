@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5236363933/4da637f510a8cd24423de7e70fe6ac9c",
+  "line_no": 278,
+  "voice_line_no": 282,
+  "text": "わたしがもっとすごいアイドルだったら\n絶対に、そんなことは言われない。",
+  "speaker": "リーリヤ",
+  "voice_cue": "sud_vo_adv_dear_kllj_014_kllj-028",
+  "bank_name": "sud_vo_adv_dear_kllj_014",
+  "start": 218.3800663363,
+  "duration": 5.997,
+  "voice_start": 218.4800663363,
+  "voice_duration": 5.897,
+  "output_slug": "sud_vo_adv_dear_kllj_014_kllj-028",
+  "output_index": 85,
+  "subsong_index": 28,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\lilja\\20260714_232653_limit100\\acb\\sud_vo_adv_dear_kllj_014.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\lilja\\20260714_232653_limit100\\scripts\\5236363933_4da637f510a8cd24423de7e70fe6ac9c.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\lilja\\20260714_232653_limit100\\items\\0085_sud_vo_adv_dear_kllj_014_kllj-028_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\lilja\\20260714_232653_limit100\\items\\0085_sud_vo_adv_dear_kllj_014_kllj-028_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\lilja\\20260714_232653_limit100\\items\\0085_sud_vo_adv_dear_kllj_014_kllj-028_03_metadata.json"
+}

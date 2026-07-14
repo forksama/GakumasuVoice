@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5236323433/7caac344dfce07ac3f2fe16ca309af7e",
+  "line_no": 140,
+  "voice_line_no": 143,
+  "text": "わ……思ったより、すごいのが来た。",
+  "speaker": "広",
+  "voice_cue": "sud_vo_adv_event_014_main-01_shro-004",
+  "bank_name": "sud_vo_adv_event_014_main-01",
+  "start": 73.4926416881,
+  "duration": 4.1871282349,
+  "voice_start": 73.5926416881,
+  "voice_duration": 4.001,
+  "output_slug": "sud_vo_adv_event_014_main-01_shro-004",
+  "output_index": 39,
+  "subsong_index": 50,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\hiro\\20260715_001531_limit100\\acb\\sud_vo_adv_event_014_main-01.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\hiro\\20260715_001531_limit100\\scripts\\5236323433_7caac344dfce07ac3f2fe16ca309af7e.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\hiro\\20260715_001531_limit100\\items\\0039_sud_vo_adv_event_014_main-01_shro-004_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\hiro\\20260715_001531_limit100\\items\\0039_sud_vo_adv_event_014_main-01_shro-004_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\hiro\\20260715_001531_limit100\\items\\0039_sud_vo_adv_event_014_main-01_shro-004_03_metadata.json"
+}

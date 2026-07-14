@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5233353433/18e397b0ebec1b18fc47712a03241d46",
+  "line_no": 327,
+  "voice_line_no": 328,
+  "text": "悪いところも、たくさん知ったわ。",
+  "speaker": "咲季",
+  "voice_cue": "sud_vo_adv_unit_01-01_14_hski-009",
+  "bank_name": "sud_vo_adv_unit_01-01_14",
+  "start": 131.2843701907,
+  "duration": 2.614,
+  "voice_start": 131.2843701907,
+  "voice_duration": 2.314,
+  "output_slug": "sud_vo_adv_unit_01-01_14_hski-009",
+  "output_index": 60,
+  "subsong_index": 31,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\acb\\sud_vo_adv_unit_01-01_14.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\scripts\\5233353433_18e397b0ebec1b18fc47712a03241d46.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\items\\0060_sud_vo_adv_unit_01-01_14_hski-009_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\items\\0060_sud_vo_adv_unit_01-01_14_hski-009_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\items\\0060_sud_vo_adv_unit_01-01_14_hski-009_03_metadata.json"
+}

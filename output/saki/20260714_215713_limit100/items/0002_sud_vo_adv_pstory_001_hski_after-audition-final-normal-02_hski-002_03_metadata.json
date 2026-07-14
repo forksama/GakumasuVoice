@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5236353933/f6456f7a0e2fcd7a47793c7d713d6215",
+  "line_no": 18,
+  "voice_line_no": 19,
+  "text": "なにかしら、プロデューサー？",
+  "speaker": "咲季",
+  "voice_cue": "sud_vo_adv_pstory_001_hski_after-audition-final-normal-02_hski-002",
+  "bank_name": "sud_vo_adv_pstory_001_hski_after-audition-final-normal-02",
+  "start": 10.6720033823,
+  "duration": 1.8509965014,
+  "voice_start": 10.7719998837,
+  "voice_duration": 1.751,
+  "output_slug": "sud_vo_adv_pstory_001_hski_after-audition-final-normal-02_hski-002",
+  "output_index": 2,
+  "subsong_index": 2,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\acb\\sud_vo_adv_pstory_001_hski_after-audition-final-normal-02.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\scripts\\5236353933_f6456f7a0e2fcd7a47793c7d713d6215.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\items\\0002_sud_vo_adv_pstory_001_hski_after-audition-final-normal-02_hski-002_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\items\\0002_sud_vo_adv_pstory_001_hski_after-audition-final-normal-02_hski-002_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\items\\0002_sud_vo_adv_pstory_001_hski_after-audition-final-normal-02_hski-002_03_metadata.json"
+}

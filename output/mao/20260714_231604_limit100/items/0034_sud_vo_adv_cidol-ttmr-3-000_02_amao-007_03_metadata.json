@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5231373233/78608d3915910502d2734b488e9b8d72",
+  "line_no": 77,
+  "voice_line_no": 78,
+  "text": "そっか。なら、なにか気付いたことが\nあったら、ボクに教えてくれるかな。",
+  "speaker": "麻央",
+  "voice_cue": "sud_vo_adv_cidol-ttmr-3-000_02_amao-007",
+  "bank_name": "sud_vo_adv_cidol-ttmr-3-000_02",
+  "start": 47.9206664218,
+  "duration": 6.383,
+  "voice_start": 48.0206664218,
+  "voice_duration": 6.283,
+  "output_slug": "sud_vo_adv_cidol-ttmr-3-000_02_amao-007",
+  "output_index": 34,
+  "subsong_index": 7,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\acb\\sud_vo_adv_cidol-ttmr-3-000_02.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\scripts\\5231373233_78608d3915910502d2734b488e9b8d72.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\items\\0034_sud_vo_adv_cidol-ttmr-3-000_02_amao-007_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\items\\0034_sud_vo_adv_cidol-ttmr-3-000_02_amao-007_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\items\\0034_sud_vo_adv_cidol-ttmr-3-000_02_amao-007_03_metadata.json"
+}

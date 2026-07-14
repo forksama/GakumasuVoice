@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5233383933/bbd731d4e87a1cc5fc9e8a499419c875",
+  "line_no": 125,
+  "voice_line_no": 126,
+  "text": "それにしても……広ちゃんが作った\nモンブラン、とっても大きいね！",
+  "speaker": "莉波",
+  "voice_cue": "sud_vo_adv_csprt-2-0060_02_hrnm-010",
+  "bank_name": "sud_vo_adv_csprt-2-0060_02",
+  "start": 75.7659984842,
+  "duration": 6.405,
+  "voice_start": 75.8659984842,
+  "voice_duration": 6.305,
+  "output_slug": "sud_vo_adv_csprt-2-0060_02_hrnm-010",
+  "output_index": 63,
+  "subsong_index": 10,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\rinami\\20260715_003446_limit100\\acb\\sud_vo_adv_csprt-2-0060_02.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\rinami\\20260715_003446_limit100\\scripts\\5233383933_bbd731d4e87a1cc5fc9e8a499419c875.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\rinami\\20260715_003446_limit100\\items\\0063_sud_vo_adv_csprt-2-0060_02_hrnm-010_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\rinami\\20260715_003446_limit100\\items\\0063_sud_vo_adv_csprt-2-0060_02_hrnm-010_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\rinami\\20260715_003446_limit100\\items\\0063_sud_vo_adv_csprt-2-0060_02_hrnm-010_03_metadata.json"
+}

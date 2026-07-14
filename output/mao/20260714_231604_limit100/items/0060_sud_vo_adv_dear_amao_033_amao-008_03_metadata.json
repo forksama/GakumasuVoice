@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5231373833/d36577ec5985cac906f46246eb801e82",
+  "line_no": 64,
+  "voice_line_no": 65,
+  "text": "それじゃ、今日は\nボクがキミをエスコートします。",
+  "speaker": "麻央",
+  "voice_cue": "sud_vo_adv_dear_amao_033_amao-008",
+  "bank_name": "sud_vo_adv_dear_amao_033",
+  "start": 45.3856682021,
+  "duration": 4.103,
+  "voice_start": 45.4856682021,
+  "voice_duration": 4.003,
+  "output_slug": "sud_vo_adv_dear_amao_033_amao-008",
+  "output_index": 60,
+  "subsong_index": 8,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\acb\\sud_vo_adv_dear_amao_033.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\scripts\\5231373833_d36577ec5985cac906f46246eb801e82.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\items\\0060_sud_vo_adv_dear_amao_033_amao-008_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\items\\0060_sud_vo_adv_dear_amao_033_amao-008_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\items\\0060_sud_vo_adv_dear_amao_033_amao-008_03_metadata.json"
+}

@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5233343633/538c10a1b81f9c4505faebec06876427",
+  "line_no": 60,
+  "voice_line_no": 61,
+  "text": "感情を素直に表現するのが\nかっこ悪いなんて、思い込みでした。",
+  "speaker": "麻央",
+  "voice_cue": "sud_vo_adv_pstory_001_amao_after-audition-final-normal-01_amao-009",
+  "bank_name": "sud_vo_adv_pstory_001_amao_after-audition-final-normal-01",
+  "start": 55.2916661351,
+  "duration": 4.565,
+  "voice_start": 55.3916661351,
+  "voice_duration": 4.465,
+  "output_slug": "sud_vo_adv_pstory_001_amao_after-audition-final-normal-01_amao-009",
+  "output_index": 13,
+  "subsong_index": 9,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\acb\\sud_vo_adv_pstory_001_amao_after-audition-final-normal-01.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\scripts\\5233343633_538c10a1b81f9c4505faebec06876427.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\items\\0013_sud_vo_adv_pstory_001_amao_after-audition-final-normal-01_amao-009_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\items\\0013_sud_vo_adv_pstory_001_amao_after-audition-final-normal-01_amao-009_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\items\\0013_sud_vo_adv_pstory_001_amao_after-audition-final-normal-01_amao-009_03_metadata.json"
+}

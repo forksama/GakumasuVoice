@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/523133/00b6e644da852814525675e4eb31c7ea",
+  "line_no": 62,
+  "voice_line_no": 63,
+  "text": "むぅ……わかったよ。\n次は1位をとってみせるから。",
+  "speaker": "莉波",
+  "voice_cue": "sud_vo_adv_pstory_001_hrnm_after-audition-mid-normal-02_hrnm-008",
+  "bank_name": "sud_vo_adv_pstory_001_hrnm_after-audition-mid-normal-02",
+  "start": 44.7351586632,
+  "duration": 7.625,
+  "voice_start": 44.8351586632,
+  "voice_duration": 7.525,
+  "output_slug": "sud_vo_adv_pstory_001_hrnm_after-audition-mid-normal-02_hrnm-008",
+  "output_index": 82,
+  "subsong_index": 8,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\rinami\\20260715_003446_limit100\\acb\\sud_vo_adv_pstory_001_hrnm_after-audition-mid-normal-02.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\rinami\\20260715_003446_limit100\\scripts\\523133_00b6e644da852814525675e4eb31c7ea.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\rinami\\20260715_003446_limit100\\items\\0082_sud_vo_adv_pstory_001_hrnm_after-audition-mid-normal-02_hrnm-008_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\rinami\\20260715_003446_limit100\\items\\0082_sud_vo_adv_pstory_001_hrnm_after-audition-mid-normal-02_hrnm-008_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\rinami\\20260715_003446_limit100\\items\\0082_sud_vo_adv_pstory_001_hrnm_after-audition-mid-normal-02_hrnm-008_03_metadata.json"
+}

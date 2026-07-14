@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5233353433/18e397b0ebec1b18fc47712a03241d46",
+  "line_no": 272,
+  "voice_line_no": 274,
+  "text": "……うん。全員、ばっちりあるわね。",
+  "speaker": "咲季",
+  "voice_cue": "sud_vo_adv_unit_01-01_14_hski-007",
+  "bank_name": "sud_vo_adv_unit_01-01_14",
+  "start": 103.8586819343,
+  "duration": 3.0106687012,
+  "voice_start": 103.8586819343,
+  "voice_duration": 2.844,
+  "output_slug": "sud_vo_adv_unit_01-01_14_hski-007",
+  "output_index": 58,
+  "subsong_index": 29,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\acb\\sud_vo_adv_unit_01-01_14.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\scripts\\5233353433_18e397b0ebec1b18fc47712a03241d46.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\items\\0058_sud_vo_adv_unit_01-01_14_hski-007_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\items\\0058_sud_vo_adv_unit_01-01_14_hski-007_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\items\\0058_sud_vo_adv_unit_01-01_14_hski-007_03_metadata.json"
+}

@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5236323433/7caac344dfce07ac3f2fe16ca309af7e",
+  "line_no": 71,
+  "voice_line_no": 72,
+  "text": "職員室の前で、\nすごいこと聞いちゃった！！",
+  "speaker": "佑芽",
+  "voice_cue": "sud_vo_adv_event_014_main-01_hume-005",
+  "bank_name": "sud_vo_adv_event_014_main-01",
+  "start": 33.144630102,
+  "duration": 3.7316499938,
+  "voice_start": 33.244630102,
+  "voice_duration": 3.599,
+  "output_slug": "sud_vo_adv_event_014_main-01_hume-005",
+  "output_index": 35,
+  "subsong_index": 13,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\acb\\sud_vo_adv_event_014_main-01.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\scripts\\5236323433_7caac344dfce07ac3f2fe16ca309af7e.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\items\\0035_sud_vo_adv_event_014_main-01_hume-005_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\items\\0035_sud_vo_adv_event_014_main-01_hume-005_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\items\\0035_sud_vo_adv_event_014_main-01_hume-005_03_metadata.json"
+}

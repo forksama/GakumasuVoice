@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5233333733/9cddec52edd2c2c987b50229ede35a4e",
+  "line_no": 8,
+  "voice_line_no": 10,
+  "text": "にゃ、にゃー……にゃにゃー。",
+  "speaker": "手毬",
+  "voice_cue": "sud_vo_adv_csprt-3-0090_02_ttmr-001",
+  "bank_name": "sud_vo_adv_csprt-3-0090_02",
+  "start": 0.8,
+  "duration": 6.0523333015,
+  "voice_start": 0.9,
+  "voice_duration": 5.919,
+  "output_slug": "sud_vo_adv_csprt-3-0090_02_ttmr-001",
+  "output_index": 91,
+  "subsong_index": 10,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\temari\\20260714_223748_limit100\\acb\\sud_vo_adv_csprt-3-0090_02.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\temari\\20260714_223748_limit100\\scripts\\5233333733_9cddec52edd2c2c987b50229ede35a4e.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\temari\\20260714_223748_limit100\\items\\0091_sud_vo_adv_csprt-3-0090_02_ttmr-001_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\temari\\20260714_223748_limit100\\items\\0091_sud_vo_adv_csprt-3-0090_02_ttmr-001_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\temari\\20260714_223748_limit100\\items\\0091_sud_vo_adv_csprt-3-0090_02_ttmr-001_03_metadata.json"
+}

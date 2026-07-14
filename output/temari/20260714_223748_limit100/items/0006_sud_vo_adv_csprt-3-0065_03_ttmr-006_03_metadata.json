@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5232343433/8b6a00d25d2d4abdb203923fd522c02b",
+  "line_no": 128,
+  "voice_line_no": 129,
+  "text": "あっそ……別にいいけど。\n――じゃ、いただきます。",
+  "speaker": "手毬",
+  "voice_cue": "sud_vo_adv_csprt-3-0065_03_ttmr-006",
+  "bank_name": "sud_vo_adv_csprt-3-0065_03",
+  "start": 58.1850771246,
+  "duration": 7.854,
+  "voice_start": 58.2850771246,
+  "voice_duration": 7.754,
+  "output_slug": "sud_vo_adv_csprt-3-0065_03_ttmr-006",
+  "output_index": 6,
+  "subsong_index": 18,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\temari\\20260714_223748_limit100\\acb\\sud_vo_adv_csprt-3-0065_03.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\temari\\20260714_223748_limit100\\scripts\\5232343433_8b6a00d25d2d4abdb203923fd522c02b.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\temari\\20260714_223748_limit100\\items\\0006_sud_vo_adv_csprt-3-0065_03_ttmr-006_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\temari\\20260714_223748_limit100\\items\\0006_sud_vo_adv_csprt-3-0065_03_ttmr-006_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\temari\\20260714_223748_limit100\\items\\0006_sud_vo_adv_csprt-3-0065_03_ttmr-006_03_metadata.json"
+}

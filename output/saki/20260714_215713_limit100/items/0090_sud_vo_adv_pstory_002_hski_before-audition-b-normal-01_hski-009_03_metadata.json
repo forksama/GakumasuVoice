@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5232363533/ddd296a2f8213248d1a94eb61dfca21c",
+  "line_no": 57,
+  "voice_line_no": 58,
+  "text": "わたしの身体が強張ってる。",
+  "speaker": "咲季",
+  "voice_cue": "sud_vo_adv_pstory_002_hski_before-audition-b-normal-01_hski-009",
+  "bank_name": "sud_vo_adv_pstory_002_hski_before-audition-b-normal-01",
+  "start": 38.992995006,
+  "duration": 2.8293381653,
+  "voice_start": 39.092995006,
+  "voice_duration": 2.296,
+  "output_slug": "sud_vo_adv_pstory_002_hski_before-audition-b-normal-01_hski-009",
+  "output_index": 90,
+  "subsong_index": 9,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\acb\\sud_vo_adv_pstory_002_hski_before-audition-b-normal-01.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\scripts\\5232363533_ddd296a2f8213248d1a94eb61dfca21c.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\items\\0090_sud_vo_adv_pstory_002_hski_before-audition-b-normal-01_hski-009_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\items\\0090_sud_vo_adv_pstory_002_hski_before-audition-b-normal-01_hski-009_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\items\\0090_sud_vo_adv_pstory_002_hski_before-audition-b-normal-01_hski-009_03_metadata.json"
+}

@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5233383933/bbd731d4e87a1cc5fc9e8a499419c875",
+  "line_no": 65,
+  "voice_line_no": 66,
+  "text": "どうしたの？　手、切っちゃった？\n痛くない？　大丈夫？",
+  "speaker": "莉波",
+  "voice_cue": "sud_vo_adv_csprt-2-0060_02_hrnm-005",
+  "bank_name": "sud_vo_adv_csprt-2-0060_02",
+  "start": 34.3366661024,
+  "duration": 5.207,
+  "voice_start": 34.4366661024,
+  "voice_duration": 5.107,
+  "output_slug": "sud_vo_adv_csprt-2-0060_02_hrnm-005",
+  "output_index": 58,
+  "subsong_index": 5,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\rinami\\20260715_003446_limit100\\acb\\sud_vo_adv_csprt-2-0060_02.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\rinami\\20260715_003446_limit100\\scripts\\5233383933_bbd731d4e87a1cc5fc9e8a499419c875.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\rinami\\20260715_003446_limit100\\items\\0058_sud_vo_adv_csprt-2-0060_02_hrnm-005_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\rinami\\20260715_003446_limit100\\items\\0058_sud_vo_adv_csprt-2-0060_02_hrnm-005_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\rinami\\20260715_003446_limit100\\items\\0058_sud_vo_adv_csprt-2-0060_02_hrnm-005_03_metadata.json"
+}

@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5234373433/1b400f1de9f182e96aead45e8597d1ef",
+  "line_no": 98,
+  "voice_line_no": 110,
+  "text": "ちょ！　じゃあ分担して踊ろうよ。\n上と右はあたし、ひろっちは下と左ね。",
+  "speaker": "清夏",
+  "voice_cue": "sud_vo_adv_csprt-3-0073_02_ssmk-006",
+  "bank_name": "sud_vo_adv_csprt-3-0073_02",
+  "start": 53.9023000024,
+  "duration": 9.338,
+  "voice_start": 54.0023000024,
+  "voice_duration": 9.238,
+  "output_slug": "sud_vo_adv_csprt-3-0073_02_ssmk-006",
+  "output_index": 78,
+  "subsong_index": 17,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\sumika\\20260714_235935_limit100\\acb\\sud_vo_adv_csprt-3-0073_02.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\sumika\\20260714_235935_limit100\\scripts\\5234373433_1b400f1de9f182e96aead45e8597d1ef.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\sumika\\20260714_235935_limit100\\items\\0078_sud_vo_adv_csprt-3-0073_02_ssmk-006_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\sumika\\20260714_235935_limit100\\items\\0078_sud_vo_adv_csprt-3-0073_02_ssmk-006_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\sumika\\20260714_235935_limit100\\items\\0078_sud_vo_adv_csprt-3-0073_02_ssmk-006_03_metadata.json"
+}

@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5236353833/9f924b1f3d31cb08383f7993b06cfdc7",
+  "line_no": 12,
+  "voice_line_no": 13,
+  "text": "さっそく遊びに行きましょう！",
+  "speaker": "佑芽",
+  "voice_cue": "sud_vo_adv_pstory_001_hume_ending-normal-01_hume-002",
+  "bank_name": "sud_vo_adv_pstory_001_hume_ending-normal-01",
+  "start": 3.940666743,
+  "duration": 2.352,
+  "voice_start": 4.040666743,
+  "voice_duration": 2.252,
+  "output_slug": "sud_vo_adv_pstory_001_hume_ending-normal-01_hume-002",
+  "output_index": 99,
+  "subsong_index": 2,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\acb\\sud_vo_adv_pstory_001_hume_ending-normal-01.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\scripts\\5236353833_9f924b1f3d31cb08383f7993b06cfdc7.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\items\\0099_sud_vo_adv_pstory_001_hume_ending-normal-01_hume-002_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\items\\0099_sud_vo_adv_pstory_001_hume_ending-normal-01_hume-002_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\items\\0099_sud_vo_adv_pstory_001_hume_ending-normal-01_hume-002_03_metadata.json"
+}

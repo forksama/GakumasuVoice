@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/52353633/a8d8e721facb5a1bfc5abe3a0997ec79",
+  "line_no": 46,
+  "voice_line_no": 47,
+  "text": "上手く踊れないのは、ふつーに\nあたしの実力不足じゃないかなぁって。",
+  "speaker": "ことね",
+  "voice_cue": "sud_vo_adv_pstory_001_fktn_after-step-2-normal-03_fktn-006",
+  "bank_name": "sud_vo_adv_pstory_001_fktn_after-step-2-normal-03",
+  "start": 38.349923846,
+  "duration": 6.3788714815,
+  "voice_start": 38.4499242783,
+  "voice_duration": 6.251,
+  "output_slug": "sud_vo_adv_pstory_001_fktn_after-step-2-normal-03_fktn-006",
+  "output_index": 18,
+  "subsong_index": 6,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\kotone\\20260714_230100_limit100\\acb\\sud_vo_adv_pstory_001_fktn_after-step-2-normal-03.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\kotone\\20260714_230100_limit100\\scripts\\52353633_a8d8e721facb5a1bfc5abe3a0997ec79.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\kotone\\20260714_230100_limit100\\items\\0018_sud_vo_adv_pstory_001_fktn_after-step-2-normal-03_fktn-006_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\kotone\\20260714_230100_limit100\\items\\0018_sud_vo_adv_pstory_001_fktn_after-step-2-normal-03_fktn-006_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\kotone\\20260714_230100_limit100\\items\\0018_sud_vo_adv_pstory_001_fktn_after-step-2-normal-03_fktn-006_03_metadata.json"
+}

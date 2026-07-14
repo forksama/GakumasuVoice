@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5235363633/8fb6b28961efad26a5d68bf22aa4850a",
+  "line_no": 85,
+  "voice_line_no": 88,
+  "text": "褒められてるはずなのに、\n呆れられてるような気がする。",
+  "speaker": "広",
+  "voice_cue": "sud_vo_adv_pstory_001_shro_after-audition-mid-normal-02_shro-012",
+  "bank_name": "sud_vo_adv_pstory_001_shro_after-audition-mid-normal-02",
+  "start": 66.5648849529,
+  "duration": 4.283,
+  "voice_start": 66.6648849529,
+  "voice_duration": 4.183,
+  "output_slug": "sud_vo_adv_pstory_001_shro_after-audition-mid-normal-02_shro-012",
+  "output_index": 22,
+  "subsong_index": 12,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\hiro\\20260715_001531_limit100\\acb\\sud_vo_adv_pstory_001_shro_after-audition-mid-normal-02.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\hiro\\20260715_001531_limit100\\scripts\\5235363633_8fb6b28961efad26a5d68bf22aa4850a.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\hiro\\20260715_001531_limit100\\items\\0022_sud_vo_adv_pstory_001_shro_after-audition-mid-normal-02_shro-012_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\hiro\\20260715_001531_limit100\\items\\0022_sud_vo_adv_pstory_001_shro_after-audition-mid-normal-02_shro-012_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\hiro\\20260715_001531_limit100\\items\\0022_sud_vo_adv_pstory_001_shro_after-audition-mid-normal-02_shro-012_03_metadata.json"
+}

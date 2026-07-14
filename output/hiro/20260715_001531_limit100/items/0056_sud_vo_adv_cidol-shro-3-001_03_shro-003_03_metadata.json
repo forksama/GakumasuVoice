@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/523533/1341f5bb78f304f705f98502515ebd5a",
+  "line_no": 20,
+  "voice_line_no": 24,
+  "text": "わたしのことを好きそうな人たちに……\n聞き取り調査をしてきたの。",
+  "speaker": "広",
+  "voice_cue": "sud_vo_adv_cidol-shro-3-001_03_shro-003",
+  "bank_name": "sud_vo_adv_cidol-shro-3-001_03",
+  "start": 11.2649994754,
+  "duration": 4.4279969846,
+  "voice_start": 11.36499646,
+  "voice_duration": 4.328,
+  "output_slug": "sud_vo_adv_cidol-shro-3-001_03_shro-003",
+  "output_index": 56,
+  "subsong_index": 3,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\hiro\\20260715_001531_limit100\\acb\\sud_vo_adv_cidol-shro-3-001_03.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\hiro\\20260715_001531_limit100\\scripts\\523533_1341f5bb78f304f705f98502515ebd5a.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\hiro\\20260715_001531_limit100\\items\\0056_sud_vo_adv_cidol-shro-3-001_03_shro-003_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\hiro\\20260715_001531_limit100\\items\\0056_sud_vo_adv_cidol-shro-3-001_03_shro-003_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\hiro\\20260715_001531_limit100\\items\\0056_sud_vo_adv_cidol-shro-3-001_03_shro-003_03_metadata.json"
+}

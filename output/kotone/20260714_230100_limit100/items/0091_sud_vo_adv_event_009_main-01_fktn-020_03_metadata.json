@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5235363933/9f0999c8ee8ecd4a50fce6dc66044d1a",
+  "line_no": 233,
+  "voice_line_no": 234,
+  "text": "（あ、相変わらずめんどくせぇ～！）",
+  "speaker": "ことね",
+  "voice_cue": "sud_vo_adv_event_009_main-01_fktn-020",
+  "bank_name": "sud_vo_adv_event_009_main-01",
+  "start": 133.416324704,
+  "duration": 4.1253404542,
+  "voice_start": 133.516324704,
+  "voice_duration": 3.992,
+  "output_slug": "sud_vo_adv_event_009_main-01_fktn-020",
+  "output_index": 91,
+  "subsong_index": 20,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\kotone\\20260714_230100_limit100\\acb\\sud_vo_adv_event_009_main-01.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\kotone\\20260714_230100_limit100\\scripts\\5235363933_9f0999c8ee8ecd4a50fce6dc66044d1a.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\kotone\\20260714_230100_limit100\\items\\0091_sud_vo_adv_event_009_main-01_fktn-020_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\kotone\\20260714_230100_limit100\\items\\0091_sud_vo_adv_event_009_main-01_fktn-020_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\kotone\\20260714_230100_limit100\\items\\0091_sud_vo_adv_event_009_main-01_fktn-020_03_metadata.json"
+}

@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5236323433/7caac344dfce07ac3f2fe16ca309af7e",
+  "line_no": 294,
+  "voice_line_no": 298,
+  "text": "みんなでライブをして、\nすっごく目立てるんだって！",
+  "speaker": "佑芽",
+  "voice_cue": "sud_vo_adv_event_014_main-01_hume-015",
+  "bank_name": "sud_vo_adv_event_014_main-01",
+  "start": 178.8046827288,
+  "duration": 4.3812438965,
+  "voice_start": 178.9046827288,
+  "voice_duration": 4.1,
+  "output_slug": "sud_vo_adv_event_014_main-01_hume-015",
+  "output_index": 45,
+  "subsong_index": 23,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\acb\\sud_vo_adv_event_014_main-01.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\scripts\\5236323433_7caac344dfce07ac3f2fe16ca309af7e.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\items\\0045_sud_vo_adv_event_014_main-01_hume-015_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\items\\0045_sud_vo_adv_event_014_main-01_hume-015_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\items\\0045_sud_vo_adv_event_014_main-01_hume-015_03_metadata.json"
+}

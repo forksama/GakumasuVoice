@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/52313333/b27f286278ef5809e64357af44b940cc",
+  "line_no": 45,
+  "voice_line_no": 46,
+  "text": "……いつも、清夏ちゃんが\n不意打ち、してくるから……。",
+  "speaker": "リーリヤ",
+  "voice_cue": "sud_vo_adv_csprt-3-0008_01_kllj-002",
+  "bank_name": "sud_vo_adv_csprt-3-0008_01",
+  "start": 24.503494292,
+  "duration": 4.9189595947,
+  "voice_start": 24.603494292,
+  "voice_duration": 4.801,
+  "output_slug": "sud_vo_adv_csprt-3-0008_01_kllj-002",
+  "output_index": 2,
+  "subsong_index": 2,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\lilja\\20260714_232653_limit100\\acb\\sud_vo_adv_csprt-3-0008_01.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\lilja\\20260714_232653_limit100\\scripts\\52313333_b27f286278ef5809e64357af44b940cc.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\lilja\\20260714_232653_limit100\\items\\0002_sud_vo_adv_csprt-3-0008_01_kllj-002_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\lilja\\20260714_232653_limit100\\items\\0002_sud_vo_adv_csprt-3-0008_01_kllj-002_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\lilja\\20260714_232653_limit100\\items\\0002_sud_vo_adv_csprt-3-0008_01_kllj-002_03_metadata.json"
+}

@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5231373233/78608d3915910502d2734b488e9b8d72",
+  "line_no": 166,
+  "voice_line_no": 167,
+  "text": "ち、ちがっ！？",
+  "speaker": "手毬",
+  "voice_cue": "sud_vo_adv_cidol-ttmr-3-000_02_ttmr-013",
+  "bank_name": "sud_vo_adv_cidol-ttmr-3-000_02",
+  "start": 116.734670552,
+  "duration": 1.6999921164,
+  "voice_start": 116.834670552,
+  "voice_duration": 1.05400002,
+  "output_slug": "sud_vo_adv_cidol-ttmr-3-000_02_ttmr-013",
+  "output_index": 59,
+  "subsong_index": 36,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\temari\\20260714_223748_limit100\\acb\\sud_vo_adv_cidol-ttmr-3-000_02.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\temari\\20260714_223748_limit100\\scripts\\5231373233_78608d3915910502d2734b488e9b8d72.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\temari\\20260714_223748_limit100\\items\\0059_sud_vo_adv_cidol-ttmr-3-000_02_ttmr-013_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\temari\\20260714_223748_limit100\\items\\0059_sud_vo_adv_cidol-ttmr-3-000_02_ttmr-013_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\temari\\20260714_223748_limit100\\items\\0059_sud_vo_adv_cidol-ttmr-3-000_02_ttmr-013_03_metadata.json"
+}

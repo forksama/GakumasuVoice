@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5231313933/d1510341ff896241812b3d56769fc7e8",
+  "line_no": 5,
+  "voice_line_no": 6,
+  "text": "{user}くん。\n今お茶淹れるね。\n京都の有名なお茶なんだ。",
+  "speaker": "莉波",
+  "voice_cue": "sud_vo_adv_cidol-hrnm-3-013_03_hrnm-001",
+  "bank_name": "sud_vo_adv_cidol-hrnm-3-013_03",
+  "start": 0.8,
+  "duration": 6.066,
+  "voice_start": 0.9,
+  "voice_duration": 5.966,
+  "output_slug": "sud_vo_adv_cidol-hrnm-3-013_03_hrnm-001",
+  "output_index": 92,
+  "subsong_index": 1,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\rinami\\20260715_003446_limit100\\acb\\sud_vo_adv_cidol-hrnm-3-013_03.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\rinami\\20260715_003446_limit100\\scripts\\5231313933_d1510341ff896241812b3d56769fc7e8.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\rinami\\20260715_003446_limit100\\items\\0092_sud_vo_adv_cidol-hrnm-3-013_03_hrnm-001_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\rinami\\20260715_003446_limit100\\items\\0092_sud_vo_adv_cidol-hrnm-3-013_03_hrnm-001_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\rinami\\20260715_003446_limit100\\items\\0092_sud_vo_adv_cidol-hrnm-3-013_03_hrnm-001_03_metadata.json"
+}

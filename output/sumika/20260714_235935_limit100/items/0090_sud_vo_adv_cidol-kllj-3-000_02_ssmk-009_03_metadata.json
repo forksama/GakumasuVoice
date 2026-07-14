@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5232303433/7bd8f5c277399a65c19df3c8772d19de",
+  "line_no": 141,
+  "voice_line_no": 142,
+  "text": "難しい、かぁ……どんな曲なの？\n聞いてみたいな！",
+  "speaker": "清夏",
+  "voice_cue": "sud_vo_adv_cidol-kllj-3-000_02_ssmk-009",
+  "bank_name": "sud_vo_adv_cidol-kllj-3-000_02",
+  "start": 105.4376441792,
+  "duration": 6.4253328247,
+  "voice_start": 105.5376441792,
+  "voice_duration": 6.292,
+  "output_slug": "sud_vo_adv_cidol-kllj-3-000_02_ssmk-009",
+  "output_index": 90,
+  "subsong_index": 34,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\sumika\\20260714_235935_limit100\\acb\\sud_vo_adv_cidol-kllj-3-000_02.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\sumika\\20260714_235935_limit100\\scripts\\5232303433_7bd8f5c277399a65c19df3c8772d19de.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\sumika\\20260714_235935_limit100\\items\\0090_sud_vo_adv_cidol-kllj-3-000_02_ssmk-009_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\sumika\\20260714_235935_limit100\\items\\0090_sud_vo_adv_cidol-kllj-3-000_02_ssmk-009_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\sumika\\20260714_235935_limit100\\items\\0090_sud_vo_adv_cidol-kllj-3-000_02_ssmk-009_03_metadata.json"
+}

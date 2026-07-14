@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5232363633/91c2f8d316e76a714841710cea673408",
+  "line_no": 81,
+  "voice_line_no": 82,
+  "text": "うん！\nそのためには、合格しないと……！",
+  "speaker": "リーリヤ",
+  "voice_cue": "sud_vo_adv_csprt-3-0093_01_kllj-004",
+  "bank_name": "sud_vo_adv_csprt-3-0093_01",
+  "start": 39.3759990177,
+  "duration": 6.1763335877,
+  "voice_start": 39.4759990177,
+  "voice_duration": 5.843,
+  "output_slug": "sud_vo_adv_csprt-3-0093_01_kllj-004",
+  "output_index": 52,
+  "subsong_index": 4,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\lilja\\20260714_232653_limit100\\acb\\sud_vo_adv_csprt-3-0093_01.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\lilja\\20260714_232653_limit100\\scripts\\5232363633_91c2f8d316e76a714841710cea673408.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\lilja\\20260714_232653_limit100\\items\\0052_sud_vo_adv_csprt-3-0093_01_kllj-004_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\lilja\\20260714_232653_limit100\\items\\0052_sud_vo_adv_csprt-3-0093_01_kllj-004_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\lilja\\20260714_232653_limit100\\items\\0052_sud_vo_adv_csprt-3-0093_01_kllj-004_03_metadata.json"
+}

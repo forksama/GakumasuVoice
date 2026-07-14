@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/52313333/b27f286278ef5809e64357af44b940cc",
+  "line_no": 15,
+  "voice_line_no": 16,
+  "text": "……これって、入学前に\n日本に来たときの……？",
+  "speaker": "リーリヤ",
+  "voice_cue": "sud_vo_adv_csprt-3-0008_01_kllj-001",
+  "bank_name": "sud_vo_adv_csprt-3-0008_01",
+  "start": 5.7896266048,
+  "duration": 5.378973381,
+  "voice_start": 5.8896266048,
+  "voice_duration": 5.267,
+  "output_slug": "sud_vo_adv_csprt-3-0008_01_kllj-001",
+  "output_index": 1,
+  "subsong_index": 1,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\lilja\\20260714_232653_limit100\\acb\\sud_vo_adv_csprt-3-0008_01.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\lilja\\20260714_232653_limit100\\scripts\\52313333_b27f286278ef5809e64357af44b940cc.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\lilja\\20260714_232653_limit100\\items\\0001_sud_vo_adv_csprt-3-0008_01_kllj-001_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\lilja\\20260714_232653_limit100\\items\\0001_sud_vo_adv_csprt-3-0008_01_kllj-001_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\lilja\\20260714_232653_limit100\\items\\0001_sud_vo_adv_csprt-3-0008_01_kllj-001_03_metadata.json"
+}

@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5233383733/c782efc799de1081e4b3dd5c35292ead",
+  "line_no": 48,
+  "voice_line_no": 51,
+  "text": "ん？",
+  "speaker": "咲季",
+  "voice_cue": "sud_vo_adv_dear_hume_005_hski-004",
+  "bank_name": "sud_vo_adv_dear_hume_005",
+  "start": 27.9094633755,
+  "duration": 1.2226679382,
+  "voice_start": 28.0094633755,
+  "voice_duration": 0.456,
+  "output_slug": "sud_vo_adv_dear_hume_005_hski-004",
+  "output_index": 78,
+  "subsong_index": 4,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\acb\\sud_vo_adv_dear_hume_005.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\scripts\\5233383733_c782efc799de1081e4b3dd5c35292ead.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\items\\0078_sud_vo_adv_dear_hume_005_hski-004_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\items\\0078_sud_vo_adv_dear_hume_005_hski-004_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\items\\0078_sud_vo_adv_dear_hume_005_hski-004_03_metadata.json"
+}

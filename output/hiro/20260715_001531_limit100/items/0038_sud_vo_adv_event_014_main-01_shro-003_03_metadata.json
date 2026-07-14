@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5236323433/7caac344dfce07ac3f2fe16ca309af7e",
+  "line_no": 127,
+  "voice_line_no": 130,
+  "text": "対抗戦って、なにをするの？　\nアイドルに関係あること？",
+  "speaker": "広",
+  "voice_cue": "sud_vo_adv_event_014_main-01_shro-003",
+  "bank_name": "sud_vo_adv_event_014_main-01",
+  "start": 65.8264944121,
+  "duration": 4.8250113221,
+  "voice_start": 65.9264944121,
+  "voice_duration": 4.697,
+  "output_slug": "sud_vo_adv_event_014_main-01_shro-003",
+  "output_index": 38,
+  "subsong_index": 49,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\hiro\\20260715_001531_limit100\\acb\\sud_vo_adv_event_014_main-01.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\hiro\\20260715_001531_limit100\\scripts\\5236323433_7caac344dfce07ac3f2fe16ca309af7e.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\hiro\\20260715_001531_limit100\\items\\0038_sud_vo_adv_event_014_main-01_shro-003_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\hiro\\20260715_001531_limit100\\items\\0038_sud_vo_adv_event_014_main-01_shro-003_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\hiro\\20260715_001531_limit100\\items\\0038_sud_vo_adv_event_014_main-01_shro-003_03_metadata.json"
+}

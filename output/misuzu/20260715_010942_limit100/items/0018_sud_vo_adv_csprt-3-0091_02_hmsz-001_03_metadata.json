@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5231383533/9e892c04614202994492103a131491d0",
+  "line_no": 68,
+  "voice_line_no": 69,
+  "text": "わたしは、たまに\nまりちゃんと食べてましたよ。",
+  "speaker": "美鈴",
+  "voice_cue": "sud_vo_adv_csprt-3-0091_02_hmsz-001",
+  "bank_name": "sud_vo_adv_csprt-3-0091_02",
+  "start": 20.796667304,
+  "duration": 3.792,
+  "voice_start": 20.896667304,
+  "voice_duration": 3.692,
+  "output_slug": "sud_vo_adv_csprt-3-0091_02_hmsz-001",
+  "output_index": 18,
+  "subsong_index": 1,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\misuzu\\20260715_010942_limit100\\acb\\sud_vo_adv_csprt-3-0091_02.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\misuzu\\20260715_010942_limit100\\scripts\\5231383533_9e892c04614202994492103a131491d0.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\misuzu\\20260715_010942_limit100\\items\\0018_sud_vo_adv_csprt-3-0091_02_hmsz-001_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\misuzu\\20260715_010942_limit100\\items\\0018_sud_vo_adv_csprt-3-0091_02_hmsz-001_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\misuzu\\20260715_010942_limit100\\items\\0018_sud_vo_adv_csprt-3-0091_02_hmsz-001_03_metadata.json"
+}

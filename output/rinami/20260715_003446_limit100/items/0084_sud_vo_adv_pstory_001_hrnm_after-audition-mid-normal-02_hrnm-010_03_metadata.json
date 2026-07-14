@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/523133/00b6e644da852814525675e4eb31c7ea",
+  "line_no": 73,
+  "voice_line_no": 74,
+  "text": "全力のパフォーマンスができたって、\n思ったんだけど……",
+  "speaker": "莉波",
+  "voice_cue": "sud_vo_adv_pstory_001_hrnm_after-audition-mid-normal-02_hrnm-010",
+  "bank_name": "sud_vo_adv_pstory_001_hrnm_after-audition-mid-normal-02",
+  "start": 58.9601016633,
+  "duration": 3.997,
+  "voice_start": 59.0601016633,
+  "voice_duration": 3.897,
+  "output_slug": "sud_vo_adv_pstory_001_hrnm_after-audition-mid-normal-02_hrnm-010",
+  "output_index": 84,
+  "subsong_index": 10,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\rinami\\20260715_003446_limit100\\acb\\sud_vo_adv_pstory_001_hrnm_after-audition-mid-normal-02.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\rinami\\20260715_003446_limit100\\scripts\\523133_00b6e644da852814525675e4eb31c7ea.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\rinami\\20260715_003446_limit100\\items\\0084_sud_vo_adv_pstory_001_hrnm_after-audition-mid-normal-02_hrnm-010_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\rinami\\20260715_003446_limit100\\items\\0084_sud_vo_adv_pstory_001_hrnm_after-audition-mid-normal-02_hrnm-010_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\rinami\\20260715_003446_limit100\\items\\0084_sud_vo_adv_pstory_001_hrnm_after-audition-mid-normal-02_hrnm-010_03_metadata.json"
+}

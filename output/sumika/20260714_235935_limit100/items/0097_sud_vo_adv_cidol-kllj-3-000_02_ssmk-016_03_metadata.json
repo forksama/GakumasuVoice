@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5232303433/7bd8f5c277399a65c19df3c8772d19de",
+  "line_no": 226,
+  "voice_line_no": 227,
+  "text": "上手かどうかより、見ている人に\n気持ちを届けられるかどうかじゃん？",
+  "speaker": "清夏",
+  "voice_cue": "sud_vo_adv_cidol-kllj-3-000_02_ssmk-016",
+  "bank_name": "sud_vo_adv_cidol-kllj-3-000_02",
+  "start": 160.1823282756,
+  "duration": 5.1193404541,
+  "voice_start": 160.2823282756,
+  "voice_duration": 4.986,
+  "output_slug": "sud_vo_adv_cidol-kllj-3-000_02_ssmk-016",
+  "output_index": 97,
+  "subsong_index": 41,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\sumika\\20260714_235935_limit100\\acb\\sud_vo_adv_cidol-kllj-3-000_02.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\sumika\\20260714_235935_limit100\\scripts\\5232303433_7bd8f5c277399a65c19df3c8772d19de.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\sumika\\20260714_235935_limit100\\items\\0097_sud_vo_adv_cidol-kllj-3-000_02_ssmk-016_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\sumika\\20260714_235935_limit100\\items\\0097_sud_vo_adv_cidol-kllj-3-000_02_ssmk-016_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\sumika\\20260714_235935_limit100\\items\\0097_sud_vo_adv_cidol-kllj-3-000_02_ssmk-016_03_metadata.json"
+}

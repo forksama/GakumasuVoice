@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5233333433/918b877dba755f94acaaae0c89d40165",
+  "line_no": 26,
+  "voice_line_no": 27,
+  "text": "『勝つ』って、やっぱりいいですね！",
+  "speaker": "佑芽",
+  "voice_cue": "sud_vo_adv_pstory_001_hume_after-audition-final-normal-01_hume-004",
+  "bank_name": "sud_vo_adv_pstory_001_hume_after-audition-final-normal-01",
+  "start": 15.1493319393,
+  "duration": 2.814,
+  "voice_start": 15.2493319393,
+  "voice_duration": 2.714,
+  "output_slug": "sud_vo_adv_pstory_001_hume_after-audition-final-normal-01_hume-004",
+  "output_index": 54,
+  "subsong_index": 4,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\acb\\sud_vo_adv_pstory_001_hume_after-audition-final-normal-01.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\scripts\\5233333433_918b877dba755f94acaaae0c89d40165.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\items\\0054_sud_vo_adv_pstory_001_hume_after-audition-final-normal-01_hume-004_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\items\\0054_sud_vo_adv_pstory_001_hume_after-audition-final-normal-01_hume-004_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\items\\0054_sud_vo_adv_pstory_001_hume_after-audition-final-normal-01_hume-004_03_metadata.json"
+}

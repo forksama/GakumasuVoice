@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5232363533/ddd296a2f8213248d1a94eb61dfca21c",
+  "line_no": 53,
+  "voice_line_no": 54,
+  "text": "その期待に応えたいって、\n応えなくちゃって。",
+  "speaker": "咲季",
+  "voice_cue": "sud_vo_adv_pstory_002_hski_before-audition-b-normal-01_hski-008",
+  "bank_name": "sud_vo_adv_pstory_002_hski_before-audition-b-normal-01",
+  "start": 35.1379960804,
+  "duration": 3.6616656495,
+  "voice_start": 35.2379960804,
+  "voice_duration": 3.495,
+  "output_slug": "sud_vo_adv_pstory_002_hski_before-audition-b-normal-01_hski-008",
+  "output_index": 89,
+  "subsong_index": 8,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\acb\\sud_vo_adv_pstory_002_hski_before-audition-b-normal-01.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\scripts\\5232363533_ddd296a2f8213248d1a94eb61dfca21c.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\items\\0089_sud_vo_adv_pstory_002_hski_before-audition-b-normal-01_hski-008_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\items\\0089_sud_vo_adv_pstory_002_hski_before-audition-b-normal-01_hski-008_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\items\\0089_sud_vo_adv_pstory_002_hski_before-audition-b-normal-01_hski-008_03_metadata.json"
+}

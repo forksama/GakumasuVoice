@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5233333733/9cddec52edd2c2c987b50229ede35a4e",
+  "line_no": 115,
+  "voice_line_no": 116,
+  "text": "……緊張してるのが、\n伝わってる、のかも。",
+  "speaker": "広",
+  "voice_cue": "sud_vo_adv_csprt-3-0090_02_shro-004",
+  "bank_name": "sud_vo_adv_csprt-3-0090_02",
+  "start": 62.9380046525,
+  "duration": 3.2463328247,
+  "voice_start": 63.0380046525,
+  "voice_duration": 3.113,
+  "output_slug": "sud_vo_adv_csprt-3-0090_02_shro-004",
+  "output_index": 98,
+  "subsong_index": 4,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\hiro\\20260715_001531_limit100\\acb\\sud_vo_adv_csprt-3-0090_02.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\hiro\\20260715_001531_limit100\\scripts\\5233333733_9cddec52edd2c2c987b50229ede35a4e.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\hiro\\20260715_001531_limit100\\items\\0098_sud_vo_adv_csprt-3-0090_02_shro-004_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\hiro\\20260715_001531_limit100\\items\\0098_sud_vo_adv_csprt-3-0090_02_shro-004_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\hiro\\20260715_001531_limit100\\items\\0098_sud_vo_adv_csprt-3-0090_02_shro-004_03_metadata.json"
+}

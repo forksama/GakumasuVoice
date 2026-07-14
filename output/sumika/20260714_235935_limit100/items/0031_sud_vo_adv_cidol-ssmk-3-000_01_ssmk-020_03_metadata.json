@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5235363833/e112073be42b8162e85b19648e82b7ac",
+  "line_no": 147,
+  "voice_line_no": 148,
+  "text": "でも上等。テンション上がってきた。\n望むところって感じ？",
+  "speaker": "清夏",
+  "voice_cue": "sud_vo_adv_cidol-ssmk-3-000_01_ssmk-020",
+  "bank_name": "sud_vo_adv_cidol-ssmk-3-000_01",
+  "start": 141.1546791739,
+  "duration": 5.613,
+  "voice_start": 141.2546791739,
+  "voice_duration": 5.513,
+  "output_slug": "sud_vo_adv_cidol-ssmk-3-000_01_ssmk-020",
+  "output_index": 31,
+  "subsong_index": 20,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\sumika\\20260714_235935_limit100\\acb\\sud_vo_adv_cidol-ssmk-3-000_01.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\sumika\\20260714_235935_limit100\\scripts\\5235363833_e112073be42b8162e85b19648e82b7ac.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\sumika\\20260714_235935_limit100\\items\\0031_sud_vo_adv_cidol-ssmk-3-000_01_ssmk-020_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\sumika\\20260714_235935_limit100\\items\\0031_sud_vo_adv_cidol-ssmk-3-000_01_ssmk-020_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\sumika\\20260714_235935_limit100\\items\\0031_sud_vo_adv_cidol-ssmk-3-000_01_ssmk-020_03_metadata.json"
+}

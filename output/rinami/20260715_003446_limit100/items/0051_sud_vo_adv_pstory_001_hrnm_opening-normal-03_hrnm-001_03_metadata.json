@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5233363933/5d8d78fb2c81a55dcb196ee0fa993785",
+  "line_no": 4,
+  "voice_line_no": 5,
+  "text": "あ、{user}くん！\nおはよう！",
+  "speaker": "莉波",
+  "voice_cue": "sud_vo_adv_pstory_001_hrnm_opening-normal-03_hrnm-001",
+  "bank_name": "sud_vo_adv_pstory_001_hrnm_opening-normal-03",
+  "start": 0.8,
+  "duration": 3.272,
+  "voice_start": 0.9,
+  "voice_duration": 3.172,
+  "output_slug": "sud_vo_adv_pstory_001_hrnm_opening-normal-03_hrnm-001",
+  "output_index": 51,
+  "subsong_index": 1,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\rinami\\20260715_003446_limit100\\acb\\sud_vo_adv_pstory_001_hrnm_opening-normal-03.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\rinami\\20260715_003446_limit100\\scripts\\5233363933_5d8d78fb2c81a55dcb196ee0fa993785.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\rinami\\20260715_003446_limit100\\items\\0051_sud_vo_adv_pstory_001_hrnm_opening-normal-03_hrnm-001_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\rinami\\20260715_003446_limit100\\items\\0051_sud_vo_adv_pstory_001_hrnm_opening-normal-03_hrnm-001_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\rinami\\20260715_003446_limit100\\items\\0051_sud_vo_adv_pstory_001_hrnm_opening-normal-03_hrnm-001_03_metadata.json"
+}

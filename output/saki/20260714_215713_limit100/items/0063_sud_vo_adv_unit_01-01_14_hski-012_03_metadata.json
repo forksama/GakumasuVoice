@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5233353433/18e397b0ebec1b18fc47712a03241d46",
+  "line_no": 365,
+  "voice_line_no": 369,
+  "text": "ことね？　なにをそんなに、むずかしー顔してるの？",
+  "speaker": "咲季",
+  "voice_cue": "sud_vo_adv_unit_01-01_14_hski-012",
+  "bank_name": "sud_vo_adv_unit_01-01_14",
+  "start": 154.4943692427,
+  "duration": 3.1776625977,
+  "voice_start": 154.4943692427,
+  "voice_duration": 3.111,
+  "output_slug": "sud_vo_adv_unit_01-01_14_hski-012",
+  "output_index": 63,
+  "subsong_index": 34,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\acb\\sud_vo_adv_unit_01-01_14.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\scripts\\5233353433_18e397b0ebec1b18fc47712a03241d46.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\items\\0063_sud_vo_adv_unit_01-01_14_hski-012_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\items\\0063_sud_vo_adv_unit_01-01_14_hski-012_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\items\\0063_sud_vo_adv_unit_01-01_14_hski-012_03_metadata.json"
+}

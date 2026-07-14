@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5231383533/9e892c04614202994492103a131491d0",
+  "line_no": 84,
+  "voice_line_no": 85,
+  "text": "ふふ……",
+  "speaker": "美鈴",
+  "voice_cue": "sud_vo_adv_csprt-3-0091_02_hmsz-003",
+  "bank_name": "sud_vo_adv_csprt-3-0091_02",
+  "start": 30.9646674947,
+  "duration": 2.1629961853,
+  "voice_start": 31.0646674947,
+  "voice_duration": 2.063,
+  "output_slug": "sud_vo_adv_csprt-3-0091_02_hmsz-003",
+  "output_index": 20,
+  "subsong_index": 3,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\misuzu\\20260715_010942_limit100\\acb\\sud_vo_adv_csprt-3-0091_02.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\misuzu\\20260715_010942_limit100\\scripts\\5231383533_9e892c04614202994492103a131491d0.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\misuzu\\20260715_010942_limit100\\items\\0020_sud_vo_adv_csprt-3-0091_02_hmsz-003_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\misuzu\\20260715_010942_limit100\\items\\0020_sud_vo_adv_csprt-3-0091_02_hmsz-003_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\misuzu\\20260715_010942_limit100\\items\\0020_sud_vo_adv_csprt-3-0091_02_hmsz-003_03_metadata.json"
+}

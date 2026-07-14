@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5234373433/1b400f1de9f182e96aead45e8597d1ef",
+  "line_no": 145,
+  "voice_line_no": 155,
+  "text": "ハァ、ハァ……ピース、で……\nキメ、ポーズ……まで、ギャルすごい。",
+  "speaker": "広",
+  "voice_cue": "sud_vo_adv_csprt-3-0073_02_shro-009",
+  "bank_name": "sud_vo_adv_csprt-3-0073_02",
+  "start": 77.7412367278,
+  "duration": 10.758,
+  "voice_start": 77.8412367278,
+  "voice_duration": 10.658,
+  "output_slug": "sud_vo_adv_csprt-3-0073_02_shro-009",
+  "output_index": 92,
+  "subsong_index": 9,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\hiro\\20260715_001531_limit100\\acb\\sud_vo_adv_csprt-3-0073_02.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\hiro\\20260715_001531_limit100\\scripts\\5234373433_1b400f1de9f182e96aead45e8597d1ef.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\hiro\\20260715_001531_limit100\\items\\0092_sud_vo_adv_csprt-3-0073_02_shro-009_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\hiro\\20260715_001531_limit100\\items\\0092_sud_vo_adv_csprt-3-0073_02_shro-009_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\hiro\\20260715_001531_limit100\\items\\0092_sud_vo_adv_csprt-3-0073_02_shro-009_03_metadata.json"
+}

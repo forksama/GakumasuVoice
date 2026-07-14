@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5231373833/d36577ec5985cac906f46246eb801e82",
+  "line_no": 267,
+  "voice_line_no": 268,
+  "text": "ボクの名前のアナグラムですか。",
+  "speaker": "麻央",
+  "voice_cue": "sud_vo_adv_dear_amao_033_amao-027",
+  "bank_name": "sud_vo_adv_dear_amao_033",
+  "start": 174.1833111379,
+  "duration": 2.469,
+  "voice_start": 174.2833111379,
+  "voice_duration": 2.369,
+  "output_slug": "sud_vo_adv_dear_amao_033_amao-027",
+  "output_index": 79,
+  "subsong_index": 27,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\acb\\sud_vo_adv_dear_amao_033.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\scripts\\5231373833_d36577ec5985cac906f46246eb801e82.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\items\\0079_sud_vo_adv_dear_amao_033_amao-027_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\items\\0079_sud_vo_adv_dear_amao_033_amao-027_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\items\\0079_sud_vo_adv_dear_amao_033_amao-027_03_metadata.json"
+}

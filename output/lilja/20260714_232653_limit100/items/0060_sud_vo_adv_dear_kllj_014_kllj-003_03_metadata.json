@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5236363933/4da637f510a8cd24423de7e70fe6ac9c",
+  "line_no": 21,
+  "voice_line_no": 24,
+  "text": "（才能がないわたしが他のアイドルを\n　超えるためには――）",
+  "speaker": "リーリヤ",
+  "voice_cue": "sud_vo_adv_dear_kllj_014_kllj-003",
+  "bank_name": "sud_vo_adv_dear_kllj_014",
+  "start": 7.2970001192,
+  "duration": 5.598,
+  "voice_start": 7.3970001192,
+  "voice_duration": 5.498,
+  "output_slug": "sud_vo_adv_dear_kllj_014_kllj-003",
+  "output_index": 60,
+  "subsong_index": 3,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\lilja\\20260714_232653_limit100\\acb\\sud_vo_adv_dear_kllj_014.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\lilja\\20260714_232653_limit100\\scripts\\5236363933_4da637f510a8cd24423de7e70fe6ac9c.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\lilja\\20260714_232653_limit100\\items\\0060_sud_vo_adv_dear_kllj_014_kllj-003_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\lilja\\20260714_232653_limit100\\items\\0060_sud_vo_adv_dear_kllj_014_kllj-003_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\lilja\\20260714_232653_limit100\\items\\0060_sud_vo_adv_dear_kllj_014_kllj-003_03_metadata.json"
+}

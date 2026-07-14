@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5236323433/7caac344dfce07ac3f2fe16ca309af7e",
+  "line_no": 418,
+  "voice_line_no": 421,
+  "text": "初星学園の、クラス対抗、運動会。",
+  "speaker": "広",
+  "voice_cue": "sud_vo_adv_event_014_main-01_shro-014",
+  "bank_name": "sud_vo_adv_event_014_main-01",
+  "start": 257.843963808,
+  "duration": 4.1051473388,
+  "voice_start": 257.9439638082,
+  "voice_duration": 3.926,
+  "output_slug": "sud_vo_adv_event_014_main-01_shro-014",
+  "output_index": 49,
+  "subsong_index": 60,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\hiro\\20260715_001531_limit100\\acb\\sud_vo_adv_event_014_main-01.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\hiro\\20260715_001531_limit100\\scripts\\5236323433_7caac344dfce07ac3f2fe16ca309af7e.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\hiro\\20260715_001531_limit100\\items\\0049_sud_vo_adv_event_014_main-01_shro-014_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\hiro\\20260715_001531_limit100\\items\\0049_sud_vo_adv_event_014_main-01_shro-014_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\hiro\\20260715_001531_limit100\\items\\0049_sud_vo_adv_event_014_main-01_shro-014_03_metadata.json"
+}

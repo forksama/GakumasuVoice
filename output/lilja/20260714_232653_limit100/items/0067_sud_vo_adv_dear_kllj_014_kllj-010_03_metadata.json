@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5236363933/4da637f510a8cd24423de7e70fe6ac9c",
+  "line_no": 97,
+  "voice_line_no": 106,
+  "text": "じゃあ、行ってくるね。",
+  "speaker": "リーリヤ",
+  "voice_cue": "sud_vo_adv_dear_kllj_014_kllj-010",
+  "bank_name": "sud_vo_adv_dear_kllj_014",
+  "start": 67.5929968294,
+  "duration": 4.8333396912,
+  "voice_start": 67.6929968294,
+  "voice_duration": 2.4,
+  "output_slug": "sud_vo_adv_dear_kllj_014_kllj-010",
+  "output_index": 67,
+  "subsong_index": 10,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\lilja\\20260714_232653_limit100\\acb\\sud_vo_adv_dear_kllj_014.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\lilja\\20260714_232653_limit100\\scripts\\5236363933_4da637f510a8cd24423de7e70fe6ac9c.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\lilja\\20260714_232653_limit100\\items\\0067_sud_vo_adv_dear_kllj_014_kllj-010_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\lilja\\20260714_232653_limit100\\items\\0067_sud_vo_adv_dear_kllj_014_kllj-010_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\lilja\\20260714_232653_limit100\\items\\0067_sud_vo_adv_dear_kllj_014_kllj-010_03_metadata.json"
+}

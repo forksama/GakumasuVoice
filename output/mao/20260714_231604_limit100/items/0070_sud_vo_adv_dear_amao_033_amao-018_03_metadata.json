@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5231373833/d36577ec5985cac906f46246eb801e82",
+  "line_no": 169,
+  "voice_line_no": 170,
+  "text": "ボクのなりたい、ボクの見せたい、\nカッコイイ王子様だから。",
+  "speaker": "麻央",
+  "voice_cue": "sud_vo_adv_dear_amao_033_amao-018",
+  "bank_name": "sud_vo_adv_dear_amao_033",
+  "start": 111.172998768,
+  "duration": 4.793,
+  "voice_start": 111.272998768,
+  "voice_duration": 4.693,
+  "output_slug": "sud_vo_adv_dear_amao_033_amao-018",
+  "output_index": 70,
+  "subsong_index": 18,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\acb\\sud_vo_adv_dear_amao_033.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\scripts\\5231373833_d36577ec5985cac906f46246eb801e82.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\items\\0070_sud_vo_adv_dear_amao_033_amao-018_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\items\\0070_sud_vo_adv_dear_amao_033_amao-018_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\items\\0070_sud_vo_adv_dear_amao_033_amao-018_03_metadata.json"
+}

@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5234373433/1b400f1de9f182e96aead45e8597d1ef",
+  "line_no": 50,
+  "voice_line_no": 56,
+  "text": "ゲーセン……行きたい。\nギャルはゲーセンが得意って聞いた。",
+  "speaker": "広",
+  "voice_cue": "sud_vo_adv_csprt-3-0073_02_shro-004",
+  "bank_name": "sud_vo_adv_csprt-3-0073_02",
+  "start": 30.4316358821,
+  "duration": 6.019,
+  "voice_start": 30.5316358821,
+  "voice_duration": 5.919,
+  "output_slug": "sud_vo_adv_csprt-3-0073_02_shro-004",
+  "output_index": 87,
+  "subsong_index": 4,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\hiro\\20260715_001531_limit100\\acb\\sud_vo_adv_csprt-3-0073_02.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\hiro\\20260715_001531_limit100\\scripts\\5234373433_1b400f1de9f182e96aead45e8597d1ef.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\hiro\\20260715_001531_limit100\\items\\0087_sud_vo_adv_csprt-3-0073_02_shro-004_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\hiro\\20260715_001531_limit100\\items\\0087_sud_vo_adv_csprt-3-0073_02_shro-004_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\hiro\\20260715_001531_limit100\\items\\0087_sud_vo_adv_csprt-3-0073_02_shro-004_03_metadata.json"
+}

@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5234323033/b388e31603256c068e1e3f346b5b73da",
+  "line_no": 115,
+  "voice_line_no": 116,
+  "text": "ええ……鏡に映るもうひとりの私。\n向こう見ずだった頃の、青く熱い私。",
+  "speaker": "星南",
+  "voice_cue": "sud_vo_adv_cidol-jsna-3-011_02_jsna-017",
+  "bank_name": "sud_vo_adv_cidol-jsna-3-011_02",
+  "start": 101.5436745705,
+  "duration": 10.0706732788,
+  "voice_start": 101.6436745705,
+  "voice_duration": 9.904,
+  "output_slug": "sud_vo_adv_cidol-jsna-3-011_02_jsna-017",
+  "output_index": 52,
+  "subsong_index": 17,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\sena\\20260715_012617_limit100\\acb\\sud_vo_adv_cidol-jsna-3-011_02.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\sena\\20260715_012617_limit100\\scripts\\5234323033_b388e31603256c068e1e3f346b5b73da.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\sena\\20260715_012617_limit100\\items\\0052_sud_vo_adv_cidol-jsna-3-011_02_jsna-017_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\sena\\20260715_012617_limit100\\items\\0052_sud_vo_adv_cidol-jsna-3-011_02_jsna-017_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\sena\\20260715_012617_limit100\\items\\0052_sud_vo_adv_cidol-jsna-3-011_02_jsna-017_03_metadata.json"
+}

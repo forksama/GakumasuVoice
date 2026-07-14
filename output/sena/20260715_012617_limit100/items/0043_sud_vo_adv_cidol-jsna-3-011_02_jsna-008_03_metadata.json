@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5234323033/b388e31603256c068e1e3f346b5b73da",
+  "line_no": 47,
+  "voice_line_no": 48,
+  "text": "さあ、教えて頂戴。\n十王星南を除いた上で――",
+  "speaker": "星南",
+  "voice_cue": "sud_vo_adv_cidol-jsna-3-011_02_jsna-008",
+  "bank_name": "sud_vo_adv_cidol-jsna-3-011_02",
+  "start": 33.2866663798,
+  "duration": 5.39,
+  "voice_start": 33.3866663798,
+  "voice_duration": 5.29,
+  "output_slug": "sud_vo_adv_cidol-jsna-3-011_02_jsna-008",
+  "output_index": 43,
+  "subsong_index": 8,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\sena\\20260715_012617_limit100\\acb\\sud_vo_adv_cidol-jsna-3-011_02.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\sena\\20260715_012617_limit100\\scripts\\5234323033_b388e31603256c068e1e3f346b5b73da.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\sena\\20260715_012617_limit100\\items\\0043_sud_vo_adv_cidol-jsna-3-011_02_jsna-008_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\sena\\20260715_012617_limit100\\items\\0043_sud_vo_adv_cidol-jsna-3-011_02_jsna-008_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\sena\\20260715_012617_limit100\\items\\0043_sud_vo_adv_cidol-jsna-3-011_02_jsna-008_03_metadata.json"
+}

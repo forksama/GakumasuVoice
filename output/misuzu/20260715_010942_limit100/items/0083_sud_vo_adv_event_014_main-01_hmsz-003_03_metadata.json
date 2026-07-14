@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5236323433/7caac344dfce07ac3f2fe16ca309af7e",
+  "line_no": 307,
+  "voice_line_no": 310,
+  "text": "あぁ……それは……ずいぶんと\n甘い飴を用意したものです。",
+  "speaker": "美鈴",
+  "voice_cue": "sud_vo_adv_event_014_main-01_hmsz-003",
+  "bank_name": "sud_vo_adv_event_014_main-01",
+  "start": 184.6726718101,
+  "duration": 6.342913208,
+  "voice_start": 184.7726718101,
+  "voice_duration": 6.21,
+  "output_slug": "sud_vo_adv_event_014_main-01_hmsz-003",
+  "output_index": 83,
+  "subsong_index": 3,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\misuzu\\20260715_010942_limit100\\acb\\sud_vo_adv_event_014_main-01.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\misuzu\\20260715_010942_limit100\\scripts\\5236323433_7caac344dfce07ac3f2fe16ca309af7e.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\misuzu\\20260715_010942_limit100\\items\\0083_sud_vo_adv_event_014_main-01_hmsz-003_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\misuzu\\20260715_010942_limit100\\items\\0083_sud_vo_adv_event_014_main-01_hmsz-003_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\misuzu\\20260715_010942_limit100\\items\\0083_sud_vo_adv_event_014_main-01_hmsz-003_03_metadata.json"
+}

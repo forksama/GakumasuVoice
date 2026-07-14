@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5235393933/f02cc1fbff5bd224fc7b8cba845392e5",
+  "line_no": 187,
+  "voice_line_no": 188,
+  "text": "そんなぁ……先生と\nこんなにも早くお別れなんて……",
+  "speaker": "千奈",
+  "voice_cue": "sud_vo_adv_dear_kcna_003_kcna-017",
+  "bank_name": "sud_vo_adv_dear_kcna_003",
+  "start": 212.4608830276,
+  "duration": 8.3716132812,
+  "voice_start": 212.560883667,
+  "voice_duration": 8.163,
+  "output_slug": "sud_vo_adv_dear_kcna_003_kcna-017",
+  "output_index": 98,
+  "subsong_index": 31,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\china\\20260714_234531_limit100\\acb\\sud_vo_adv_dear_kcna_003.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\china\\20260714_234531_limit100\\scripts\\5235393933_f02cc1fbff5bd224fc7b8cba845392e5.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\china\\20260714_234531_limit100\\items\\0098_sud_vo_adv_dear_kcna_003_kcna-017_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\china\\20260714_234531_limit100\\items\\0098_sud_vo_adv_dear_kcna_003_kcna-017_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\china\\20260714_234531_limit100\\items\\0098_sud_vo_adv_dear_kcna_003_kcna-017_03_metadata.json"
+}

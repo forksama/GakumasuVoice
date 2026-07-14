@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/523133/00b6e644da852814525675e4eb31c7ea",
+  "line_no": 94,
+  "voice_line_no": 95,
+  "text": "トップになるための、あと一歩。\n最終試験までに掴んでみせるよ。",
+  "speaker": "莉波",
+  "voice_cue": "sud_vo_adv_pstory_001_hrnm_after-audition-mid-normal-02_hrnm-013",
+  "bank_name": "sud_vo_adv_pstory_001_hrnm_after-audition-mid-normal-02",
+  "start": 75.5358063904,
+  "duration": 7.208,
+  "voice_start": 75.6358063904,
+  "voice_duration": 7.108,
+  "output_slug": "sud_vo_adv_pstory_001_hrnm_after-audition-mid-normal-02_hrnm-013",
+  "output_index": 87,
+  "subsong_index": 13,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\rinami\\20260715_003446_limit100\\acb\\sud_vo_adv_pstory_001_hrnm_after-audition-mid-normal-02.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\rinami\\20260715_003446_limit100\\scripts\\523133_00b6e644da852814525675e4eb31c7ea.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\rinami\\20260715_003446_limit100\\items\\0087_sud_vo_adv_pstory_001_hrnm_after-audition-mid-normal-02_hrnm-013_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\rinami\\20260715_003446_limit100\\items\\0087_sud_vo_adv_pstory_001_hrnm_after-audition-mid-normal-02_hrnm-013_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\rinami\\20260715_003446_limit100\\items\\0087_sud_vo_adv_pstory_001_hrnm_after-audition-mid-normal-02_hrnm-013_03_metadata.json"
+}

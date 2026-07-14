@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/52313333/b27f286278ef5809e64357af44b940cc",
+  "line_no": 66,
+  "voice_line_no": 67,
+  "text": "……す、清夏ちゃん！\nそれは消して……！",
+  "speaker": "リーリヤ",
+  "voice_cue": "sud_vo_adv_csprt-3-0008_01_kllj-003",
+  "bank_name": "sud_vo_adv_csprt-3-0008_01",
+  "start": 39.0927355461,
+  "duration": 3.7999595947,
+  "voice_start": 39.1927355461,
+  "voice_duration": 3.682,
+  "output_slug": "sud_vo_adv_csprt-3-0008_01_kllj-003",
+  "output_index": 3,
+  "subsong_index": 3,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\lilja\\20260714_232653_limit100\\acb\\sud_vo_adv_csprt-3-0008_01.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\lilja\\20260714_232653_limit100\\scripts\\52313333_b27f286278ef5809e64357af44b940cc.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\lilja\\20260714_232653_limit100\\items\\0003_sud_vo_adv_csprt-3-0008_01_kllj-003_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\lilja\\20260714_232653_limit100\\items\\0003_sud_vo_adv_csprt-3-0008_01_kllj-003_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\lilja\\20260714_232653_limit100\\items\\0003_sud_vo_adv_csprt-3-0008_01_kllj-003_03_metadata.json"
+}

@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/523133/00b6e644da852814525675e4eb31c7ea",
+  "line_no": 45,
+  "voice_line_no": 46,
+  "text": "えへへ……\n褒められちゃった♪",
+  "speaker": "莉波",
+  "voice_cue": "sud_vo_adv_pstory_001_hrnm_after-audition-mid-normal-02_hrnm-005",
+  "bank_name": "sud_vo_adv_pstory_001_hrnm_after-audition-mid-normal-02",
+  "start": 28.0967155906,
+  "duration": 3.6036660309,
+  "voice_start": 28.1967155906,
+  "voice_duration": 3.337,
+  "output_slug": "sud_vo_adv_pstory_001_hrnm_after-audition-mid-normal-02_hrnm-005",
+  "output_index": 79,
+  "subsong_index": 5,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\rinami\\20260715_003446_limit100\\acb\\sud_vo_adv_pstory_001_hrnm_after-audition-mid-normal-02.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\rinami\\20260715_003446_limit100\\scripts\\523133_00b6e644da852814525675e4eb31c7ea.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\rinami\\20260715_003446_limit100\\items\\0079_sud_vo_adv_pstory_001_hrnm_after-audition-mid-normal-02_hrnm-005_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\rinami\\20260715_003446_limit100\\items\\0079_sud_vo_adv_pstory_001_hrnm_after-audition-mid-normal-02_hrnm-005_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\rinami\\20260715_003446_limit100\\items\\0079_sud_vo_adv_pstory_001_hrnm_after-audition-mid-normal-02_hrnm-005_03_metadata.json"
+}

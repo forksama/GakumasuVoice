@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5234383833/e395e885c1602fe636eddfac99d5327c",
+  "line_no": 221,
+  "voice_line_no": 222,
+  "text": "――はい、チーズ♪",
+  "speaker": "清夏",
+  "voice_cue": "sud_vo_adv_csprt-3-0055_01_ssmk-011",
+  "bank_name": "sud_vo_adv_csprt-3-0055_01",
+  "start": 107.8950595254,
+  "duration": 3.0316499516,
+  "voice_start": 107.9950595254,
+  "voice_duration": 1.603,
+  "output_slug": "sud_vo_adv_csprt-3-0055_01_ssmk-011",
+  "output_index": 72,
+  "subsong_index": 19,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\sumika\\20260714_235935_limit100\\acb\\sud_vo_adv_csprt-3-0055_01.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\sumika\\20260714_235935_limit100\\scripts\\5234383833_e395e885c1602fe636eddfac99d5327c.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\sumika\\20260714_235935_limit100\\items\\0072_sud_vo_adv_csprt-3-0055_01_ssmk-011_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\sumika\\20260714_235935_limit100\\items\\0072_sud_vo_adv_csprt-3-0055_01_ssmk-011_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\sumika\\20260714_235935_limit100\\items\\0072_sud_vo_adv_csprt-3-0055_01_ssmk-011_03_metadata.json"
+}

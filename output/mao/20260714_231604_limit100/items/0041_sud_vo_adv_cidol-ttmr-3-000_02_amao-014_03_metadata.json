@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5231373233/78608d3915910502d2734b488e9b8d72",
+  "line_no": 306,
+  "voice_line_no": 307,
+  "text": "ありがとう。じゃ、行こうか。",
+  "speaker": "麻央",
+  "voice_cue": "sud_vo_adv_cidol-ttmr-3-000_02_amao-014",
+  "bank_name": "sud_vo_adv_cidol-ttmr-3-000_02",
+  "start": 187.0199986204,
+  "duration": 2.73,
+  "voice_start": 187.1199986204,
+  "voice_duration": 2.63,
+  "output_slug": "sud_vo_adv_cidol-ttmr-3-000_02_amao-014",
+  "output_index": 41,
+  "subsong_index": 14,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\acb\\sud_vo_adv_cidol-ttmr-3-000_02.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\scripts\\5231373233_78608d3915910502d2734b488e9b8d72.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\items\\0041_sud_vo_adv_cidol-ttmr-3-000_02_amao-014_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\items\\0041_sud_vo_adv_cidol-ttmr-3-000_02_amao-014_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\items\\0041_sud_vo_adv_cidol-ttmr-3-000_02_amao-014_03_metadata.json"
+}

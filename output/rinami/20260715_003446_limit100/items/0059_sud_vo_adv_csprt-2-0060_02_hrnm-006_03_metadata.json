@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5233383933/bbd731d4e87a1cc5fc9e8a499419c875",
+  "line_no": 82,
+  "voice_line_no": 83,
+  "text": "怪我じゃないんだね、よかった～。\n最初はうまくできないものだよ。",
+  "speaker": "莉波",
+  "voice_cue": "sud_vo_adv_csprt-2-0060_02_hrnm-006",
+  "bank_name": "sud_vo_adv_csprt-2-0060_02",
+  "start": 44.8723334176,
+  "duration": 7.043,
+  "voice_start": 44.9723334176,
+  "voice_duration": 6.943,
+  "output_slug": "sud_vo_adv_csprt-2-0060_02_hrnm-006",
+  "output_index": 59,
+  "subsong_index": 6,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\rinami\\20260715_003446_limit100\\acb\\sud_vo_adv_csprt-2-0060_02.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\rinami\\20260715_003446_limit100\\scripts\\5233383933_bbd731d4e87a1cc5fc9e8a499419c875.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\rinami\\20260715_003446_limit100\\items\\0059_sud_vo_adv_csprt-2-0060_02_hrnm-006_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\rinami\\20260715_003446_limit100\\items\\0059_sud_vo_adv_csprt-2-0060_02_hrnm-006_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\rinami\\20260715_003446_limit100\\items\\0059_sud_vo_adv_csprt-2-0060_02_hrnm-006_03_metadata.json"
+}

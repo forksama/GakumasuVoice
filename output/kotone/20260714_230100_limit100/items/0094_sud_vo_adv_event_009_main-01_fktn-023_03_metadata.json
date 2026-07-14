@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5235363933/9f0999c8ee8ecd4a50fce6dc66044d1a",
+  "line_no": 262,
+  "voice_line_no": 264,
+  "text": "今回のバイト、\nお給金めっちゃイイんだけどぉ……",
+  "speaker": "ことね",
+  "voice_cue": "sud_vo_adv_event_009_main-01_fktn-023",
+  "bank_name": "sud_vo_adv_event_009_main-01",
+  "start": 156.9206627519,
+  "duration": 4.9363328247,
+  "voice_start": 157.0206627519,
+  "voice_duration": 4.803,
+  "output_slug": "sud_vo_adv_event_009_main-01_fktn-023",
+  "output_index": 94,
+  "subsong_index": 23,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\kotone\\20260714_230100_limit100\\acb\\sud_vo_adv_event_009_main-01.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\kotone\\20260714_230100_limit100\\scripts\\5235363933_9f0999c8ee8ecd4a50fce6dc66044d1a.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\kotone\\20260714_230100_limit100\\items\\0094_sud_vo_adv_event_009_main-01_fktn-023_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\kotone\\20260714_230100_limit100\\items\\0094_sud_vo_adv_event_009_main-01_fktn-023_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\kotone\\20260714_230100_limit100\\items\\0094_sud_vo_adv_event_009_main-01_fktn-023_03_metadata.json"
+}

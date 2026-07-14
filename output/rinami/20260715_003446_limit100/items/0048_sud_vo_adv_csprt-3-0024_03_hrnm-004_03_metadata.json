@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5234383433/5807618406aafa6a653c005c9fa2b71c",
+  "line_no": 102,
+  "voice_line_no": 103,
+  "text": "仕事のしすぎで……\n勉強ができなかったんじゃない？",
+  "speaker": "莉波",
+  "voice_cue": "sud_vo_adv_csprt-3-0024_03_hrnm-004",
+  "bank_name": "sud_vo_adv_csprt-3-0024_03",
+  "start": 55.5876624163,
+  "duration": 3.981,
+  "voice_start": 55.6876624163,
+  "voice_duration": 3.881,
+  "output_slug": "sud_vo_adv_csprt-3-0024_03_hrnm-004",
+  "output_index": 48,
+  "subsong_index": 12,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\rinami\\20260715_003446_limit100\\acb\\sud_vo_adv_csprt-3-0024_03.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\rinami\\20260715_003446_limit100\\scripts\\5234383433_5807618406aafa6a653c005c9fa2b71c.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\rinami\\20260715_003446_limit100\\items\\0048_sud_vo_adv_csprt-3-0024_03_hrnm-004_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\rinami\\20260715_003446_limit100\\items\\0048_sud_vo_adv_csprt-3-0024_03_hrnm-004_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\rinami\\20260715_003446_limit100\\items\\0048_sud_vo_adv_csprt-3-0024_03_hrnm-004_03_metadata.json"
+}

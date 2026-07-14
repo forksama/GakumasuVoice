@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5236343733/041a4db7cf6152776422ca5df375f49c",
+  "line_no": 272,
+  "voice_line_no": 275,
+  "text": "……そっか。それで、手作り料理を……",
+  "speaker": "佑芽",
+  "voice_cue": "sud_vo_adv_event_025_main-03_hume-011",
+  "bank_name": "sud_vo_adv_event_025_main-03",
+  "start": 192.8569562948,
+  "duration": 4.5343374023,
+  "voice_start": 192.9569562948,
+  "voice_duration": 4.201,
+  "output_slug": "sud_vo_adv_event_025_main-03_hume-011",
+  "output_index": 11,
+  "subsong_index": 28,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\acb\\sud_vo_adv_event_025_main-03.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\scripts\\5236343733_041a4db7cf6152776422ca5df375f49c.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\items\\0011_sud_vo_adv_event_025_main-03_hume-011_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\items\\0011_sud_vo_adv_event_025_main-03_hume-011_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\items\\0011_sud_vo_adv_event_025_main-03_hume-011_03_metadata.json"
+}

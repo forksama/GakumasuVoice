@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5236323433/7caac344dfce07ac3f2fe16ca309af7e",
+  "line_no": 353,
+  "voice_line_no": 357,
+  "text": "ほらっ、イイ筋肉してる♪",
+  "speaker": "佑芽",
+  "voice_cue": "sud_vo_adv_event_014_main-01_hume-019",
+  "bank_name": "sud_vo_adv_event_014_main-01",
+  "start": 220.3577171801,
+  "duration": 2.333576416,
+  "voice_start": 220.4577171801,
+  "voice_duration": 2.199,
+  "output_slug": "sud_vo_adv_event_014_main-01_hume-019",
+  "output_index": 49,
+  "subsong_index": 27,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\acb\\sud_vo_adv_event_014_main-01.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\scripts\\5236323433_7caac344dfce07ac3f2fe16ca309af7e.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\items\\0049_sud_vo_adv_event_014_main-01_hume-019_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\items\\0049_sud_vo_adv_event_014_main-01_hume-019_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\items\\0049_sud_vo_adv_event_014_main-01_hume-019_03_metadata.json"
+}

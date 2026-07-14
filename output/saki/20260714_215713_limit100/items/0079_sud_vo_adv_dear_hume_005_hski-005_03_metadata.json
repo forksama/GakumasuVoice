@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5233383733/c782efc799de1081e4b3dd5c35292ead",
+  "line_no": 63,
+  "voice_line_no": 66,
+  "text": "い、いつもと違う反応ね。どう見ても\nわたしの完全勝利だったじゃない。",
+  "speaker": "咲季",
+  "voice_cue": "sud_vo_adv_dear_hume_005_hski-005",
+  "bank_name": "sud_vo_adv_dear_hume_005",
+  "start": 33.31946456,
+  "duration": 6.895,
+  "voice_start": 33.41946456,
+  "voice_duration": 6.795,
+  "output_slug": "sud_vo_adv_dear_hume_005_hski-005",
+  "output_index": 79,
+  "subsong_index": 5,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\acb\\sud_vo_adv_dear_hume_005.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\scripts\\5233383733_c782efc799de1081e4b3dd5c35292ead.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\items\\0079_sud_vo_adv_dear_hume_005_hski-005_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\items\\0079_sud_vo_adv_dear_hume_005_hski-005_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\items\\0079_sud_vo_adv_dear_hume_005_hski-005_03_metadata.json"
+}

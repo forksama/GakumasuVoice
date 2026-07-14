@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5231373233/78608d3915910502d2734b488e9b8d72",
+  "line_no": 279,
+  "voice_line_no": 280,
+  "text": "じゃあ、ボクと一緒に入ってくれる\nかな。実は、おばけが苦手でね。",
+  "speaker": "麻央",
+  "voice_cue": "sud_vo_adv_cidol-ttmr-3-000_02_amao-012",
+  "bank_name": "sud_vo_adv_cidol-ttmr-3-000_02",
+  "start": 170.4859997951,
+  "duration": 7.032,
+  "voice_start": 170.5859997951,
+  "voice_duration": 6.932,
+  "output_slug": "sud_vo_adv_cidol-ttmr-3-000_02_amao-012",
+  "output_index": 39,
+  "subsong_index": 12,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\acb\\sud_vo_adv_cidol-ttmr-3-000_02.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\scripts\\5231373233_78608d3915910502d2734b488e9b8d72.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\items\\0039_sud_vo_adv_cidol-ttmr-3-000_02_amao-012_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\items\\0039_sud_vo_adv_cidol-ttmr-3-000_02_amao-012_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\items\\0039_sud_vo_adv_cidol-ttmr-3-000_02_amao-012_03_metadata.json"
+}

@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5231353033/892704e253818cd54d197444a3ab07a0",
+  "line_no": 228,
+  "voice_line_no": 229,
+  "text": "トップアイドルになったら、\n辛いこと、苦しいことだって、\nきっといっぱいある。",
+  "speaker": "莉波",
+  "voice_cue": "sud_vo_adv_dear_hrnm_035_hrnm-020",
+  "bank_name": "sud_vo_adv_dear_hrnm_035",
+  "start": 152.8473119035,
+  "duration": 7.7493435058,
+  "voice_start": 152.9473119035,
+  "voice_duration": 7.392,
+  "output_slug": "sud_vo_adv_dear_hrnm_035_hrnm-020",
+  "output_index": 20,
+  "subsong_index": 24,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\rinami\\20260715_003446_limit100\\acb\\sud_vo_adv_dear_hrnm_035.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\rinami\\20260715_003446_limit100\\scripts\\5231353033_892704e253818cd54d197444a3ab07a0.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\rinami\\20260715_003446_limit100\\items\\0020_sud_vo_adv_dear_hrnm_035_hrnm-020_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\rinami\\20260715_003446_limit100\\items\\0020_sud_vo_adv_dear_hrnm_035_hrnm-020_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\rinami\\20260715_003446_limit100\\items\\0020_sud_vo_adv_dear_hrnm_035_hrnm-020_03_metadata.json"
+}

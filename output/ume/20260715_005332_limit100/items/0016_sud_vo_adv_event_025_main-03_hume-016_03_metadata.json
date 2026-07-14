@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5236343733/041a4db7cf6152776422ca5df375f49c",
+  "line_no": 387,
+  "voice_line_no": 395,
+  "text": "笑って進めた方が、みんなに楽しんで\nもらえる面白い企画になるって。",
+  "speaker": "佑芽",
+  "voice_cue": "sud_vo_adv_event_025_main-03_hume-016",
+  "bank_name": "sud_vo_adv_event_025_main-03",
+  "start": 276.0942557245,
+  "duration": 5.5203679199,
+  "voice_start": 276.1942557245,
+  "voice_duration": 5.187,
+  "output_slug": "sud_vo_adv_event_025_main-03_hume-016",
+  "output_index": 16,
+  "subsong_index": 33,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\acb\\sud_vo_adv_event_025_main-03.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\scripts\\5236343733_041a4db7cf6152776422ca5df375f49c.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\items\\0016_sud_vo_adv_event_025_main-03_hume-016_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\items\\0016_sud_vo_adv_event_025_main-03_hume-016_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\items\\0016_sud_vo_adv_event_025_main-03_hume-016_03_metadata.json"
+}

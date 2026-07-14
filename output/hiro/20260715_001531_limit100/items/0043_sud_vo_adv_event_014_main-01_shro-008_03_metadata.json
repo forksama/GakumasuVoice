@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5236323433/7caac344dfce07ac3f2fe16ca309af7e",
+  "line_no": 214,
+  "voice_line_no": 218,
+  "text": "どうにもならない。\nわたしたち、終わった、ね。",
+  "speaker": "広",
+  "voice_cue": "sud_vo_adv_event_014_main-01_shro-008",
+  "bank_name": "sud_vo_adv_event_014_main-01",
+  "start": 123.4059856448,
+  "duration": 5.5954636841,
+  "voice_start": 123.5059856448,
+  "voice_duration": 5.353,
+  "output_slug": "sud_vo_adv_event_014_main-01_shro-008",
+  "output_index": 43,
+  "subsong_index": 54,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\hiro\\20260715_001531_limit100\\acb\\sud_vo_adv_event_014_main-01.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\hiro\\20260715_001531_limit100\\scripts\\5236323433_7caac344dfce07ac3f2fe16ca309af7e.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\hiro\\20260715_001531_limit100\\items\\0043_sud_vo_adv_event_014_main-01_shro-008_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\hiro\\20260715_001531_limit100\\items\\0043_sud_vo_adv_event_014_main-01_shro-008_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\hiro\\20260715_001531_limit100\\items\\0043_sud_vo_adv_event_014_main-01_shro-008_03_metadata.json"
+}

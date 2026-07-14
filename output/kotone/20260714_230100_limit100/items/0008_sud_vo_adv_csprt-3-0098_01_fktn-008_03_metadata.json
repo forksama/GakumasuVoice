@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5233363433/dda55224f0730cb20ee23549610b09ec",
+  "line_no": 125,
+  "voice_line_no": 129,
+  "text": "ん……ぎゃっ、あたしの顔！？\nキャ……キャラ弁！？",
+  "speaker": "ことね",
+  "voice_cue": "sud_vo_adv_csprt-3-0098_01_fktn-008",
+  "bank_name": "sud_vo_adv_csprt-3-0098_01",
+  "start": 70.8103285784,
+  "duration": 6.759,
+  "voice_start": 70.9103285784,
+  "voice_duration": 6.659,
+  "output_slug": "sud_vo_adv_csprt-3-0098_01_fktn-008",
+  "output_index": 8,
+  "subsong_index": 8,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\kotone\\20260714_230100_limit100\\acb\\sud_vo_adv_csprt-3-0098_01.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\kotone\\20260714_230100_limit100\\scripts\\5233363433_dda55224f0730cb20ee23549610b09ec.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\kotone\\20260714_230100_limit100\\items\\0008_sud_vo_adv_csprt-3-0098_01_fktn-008_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\kotone\\20260714_230100_limit100\\items\\0008_sud_vo_adv_csprt-3-0098_01_fktn-008_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\kotone\\20260714_230100_limit100\\items\\0008_sud_vo_adv_csprt-3-0098_01_fktn-008_03_metadata.json"
+}

@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5231383533/9e892c04614202994492103a131491d0",
+  "line_no": 120,
+  "voice_line_no": 131,
+  "text": "そうだなぁ～……あっ！　この梅干し！\nあのドーナッツもよく食べてました！",
+  "speaker": "佑芽",
+  "voice_cue": "sud_vo_adv_csprt-3-0091_02_hume-004",
+  "bank_name": "sud_vo_adv_csprt-3-0091_02",
+  "start": 46.0833301107,
+  "duration": 7.0473351135,
+  "voice_start": 46.1833301107,
+  "voice_duration": 6.814,
+  "output_slug": "sud_vo_adv_csprt-3-0091_02_hume-004",
+  "output_index": 20,
+  "subsong_index": 10,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\acb\\sud_vo_adv_csprt-3-0091_02.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\scripts\\5231383533_9e892c04614202994492103a131491d0.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\items\\0020_sud_vo_adv_csprt-3-0091_02_hume-004_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\items\\0020_sud_vo_adv_csprt-3-0091_02_hume-004_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\items\\0020_sud_vo_adv_csprt-3-0091_02_hume-004_03_metadata.json"
+}

@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/523230363233/b134a57d3cda76153a02cff454ab84bf",
+  "line_no": 128,
+  "voice_line_no": 129,
+  "text": "う～～～ん、\nたしかに、一体感はある……かも？",
+  "speaker": "佑芽",
+  "voice_cue": "sud_vo_adv_csprt-3-0102_02_hume-004",
+  "bank_name": "sud_vo_adv_csprt-3-0102_02",
+  "start": 66.3473284624,
+  "duration": 6.564,
+  "voice_start": 66.4473284624,
+  "voice_duration": 6.464,
+  "output_slug": "sud_vo_adv_csprt-3-0102_02_hume-004",
+  "output_index": 94,
+  "subsong_index": 15,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\acb\\sud_vo_adv_csprt-3-0102_02.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\scripts\\523230363233_b134a57d3cda76153a02cff454ab84bf.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\items\\0094_sud_vo_adv_csprt-3-0102_02_hume-004_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\items\\0094_sud_vo_adv_csprt-3-0102_02_hume-004_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\items\\0094_sud_vo_adv_csprt-3-0102_02_hume-004_03_metadata.json"
+}

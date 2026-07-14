@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5233393733/7cde23d4c88fe8f5323e11faada7d569",
+  "line_no": 28,
+  "voice_line_no": 32,
+  "text": "夢の場所に、大きく近づいた。\n出場してよかった。そう思います。",
+  "speaker": "美鈴",
+  "voice_cue": "sud_vo_adv_dear_hmsz_020_hmsz-003",
+  "bank_name": "sud_vo_adv_dear_hmsz_020",
+  "start": 22.888580972,
+  "duration": 8.6726675569,
+  "voice_start": 22.988580972,
+  "voice_duration": 8.006,
+  "output_slug": "sud_vo_adv_dear_hmsz_020_hmsz-003",
+  "output_index": 46,
+  "subsong_index": 3,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\misuzu\\20260715_010942_limit100\\acb\\sud_vo_adv_dear_hmsz_020.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\misuzu\\20260715_010942_limit100\\scripts\\5233393733_7cde23d4c88fe8f5323e11faada7d569.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\misuzu\\20260715_010942_limit100\\items\\0046_sud_vo_adv_dear_hmsz_020_hmsz-003_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\misuzu\\20260715_010942_limit100\\items\\0046_sud_vo_adv_dear_hmsz_020_hmsz-003_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\misuzu\\20260715_010942_limit100\\items\\0046_sud_vo_adv_dear_hmsz_020_hmsz-003_03_metadata.json"
+}

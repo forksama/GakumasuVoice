@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5235363933/9f0999c8ee8ecd4a50fce6dc66044d1a",
+  "line_no": 277,
+  "voice_line_no": 278,
+  "text": "でも、お断りよ。ケーキなんて\nアイドルの食べ物じゃないもの。",
+  "speaker": "咲季",
+  "voice_cue": "sud_vo_adv_event_009_main-01_hski-003",
+  "bank_name": "sud_vo_adv_event_009_main-01",
+  "start": 165.090987429,
+  "duration": 4.5463251953,
+  "voice_start": 165.190987429,
+  "voice_duration": 4.413,
+  "output_slug": "sud_vo_adv_event_009_main-01_hski-003",
+  "output_index": 44,
+  "subsong_index": 36,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\acb\\sud_vo_adv_event_009_main-01.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\scripts\\5235363933_9f0999c8ee8ecd4a50fce6dc66044d1a.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\items\\0044_sud_vo_adv_event_009_main-01_hski-003_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\items\\0044_sud_vo_adv_event_009_main-01_hski-003_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\items\\0044_sud_vo_adv_event_009_main-01_hski-003_03_metadata.json"
+}

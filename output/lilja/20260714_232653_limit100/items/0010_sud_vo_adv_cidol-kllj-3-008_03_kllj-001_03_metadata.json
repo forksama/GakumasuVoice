@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5234393133/b949e5731ceefe8d5cf6add5d2f110e6",
+  "line_no": 4,
+  "voice_line_no": 5,
+  "text": "よしっ、集中……！",
+  "speaker": "リーリヤ",
+  "voice_cue": "sud_vo_adv_cidol-kllj-3-008_03_kllj-001",
+  "bank_name": "sud_vo_adv_cidol-kllj-3-008_03",
+  "start": 0.8,
+  "duration": 2.3179999047,
+  "voice_start": 0.9,
+  "voice_duration": 2.118,
+  "output_slug": "sud_vo_adv_cidol-kllj-3-008_03_kllj-001",
+  "output_index": 10,
+  "subsong_index": 1,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\lilja\\20260714_232653_limit100\\acb\\sud_vo_adv_cidol-kllj-3-008_03.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\lilja\\20260714_232653_limit100\\scripts\\5234393133_b949e5731ceefe8d5cf6add5d2f110e6.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\lilja\\20260714_232653_limit100\\items\\0010_sud_vo_adv_cidol-kllj-3-008_03_kllj-001_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\lilja\\20260714_232653_limit100\\items\\0010_sud_vo_adv_cidol-kllj-3-008_03_kllj-001_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\lilja\\20260714_232653_limit100\\items\\0010_sud_vo_adv_cidol-kllj-3-008_03_kllj-001_03_metadata.json"
+}

@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/52353633/a8d8e721facb5a1bfc5abe3a0997ec79",
+  "line_no": 121,
+  "voice_line_no": 122,
+  "text": "……それって、難しくないですか？　\nあたしにできるかなぁ……",
+  "speaker": "ことね",
+  "voice_cue": "sud_vo_adv_pstory_001_fktn_after-step-2-normal-03_fktn-017",
+  "bank_name": "sud_vo_adv_pstory_001_fktn_after-step-2-normal-03",
+  "start": 115.2474543574,
+  "duration": 6.0696370811,
+  "voice_start": 115.3254379908,
+  "voice_duration": 5.972,
+  "output_slug": "sud_vo_adv_pstory_001_fktn_after-step-2-normal-03_fktn-017",
+  "output_index": 29,
+  "subsong_index": 17,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\kotone\\20260714_230100_limit100\\acb\\sud_vo_adv_pstory_001_fktn_after-step-2-normal-03.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\kotone\\20260714_230100_limit100\\scripts\\52353633_a8d8e721facb5a1bfc5abe3a0997ec79.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\kotone\\20260714_230100_limit100\\items\\0029_sud_vo_adv_pstory_001_fktn_after-step-2-normal-03_fktn-017_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\kotone\\20260714_230100_limit100\\items\\0029_sud_vo_adv_pstory_001_fktn_after-step-2-normal-03_fktn-017_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\kotone\\20260714_230100_limit100\\items\\0029_sud_vo_adv_pstory_001_fktn_after-step-2-normal-03_fktn-017_03_metadata.json"
+}

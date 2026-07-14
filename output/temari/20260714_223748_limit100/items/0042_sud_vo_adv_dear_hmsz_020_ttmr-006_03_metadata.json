@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5233393733/7cde23d4c88fe8f5323e11faada7d569",
+  "line_no": 142,
+  "voice_line_no": 145,
+  "text": "ふっ……それもそうだね。",
+  "speaker": "手毬",
+  "voice_cue": "sud_vo_adv_dear_hmsz_020_ttmr-006",
+  "bank_name": "sud_vo_adv_dear_hmsz_020",
+  "start": 127.5659679765,
+  "duration": 2.7233375072,
+  "voice_start": 127.6659679765,
+  "voice_duration": 2.3900001049,
+  "output_slug": "sud_vo_adv_dear_hmsz_020_ttmr-006",
+  "output_index": 42,
+  "subsong_index": 57,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\temari\\20260714_223748_limit100\\acb\\sud_vo_adv_dear_hmsz_020.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\temari\\20260714_223748_limit100\\scripts\\5233393733_7cde23d4c88fe8f5323e11faada7d569.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\temari\\20260714_223748_limit100\\items\\0042_sud_vo_adv_dear_hmsz_020_ttmr-006_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\temari\\20260714_223748_limit100\\items\\0042_sud_vo_adv_dear_hmsz_020_ttmr-006_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\temari\\20260714_223748_limit100\\items\\0042_sud_vo_adv_dear_hmsz_020_ttmr-006_03_metadata.json"
+}

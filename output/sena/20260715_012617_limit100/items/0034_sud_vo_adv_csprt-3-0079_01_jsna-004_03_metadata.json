@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5234393333/75ddfa6a7a3271d4e21869d62eb863f0",
+  "line_no": 157,
+  "voice_line_no": 158,
+  "text": "仕事はできるから、\n余計に厄介なのよね……",
+  "speaker": "星南",
+  "voice_cue": "sud_vo_adv_csprt-3-0079_01_jsna-004",
+  "bank_name": "sud_vo_adv_csprt-3-0079_01",
+  "start": 80.5196603811,
+  "duration": 3.879,
+  "voice_start": 80.6196603811,
+  "voice_duration": 3.779,
+  "output_slug": "sud_vo_adv_csprt-3-0079_01_jsna-004",
+  "output_index": 34,
+  "subsong_index": 19,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\sena\\20260715_012617_limit100\\acb\\sud_vo_adv_csprt-3-0079_01.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\sena\\20260715_012617_limit100\\scripts\\5234393333_75ddfa6a7a3271d4e21869d62eb863f0.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\sena\\20260715_012617_limit100\\items\\0034_sud_vo_adv_csprt-3-0079_01_jsna-004_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\sena\\20260715_012617_limit100\\items\\0034_sud_vo_adv_csprt-3-0079_01_jsna-004_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\sena\\20260715_012617_limit100\\items\\0034_sud_vo_adv_csprt-3-0079_01_jsna-004_03_metadata.json"
+}

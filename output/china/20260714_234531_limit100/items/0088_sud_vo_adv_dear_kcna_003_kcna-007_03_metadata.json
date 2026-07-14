@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5235393933/f02cc1fbff5bd224fc7b8cba845392e5",
+  "line_no": 83,
+  "voice_line_no": 84,
+  "text": "しかも今夏のH.I.Fは、\n星南お姉さまが出場されますしっ！",
+  "speaker": "千奈",
+  "voice_cue": "sud_vo_adv_dear_kcna_003_kcna-007",
+  "bank_name": "sud_vo_adv_dear_kcna_003",
+  "start": 89.6443689594,
+  "duration": 5.051,
+  "voice_start": 89.7443689594,
+  "voice_duration": 4.951,
+  "output_slug": "sud_vo_adv_dear_kcna_003_kcna-007",
+  "output_index": 88,
+  "subsong_index": 21,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\china\\20260714_234531_limit100\\acb\\sud_vo_adv_dear_kcna_003.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\china\\20260714_234531_limit100\\scripts\\5235393933_f02cc1fbff5bd224fc7b8cba845392e5.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\china\\20260714_234531_limit100\\items\\0088_sud_vo_adv_dear_kcna_003_kcna-007_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\china\\20260714_234531_limit100\\items\\0088_sud_vo_adv_dear_kcna_003_kcna-007_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\china\\20260714_234531_limit100\\items\\0088_sud_vo_adv_dear_kcna_003_kcna-007_03_metadata.json"
+}

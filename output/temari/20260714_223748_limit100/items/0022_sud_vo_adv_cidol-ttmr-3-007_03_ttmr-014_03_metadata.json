@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5231333333/6e6752f7c7e9e2f1805c16b90c1ab7f9",
+  "line_no": 101,
+  "voice_line_no": 102,
+  "text": "あいつらの応援……私を子ども扱い\nしてきて、くすぐったいんですけど。",
+  "speaker": "手毬",
+  "voice_cue": "sud_vo_adv_cidol-ttmr-3-007_03_ttmr-014",
+  "bank_name": "sud_vo_adv_cidol-ttmr-3-007_03",
+  "start": 96.9376597025,
+  "duration": 5.6,
+  "voice_start": 97.0376597025,
+  "voice_duration": 5.5,
+  "output_slug": "sud_vo_adv_cidol-ttmr-3-007_03_ttmr-014",
+  "output_index": 22,
+  "subsong_index": 14,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\temari\\20260714_223748_limit100\\acb\\sud_vo_adv_cidol-ttmr-3-007_03.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\temari\\20260714_223748_limit100\\scripts\\5231333333_6e6752f7c7e9e2f1805c16b90c1ab7f9.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\temari\\20260714_223748_limit100\\items\\0022_sud_vo_adv_cidol-ttmr-3-007_03_ttmr-014_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\temari\\20260714_223748_limit100\\items\\0022_sud_vo_adv_cidol-ttmr-3-007_03_ttmr-014_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\temari\\20260714_223748_limit100\\items\\0022_sud_vo_adv_cidol-ttmr-3-007_03_ttmr-014_03_metadata.json"
+}

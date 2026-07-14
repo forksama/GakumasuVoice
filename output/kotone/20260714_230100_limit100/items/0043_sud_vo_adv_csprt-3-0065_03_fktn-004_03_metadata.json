@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5232343433/8b6a00d25d2d4abdb203923fd522c02b",
+  "line_no": 67,
+  "voice_line_no": 68,
+  "text": "…………………………あ？",
+  "speaker": "ことね",
+  "voice_cue": "sud_vo_adv_csprt-3-0065_03_fktn-004",
+  "bank_name": "sud_vo_adv_csprt-3-0065_03",
+  "start": 25.2404867941,
+  "duration": 3.8013328247,
+  "voice_start": 25.3404867941,
+  "voice_duration": 3.668,
+  "output_slug": "sud_vo_adv_csprt-3-0065_03_fktn-004",
+  "output_index": 43,
+  "subsong_index": 4,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\kotone\\20260714_230100_limit100\\acb\\sud_vo_adv_csprt-3-0065_03.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\kotone\\20260714_230100_limit100\\scripts\\5232343433_8b6a00d25d2d4abdb203923fd522c02b.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\kotone\\20260714_230100_limit100\\items\\0043_sud_vo_adv_csprt-3-0065_03_fktn-004_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\kotone\\20260714_230100_limit100\\items\\0043_sud_vo_adv_csprt-3-0065_03_fktn-004_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\kotone\\20260714_230100_limit100\\items\\0043_sud_vo_adv_csprt-3-0065_03_fktn-004_03_metadata.json"
+}

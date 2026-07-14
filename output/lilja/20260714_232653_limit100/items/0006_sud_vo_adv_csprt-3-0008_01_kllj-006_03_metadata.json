@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/52313333/b27f286278ef5809e64357af44b940cc",
+  "line_no": 100,
+  "voice_line_no": 103,
+  "text": "アイドルは写りも気にすること……！",
+  "speaker": "リーリヤ",
+  "voice_cue": "sud_vo_adv_csprt-3-0008_01_kllj-006",
+  "bank_name": "sud_vo_adv_csprt-3-0008_01",
+  "start": 59.7231317836,
+  "duration": 3.5056641235,
+  "voice_start": 59.8231317836,
+  "voice_duration": 2.8,
+  "output_slug": "sud_vo_adv_csprt-3-0008_01_kllj-006",
+  "output_index": 6,
+  "subsong_index": 6,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\lilja\\20260714_232653_limit100\\acb\\sud_vo_adv_csprt-3-0008_01.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\lilja\\20260714_232653_limit100\\scripts\\52313333_b27f286278ef5809e64357af44b940cc.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\lilja\\20260714_232653_limit100\\items\\0006_sud_vo_adv_csprt-3-0008_01_kllj-006_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\lilja\\20260714_232653_limit100\\items\\0006_sud_vo_adv_csprt-3-0008_01_kllj-006_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\lilja\\20260714_232653_limit100\\items\\0006_sud_vo_adv_csprt-3-0008_01_kllj-006_03_metadata.json"
+}

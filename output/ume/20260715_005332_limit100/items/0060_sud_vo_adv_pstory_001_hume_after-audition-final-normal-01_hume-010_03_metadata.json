@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5233333433/918b877dba755f94acaaae0c89d40165",
+  "line_no": 60,
+  "voice_line_no": 61,
+  "text": "ライブに向けて、\nベストを尽くしますよ！",
+  "speaker": "佑芽",
+  "voice_cue": "sud_vo_adv_pstory_001_hume_after-audition-final-normal-01_hume-010",
+  "bank_name": "sud_vo_adv_pstory_001_hume_after-audition-final-normal-01",
+  "start": 46.1476656001,
+  "duration": 3.099,
+  "voice_start": 46.2476656001,
+  "voice_duration": 2.999,
+  "output_slug": "sud_vo_adv_pstory_001_hume_after-audition-final-normal-01_hume-010",
+  "output_index": 60,
+  "subsong_index": 10,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\acb\\sud_vo_adv_pstory_001_hume_after-audition-final-normal-01.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\scripts\\5233333433_918b877dba755f94acaaae0c89d40165.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\items\\0060_sud_vo_adv_pstory_001_hume_after-audition-final-normal-01_hume-010_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\items\\0060_sud_vo_adv_pstory_001_hume_after-audition-final-normal-01_hume-010_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\items\\0060_sud_vo_adv_pstory_001_hume_after-audition-final-normal-01_hume-010_03_metadata.json"
+}

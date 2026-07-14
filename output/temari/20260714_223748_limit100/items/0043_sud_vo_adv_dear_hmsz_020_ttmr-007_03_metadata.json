@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5233393733/7cde23d4c88fe8f5323e11faada7d569",
+  "line_no": 150,
+  "voice_line_no": 151,
+  "text": "だってさ。ほら、燐羽。\n早くしてよね。約束破るつもり？",
+  "speaker": "手毬",
+  "voice_cue": "sud_vo_adv_dear_hmsz_020_ttmr-007",
+  "bank_name": "sud_vo_adv_dear_hmsz_020",
+  "start": 130.4993053788,
+  "duration": 6.0580001831,
+  "voice_start": 130.5993053788,
+  "voice_duration": 5.9580001831,
+  "output_slug": "sud_vo_adv_dear_hmsz_020_ttmr-007",
+  "output_index": 43,
+  "subsong_index": 58,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\temari\\20260714_223748_limit100\\acb\\sud_vo_adv_dear_hmsz_020.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\temari\\20260714_223748_limit100\\scripts\\5233393733_7cde23d4c88fe8f5323e11faada7d569.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\temari\\20260714_223748_limit100\\items\\0043_sud_vo_adv_dear_hmsz_020_ttmr-007_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\temari\\20260714_223748_limit100\\items\\0043_sud_vo_adv_dear_hmsz_020_ttmr-007_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\temari\\20260714_223748_limit100\\items\\0043_sud_vo_adv_dear_hmsz_020_ttmr-007_03_metadata.json"
+}

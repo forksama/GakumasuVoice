@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5231353033/892704e253818cd54d197444a3ab07a0",
+  "line_no": 244,
+  "voice_line_no": 245,
+  "text": "私は、『<r=いちばんぼし>一番星</r>』の景色を、\n見てみたいと思う。",
+  "speaker": "莉波",
+  "voice_cue": "sud_vo_adv_dear_hrnm_035_hrnm-023",
+  "bank_name": "sud_vo_adv_dear_hrnm_035",
+  "start": 169.6986550532,
+  "duration": 5.6619938965,
+  "voice_start": 169.7986550532,
+  "voice_duration": 5.25,
+  "output_slug": "sud_vo_adv_dear_hrnm_035_hrnm-023",
+  "output_index": 23,
+  "subsong_index": 27,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\rinami\\20260715_003446_limit100\\acb\\sud_vo_adv_dear_hrnm_035.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\rinami\\20260715_003446_limit100\\scripts\\5231353033_892704e253818cd54d197444a3ab07a0.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\rinami\\20260715_003446_limit100\\items\\0023_sud_vo_adv_dear_hrnm_035_hrnm-023_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\rinami\\20260715_003446_limit100\\items\\0023_sud_vo_adv_dear_hrnm_035_hrnm-023_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\rinami\\20260715_003446_limit100\\items\\0023_sud_vo_adv_dear_hrnm_035_hrnm-023_03_metadata.json"
+}

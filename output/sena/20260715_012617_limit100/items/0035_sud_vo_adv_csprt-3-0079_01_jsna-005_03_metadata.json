@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5234393333/75ddfa6a7a3271d4e21869d62eb863f0",
+  "line_no": 179,
+  "voice_line_no": 180,
+  "text": "まったく……退屈しないわね。",
+  "speaker": "星南",
+  "voice_cue": "sud_vo_adv_csprt-3-0079_01_jsna-005",
+  "bank_name": "sud_vo_adv_csprt-3-0079_01",
+  "start": 94.4993305875,
+  "duration": 3.614,
+  "voice_start": 94.5993305875,
+  "voice_duration": 3.514,
+  "output_slug": "sud_vo_adv_csprt-3-0079_01_jsna-005",
+  "output_index": 35,
+  "subsong_index": 20,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\sena\\20260715_012617_limit100\\acb\\sud_vo_adv_csprt-3-0079_01.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\sena\\20260715_012617_limit100\\scripts\\5234393333_75ddfa6a7a3271d4e21869d62eb863f0.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\sena\\20260715_012617_limit100\\items\\0035_sud_vo_adv_csprt-3-0079_01_jsna-005_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\sena\\20260715_012617_limit100\\items\\0035_sud_vo_adv_csprt-3-0079_01_jsna-005_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\sena\\20260715_012617_limit100\\items\\0035_sud_vo_adv_csprt-3-0079_01_jsna-005_03_metadata.json"
+}

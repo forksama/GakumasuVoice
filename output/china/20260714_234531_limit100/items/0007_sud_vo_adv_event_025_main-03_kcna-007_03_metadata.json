@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5236343733/041a4db7cf6152776422ca5df375f49c",
+  "line_no": 114,
+  "voice_line_no": 117,
+  "text": "花海さんがいつも、レッスンメニューや\nお食事を管理しているように？",
+  "speaker": "千奈",
+  "voice_cue": "sud_vo_adv_event_025_main-03_kcna-007",
+  "bank_name": "sud_vo_adv_event_025_main-03",
+  "start": 79.2033194419,
+  "duration": 4.9646717529,
+  "voice_start": 79.3033194419,
+  "voice_duration": 4.698,
+  "output_slug": "sud_vo_adv_event_025_main-03_kcna-007",
+  "output_index": 7,
+  "subsong_index": 40,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\china\\20260714_234531_limit100\\acb\\sud_vo_adv_event_025_main-03.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\china\\20260714_234531_limit100\\scripts\\5236343733_041a4db7cf6152776422ca5df375f49c.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\china\\20260714_234531_limit100\\items\\0007_sud_vo_adv_event_025_main-03_kcna-007_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\china\\20260714_234531_limit100\\items\\0007_sud_vo_adv_event_025_main-03_kcna-007_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\china\\20260714_234531_limit100\\items\\0007_sud_vo_adv_event_025_main-03_kcna-007_03_metadata.json"
+}

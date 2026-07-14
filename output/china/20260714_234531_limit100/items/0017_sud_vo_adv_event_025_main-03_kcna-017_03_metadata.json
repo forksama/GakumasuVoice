@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5236343733/041a4db7cf6152776422ca5df375f49c",
+  "line_no": 257,
+  "voice_line_no": 261,
+  "text": "未熟なりに……お伝えしたいのです。\nご安心くださいと。",
+  "speaker": "千奈",
+  "voice_cue": "sud_vo_adv_event_025_main-03_kcna-017",
+  "bank_name": "sud_vo_adv_event_025_main-03",
+  "start": 178.524960278,
+  "duration": 6.2393282471,
+  "voice_start": 178.624960278,
+  "voice_duration": 5.806,
+  "output_slug": "sud_vo_adv_event_025_main-03_kcna-017",
+  "output_index": 17,
+  "subsong_index": 50,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\china\\20260714_234531_limit100\\acb\\sud_vo_adv_event_025_main-03.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\china\\20260714_234531_limit100\\scripts\\5236343733_041a4db7cf6152776422ca5df375f49c.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\china\\20260714_234531_limit100\\items\\0017_sud_vo_adv_event_025_main-03_kcna-017_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\china\\20260714_234531_limit100\\items\\0017_sud_vo_adv_event_025_main-03_kcna-017_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\china\\20260714_234531_limit100\\items\\0017_sud_vo_adv_event_025_main-03_kcna-017_03_metadata.json"
+}

@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5234323033/b388e31603256c068e1e3f346b5b73da",
+  "line_no": 176,
+  "voice_line_no": 177,
+  "text": "だけれど……先輩？",
+  "speaker": "星南",
+  "voice_cue": "sud_vo_adv_cidol-jsna-3-011_02_jsna-026",
+  "bank_name": "sud_vo_adv_cidol-jsna-3-011_02",
+  "start": 161.8899878382,
+  "duration": 2.701,
+  "voice_start": 161.9899878382,
+  "voice_duration": 2.601,
+  "output_slug": "sud_vo_adv_cidol-jsna-3-011_02_jsna-026",
+  "output_index": 61,
+  "subsong_index": 26,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\sena\\20260715_012617_limit100\\acb\\sud_vo_adv_cidol-jsna-3-011_02.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\sena\\20260715_012617_limit100\\scripts\\5234323033_b388e31603256c068e1e3f346b5b73da.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\sena\\20260715_012617_limit100\\items\\0061_sud_vo_adv_cidol-jsna-3-011_02_jsna-026_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\sena\\20260715_012617_limit100\\items\\0061_sud_vo_adv_cidol-jsna-3-011_02_jsna-026_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\sena\\20260715_012617_limit100\\items\\0061_sud_vo_adv_cidol-jsna-3-011_02_jsna-026_03_metadata.json"
+}

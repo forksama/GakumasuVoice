@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5232393933/bd170d77f1570fccfb6348af63baf80c",
+  "line_no": 68,
+  "voice_line_no": 69,
+  "text": "だ、だって……\nせっかくここまで来られたのに……。",
+  "speaker": "リーリヤ",
+  "voice_cue": "sud_vo_adv_pstory_001_kllj_after-audition-final-failure-01_kllj-010",
+  "bank_name": "sud_vo_adv_pstory_001_kllj_after-audition-final-failure-01",
+  "start": 65.3673326752,
+  "duration": 4.936,
+  "voice_start": 65.4673326752,
+  "voice_duration": 4.836,
+  "output_slug": "sud_vo_adv_pstory_001_kllj_after-audition-final-failure-01_kllj-010",
+  "output_index": 39,
+  "subsong_index": 10,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\lilja\\20260714_232653_limit100\\acb\\sud_vo_adv_pstory_001_kllj_after-audition-final-failure-01.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\lilja\\20260714_232653_limit100\\scripts\\5232393933_bd170d77f1570fccfb6348af63baf80c.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\lilja\\20260714_232653_limit100\\items\\0039_sud_vo_adv_pstory_001_kllj_after-audition-final-failure-01_kllj-010_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\lilja\\20260714_232653_limit100\\items\\0039_sud_vo_adv_pstory_001_kllj_after-audition-final-failure-01_kllj-010_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\lilja\\20260714_232653_limit100\\items\\0039_sud_vo_adv_pstory_001_kllj_after-audition-final-failure-01_kllj-010_03_metadata.json"
+}

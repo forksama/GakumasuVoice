@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5234323033/b388e31603256c068e1e3f346b5b73da",
+  "line_no": 151,
+  "voice_line_no": 152,
+  "text": "事前情報を踏まえてシミュレーションを\nしてみたけれど……",
+  "speaker": "星南",
+  "voice_cue": "sud_vo_adv_cidol-jsna-3-011_02_jsna-022",
+  "bank_name": "sud_vo_adv_cidol-jsna-3-011_02",
+  "start": 140.3513283878,
+  "duration": 4.277,
+  "voice_start": 140.4513283878,
+  "voice_duration": 4.177,
+  "output_slug": "sud_vo_adv_cidol-jsna-3-011_02_jsna-022",
+  "output_index": 57,
+  "subsong_index": 22,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\sena\\20260715_012617_limit100\\acb\\sud_vo_adv_cidol-jsna-3-011_02.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\sena\\20260715_012617_limit100\\scripts\\5234323033_b388e31603256c068e1e3f346b5b73da.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\sena\\20260715_012617_limit100\\items\\0057_sud_vo_adv_cidol-jsna-3-011_02_jsna-022_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\sena\\20260715_012617_limit100\\items\\0057_sud_vo_adv_cidol-jsna-3-011_02_jsna-022_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\sena\\20260715_012617_limit100\\items\\0057_sud_vo_adv_cidol-jsna-3-011_02_jsna-022_03_metadata.json"
+}

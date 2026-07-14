@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5235363933/9f0999c8ee8ecd4a50fce6dc66044d1a",
+  "line_no": 240,
+  "voice_line_no": 241,
+  "text": "はいはい、ゴメンね、手毬。\nあたしが悪かったって！",
+  "speaker": "ことね",
+  "voice_cue": "sud_vo_adv_event_009_main-01_fktn-021",
+  "bank_name": "sud_vo_adv_event_009_main-01",
+  "start": 137.7283317105,
+  "duration": 4.7993328247,
+  "voice_start": 137.8283317105,
+  "voice_duration": 4.666,
+  "output_slug": "sud_vo_adv_event_009_main-01_fktn-021",
+  "output_index": 92,
+  "subsong_index": 21,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\kotone\\20260714_230100_limit100\\acb\\sud_vo_adv_event_009_main-01.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\kotone\\20260714_230100_limit100\\scripts\\5235363933_9f0999c8ee8ecd4a50fce6dc66044d1a.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\kotone\\20260714_230100_limit100\\items\\0092_sud_vo_adv_event_009_main-01_fktn-021_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\kotone\\20260714_230100_limit100\\items\\0092_sud_vo_adv_event_009_main-01_fktn-021_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\kotone\\20260714_230100_limit100\\items\\0092_sud_vo_adv_event_009_main-01_fktn-021_03_metadata.json"
+}

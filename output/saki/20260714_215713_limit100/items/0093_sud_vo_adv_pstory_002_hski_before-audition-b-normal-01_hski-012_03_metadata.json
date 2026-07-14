@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5232363533/ddd296a2f8213248d1a94eb61dfca21c",
+  "line_no": 72,
+  "voice_line_no": 73,
+  "text": "だからこそ……乗り越えてみせるわ。\nこの気持ちと一緒にねっ！",
+  "speaker": "咲季",
+  "voice_cue": "sud_vo_adv_pstory_002_hski_before-audition-b-normal-01_hski-012",
+  "bank_name": "sud_vo_adv_pstory_002_hski_before-audition-b-normal-01",
+  "start": 49.597007693,
+  "duration": 5.9696612625,
+  "voice_start": 49.697007693,
+  "voice_duration": 5.781,
+  "output_slug": "sud_vo_adv_pstory_002_hski_before-audition-b-normal-01_hski-012",
+  "output_index": 93,
+  "subsong_index": 12,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\acb\\sud_vo_adv_pstory_002_hski_before-audition-b-normal-01.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\scripts\\5232363533_ddd296a2f8213248d1a94eb61dfca21c.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\items\\0093_sud_vo_adv_pstory_002_hski_before-audition-b-normal-01_hski-012_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\items\\0093_sud_vo_adv_pstory_002_hski_before-audition-b-normal-01_hski-012_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\items\\0093_sud_vo_adv_pstory_002_hski_before-audition-b-normal-01_hski-012_03_metadata.json"
+}

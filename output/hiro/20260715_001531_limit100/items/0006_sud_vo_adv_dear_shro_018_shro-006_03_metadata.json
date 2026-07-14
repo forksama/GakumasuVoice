@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5235353133/d8efed0f79b6010b32b2b24ebc816ce8",
+  "line_no": 44,
+  "voice_line_no": 49,
+  "text": "とんでもない暴言が飛び出した。",
+  "speaker": "広",
+  "voice_cue": "sud_vo_adv_dear_shro_018_shro-006",
+  "bank_name": "sud_vo_adv_dear_shro_018",
+  "start": 37.4146673898,
+  "duration": 2.35,
+  "voice_start": 37.5146673898,
+  "voice_duration": 2.25,
+  "output_slug": "sud_vo_adv_dear_shro_018_shro-006",
+  "output_index": 6,
+  "subsong_index": 6,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\hiro\\20260715_001531_limit100\\acb\\sud_vo_adv_dear_shro_018.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\hiro\\20260715_001531_limit100\\scripts\\5235353133_d8efed0f79b6010b32b2b24ebc816ce8.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\hiro\\20260715_001531_limit100\\items\\0006_sud_vo_adv_dear_shro_018_shro-006_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\hiro\\20260715_001531_limit100\\items\\0006_sud_vo_adv_dear_shro_018_shro-006_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\hiro\\20260715_001531_limit100\\items\\0006_sud_vo_adv_dear_shro_018_shro-006_03_metadata.json"
+}

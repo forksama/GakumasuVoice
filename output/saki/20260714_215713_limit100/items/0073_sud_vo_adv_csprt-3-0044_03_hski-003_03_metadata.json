@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5231393433/032a8bc38ade4ceba3ba19458c8ad786",
+  "line_no": 123,
+  "voice_line_no": 124,
+  "text": "いいわね！　その時は\nわたしがセンターに立ってあげるわ！",
+  "speaker": "咲季",
+  "voice_cue": "sud_vo_adv_csprt-3-0044_03_hski-003",
+  "bank_name": "sud_vo_adv_csprt-3-0044_03",
+  "start": 60.5893335461,
+  "duration": 4.554,
+  "voice_start": 60.6893335461,
+  "voice_duration": 4.454,
+  "output_slug": "sud_vo_adv_csprt-3-0044_03_hski-003",
+  "output_index": 73,
+  "subsong_index": 8,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\acb\\sud_vo_adv_csprt-3-0044_03.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\scripts\\5231393433_032a8bc38ade4ceba3ba19458c8ad786.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\items\\0073_sud_vo_adv_csprt-3-0044_03_hski-003_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\items\\0073_sud_vo_adv_csprt-3-0044_03_hski-003_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\items\\0073_sud_vo_adv_csprt-3-0044_03_hski-003_03_metadata.json"
+}

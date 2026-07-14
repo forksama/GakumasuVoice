@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5235313833/c1d6633e9b0aab996f5b67911872ed76",
+  "line_no": 80,
+  "voice_line_no": 81,
+  "text": "ええ～っ、トンボが、\nお姉ちゃんの指先にとまった！？",
+  "speaker": "佑芽",
+  "voice_cue": "sud_vo_adv_csprt-2-0034_01_hume-004",
+  "bank_name": "sud_vo_adv_csprt-2-0034_01",
+  "start": 41.873996804,
+  "duration": 4.6023366394,
+  "voice_start": 41.973996804,
+  "voice_duration": 4.469,
+  "output_slug": "sud_vo_adv_csprt-2-0034_01_hume-004",
+  "output_index": 27,
+  "subsong_index": 17,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\acb\\sud_vo_adv_csprt-2-0034_01.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\scripts\\5235313833_c1d6633e9b0aab996f5b67911872ed76.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\items\\0027_sud_vo_adv_csprt-2-0034_01_hume-004_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\items\\0027_sud_vo_adv_csprt-2-0034_01_hume-004_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\items\\0027_sud_vo_adv_csprt-2-0034_01_hume-004_03_metadata.json"
+}

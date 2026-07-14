@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5231333333/6e6752f7c7e9e2f1805c16b90c1ab7f9",
+  "line_no": 58,
+  "voice_line_no": 61,
+  "text": "立派に独り立ち……できたことをです。",
+  "speaker": "手毬",
+  "voice_cue": "sud_vo_adv_cidol-ttmr-3-007_03_ttmr-008",
+  "bank_name": "sud_vo_adv_cidol-ttmr-3-007_03",
+  "start": 44.6730000422,
+  "duration": 4.002,
+  "voice_start": 44.7730000422,
+  "voice_duration": 3.902,
+  "output_slug": "sud_vo_adv_cidol-ttmr-3-007_03_ttmr-008",
+  "output_index": 16,
+  "subsong_index": 8,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\temari\\20260714_223748_limit100\\acb\\sud_vo_adv_cidol-ttmr-3-007_03.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\temari\\20260714_223748_limit100\\scripts\\5231333333_6e6752f7c7e9e2f1805c16b90c1ab7f9.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\temari\\20260714_223748_limit100\\items\\0016_sud_vo_adv_cidol-ttmr-3-007_03_ttmr-008_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\temari\\20260714_223748_limit100\\items\\0016_sud_vo_adv_cidol-ttmr-3-007_03_ttmr-008_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\temari\\20260714_223748_limit100\\items\\0016_sud_vo_adv_cidol-ttmr-3-007_03_ttmr-008_03_metadata.json"
+}

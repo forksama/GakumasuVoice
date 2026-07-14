@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5233303233/c9228aeb784574e1133bdf8776c5ab8c",
+  "line_no": 98,
+  "voice_line_no": 99,
+  "text": "なのに……どうしてかしら。\nこう思うの。",
+  "speaker": "星南",
+  "voice_cue": "sud_vo_adv_pstory_001_jsna_after-step-2-normal-01_jsna-015",
+  "bank_name": "sud_vo_adv_pstory_001_jsna_after-step-2-normal-01",
+  "start": 71.6570028704,
+  "duration": 5.0006656495,
+  "voice_start": 71.7570028704,
+  "voice_duration": 4.834,
+  "output_slug": "sud_vo_adv_pstory_001_jsna_after-step-2-normal-01_jsna-015",
+  "output_index": 97,
+  "subsong_index": 15,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\sena\\20260715_012617_limit100\\acb\\sud_vo_adv_pstory_001_jsna_after-step-2-normal-01.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\sena\\20260715_012617_limit100\\scripts\\5233303233_c9228aeb784574e1133bdf8776c5ab8c.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\sena\\20260715_012617_limit100\\items\\0097_sud_vo_adv_pstory_001_jsna_after-step-2-normal-01_jsna-015_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\sena\\20260715_012617_limit100\\items\\0097_sud_vo_adv_pstory_001_jsna_after-step-2-normal-01_jsna-015_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\sena\\20260715_012617_limit100\\items\\0097_sud_vo_adv_pstory_001_jsna_after-step-2-normal-01_jsna-015_03_metadata.json"
+}

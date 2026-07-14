@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5233363433/dda55224f0730cb20ee23549610b09ec",
+  "line_no": 161,
+  "voice_line_no": 165,
+  "text": "ど、どうかしら……？",
+  "speaker": "星南",
+  "voice_cue": "sud_vo_adv_csprt-3-0098_01_jsna-008",
+  "bank_name": "sud_vo_adv_csprt-3-0098_01",
+  "start": 98.940994997,
+  "duration": 2.194,
+  "voice_start": 99.040994997,
+  "voice_duration": 2.094,
+  "output_slug": "sud_vo_adv_csprt-3-0098_01_jsna-008",
+  "output_index": 8,
+  "subsong_index": 20,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\sena\\20260715_012617_limit100\\acb\\sud_vo_adv_csprt-3-0098_01.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\sena\\20260715_012617_limit100\\scripts\\5233363433_dda55224f0730cb20ee23549610b09ec.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\sena\\20260715_012617_limit100\\items\\0008_sud_vo_adv_csprt-3-0098_01_jsna-008_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\sena\\20260715_012617_limit100\\items\\0008_sud_vo_adv_csprt-3-0098_01_jsna-008_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\sena\\20260715_012617_limit100\\items\\0008_sud_vo_adv_csprt-3-0098_01_jsna-008_03_metadata.json"
+}

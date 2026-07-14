@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5236323433/7caac344dfce07ac3f2fe16ca309af7e",
+  "line_no": 321,
+  "voice_line_no": 324,
+  "text": "えぇ～、美鈴ちゃんも\n本気でやろうよ～。",
+  "speaker": "佑芽",
+  "voice_cue": "sud_vo_adv_event_014_main-01_hume-016",
+  "bank_name": "sud_vo_adv_event_014_main-01",
+  "start": 197.5601258346,
+  "duration": 3.9277618409,
+  "voice_start": 197.6601258347,
+  "voice_duration": 3.7,
+  "output_slug": "sud_vo_adv_event_014_main-01_hume-016",
+  "output_index": 46,
+  "subsong_index": 24,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\acb\\sud_vo_adv_event_014_main-01.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\scripts\\5236323433_7caac344dfce07ac3f2fe16ca309af7e.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\items\\0046_sud_vo_adv_event_014_main-01_hume-016_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\items\\0046_sud_vo_adv_event_014_main-01_hume-016_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\items\\0046_sud_vo_adv_event_014_main-01_hume-016_03_metadata.json"
+}

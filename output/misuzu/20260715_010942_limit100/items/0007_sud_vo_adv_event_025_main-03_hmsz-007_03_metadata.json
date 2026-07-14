@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5236343733/041a4db7cf6152776422ca5df375f49c",
+  "line_no": 196,
+  "voice_line_no": 201,
+  "text": "ですがそれはあくまで余興。\nパーティーのメインになるような\nものではありませんよ。",
+  "speaker": "美鈴",
+  "voice_cue": "sud_vo_adv_event_025_main-03_hmsz-007",
+  "bank_name": "sud_vo_adv_event_025_main-03",
+  "start": 131.4673261443,
+  "duration": 7.5366656494,
+  "voice_start": 131.5673261443,
+  "voice_duration": 7.37,
+  "output_slug": "sud_vo_adv_event_025_main-03_hmsz-007",
+  "output_index": 7,
+  "subsong_index": 7,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\misuzu\\20260715_010942_limit100\\acb\\sud_vo_adv_event_025_main-03.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\misuzu\\20260715_010942_limit100\\scripts\\5236343733_041a4db7cf6152776422ca5df375f49c.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\misuzu\\20260715_010942_limit100\\items\\0007_sud_vo_adv_event_025_main-03_hmsz-007_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\misuzu\\20260715_010942_limit100\\items\\0007_sud_vo_adv_event_025_main-03_hmsz-007_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\misuzu\\20260715_010942_limit100\\items\\0007_sud_vo_adv_event_025_main-03_hmsz-007_03_metadata.json"
+}

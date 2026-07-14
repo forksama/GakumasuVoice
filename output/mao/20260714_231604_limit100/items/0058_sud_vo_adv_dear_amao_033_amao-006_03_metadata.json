@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5231373833/d36577ec5985cac906f46246eb801e82",
+  "line_no": 54,
+  "voice_line_no": 55,
+  "text": "ボクが決めていいんですか？",
+  "speaker": "麻央",
+  "voice_cue": "sud_vo_adv_dear_amao_033_amao-006",
+  "bank_name": "sud_vo_adv_dear_amao_033",
+  "start": 37.041002087,
+  "duration": 2.099,
+  "voice_start": 37.141002087,
+  "voice_duration": 1.999,
+  "output_slug": "sud_vo_adv_dear_amao_033_amao-006",
+  "output_index": 58,
+  "subsong_index": 6,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\acb\\sud_vo_adv_dear_amao_033.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\scripts\\5231373833_d36577ec5985cac906f46246eb801e82.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\items\\0058_sud_vo_adv_dear_amao_033_amao-006_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\items\\0058_sud_vo_adv_dear_amao_033_amao-006_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\items\\0058_sud_vo_adv_dear_amao_033_amao-006_03_metadata.json"
+}

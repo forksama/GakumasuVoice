@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5234383433/5807618406aafa6a653c005c9fa2b71c",
+  "line_no": 77,
+  "voice_line_no": 78,
+  "text": "へえ……ふぅん。\n……私も寮で暮らそうかしら。",
+  "speaker": "星南",
+  "voice_cue": "sud_vo_adv_csprt-3-0024_03_jsna-005",
+  "bank_name": "sud_vo_adv_csprt-3-0024_03",
+  "start": 34.6139961723,
+  "duration": 6.6023328247,
+  "voice_start": 34.7139961723,
+  "voice_duration": 6.469,
+  "output_slug": "sud_vo_adv_csprt-3-0024_03_jsna-005",
+  "output_index": 22,
+  "subsong_index": 19,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\sena\\20260715_012617_limit100\\acb\\sud_vo_adv_csprt-3-0024_03.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\sena\\20260715_012617_limit100\\scripts\\5234383433_5807618406aafa6a653c005c9fa2b71c.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\sena\\20260715_012617_limit100\\items\\0022_sud_vo_adv_csprt-3-0024_03_jsna-005_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\sena\\20260715_012617_limit100\\items\\0022_sud_vo_adv_csprt-3-0024_03_jsna-005_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\sena\\20260715_012617_limit100\\items\\0022_sud_vo_adv_csprt-3-0024_03_jsna-005_03_metadata.json"
+}

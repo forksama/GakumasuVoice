@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5235363933/9f0999c8ee8ecd4a50fce6dc66044d1a",
+  "line_no": 269,
+  "voice_line_no": 270,
+  "text": "どうせ、そんな理由だろうと思ったわ。",
+  "speaker": "咲季",
+  "voice_cue": "sud_vo_adv_event_009_main-01_hski-002",
+  "bank_name": "sud_vo_adv_event_009_main-01",
+  "start": 162.0703288813,
+  "duration": 2.8073251953,
+  "voice_start": 162.1703288813,
+  "voice_duration": 2.674,
+  "output_slug": "sud_vo_adv_event_009_main-01_hski-002",
+  "output_index": 43,
+  "subsong_index": 35,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\acb\\sud_vo_adv_event_009_main-01.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\scripts\\5235363933_9f0999c8ee8ecd4a50fce6dc66044d1a.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\items\\0043_sud_vo_adv_event_009_main-01_hski-002_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\items\\0043_sud_vo_adv_event_009_main-01_hski-002_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\items\\0043_sud_vo_adv_event_009_main-01_hski-002_03_metadata.json"
+}

@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5235363933/9f0999c8ee8ecd4a50fce6dc66044d1a",
+  "line_no": 219,
+  "voice_line_no": 220,
+  "text": "ああ～、手毬には\n切実な問題だよねぇ……",
+  "speaker": "ことね",
+  "voice_cue": "sud_vo_adv_event_009_main-01_fktn-019",
+  "bank_name": "sud_vo_adv_event_009_main-01",
+  "start": 123.3563259406,
+  "duration": 5.0763328247,
+  "voice_start": 123.4563259406,
+  "voice_duration": 4.943,
+  "output_slug": "sud_vo_adv_event_009_main-01_fktn-019",
+  "output_index": 90,
+  "subsong_index": 19,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\kotone\\20260714_230100_limit100\\acb\\sud_vo_adv_event_009_main-01.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\kotone\\20260714_230100_limit100\\scripts\\5235363933_9f0999c8ee8ecd4a50fce6dc66044d1a.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\kotone\\20260714_230100_limit100\\items\\0090_sud_vo_adv_event_009_main-01_fktn-019_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\kotone\\20260714_230100_limit100\\items\\0090_sud_vo_adv_event_009_main-01_fktn-019_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\kotone\\20260714_230100_limit100\\items\\0090_sud_vo_adv_event_009_main-01_fktn-019_03_metadata.json"
+}

@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5233333433/918b877dba755f94acaaae0c89d40165",
+  "line_no": 107,
+  "voice_line_no": 108,
+  "text": "プロデューサーさん、ほんと……\n当たり前みたいに言いますよね。",
+  "speaker": "佑芽",
+  "voice_cue": "sud_vo_adv_pstory_001_hume_after-audition-final-normal-01_hume-018",
+  "bank_name": "sud_vo_adv_pstory_001_hume_after-audition-final-normal-01",
+  "start": 79.8076749549,
+  "duration": 5.001,
+  "voice_start": 79.9076749549,
+  "voice_duration": 4.901,
+  "output_slug": "sud_vo_adv_pstory_001_hume_after-audition-final-normal-01_hume-018",
+  "output_index": 68,
+  "subsong_index": 18,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\acb\\sud_vo_adv_pstory_001_hume_after-audition-final-normal-01.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\scripts\\5233333433_918b877dba755f94acaaae0c89d40165.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\items\\0068_sud_vo_adv_pstory_001_hume_after-audition-final-normal-01_hume-018_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\items\\0068_sud_vo_adv_pstory_001_hume_after-audition-final-normal-01_hume-018_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\items\\0068_sud_vo_adv_pstory_001_hume_after-audition-final-normal-01_hume-018_03_metadata.json"
+}

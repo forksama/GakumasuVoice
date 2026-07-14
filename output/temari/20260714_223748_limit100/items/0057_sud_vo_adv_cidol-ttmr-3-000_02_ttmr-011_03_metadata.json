@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5231373233/78608d3915910502d2734b488e9b8d72",
+  "line_no": 145,
+  "voice_line_no": 146,
+  "text": "どうしてもっていうなら……\n一緒に入ってあげてもいいよ。",
+  "speaker": "手毬",
+  "voice_cue": "sud_vo_adv_cidol-ttmr-3-000_02_ttmr-011",
+  "bank_name": "sud_vo_adv_cidol-ttmr-3-000_02",
+  "start": 96.9680038854,
+  "duration": 3.8300000191,
+  "voice_start": 97.0680038854,
+  "voice_duration": 3.7300000191,
+  "output_slug": "sud_vo_adv_cidol-ttmr-3-000_02_ttmr-011",
+  "output_index": 57,
+  "subsong_index": 34,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\temari\\20260714_223748_limit100\\acb\\sud_vo_adv_cidol-ttmr-3-000_02.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\temari\\20260714_223748_limit100\\scripts\\5231373233_78608d3915910502d2734b488e9b8d72.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\temari\\20260714_223748_limit100\\items\\0057_sud_vo_adv_cidol-ttmr-3-000_02_ttmr-011_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\temari\\20260714_223748_limit100\\items\\0057_sud_vo_adv_cidol-ttmr-3-000_02_ttmr-011_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\temari\\20260714_223748_limit100\\items\\0057_sud_vo_adv_cidol-ttmr-3-000_02_ttmr-011_03_metadata.json"
+}

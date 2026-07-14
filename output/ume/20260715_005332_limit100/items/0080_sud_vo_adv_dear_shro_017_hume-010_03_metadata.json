@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5231313133/302d314da24a3de5ce21d994fca1a99b",
+  "line_no": 263,
+  "voice_line_no": 272,
+  "text": "『N.I.A』ランキング1桁！\n到達おめでと～～～っ！",
+  "speaker": "佑芽",
+  "voice_cue": "sud_vo_adv_dear_shro_017_hume-010",
+  "bank_name": "sud_vo_adv_dear_shro_017",
+  "start": 167.813994482,
+  "duration": 5.901,
+  "voice_start": 167.913994482,
+  "voice_duration": 5.801,
+  "output_slug": "sud_vo_adv_dear_shro_017_hume-010",
+  "output_index": 80,
+  "subsong_index": 10,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\acb\\sud_vo_adv_dear_shro_017.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\scripts\\5231313133_302d314da24a3de5ce21d994fca1a99b.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\items\\0080_sud_vo_adv_dear_shro_017_hume-010_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\items\\0080_sud_vo_adv_dear_shro_017_hume-010_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\items\\0080_sud_vo_adv_dear_shro_017_hume-010_03_metadata.json"
+}

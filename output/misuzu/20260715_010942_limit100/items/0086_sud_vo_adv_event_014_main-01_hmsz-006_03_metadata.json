@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5236323433/7caac344dfce07ac3f2fe16ca309af7e",
+  "line_no": 335,
+  "voice_line_no": 336,
+  "text": "毎日レッスンを\nサボってばかりのわたしが……",
+  "speaker": "美鈴",
+  "voice_cue": "sud_vo_adv_event_014_main-01_hmsz-006",
+  "bank_name": "sud_vo_adv_event_014_main-01",
+  "start": 209.6008522588,
+  "duration": 3.4435556641,
+  "voice_start": 209.7008522589,
+  "voice_duration": 3.299,
+  "output_slug": "sud_vo_adv_event_014_main-01_hmsz-006",
+  "output_index": 86,
+  "subsong_index": 6,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\misuzu\\20260715_010942_limit100\\acb\\sud_vo_adv_event_014_main-01.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\misuzu\\20260715_010942_limit100\\scripts\\5236323433_7caac344dfce07ac3f2fe16ca309af7e.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\misuzu\\20260715_010942_limit100\\items\\0086_sud_vo_adv_event_014_main-01_hmsz-006_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\misuzu\\20260715_010942_limit100\\items\\0086_sud_vo_adv_event_014_main-01_hmsz-006_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\misuzu\\20260715_010942_limit100\\items\\0086_sud_vo_adv_event_014_main-01_hmsz-006_03_metadata.json"
+}

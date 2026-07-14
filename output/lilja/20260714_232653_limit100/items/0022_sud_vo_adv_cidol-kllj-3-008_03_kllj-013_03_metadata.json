@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5234393133/b949e5731ceefe8d5cf6add5d2f110e6",
+  "line_no": 77,
+  "voice_line_no": 80,
+  "text": "わたしらしく歌います。\n一生懸命、いつも通りに。",
+  "speaker": "リーリヤ",
+  "voice_cue": "sud_vo_adv_cidol-kllj-3-008_03_kllj-013",
+  "bank_name": "sud_vo_adv_cidol-kllj-3-008_03",
+  "start": 93.2796616151,
+  "duration": 6.133,
+  "voice_start": 93.3796616151,
+  "voice_duration": 6.033,
+  "output_slug": "sud_vo_adv_cidol-kllj-3-008_03_kllj-013",
+  "output_index": 22,
+  "subsong_index": 13,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\lilja\\20260714_232653_limit100\\acb\\sud_vo_adv_cidol-kllj-3-008_03.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\lilja\\20260714_232653_limit100\\scripts\\5234393133_b949e5731ceefe8d5cf6add5d2f110e6.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\lilja\\20260714_232653_limit100\\items\\0022_sud_vo_adv_cidol-kllj-3-008_03_kllj-013_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\lilja\\20260714_232653_limit100\\items\\0022_sud_vo_adv_cidol-kllj-3-008_03_kllj-013_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\lilja\\20260714_232653_limit100\\items\\0022_sud_vo_adv_cidol-kllj-3-008_03_kllj-013_03_metadata.json"
+}

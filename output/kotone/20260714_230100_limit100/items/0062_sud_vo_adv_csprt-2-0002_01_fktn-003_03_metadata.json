@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5231383233/df5f95d9f2bdd687c6971a45b17f4a8e",
+  "line_no": 32,
+  "voice_line_no": 33,
+  "text": "あ、あはは、やだなー……\nget a chanceですよ、先輩。",
+  "speaker": "ことね",
+  "voice_cue": "sud_vo_adv_csprt-2-0002_01_fktn-003",
+  "bank_name": "sud_vo_adv_csprt-2-0002_01",
+  "start": 13.6000005244,
+  "duration": 5.7399993897,
+  "voice_start": 13.7000005244,
+  "voice_duration": 5.616,
+  "output_slug": "sud_vo_adv_csprt-2-0002_01_fktn-003",
+  "output_index": 62,
+  "subsong_index": 13,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\kotone\\20260714_230100_limit100\\acb\\sud_vo_adv_csprt-2-0002_01.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\kotone\\20260714_230100_limit100\\scripts\\5231383233_df5f95d9f2bdd687c6971a45b17f4a8e.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\kotone\\20260714_230100_limit100\\items\\0062_sud_vo_adv_csprt-2-0002_01_fktn-003_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\kotone\\20260714_230100_limit100\\items\\0062_sud_vo_adv_csprt-2-0002_01_fktn-003_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\kotone\\20260714_230100_limit100\\items\\0062_sud_vo_adv_csprt-2-0002_01_fktn-003_03_metadata.json"
+}

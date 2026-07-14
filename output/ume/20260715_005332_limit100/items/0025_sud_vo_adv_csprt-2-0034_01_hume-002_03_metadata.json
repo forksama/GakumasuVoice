@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5235313833/c1d6633e9b0aab996f5b67911872ed76",
+  "line_no": 28,
+  "voice_line_no": 29,
+  "text": "……決めポーズ？",
+  "speaker": "佑芽",
+  "voice_cue": "sud_vo_adv_csprt-2-0034_01_hume-002",
+  "bank_name": "sud_vo_adv_csprt-2-0034_01",
+  "start": 7.1250000657,
+  "duration": 1.5730002861,
+  "voice_start": 7.2250000657,
+  "voice_duration": 1.273,
+  "output_slug": "sud_vo_adv_csprt-2-0034_01_hume-002",
+  "output_index": 25,
+  "subsong_index": 15,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\acb\\sud_vo_adv_csprt-2-0034_01.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\scripts\\5235313833_c1d6633e9b0aab996f5b67911872ed76.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\items\\0025_sud_vo_adv_csprt-2-0034_01_hume-002_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\items\\0025_sud_vo_adv_csprt-2-0034_01_hume-002_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\items\\0025_sud_vo_adv_csprt-2-0034_01_hume-002_03_metadata.json"
+}

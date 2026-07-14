@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5232343433/8b6a00d25d2d4abdb203923fd522c02b",
+  "line_no": 175,
+  "voice_line_no": 176,
+  "text": "ひひっ……本人、そこで覗いてるから、\n自分で言えば～♪",
+  "speaker": "ことね",
+  "voice_cue": "sud_vo_adv_csprt-3-0065_03_fktn-012",
+  "bank_name": "sud_vo_adv_csprt-3-0065_03",
+  "start": 89.4335538841,
+  "duration": 6.4082060241,
+  "voice_start": 89.5335538841,
+  "voice_duration": 6.065,
+  "output_slug": "sud_vo_adv_csprt-3-0065_03_fktn-012",
+  "output_index": 51,
+  "subsong_index": 12,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\kotone\\20260714_230100_limit100\\acb\\sud_vo_adv_csprt-3-0065_03.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\kotone\\20260714_230100_limit100\\scripts\\5232343433_8b6a00d25d2d4abdb203923fd522c02b.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\kotone\\20260714_230100_limit100\\items\\0051_sud_vo_adv_csprt-3-0065_03_fktn-012_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\kotone\\20260714_230100_limit100\\items\\0051_sud_vo_adv_csprt-3-0065_03_fktn-012_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\kotone\\20260714_230100_limit100\\items\\0051_sud_vo_adv_csprt-3-0065_03_fktn-012_03_metadata.json"
+}

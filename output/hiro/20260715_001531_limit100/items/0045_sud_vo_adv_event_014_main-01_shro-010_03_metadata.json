@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5236323433/7caac344dfce07ac3f2fe16ca309af7e",
+  "line_no": 301,
+  "voice_line_no": 304,
+  "text": "えっ……",
+  "speaker": "広",
+  "voice_cue": "sud_vo_adv_event_014_main-01_shro-010",
+  "bank_name": "sud_vo_adv_event_014_main-01",
+  "start": 183.3925931585,
+  "duration": 1.0734119873,
+  "voice_start": 183.4925931585,
+  "voice_duration": 0.473,
+  "output_slug": "sud_vo_adv_event_014_main-01_shro-010",
+  "output_index": 45,
+  "subsong_index": 56,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\hiro\\20260715_001531_limit100\\acb\\sud_vo_adv_event_014_main-01.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\hiro\\20260715_001531_limit100\\scripts\\5236323433_7caac344dfce07ac3f2fe16ca309af7e.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\hiro\\20260715_001531_limit100\\items\\0045_sud_vo_adv_event_014_main-01_shro-010_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\hiro\\20260715_001531_limit100\\items\\0045_sud_vo_adv_event_014_main-01_shro-010_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\hiro\\20260715_001531_limit100\\items\\0045_sud_vo_adv_event_014_main-01_shro-010_03_metadata.json"
+}

@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5233393733/7cde23d4c88fe8f5323e11faada7d569",
+  "line_no": 286,
+  "voice_line_no": 289,
+  "text": "徒歩で、ゆっくりと上ってきました。",
+  "speaker": "美鈴",
+  "voice_cue": "sud_vo_adv_dear_hmsz_020_hmsz-020",
+  "bank_name": "sud_vo_adv_dear_hmsz_020",
+  "start": 273.8685311783,
+  "duration": 4.227,
+  "voice_start": 273.9685311783,
+  "voice_duration": 4.127,
+  "output_slug": "sud_vo_adv_dear_hmsz_020_hmsz-020",
+  "output_index": 63,
+  "subsong_index": 20,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\misuzu\\20260715_010942_limit100\\acb\\sud_vo_adv_dear_hmsz_020.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\misuzu\\20260715_010942_limit100\\scripts\\5233393733_7cde23d4c88fe8f5323e11faada7d569.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\misuzu\\20260715_010942_limit100\\items\\0063_sud_vo_adv_dear_hmsz_020_hmsz-020_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\misuzu\\20260715_010942_limit100\\items\\0063_sud_vo_adv_dear_hmsz_020_hmsz-020_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\misuzu\\20260715_010942_limit100\\items\\0063_sud_vo_adv_dear_hmsz_020_hmsz-020_03_metadata.json"
+}

@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5236353933/f6456f7a0e2fcd7a47793c7d713d6215",
+  "line_no": 27,
+  "voice_line_no": 28,
+  "text": "隠したというか……",
+  "speaker": "咲季",
+  "voice_cue": "sud_vo_adv_pstory_001_hski_after-audition-final-normal-02_hski-003",
+  "bank_name": "sud_vo_adv_pstory_001_hski_after-audition-final-normal-02",
+  "start": 13.9296702015,
+  "duration": 2.0789996822,
+  "voice_start": 14.0296698837,
+  "voice_duration": 1.979,
+  "output_slug": "sud_vo_adv_pstory_001_hski_after-audition-final-normal-02_hski-003",
+  "output_index": 3,
+  "subsong_index": 3,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\acb\\sud_vo_adv_pstory_001_hski_after-audition-final-normal-02.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\scripts\\5236353933_f6456f7a0e2fcd7a47793c7d713d6215.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\items\\0003_sud_vo_adv_pstory_001_hski_after-audition-final-normal-02_hski-003_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\items\\0003_sud_vo_adv_pstory_001_hski_after-audition-final-normal-02_hski-003_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\items\\0003_sud_vo_adv_pstory_001_hski_after-audition-final-normal-02_hski-003_03_metadata.json"
+}

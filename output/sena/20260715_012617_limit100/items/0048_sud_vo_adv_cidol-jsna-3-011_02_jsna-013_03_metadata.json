@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5234323033/b388e31603256c068e1e3f346b5b73da",
+  "line_no": 83,
+  "voice_line_no": 84,
+  "text": "きっとあの子は、運命共同体になった\n相手に、一切の遠慮はしない。",
+  "speaker": "星南",
+  "voice_cue": "sud_vo_adv_cidol-jsna-3-011_02_jsna-013",
+  "bank_name": "sud_vo_adv_cidol-jsna-3-011_02",
+  "start": 69.4316728968,
+  "duration": 5.94,
+  "voice_start": 69.5316728968,
+  "voice_duration": 5.84,
+  "output_slug": "sud_vo_adv_cidol-jsna-3-011_02_jsna-013",
+  "output_index": 48,
+  "subsong_index": 13,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\sena\\20260715_012617_limit100\\acb\\sud_vo_adv_cidol-jsna-3-011_02.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\sena\\20260715_012617_limit100\\scripts\\5234323033_b388e31603256c068e1e3f346b5b73da.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\sena\\20260715_012617_limit100\\items\\0048_sud_vo_adv_cidol-jsna-3-011_02_jsna-013_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\sena\\20260715_012617_limit100\\items\\0048_sud_vo_adv_cidol-jsna-3-011_02_jsna-013_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\sena\\20260715_012617_limit100\\items\\0048_sud_vo_adv_cidol-jsna-3-011_02_jsna-013_03_metadata.json"
+}

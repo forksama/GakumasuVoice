@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/523533/1341f5bb78f304f705f98502515ebd5a",
+  "line_no": 69,
+  "voice_line_no": 71,
+  "text": "……なんのこと？",
+  "speaker": "広",
+  "voice_cue": "sud_vo_adv_cidol-shro-3-001_03_shro-012",
+  "bank_name": "sud_vo_adv_cidol-shro-3-001_03",
+  "start": 69.1586769504,
+  "duration": 1.0070030496,
+  "voice_start": 69.2586724091,
+  "voice_duration": 0.907,
+  "output_slug": "sud_vo_adv_cidol-shro-3-001_03_shro-012",
+  "output_index": 65,
+  "subsong_index": 12,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\hiro\\20260715_001531_limit100\\acb\\sud_vo_adv_cidol-shro-3-001_03.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\hiro\\20260715_001531_limit100\\scripts\\523533_1341f5bb78f304f705f98502515ebd5a.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\hiro\\20260715_001531_limit100\\items\\0065_sud_vo_adv_cidol-shro-3-001_03_shro-012_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\hiro\\20260715_001531_limit100\\items\\0065_sud_vo_adv_cidol-shro-3-001_03_shro-012_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\hiro\\20260715_001531_limit100\\items\\0065_sud_vo_adv_cidol-shro-3-001_03_shro-012_03_metadata.json"
+}

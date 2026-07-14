@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5231313133/302d314da24a3de5ce21d994fca1a99b",
+  "line_no": 441,
+  "voice_line_no": 446,
+  "text": "――させないけどね。",
+  "speaker": "佑芽",
+  "voice_cue": "sud_vo_adv_dear_shro_017_hume-019",
+  "bank_name": "sud_vo_adv_dear_shro_017",
+  "start": 278.5263558596,
+  "duration": 1.9136656494,
+  "voice_start": 278.6263558596,
+  "voice_duration": 1.747,
+  "output_slug": "sud_vo_adv_dear_shro_017_hume-019",
+  "output_index": 89,
+  "subsong_index": 19,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\acb\\sud_vo_adv_dear_shro_017.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\scripts\\5231313133_302d314da24a3de5ce21d994fca1a99b.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\items\\0089_sud_vo_adv_dear_shro_017_hume-019_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\items\\0089_sud_vo_adv_dear_shro_017_hume-019_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\items\\0089_sud_vo_adv_dear_shro_017_hume-019_03_metadata.json"
+}

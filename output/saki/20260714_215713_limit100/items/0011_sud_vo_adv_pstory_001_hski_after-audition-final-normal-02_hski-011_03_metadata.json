@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5236353933/f6456f7a0e2fcd7a47793c7d713d6215",
+  "line_no": 63,
+  "voice_line_no": 64,
+  "text": "もちろん不満よ。\nアイドルに限らず、どんな競技でも……",
+  "speaker": "咲季",
+  "voice_cue": "sud_vo_adv_pstory_001_hski_after-audition-final-normal-02_hski-011",
+  "bank_name": "sud_vo_adv_pstory_001_hski_after-audition-final-normal-02",
+  "start": 44.0105944963,
+  "duration": 4.4420012639,
+  "voice_start": 44.1105957602,
+  "voice_duration": 4.342,
+  "output_slug": "sud_vo_adv_pstory_001_hski_after-audition-final-normal-02_hski-011",
+  "output_index": 11,
+  "subsong_index": 11,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\acb\\sud_vo_adv_pstory_001_hski_after-audition-final-normal-02.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\scripts\\5236353933_f6456f7a0e2fcd7a47793c7d713d6215.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\items\\0011_sud_vo_adv_pstory_001_hski_after-audition-final-normal-02_hski-011_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\items\\0011_sud_vo_adv_pstory_001_hski_after-audition-final-normal-02_hski-011_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\items\\0011_sud_vo_adv_pstory_001_hski_after-audition-final-normal-02_hski-011_03_metadata.json"
+}

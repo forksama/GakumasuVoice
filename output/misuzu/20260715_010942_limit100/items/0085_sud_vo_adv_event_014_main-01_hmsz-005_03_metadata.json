@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5236323433/7caac344dfce07ac3f2fe16ca309af7e",
+  "line_no": 329,
+  "voice_line_no": 332,
+  "text": "まあ、なんのことでしょう？",
+  "speaker": "美鈴",
+  "voice_cue": "sud_vo_adv_event_014_main-01_hmsz-005",
+  "bank_name": "sud_vo_adv_event_014_main-01",
+  "start": 206.6422074547,
+  "duration": 2.7453115234,
+  "voice_start": 206.7422074547,
+  "voice_duration": 2.601,
+  "output_slug": "sud_vo_adv_event_014_main-01_hmsz-005",
+  "output_index": 85,
+  "subsong_index": 5,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\misuzu\\20260715_010942_limit100\\acb\\sud_vo_adv_event_014_main-01.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\misuzu\\20260715_010942_limit100\\scripts\\5236323433_7caac344dfce07ac3f2fe16ca309af7e.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\misuzu\\20260715_010942_limit100\\items\\0085_sud_vo_adv_event_014_main-01_hmsz-005_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\misuzu\\20260715_010942_limit100\\items\\0085_sud_vo_adv_event_014_main-01_hmsz-005_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\misuzu\\20260715_010942_limit100\\items\\0085_sud_vo_adv_event_014_main-01_hmsz-005_03_metadata.json"
+}

@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5236353933/f6456f7a0e2fcd7a47793c7d713d6215",
+  "line_no": 106,
+  "voice_line_no": 107,
+  "text": "未来のトップアイドル、花海咲季よっ！",
+  "speaker": "咲季",
+  "voice_cue": "sud_vo_adv_pstory_001_hski_after-audition-final-normal-02_hski-020",
+  "bank_name": "sud_vo_adv_pstory_001_hski_after-audition-final-normal-02",
+  "start": 91.4262499972,
+  "duration": 2.9180042371,
+  "voice_start": 91.5262542343,
+  "voice_duration": 2.818,
+  "output_slug": "sud_vo_adv_pstory_001_hski_after-audition-final-normal-02_hski-020",
+  "output_index": 20,
+  "subsong_index": 20,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\acb\\sud_vo_adv_pstory_001_hski_after-audition-final-normal-02.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\scripts\\5236353933_f6456f7a0e2fcd7a47793c7d713d6215.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\items\\0020_sud_vo_adv_pstory_001_hski_after-audition-final-normal-02_hski-020_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\items\\0020_sud_vo_adv_pstory_001_hski_after-audition-final-normal-02_hski-020_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\items\\0020_sud_vo_adv_pstory_001_hski_after-audition-final-normal-02_hski-020_03_metadata.json"
+}

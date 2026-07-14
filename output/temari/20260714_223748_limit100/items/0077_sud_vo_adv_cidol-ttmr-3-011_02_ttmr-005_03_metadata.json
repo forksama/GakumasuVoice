@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5233373633/5894384409f4929064f9081c5b285b93",
+  "line_no": 48,
+  "voice_line_no": 51,
+  "text": "そんなこと言われても困るんですけど！",
+  "speaker": "手毬",
+  "voice_cue": "sud_vo_adv_cidol-ttmr-3-011_02_ttmr-005",
+  "bank_name": "sud_vo_adv_cidol-ttmr-3-011_02",
+  "start": 40.1793003381,
+  "duration": 2.998,
+  "voice_start": 40.2793003381,
+  "voice_duration": 2.898,
+  "output_slug": "sud_vo_adv_cidol-ttmr-3-011_02_ttmr-005",
+  "output_index": 77,
+  "subsong_index": 5,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\temari\\20260714_223748_limit100\\acb\\sud_vo_adv_cidol-ttmr-3-011_02.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\temari\\20260714_223748_limit100\\scripts\\5233373633_5894384409f4929064f9081c5b285b93.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\temari\\20260714_223748_limit100\\items\\0077_sud_vo_adv_cidol-ttmr-3-011_02_ttmr-005_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\temari\\20260714_223748_limit100\\items\\0077_sud_vo_adv_cidol-ttmr-3-011_02_ttmr-005_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\temari\\20260714_223748_limit100\\items\\0077_sud_vo_adv_cidol-ttmr-3-011_02_ttmr-005_03_metadata.json"
+}

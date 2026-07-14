@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5233303533/eece10c902056b8838ca9968c1180d92",
+  "line_no": 45,
+  "voice_line_no": 46,
+  "text": "ふふ、いけませんよ……\nプロデューサー。",
+  "speaker": "美鈴",
+  "voice_cue": "sud_vo_adv_cidol-hmsz-3-014_02_hmsz-005",
+  "bank_name": "sud_vo_adv_cidol-hmsz-3-014_02",
+  "start": 38.3863356556,
+  "duration": 4.955,
+  "voice_start": 38.4863356556,
+  "voice_duration": 4.855,
+  "output_slug": "sud_vo_adv_cidol-hmsz-3-014_02_hmsz-005",
+  "output_index": 28,
+  "subsong_index": 5,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\misuzu\\20260715_010942_limit100\\acb\\sud_vo_adv_cidol-hmsz-3-014_02.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\misuzu\\20260715_010942_limit100\\scripts\\5233303533_eece10c902056b8838ca9968c1180d92.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\misuzu\\20260715_010942_limit100\\items\\0028_sud_vo_adv_cidol-hmsz-3-014_02_hmsz-005_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\misuzu\\20260715_010942_limit100\\items\\0028_sud_vo_adv_cidol-hmsz-3-014_02_hmsz-005_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\misuzu\\20260715_010942_limit100\\items\\0028_sud_vo_adv_cidol-hmsz-3-014_02_hmsz-005_03_metadata.json"
+}

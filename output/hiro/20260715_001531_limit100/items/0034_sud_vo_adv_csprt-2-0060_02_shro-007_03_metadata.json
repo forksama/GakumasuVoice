@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5233383933/bbd731d4e87a1cc5fc9e8a499419c875",
+  "line_no": 129,
+  "voice_line_no": 130,
+  "text": "ふふ、自信作。",
+  "speaker": "広",
+  "voice_cue": "sud_vo_adv_csprt-2-0060_02_shro-007",
+  "bank_name": "sud_vo_adv_csprt-2-0060_02",
+  "start": 82.364331665,
+  "duration": 2.4600022888,
+  "voice_start": 82.464331665,
+  "voice_duration": 2.26,
+  "output_slug": "sud_vo_adv_csprt-2-0060_02_shro-007",
+  "output_index": 34,
+  "subsong_index": 19,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\hiro\\20260715_001531_limit100\\acb\\sud_vo_adv_csprt-2-0060_02.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\hiro\\20260715_001531_limit100\\scripts\\5233383933_bbd731d4e87a1cc5fc9e8a499419c875.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\hiro\\20260715_001531_limit100\\items\\0034_sud_vo_adv_csprt-2-0060_02_shro-007_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\hiro\\20260715_001531_limit100\\items\\0034_sud_vo_adv_csprt-2-0060_02_shro-007_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\hiro\\20260715_001531_limit100\\items\\0034_sud_vo_adv_csprt-2-0060_02_shro-007_03_metadata.json"
+}

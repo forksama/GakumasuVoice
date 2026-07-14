@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5234323033/b388e31603256c068e1e3f346b5b73da",
+  "line_no": 15,
+  "voice_line_no": 16,
+  "text": "さっそく昨日の続きをしましょう。",
+  "speaker": "星南",
+  "voice_cue": "sud_vo_adv_cidol-jsna-3-011_02_jsna-002",
+  "bank_name": "sud_vo_adv_cidol-jsna-3-011_02",
+  "start": 4.4303334954,
+  "duration": 2.7433332062,
+  "voice_start": 4.5303334954,
+  "voice_duration": 2.51,
+  "output_slug": "sud_vo_adv_cidol-jsna-3-011_02_jsna-002",
+  "output_index": 37,
+  "subsong_index": 2,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\sena\\20260715_012617_limit100\\acb\\sud_vo_adv_cidol-jsna-3-011_02.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\sena\\20260715_012617_limit100\\scripts\\5234323033_b388e31603256c068e1e3f346b5b73da.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\sena\\20260715_012617_limit100\\items\\0037_sud_vo_adv_cidol-jsna-3-011_02_jsna-002_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\sena\\20260715_012617_limit100\\items\\0037_sud_vo_adv_cidol-jsna-3-011_02_jsna-002_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\sena\\20260715_012617_limit100\\items\\0037_sud_vo_adv_cidol-jsna-3-011_02_jsna-002_03_metadata.json"
+}

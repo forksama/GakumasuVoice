@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/52353633/a8d8e721facb5a1bfc5abe3a0997ec79",
+  "line_no": 85,
+  "voice_line_no": 86,
+  "text": "それはまぁ……そですね。",
+  "speaker": "ことね",
+  "voice_cue": "sud_vo_adv_pstory_001_fktn_after-step-2-normal-03_fktn-012",
+  "bank_name": "sud_vo_adv_pstory_001_fktn_after-step-2-normal-03",
+  "start": 79.0902551022,
+  "duration": 3.915377924,
+  "voice_start": 79.1929108302,
+  "voice_duration": 3.772,
+  "output_slug": "sud_vo_adv_pstory_001_fktn_after-step-2-normal-03_fktn-012",
+  "output_index": 24,
+  "subsong_index": 12,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\kotone\\20260714_230100_limit100\\acb\\sud_vo_adv_pstory_001_fktn_after-step-2-normal-03.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\kotone\\20260714_230100_limit100\\scripts\\52353633_a8d8e721facb5a1bfc5abe3a0997ec79.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\kotone\\20260714_230100_limit100\\items\\0024_sud_vo_adv_pstory_001_fktn_after-step-2-normal-03_fktn-012_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\kotone\\20260714_230100_limit100\\items\\0024_sud_vo_adv_pstory_001_fktn_after-step-2-normal-03_fktn-012_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\kotone\\20260714_230100_limit100\\items\\0024_sud_vo_adv_pstory_001_fktn_after-step-2-normal-03_fktn-012_03_metadata.json"
+}

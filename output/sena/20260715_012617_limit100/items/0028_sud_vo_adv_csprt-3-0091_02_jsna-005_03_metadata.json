@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5231383533/9e892c04614202994492103a131491d0",
+  "line_no": 114,
+  "voice_line_no": 115,
+  "text": "佑芽はどれが好きとかあるの？",
+  "speaker": "星南",
+  "voice_cue": "sud_vo_adv_csprt-3-0091_02_jsna-005",
+  "bank_name": "sud_vo_adv_csprt-3-0091_02",
+  "start": 43.1506634821,
+  "duration": 2.726,
+  "voice_start": 43.2506634821,
+  "voice_duration": 2.626,
+  "output_slug": "sud_vo_adv_csprt-3-0091_02_jsna-005",
+  "output_index": 28,
+  "subsong_index": 18,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\sena\\20260715_012617_limit100\\acb\\sud_vo_adv_csprt-3-0091_02.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\sena\\20260715_012617_limit100\\scripts\\5231383533_9e892c04614202994492103a131491d0.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\sena\\20260715_012617_limit100\\items\\0028_sud_vo_adv_csprt-3-0091_02_jsna-005_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\sena\\20260715_012617_limit100\\items\\0028_sud_vo_adv_csprt-3-0091_02_jsna-005_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\sena\\20260715_012617_limit100\\items\\0028_sud_vo_adv_csprt-3-0091_02_jsna-005_03_metadata.json"
+}

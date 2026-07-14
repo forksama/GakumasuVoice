@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5231373833/d36577ec5985cac906f46246eb801e82",
+  "line_no": 418,
+  "voice_line_no": 419,
+  "text": "『H.I.F』のステージも、\nぜひ観に来てください！",
+  "speaker": "麻央",
+  "voice_cue": "sud_vo_adv_dear_amao_033_amao-044",
+  "bank_name": "sud_vo_adv_dear_amao_033",
+  "start": 284.3316767562,
+  "duration": 3.836,
+  "voice_start": 284.4316767562,
+  "voice_duration": 3.736,
+  "output_slug": "sud_vo_adv_dear_amao_033_amao-044",
+  "output_index": 96,
+  "subsong_index": 44,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\acb\\sud_vo_adv_dear_amao_033.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\scripts\\5231373833_d36577ec5985cac906f46246eb801e82.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\items\\0096_sud_vo_adv_dear_amao_033_amao-044_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\items\\0096_sud_vo_adv_dear_amao_033_amao-044_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\items\\0096_sud_vo_adv_dear_amao_033_amao-044_03_metadata.json"
+}

@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5233303533/eece10c902056b8838ca9968c1180d92",
+  "line_no": 121,
+  "voice_line_no": 122,
+  "text": "もっとも素晴らしいアイドルとは、\nファンにとって、",
+  "speaker": "美鈴",
+  "voice_cue": "sud_vo_adv_cidol-hmsz-3-014_02_hmsz-017",
+  "bank_name": "sud_vo_adv_cidol-hmsz-3-014_02",
+  "start": 124.336342681,
+  "duration": 4.38,
+  "voice_start": 124.436342681,
+  "voice_duration": 4.28,
+  "output_slug": "sud_vo_adv_cidol-hmsz-3-014_02_hmsz-017",
+  "output_index": 40,
+  "subsong_index": 17,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\misuzu\\20260715_010942_limit100\\acb\\sud_vo_adv_cidol-hmsz-3-014_02.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\misuzu\\20260715_010942_limit100\\scripts\\5233303533_eece10c902056b8838ca9968c1180d92.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\misuzu\\20260715_010942_limit100\\items\\0040_sud_vo_adv_cidol-hmsz-3-014_02_hmsz-017_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\misuzu\\20260715_010942_limit100\\items\\0040_sud_vo_adv_cidol-hmsz-3-014_02_hmsz-017_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\misuzu\\20260715_010942_limit100\\items\\0040_sud_vo_adv_cidol-hmsz-3-014_02_hmsz-017_03_metadata.json"
+}

@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/52313333/b27f286278ef5809e64357af44b940cc",
+  "line_no": 58,
+  "voice_line_no": 59,
+  "text": "こっちはね、不意打ちに対応出来なくて\n変な顔になってるリーリヤで～……",
+  "speaker": "清夏",
+  "voice_cue": "sud_vo_adv_csprt-3-0008_01_ssmk-006",
+  "bank_name": "sud_vo_adv_csprt-3-0008_01",
+  "start": 32.9260947736,
+  "duration": 5.9599743347,
+  "voice_start": 33.0260947736,
+  "voice_duration": 5.848,
+  "output_slug": "sud_vo_adv_csprt-3-0008_01_ssmk-006",
+  "output_index": 6,
+  "subsong_index": 15,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\sumika\\20260714_235935_limit100\\acb\\sud_vo_adv_csprt-3-0008_01.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\sumika\\20260714_235935_limit100\\scripts\\52313333_b27f286278ef5809e64357af44b940cc.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\sumika\\20260714_235935_limit100\\items\\0006_sud_vo_adv_csprt-3-0008_01_ssmk-006_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\sumika\\20260714_235935_limit100\\items\\0006_sud_vo_adv_csprt-3-0008_01_ssmk-006_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\sumika\\20260714_235935_limit100\\items\\0006_sud_vo_adv_csprt-3-0008_01_ssmk-006_03_metadata.json"
+}

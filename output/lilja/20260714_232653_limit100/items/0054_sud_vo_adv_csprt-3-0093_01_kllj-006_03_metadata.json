@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5232363633/91c2f8d316e76a714841710cea673408",
+  "line_no": 101,
+  "voice_line_no": 102,
+  "text": "ふふ、知ってるよ。\nずっと通話してたんだから。",
+  "speaker": "リーリヤ",
+  "voice_cue": "sud_vo_adv_csprt-3-0093_01_kllj-006",
+  "bank_name": "sud_vo_adv_csprt-3-0093_01",
+  "start": 55.9176659101,
+  "duration": 4.193,
+  "voice_start": 56.0176659101,
+  "voice_duration": 4.093,
+  "output_slug": "sud_vo_adv_csprt-3-0093_01_kllj-006",
+  "output_index": 54,
+  "subsong_index": 6,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\lilja\\20260714_232653_limit100\\acb\\sud_vo_adv_csprt-3-0093_01.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\lilja\\20260714_232653_limit100\\scripts\\5232363633_91c2f8d316e76a714841710cea673408.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\lilja\\20260714_232653_limit100\\items\\0054_sud_vo_adv_csprt-3-0093_01_kllj-006_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\lilja\\20260714_232653_limit100\\items\\0054_sud_vo_adv_csprt-3-0093_01_kllj-006_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\lilja\\20260714_232653_limit100\\items\\0054_sud_vo_adv_csprt-3-0093_01_kllj-006_03_metadata.json"
+}

@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5235313833/c1d6633e9b0aab996f5b67911872ed76",
+  "line_no": 144,
+  "voice_line_no": 145,
+  "text": "ふっ、さすがね、佑芽。",
+  "speaker": "咲季",
+  "voice_cue": "sud_vo_adv_csprt-2-0034_01_hski-013",
+  "bank_name": "sud_vo_adv_csprt-2-0034_01",
+  "start": 78.7509957422,
+  "duration": 2.9033328247,
+  "voice_start": 78.8509957422,
+  "voice_duration": 2.77,
+  "output_slug": "sud_vo_adv_csprt-2-0034_01_hski-013",
+  "output_index": 35,
+  "subsong_index": 13,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\acb\\sud_vo_adv_csprt-2-0034_01.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\scripts\\5235313833_c1d6633e9b0aab996f5b67911872ed76.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\items\\0035_sud_vo_adv_csprt-2-0034_01_hski-013_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\items\\0035_sud_vo_adv_csprt-2-0034_01_hski-013_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\items\\0035_sud_vo_adv_csprt-2-0034_01_hski-013_03_metadata.json"
+}

@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5235363933/9f0999c8ee8ecd4a50fce6dc66044d1a",
+  "line_no": 26,
+  "voice_line_no": 27,
+  "text": "……ん？　何これ？　\n貼り紙が増えてんね。",
+  "speaker": "ことね",
+  "voice_cue": "sud_vo_adv_event_009_main-01_fktn-003",
+  "bank_name": "sud_vo_adv_event_009_main-01",
+  "start": 9.9533333221,
+  "duration": 3.8673328247,
+  "voice_start": 10.0533333221,
+  "voice_duration": 3.734,
+  "output_slug": "sud_vo_adv_event_009_main-01_fktn-003",
+  "output_index": 74,
+  "subsong_index": 3,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\kotone\\20260714_230100_limit100\\acb\\sud_vo_adv_event_009_main-01.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\kotone\\20260714_230100_limit100\\scripts\\5235363933_9f0999c8ee8ecd4a50fce6dc66044d1a.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\kotone\\20260714_230100_limit100\\items\\0074_sud_vo_adv_event_009_main-01_fktn-003_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\kotone\\20260714_230100_limit100\\items\\0074_sud_vo_adv_event_009_main-01_fktn-003_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\kotone\\20260714_230100_limit100\\items\\0074_sud_vo_adv_event_009_main-01_fktn-003_03_metadata.json"
+}

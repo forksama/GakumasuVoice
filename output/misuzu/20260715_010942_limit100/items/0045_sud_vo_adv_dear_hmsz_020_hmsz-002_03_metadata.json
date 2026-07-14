@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5233393733/7cde23d4c88fe8f5323e11faada7d569",
+  "line_no": 23,
+  "voice_line_no": 27,
+  "text": "ありがとうございます。\n『N.I.A』はとても良い大会でした。",
+  "speaker": "美鈴",
+  "voice_cue": "sud_vo_adv_dear_hmsz_020_hmsz-002",
+  "bank_name": "sud_vo_adv_dear_hmsz_020",
+  "start": 16.8855807813,
+  "duration": 5.803,
+  "voice_start": 16.9855807813,
+  "voice_duration": 5.703,
+  "output_slug": "sud_vo_adv_dear_hmsz_020_hmsz-002",
+  "output_index": 45,
+  "subsong_index": 2,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\misuzu\\20260715_010942_limit100\\acb\\sud_vo_adv_dear_hmsz_020.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\misuzu\\20260715_010942_limit100\\scripts\\5233393733_7cde23d4c88fe8f5323e11faada7d569.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\misuzu\\20260715_010942_limit100\\items\\0045_sud_vo_adv_dear_hmsz_020_hmsz-002_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\misuzu\\20260715_010942_limit100\\items\\0045_sud_vo_adv_dear_hmsz_020_hmsz-002_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\misuzu\\20260715_010942_limit100\\items\\0045_sud_vo_adv_dear_hmsz_020_hmsz-002_03_metadata.json"
+}

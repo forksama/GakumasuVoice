@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5236313133/12de4b0745790fd935d0593335d59322",
+  "line_no": 162,
+  "voice_line_no": 165,
+  "text": "わたくしのイメージ、\nあんまり変わらなさそうですわ。",
+  "speaker": "千奈",
+  "voice_cue": "sud_vo_adv_dear_kcna_037_kcna-022",
+  "bank_name": "sud_vo_adv_dear_kcna_037",
+  "start": 125.9781134842,
+  "duration": 5.0980061035,
+  "voice_start": 126.0781134842,
+  "voice_duration": 4.898,
+  "output_slug": "sud_vo_adv_dear_kcna_037_kcna-022",
+  "output_index": 48,
+  "subsong_index": 22,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\china\\20260714_234531_limit100\\acb\\sud_vo_adv_dear_kcna_037.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\china\\20260714_234531_limit100\\scripts\\5236313133_12de4b0745790fd935d0593335d59322.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\china\\20260714_234531_limit100\\items\\0048_sud_vo_adv_dear_kcna_037_kcna-022_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\china\\20260714_234531_limit100\\items\\0048_sud_vo_adv_dear_kcna_037_kcna-022_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\china\\20260714_234531_limit100\\items\\0048_sud_vo_adv_dear_kcna_037_kcna-022_03_metadata.json"
+}

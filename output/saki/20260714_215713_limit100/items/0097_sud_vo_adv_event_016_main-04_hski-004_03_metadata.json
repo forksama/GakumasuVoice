@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5235323933/4e09a4f853e6e71a7be5fff5a1c73ae3",
+  "line_no": 81,
+  "voice_line_no": 82,
+  "text": "フットサルコートが空いてるわ。\nチームを組んで試合する？",
+  "speaker": "咲季",
+  "voice_cue": "sud_vo_adv_event_016_main-04_hski-004",
+  "bank_name": "sud_vo_adv_event_016_main-04",
+  "start": 30.7332201055,
+  "duration": 4.124,
+  "voice_start": 30.8332201055,
+  "voice_duration": 4.024,
+  "output_slug": "sud_vo_adv_event_016_main-04_hski-004",
+  "output_index": 97,
+  "subsong_index": 27,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\acb\\sud_vo_adv_event_016_main-04.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\scripts\\5235323933_4e09a4f853e6e71a7be5fff5a1c73ae3.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\items\\0097_sud_vo_adv_event_016_main-04_hski-004_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\items\\0097_sud_vo_adv_event_016_main-04_hski-004_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\items\\0097_sud_vo_adv_event_016_main-04_hski-004_03_metadata.json"
+}

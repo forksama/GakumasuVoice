@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5236313133/12de4b0745790fd935d0593335d59322",
+  "line_no": 43,
+  "voice_line_no": 46,
+  "text": "『<r=プリマステラ>一番星</r>』なら……\n星南お姉さまなら……",
+  "speaker": "千奈",
+  "voice_cue": "sud_vo_adv_dear_kcna_037_kcna-006",
+  "bank_name": "sud_vo_adv_dear_kcna_037",
+  "start": 25.3621716931,
+  "duration": 4.5559988556,
+  "voice_start": 25.4621716931,
+  "voice_duration": 4.256,
+  "output_slug": "sud_vo_adv_dear_kcna_037_kcna-006",
+  "output_index": 32,
+  "subsong_index": 6,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\china\\20260714_234531_limit100\\acb\\sud_vo_adv_dear_kcna_037.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\china\\20260714_234531_limit100\\scripts\\5236313133_12de4b0745790fd935d0593335d59322.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\china\\20260714_234531_limit100\\items\\0032_sud_vo_adv_dear_kcna_037_kcna-006_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\china\\20260714_234531_limit100\\items\\0032_sud_vo_adv_dear_kcna_037_kcna-006_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\china\\20260714_234531_limit100\\items\\0032_sud_vo_adv_dear_kcna_037_kcna-006_03_metadata.json"
+}

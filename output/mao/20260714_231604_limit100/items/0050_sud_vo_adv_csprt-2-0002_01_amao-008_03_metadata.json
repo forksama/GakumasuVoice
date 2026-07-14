@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5231383233/df5f95d9f2bdd687c6971a45b17f4a8e",
+  "line_no": 84,
+  "voice_line_no": 85,
+  "text": "寮の掃除当番も……ん？",
+  "speaker": "麻央",
+  "voice_cue": "sud_vo_adv_csprt-2-0002_01_amao-008",
+  "bank_name": "sud_vo_adv_csprt-2-0002_01",
+  "start": 51.6016151588,
+  "duration": 3.706669426,
+  "voice_start": 51.7016151588,
+  "voice_duration": 3.546,
+  "output_slug": "sud_vo_adv_csprt-2-0002_01_amao-008",
+  "output_index": 50,
+  "subsong_index": 8,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\acb\\sud_vo_adv_csprt-2-0002_01.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\scripts\\5231383233_df5f95d9f2bdd687c6971a45b17f4a8e.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\items\\0050_sud_vo_adv_csprt-2-0002_01_amao-008_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\items\\0050_sud_vo_adv_csprt-2-0002_01_amao-008_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\items\\0050_sud_vo_adv_csprt-2-0002_01_amao-008_03_metadata.json"
+}

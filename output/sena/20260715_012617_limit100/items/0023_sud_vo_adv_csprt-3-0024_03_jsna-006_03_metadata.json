@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5234383433/5807618406aafa6a653c005c9fa2b71c",
+  "line_no": 133,
+  "voice_line_no": 134,
+  "text": "…………莉波、まさかあなたが、\n私を裏切るなんてね！？",
+  "speaker": "星南",
+  "voice_cue": "sud_vo_adv_csprt-3-0024_03_jsna-006",
+  "bank_name": "sud_vo_adv_csprt-3-0024_03",
+  "start": 79.3983419209,
+  "duration": 5.35,
+  "voice_start": 79.4983419209,
+  "voice_duration": 5.25,
+  "output_slug": "sud_vo_adv_csprt-3-0024_03_jsna-006",
+  "output_index": 23,
+  "subsong_index": 20,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\sena\\20260715_012617_limit100\\acb\\sud_vo_adv_csprt-3-0024_03.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\sena\\20260715_012617_limit100\\scripts\\5234383433_5807618406aafa6a653c005c9fa2b71c.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\sena\\20260715_012617_limit100\\items\\0023_sud_vo_adv_csprt-3-0024_03_jsna-006_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\sena\\20260715_012617_limit100\\items\\0023_sud_vo_adv_csprt-3-0024_03_jsna-006_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\sena\\20260715_012617_limit100\\items\\0023_sud_vo_adv_csprt-3-0024_03_jsna-006_03_metadata.json"
+}

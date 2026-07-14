@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5235353133/d8efed0f79b6010b32b2b24ebc816ce8",
+  "line_no": 73,
+  "voice_line_no": 76,
+  "text": "勝って、帰ってきたら……\n……たくさん褒めて、ね。",
+  "speaker": "広",
+  "voice_cue": "sud_vo_adv_dear_shro_018_shro-009",
+  "bank_name": "sud_vo_adv_dear_shro_018",
+  "start": 64.2073332745,
+  "duration": 5.428,
+  "voice_start": 64.3073332745,
+  "voice_duration": 5.328,
+  "output_slug": "sud_vo_adv_dear_shro_018_shro-009",
+  "output_index": 9,
+  "subsong_index": 9,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\hiro\\20260715_001531_limit100\\acb\\sud_vo_adv_dear_shro_018.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\hiro\\20260715_001531_limit100\\scripts\\5235353133_d8efed0f79b6010b32b2b24ebc816ce8.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\hiro\\20260715_001531_limit100\\items\\0009_sud_vo_adv_dear_shro_018_shro-009_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\hiro\\20260715_001531_limit100\\items\\0009_sud_vo_adv_dear_shro_018_shro-009_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\hiro\\20260715_001531_limit100\\items\\0009_sud_vo_adv_dear_shro_018_shro-009_03_metadata.json"
+}

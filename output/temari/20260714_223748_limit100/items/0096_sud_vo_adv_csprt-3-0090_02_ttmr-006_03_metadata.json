@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5233333733/9cddec52edd2c2c987b50229ede35a4e",
+  "line_no": 81,
+  "voice_line_no": 82,
+  "text": "猫に人気だって有名なやつだし、\n出てきてくれるんじゃない？",
+  "speaker": "手毬",
+  "voice_cue": "sud_vo_adv_csprt-3-0090_02_ttmr-006",
+  "bank_name": "sud_vo_adv_csprt-3-0090_02",
+  "start": 39.680668579,
+  "duration": 4.43,
+  "voice_start": 39.780668579,
+  "voice_duration": 4.33,
+  "output_slug": "sud_vo_adv_csprt-3-0090_02_ttmr-006",
+  "output_index": 96,
+  "subsong_index": 15,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\temari\\20260714_223748_limit100\\acb\\sud_vo_adv_csprt-3-0090_02.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\temari\\20260714_223748_limit100\\scripts\\5233333733_9cddec52edd2c2c987b50229ede35a4e.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\temari\\20260714_223748_limit100\\items\\0096_sud_vo_adv_csprt-3-0090_02_ttmr-006_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\temari\\20260714_223748_limit100\\items\\0096_sud_vo_adv_csprt-3-0090_02_ttmr-006_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\temari\\20260714_223748_limit100\\items\\0096_sud_vo_adv_csprt-3-0090_02_ttmr-006_03_metadata.json"
+}

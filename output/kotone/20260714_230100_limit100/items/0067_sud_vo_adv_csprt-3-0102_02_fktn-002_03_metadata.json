@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/523230363233/b134a57d3cda76153a02cff454ab84bf",
+  "line_no": 53,
+  "voice_line_no": 54,
+  "text": "ごった煮かぁ……どういう意味？",
+  "speaker": "ことね",
+  "voice_cue": "sud_vo_adv_csprt-3-0102_02_fktn-002",
+  "bank_name": "sud_vo_adv_csprt-3-0102_02",
+  "start": 33.5689994222,
+  "duration": 4.2616656494,
+  "voice_start": 33.6689994222,
+  "voice_duration": 4.095,
+  "output_slug": "sud_vo_adv_csprt-3-0102_02_fktn-002",
+  "output_index": 67,
+  "subsong_index": 2,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\kotone\\20260714_230100_limit100\\acb\\sud_vo_adv_csprt-3-0102_02.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\kotone\\20260714_230100_limit100\\scripts\\523230363233_b134a57d3cda76153a02cff454ab84bf.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\kotone\\20260714_230100_limit100\\items\\0067_sud_vo_adv_csprt-3-0102_02_fktn-002_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\kotone\\20260714_230100_limit100\\items\\0067_sud_vo_adv_csprt-3-0102_02_fktn-002_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\kotone\\20260714_230100_limit100\\items\\0067_sud_vo_adv_csprt-3-0102_02_fktn-002_03_metadata.json"
+}

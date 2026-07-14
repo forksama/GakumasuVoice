@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5234383833/e395e885c1602fe636eddfac99d5327c",
+  "line_no": 77,
+  "voice_line_no": 78,
+  "text": "てか、めっちゃ可愛い子多くない？\nさっすがアイドル科だなぁ～。",
+  "speaker": "清夏",
+  "voice_cue": "sud_vo_adv_csprt-3-0055_01_ssmk-004",
+  "bank_name": "sud_vo_adv_csprt-3-0055_01",
+  "start": 25.7685395196,
+  "duration": 6.0373328247,
+  "voice_start": 25.8685395196,
+  "voice_duration": 5.904,
+  "output_slug": "sud_vo_adv_csprt-3-0055_01_ssmk-004",
+  "output_index": 65,
+  "subsong_index": 12,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\sumika\\20260714_235935_limit100\\acb\\sud_vo_adv_csprt-3-0055_01.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\sumika\\20260714_235935_limit100\\scripts\\5234383833_e395e885c1602fe636eddfac99d5327c.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\sumika\\20260714_235935_limit100\\items\\0065_sud_vo_adv_csprt-3-0055_01_ssmk-004_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\sumika\\20260714_235935_limit100\\items\\0065_sud_vo_adv_csprt-3-0055_01_ssmk-004_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\sumika\\20260714_235935_limit100\\items\\0065_sud_vo_adv_csprt-3-0055_01_ssmk-004_03_metadata.json"
+}

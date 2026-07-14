@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5231353033/892704e253818cd54d197444a3ab07a0",
+  "line_no": 5,
+  "voice_line_no": 6,
+  "text": "――莉波。勝負衣装、\nとても似合っているよ。",
+  "speaker": "麻央",
+  "voice_cue": "sud_vo_adv_dear_hrnm_035_amao-001",
+  "bank_name": "sud_vo_adv_dear_hrnm_035",
+  "start": 0.8,
+  "duration": 4.9149998093,
+  "voice_start": 0.9,
+  "voice_duration": 4.615,
+  "output_slug": "sud_vo_adv_dear_hrnm_035_amao-001",
+  "output_index": 1,
+  "subsong_index": 1,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\acb\\sud_vo_adv_dear_hrnm_035.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\scripts\\5231353033_892704e253818cd54d197444a3ab07a0.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\items\\0001_sud_vo_adv_dear_hrnm_035_amao-001_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\items\\0001_sud_vo_adv_dear_hrnm_035_amao-001_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\items\\0001_sud_vo_adv_dear_hrnm_035_amao-001_03_metadata.json"
+}

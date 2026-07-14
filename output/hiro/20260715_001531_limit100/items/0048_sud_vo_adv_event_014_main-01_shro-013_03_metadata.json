@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5236323433/7caac344dfce07ac3f2fe16ca309af7e",
+  "line_no": 396,
+  "voice_line_no": 399,
+  "text": "わたしも、あんまり\n大丈夫じゃない、かも。",
+  "speaker": "広",
+  "voice_cue": "sud_vo_adv_event_014_main-01_shro-013",
+  "bank_name": "sud_vo_adv_event_014_main-01",
+  "start": 246.1693001359,
+  "duration": 4.2289202881,
+  "voice_start": 246.269300136,
+  "voice_duration": 4.095,
+  "output_slug": "sud_vo_adv_event_014_main-01_shro-013",
+  "output_index": 48,
+  "subsong_index": 59,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\hiro\\20260715_001531_limit100\\acb\\sud_vo_adv_event_014_main-01.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\hiro\\20260715_001531_limit100\\scripts\\5236323433_7caac344dfce07ac3f2fe16ca309af7e.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\hiro\\20260715_001531_limit100\\items\\0048_sud_vo_adv_event_014_main-01_shro-013_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\hiro\\20260715_001531_limit100\\items\\0048_sud_vo_adv_event_014_main-01_shro-013_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\hiro\\20260715_001531_limit100\\items\\0048_sud_vo_adv_event_014_main-01_shro-013_03_metadata.json"
+}

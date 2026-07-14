@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5233393733/7cde23d4c88fe8f5323e11faada7d569",
+  "line_no": 326,
+  "voice_line_no": 331,
+  "text": "別々の道を歩いていても、\nわたしたちは……仲間のままだと。",
+  "speaker": "美鈴",
+  "voice_cue": "sud_vo_adv_dear_hmsz_020_hmsz-028",
+  "bank_name": "sud_vo_adv_dear_hmsz_020",
+  "start": 326.5085623923,
+  "duration": 7.4016809082,
+  "voice_start": 326.6085623923,
+  "voice_duration": 7.235,
+  "output_slug": "sud_vo_adv_dear_hmsz_020_hmsz-028",
+  "output_index": 71,
+  "subsong_index": 28,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\misuzu\\20260715_010942_limit100\\acb\\sud_vo_adv_dear_hmsz_020.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\misuzu\\20260715_010942_limit100\\scripts\\5233393733_7cde23d4c88fe8f5323e11faada7d569.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\misuzu\\20260715_010942_limit100\\items\\0071_sud_vo_adv_dear_hmsz_020_hmsz-028_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\misuzu\\20260715_010942_limit100\\items\\0071_sud_vo_adv_dear_hmsz_020_hmsz-028_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\misuzu\\20260715_010942_limit100\\items\\0071_sud_vo_adv_dear_hmsz_020_hmsz-028_03_metadata.json"
+}

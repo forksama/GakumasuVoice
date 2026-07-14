@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5236363933/4da637f510a8cd24423de7e70fe6ac9c",
+  "line_no": 40,
+  "voice_line_no": 55,
+  "text": "（<em>それ</em>を、証明するためなら――）",
+  "speaker": "リーリヤ",
+  "voice_cue": "sud_vo_adv_dear_kllj_014_kllj-005",
+  "bank_name": "sud_vo_adv_dear_kllj_014",
+  "start": 25.1750023954,
+  "duration": 3.6,
+  "voice_start": 25.2750023954,
+  "voice_duration": 3.5,
+  "output_slug": "sud_vo_adv_dear_kllj_014_kllj-005",
+  "output_index": 62,
+  "subsong_index": 5,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\lilja\\20260714_232653_limit100\\acb\\sud_vo_adv_dear_kllj_014.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\lilja\\20260714_232653_limit100\\scripts\\5236363933_4da637f510a8cd24423de7e70fe6ac9c.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\lilja\\20260714_232653_limit100\\items\\0062_sud_vo_adv_dear_kllj_014_kllj-005_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\lilja\\20260714_232653_limit100\\items\\0062_sud_vo_adv_dear_kllj_014_kllj-005_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\lilja\\20260714_232653_limit100\\items\\0062_sud_vo_adv_dear_kllj_014_kllj-005_03_metadata.json"
+}

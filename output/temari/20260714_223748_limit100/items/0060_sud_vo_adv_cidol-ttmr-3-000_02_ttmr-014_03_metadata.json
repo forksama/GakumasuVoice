@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5231373233/78608d3915910502d2734b488e9b8d72",
+  "line_no": 179,
+  "voice_line_no": 180,
+  "text": "ああああああ！　そんなことよりっ！\nシャワールームで毛虫見たよ！",
+  "speaker": "手毬",
+  "voice_cue": "sud_vo_adv_cidol-ttmr-3-000_02_ttmr-014",
+  "bank_name": "sud_vo_adv_cidol-ttmr-3-000_02",
+  "start": 123.7346700434,
+  "duration": 4.7710000038,
+  "voice_start": 123.8346700434,
+  "voice_duration": 4.6710000038,
+  "output_slug": "sud_vo_adv_cidol-ttmr-3-000_02_ttmr-014",
+  "output_index": 60,
+  "subsong_index": 37,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\temari\\20260714_223748_limit100\\acb\\sud_vo_adv_cidol-ttmr-3-000_02.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\temari\\20260714_223748_limit100\\scripts\\5231373233_78608d3915910502d2734b488e9b8d72.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\temari\\20260714_223748_limit100\\items\\0060_sud_vo_adv_cidol-ttmr-3-000_02_ttmr-014_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\temari\\20260714_223748_limit100\\items\\0060_sud_vo_adv_cidol-ttmr-3-000_02_ttmr-014_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\temari\\20260714_223748_limit100\\items\\0060_sud_vo_adv_cidol-ttmr-3-000_02_ttmr-014_03_metadata.json"
+}

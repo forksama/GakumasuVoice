@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5232363933/daffd6e0370d6ae2b0d62f2ba5521d90",
+  "line_no": 4,
+  "voice_line_no": 5,
+  "text": "プロデューサー。\nお望み通り――",
+  "speaker": "咲季",
+  "voice_cue": "sud_vo_adv_pstory_002_hski_ending-normal-02_hski-001",
+  "bank_name": "sud_vo_adv_pstory_002_hski_ending-normal-02",
+  "start": 0.8,
+  "duration": 2.6,
+  "voice_start": 0.9,
+  "voice_duration": 2.5,
+  "output_slug": "sud_vo_adv_pstory_002_hski_ending-normal-02_hski-001",
+  "output_index": 45,
+  "subsong_index": 1,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\acb\\sud_vo_adv_pstory_002_hski_ending-normal-02.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\scripts\\5232363933_daffd6e0370d6ae2b0d62f2ba5521d90.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\items\\0045_sud_vo_adv_pstory_002_hski_ending-normal-02_hski-001_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\items\\0045_sud_vo_adv_pstory_002_hski_ending-normal-02_hski-001_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\items\\0045_sud_vo_adv_pstory_002_hski_ending-normal-02_hski-001_03_metadata.json"
+}

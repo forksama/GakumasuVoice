@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5233343733/9e2d8df2d3e90f4fa24e355cb322739b",
+  "line_no": 8,
+  "voice_line_no": 9,
+  "text": "さあ、先輩。私は、\nなにをすればいいのかしら？",
+  "speaker": "星南",
+  "voice_cue": "sud_vo_adv_dear_jsna_003_jsna-001",
+  "bank_name": "sud_vo_adv_dear_jsna_003",
+  "start": 0.8,
+  "duration": 5.2656663647,
+  "voice_start": 0.9,
+  "voice_duration": 5.099,
+  "output_slug": "sud_vo_adv_dear_jsna_003_jsna-001",
+  "output_index": 100,
+  "subsong_index": 8,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\sena\\20260715_012617_limit100\\acb\\sud_vo_adv_dear_jsna_003.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\sena\\20260715_012617_limit100\\scripts\\5233343733_9e2d8df2d3e90f4fa24e355cb322739b.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\sena\\20260715_012617_limit100\\items\\0100_sud_vo_adv_dear_jsna_003_jsna-001_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\sena\\20260715_012617_limit100\\items\\0100_sud_vo_adv_dear_jsna_003_jsna-001_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\sena\\20260715_012617_limit100\\items\\0100_sud_vo_adv_dear_jsna_003_jsna-001_03_metadata.json"
+}

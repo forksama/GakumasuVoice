@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5233363433/dda55224f0730cb20ee23549610b09ec",
+  "line_no": 50,
+  "voice_line_no": 54,
+  "text": "ごめんなさい。実行委員の仕事が\nちょっと長引いてしまって……",
+  "speaker": "星南",
+  "voice_cue": "sud_vo_adv_csprt-3-0098_01_jsna-002",
+  "bank_name": "sud_vo_adv_csprt-3-0098_01",
+  "start": 23.496658043,
+  "duration": 4.164,
+  "voice_start": 23.596658043,
+  "voice_duration": 4.064,
+  "output_slug": "sud_vo_adv_csprt-3-0098_01_jsna-002",
+  "output_index": 2,
+  "subsong_index": 14,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\sena\\20260715_012617_limit100\\acb\\sud_vo_adv_csprt-3-0098_01.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\sena\\20260715_012617_limit100\\scripts\\5233363433_dda55224f0730cb20ee23549610b09ec.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\sena\\20260715_012617_limit100\\items\\0002_sud_vo_adv_csprt-3-0098_01_jsna-002_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\sena\\20260715_012617_limit100\\items\\0002_sud_vo_adv_csprt-3-0098_01_jsna-002_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\sena\\20260715_012617_limit100\\items\\0002_sud_vo_adv_csprt-3-0098_01_jsna-002_03_metadata.json"
+}

@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5233333433/918b877dba755f94acaaae0c89d40165",
+  "line_no": 84,
+  "voice_line_no": 85,
+  "text": "よぉーっし、\nなら、全部壊しちゃいますね。",
+  "speaker": "佑芽",
+  "voice_cue": "sud_vo_adv_pstory_001_hume_after-audition-final-normal-01_hume-014",
+  "bank_name": "sud_vo_adv_pstory_001_hume_after-audition-final-normal-01",
+  "start": 62.1816641736,
+  "duration": 5.039,
+  "voice_start": 62.2816641736,
+  "voice_duration": 4.939,
+  "output_slug": "sud_vo_adv_pstory_001_hume_after-audition-final-normal-01_hume-014",
+  "output_index": 64,
+  "subsong_index": 14,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\acb\\sud_vo_adv_pstory_001_hume_after-audition-final-normal-01.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\scripts\\5233333433_918b877dba755f94acaaae0c89d40165.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\items\\0064_sud_vo_adv_pstory_001_hume_after-audition-final-normal-01_hume-014_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\items\\0064_sud_vo_adv_pstory_001_hume_after-audition-final-normal-01_hume-014_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\items\\0064_sud_vo_adv_pstory_001_hume_after-audition-final-normal-01_hume-014_03_metadata.json"
+}

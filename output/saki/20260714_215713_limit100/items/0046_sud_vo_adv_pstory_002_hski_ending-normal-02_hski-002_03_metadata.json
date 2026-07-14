@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5232363933/daffd6e0370d6ae2b0d62f2ba5521d90",
+  "line_no": 12,
+  "voice_line_no": 13,
+  "text": "あなたの選んだオーディションで\n勝ってみせたわ。",
+  "speaker": "咲季",
+  "voice_cue": "sud_vo_adv_pstory_002_hski_ending-normal-02_hski-002",
+  "bank_name": "sud_vo_adv_pstory_002_hski_ending-normal-02",
+  "start": 3.6000000954,
+  "duration": 3.222,
+  "voice_start": 3.7000000954,
+  "voice_duration": 3.122,
+  "output_slug": "sud_vo_adv_pstory_002_hski_ending-normal-02_hski-002",
+  "output_index": 46,
+  "subsong_index": 2,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\acb\\sud_vo_adv_pstory_002_hski_ending-normal-02.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\scripts\\5232363933_daffd6e0370d6ae2b0d62f2ba5521d90.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\items\\0046_sud_vo_adv_pstory_002_hski_ending-normal-02_hski-002_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\items\\0046_sud_vo_adv_pstory_002_hski_ending-normal-02_hski-002_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\items\\0046_sud_vo_adv_pstory_002_hski_ending-normal-02_hski-002_03_metadata.json"
+}

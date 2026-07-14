@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5231333333/6e6752f7c7e9e2f1805c16b90c1ab7f9",
+  "line_no": 41,
+  "voice_line_no": 43,
+  "text": "当然でしょう？　\n――と、胸を張りたいところですけど。",
+  "speaker": "手毬",
+  "voice_cue": "sud_vo_adv_cidol-ttmr-3-007_03_ttmr-004",
+  "bank_name": "sud_vo_adv_cidol-ttmr-3-007_03",
+  "start": 21.1923304891,
+  "duration": 5.9263332062,
+  "voice_start": 21.2923304891,
+  "voice_duration": 5.693,
+  "output_slug": "sud_vo_adv_cidol-ttmr-3-007_03_ttmr-004",
+  "output_index": 12,
+  "subsong_index": 4,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\temari\\20260714_223748_limit100\\acb\\sud_vo_adv_cidol-ttmr-3-007_03.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\temari\\20260714_223748_limit100\\scripts\\5231333333_6e6752f7c7e9e2f1805c16b90c1ab7f9.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\temari\\20260714_223748_limit100\\items\\0012_sud_vo_adv_cidol-ttmr-3-007_03_ttmr-004_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\temari\\20260714_223748_limit100\\items\\0012_sud_vo_adv_cidol-ttmr-3-007_03_ttmr-004_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\temari\\20260714_223748_limit100\\items\\0012_sud_vo_adv_cidol-ttmr-3-007_03_ttmr-004_03_metadata.json"
+}

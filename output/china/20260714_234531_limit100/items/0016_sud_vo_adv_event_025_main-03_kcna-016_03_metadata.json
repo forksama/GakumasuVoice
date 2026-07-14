@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5236343733/041a4db7cf6152776422ca5df375f49c",
+  "line_no": 252,
+  "voice_line_no": 256,
+  "text": "大好きな、お姉さまたちのことを。",
+  "speaker": "千奈",
+  "voice_cue": "sud_vo_adv_event_025_main-03_kcna-016",
+  "bank_name": "sud_vo_adv_event_025_main-03",
+  "start": 174.9806177988,
+  "duration": 3.3510091553,
+  "voice_start": 175.0806177988,
+  "voice_duration": 2.851,
+  "output_slug": "sud_vo_adv_event_025_main-03_kcna-016",
+  "output_index": 16,
+  "subsong_index": 49,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\china\\20260714_234531_limit100\\acb\\sud_vo_adv_event_025_main-03.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\china\\20260714_234531_limit100\\scripts\\5236343733_041a4db7cf6152776422ca5df375f49c.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\china\\20260714_234531_limit100\\items\\0016_sud_vo_adv_event_025_main-03_kcna-016_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\china\\20260714_234531_limit100\\items\\0016_sud_vo_adv_event_025_main-03_kcna-016_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\china\\20260714_234531_limit100\\items\\0016_sud_vo_adv_event_025_main-03_kcna-016_03_metadata.json"
+}

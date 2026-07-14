@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5233353433/18e397b0ebec1b18fc47712a03241d46",
+  "line_no": 497,
+  "voice_line_no": 498,
+  "text": "あるに決まってるじゃない。",
+  "speaker": "咲季",
+  "voice_cue": "sud_vo_adv_unit_01-01_14_hski-018",
+  "bank_name": "sud_vo_adv_unit_01-01_14",
+  "start": 216.6300078359,
+  "duration": 2.001,
+  "voice_start": 216.6300078359,
+  "voice_duration": 2.001,
+  "output_slug": "sud_vo_adv_unit_01-01_14_hski-018",
+  "output_index": 69,
+  "subsong_index": 40,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\acb\\sud_vo_adv_unit_01-01_14.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\scripts\\5233353433_18e397b0ebec1b18fc47712a03241d46.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\items\\0069_sud_vo_adv_unit_01-01_14_hski-018_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\items\\0069_sud_vo_adv_unit_01-01_14_hski-018_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\items\\0069_sud_vo_adv_unit_01-01_14_hski-018_03_metadata.json"
+}

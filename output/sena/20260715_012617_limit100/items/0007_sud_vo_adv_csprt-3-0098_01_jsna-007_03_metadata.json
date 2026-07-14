@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5233363433/dda55224f0730cb20ee23549610b09ec",
+  "line_no": 143,
+  "voice_line_no": 148,
+  "text": "さあ、遠慮なく食べてちょうだい。\n美味しくできてるといいんだけど……",
+  "speaker": "星南",
+  "voice_cue": "sud_vo_adv_csprt-3-0098_01_jsna-007",
+  "bank_name": "sud_vo_adv_csprt-3-0098_01",
+  "start": 84.5543283686,
+  "duration": 5.386,
+  "voice_start": 84.6543283686,
+  "voice_duration": 5.286,
+  "output_slug": "sud_vo_adv_csprt-3-0098_01_jsna-007",
+  "output_index": 7,
+  "subsong_index": 19,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\sena\\20260715_012617_limit100\\acb\\sud_vo_adv_csprt-3-0098_01.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\sena\\20260715_012617_limit100\\scripts\\5233363433_dda55224f0730cb20ee23549610b09ec.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\sena\\20260715_012617_limit100\\items\\0007_sud_vo_adv_csprt-3-0098_01_jsna-007_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\sena\\20260715_012617_limit100\\items\\0007_sud_vo_adv_csprt-3-0098_01_jsna-007_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\sena\\20260715_012617_limit100\\items\\0007_sud_vo_adv_csprt-3-0098_01_jsna-007_03_metadata.json"
+}

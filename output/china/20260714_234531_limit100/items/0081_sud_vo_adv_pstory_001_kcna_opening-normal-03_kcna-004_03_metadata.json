@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5233343333/e3eb4cec30b732d4f9ee6a05df17e66b",
+  "line_no": 20,
+  "voice_line_no": 21,
+  "text": "これ以上、差が大きくならないよう、\n精一杯がんばりますわっ！",
+  "speaker": "千奈",
+  "voice_cue": "sud_vo_adv_pstory_001_kcna_opening-normal-03_kcna-004",
+  "bank_name": "sud_vo_adv_pstory_001_kcna_opening-normal-03",
+  "start": 11.3999983867,
+  "duration": 4.7000016133,
+  "voice_start": 11.4999983867,
+  "voice_duration": 4.408,
+  "output_slug": "sud_vo_adv_pstory_001_kcna_opening-normal-03_kcna-004",
+  "output_index": 81,
+  "subsong_index": 4,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\china\\20260714_234531_limit100\\acb\\sud_vo_adv_pstory_001_kcna_opening-normal-03.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\china\\20260714_234531_limit100\\scripts\\5233343333_e3eb4cec30b732d4f9ee6a05df17e66b.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\china\\20260714_234531_limit100\\items\\0081_sud_vo_adv_pstory_001_kcna_opening-normal-03_kcna-004_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\china\\20260714_234531_limit100\\items\\0081_sud_vo_adv_pstory_001_kcna_opening-normal-03_kcna-004_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\china\\20260714_234531_limit100\\items\\0081_sud_vo_adv_pstory_001_kcna_opening-normal-03_kcna-004_03_metadata.json"
+}

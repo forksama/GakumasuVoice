@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5231353033/892704e253818cd54d197444a3ab07a0",
+  "line_no": 29,
+  "voice_line_no": 30,
+  "text": "キミとの間に、言葉はいらないね。",
+  "speaker": "麻央",
+  "voice_cue": "sud_vo_adv_dear_hrnm_035_amao-003",
+  "bank_name": "sud_vo_adv_dear_hrnm_035",
+  "start": 15.3256660755,
+  "duration": 5.0566683197,
+  "voice_start": 15.4256660755,
+  "voice_duration": 4.69,
+  "output_slug": "sud_vo_adv_dear_hrnm_035_amao-003",
+  "output_index": 3,
+  "subsong_index": 3,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\acb\\sud_vo_adv_dear_hrnm_035.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\scripts\\5231353033_892704e253818cd54d197444a3ab07a0.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\items\\0003_sud_vo_adv_dear_hrnm_035_amao-003_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\items\\0003_sud_vo_adv_dear_hrnm_035_amao-003_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\items\\0003_sud_vo_adv_dear_hrnm_035_amao-003_03_metadata.json"
+}

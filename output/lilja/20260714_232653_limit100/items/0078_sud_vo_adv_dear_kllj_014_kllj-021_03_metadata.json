@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5236363933/4da637f510a8cd24423de7e70fe6ac9c",
+  "line_no": 225,
+  "voice_line_no": 227,
+  "text": "それでも、どうしても、わたしは……！",
+  "speaker": "リーリヤ",
+  "voice_cue": "sud_vo_adv_dear_kllj_014_kllj-021",
+  "bank_name": "sud_vo_adv_dear_kllj_014",
+  "start": 166.2040313177,
+  "duration": 4.711,
+  "voice_start": 166.3040313177,
+  "voice_duration": 4.611,
+  "output_slug": "sud_vo_adv_dear_kllj_014_kllj-021",
+  "output_index": 78,
+  "subsong_index": 21,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\lilja\\20260714_232653_limit100\\acb\\sud_vo_adv_dear_kllj_014.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\lilja\\20260714_232653_limit100\\scripts\\5236363933_4da637f510a8cd24423de7e70fe6ac9c.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\lilja\\20260714_232653_limit100\\items\\0078_sud_vo_adv_dear_kllj_014_kllj-021_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\lilja\\20260714_232653_limit100\\items\\0078_sud_vo_adv_dear_kllj_014_kllj-021_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\lilja\\20260714_232653_limit100\\items\\0078_sud_vo_adv_dear_kllj_014_kllj-021_03_metadata.json"
+}

@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5233363433/dda55224f0730cb20ee23549610b09ec",
+  "line_no": 154,
+  "voice_line_no": 158,
+  "text": "う……い、いただきます……\nじゃあ、この三つ編みのところから……",
+  "speaker": "ことね",
+  "voice_cue": "sud_vo_adv_csprt-3-0098_01_fktn-009",
+  "bank_name": "sud_vo_adv_csprt-3-0098_01",
+  "start": 90.1536618163,
+  "duration": 8.594,
+  "voice_start": 90.2536618163,
+  "voice_duration": 8.494,
+  "output_slug": "sud_vo_adv_csprt-3-0098_01_fktn-009",
+  "output_index": 9,
+  "subsong_index": 9,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\kotone\\20260714_230100_limit100\\acb\\sud_vo_adv_csprt-3-0098_01.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\kotone\\20260714_230100_limit100\\scripts\\5233363433_dda55224f0730cb20ee23549610b09ec.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\kotone\\20260714_230100_limit100\\items\\0009_sud_vo_adv_csprt-3-0098_01_fktn-009_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\kotone\\20260714_230100_limit100\\items\\0009_sud_vo_adv_csprt-3-0098_01_fktn-009_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\kotone\\20260714_230100_limit100\\items\\0009_sud_vo_adv_csprt-3-0098_01_fktn-009_03_metadata.json"
+}

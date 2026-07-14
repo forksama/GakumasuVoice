@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5231373833/d36577ec5985cac906f46246eb801e82",
+  "line_no": 413,
+  "voice_line_no": 415,
+  "text": "みんなー、今日はありがとう！",
+  "speaker": "麻央",
+  "voice_cue": "sud_vo_adv_dear_amao_033_amao-043",
+  "bank_name": "sud_vo_adv_dear_amao_033",
+  "start": 281.4690101276,
+  "duration": 2.656,
+  "voice_start": 281.5690101276,
+  "voice_duration": 2.556,
+  "output_slug": "sud_vo_adv_dear_amao_033_amao-043",
+  "output_index": 95,
+  "subsong_index": 43,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\acb\\sud_vo_adv_dear_amao_033.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\scripts\\5231373833_d36577ec5985cac906f46246eb801e82.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\items\\0095_sud_vo_adv_dear_amao_033_amao-043_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\items\\0095_sud_vo_adv_dear_amao_033_amao-043_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\items\\0095_sud_vo_adv_dear_amao_033_amao-043_03_metadata.json"
+}

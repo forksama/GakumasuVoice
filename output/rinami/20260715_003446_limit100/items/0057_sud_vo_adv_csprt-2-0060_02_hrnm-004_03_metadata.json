@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5233383933/bbd731d4e87a1cc5fc9e8a499419c875",
+  "line_no": 44,
+  "voice_line_no": 45,
+  "text": "鬼皮は硬いから、\n包丁の扱いに十分気を付けてね。",
+  "speaker": "莉波",
+  "voice_cue": "sud_vo_adv_csprt-2-0060_02_hrnm-004",
+  "bank_name": "sud_vo_adv_csprt-2-0060_02",
+  "start": 25.1639987109,
+  "duration": 5.317,
+  "voice_start": 25.2639987109,
+  "voice_duration": 5.217,
+  "output_slug": "sud_vo_adv_csprt-2-0060_02_hrnm-004",
+  "output_index": 57,
+  "subsong_index": 4,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\rinami\\20260715_003446_limit100\\acb\\sud_vo_adv_csprt-2-0060_02.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\rinami\\20260715_003446_limit100\\scripts\\5233383933_bbd731d4e87a1cc5fc9e8a499419c875.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\rinami\\20260715_003446_limit100\\items\\0057_sud_vo_adv_csprt-2-0060_02_hrnm-004_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\rinami\\20260715_003446_limit100\\items\\0057_sud_vo_adv_csprt-2-0060_02_hrnm-004_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\rinami\\20260715_003446_limit100\\items\\0057_sud_vo_adv_csprt-2-0060_02_hrnm-004_03_metadata.json"
+}

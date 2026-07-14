@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5236353533/2f1510de65cdabe6c8fcc9be8be7f9b3",
+  "line_no": 63,
+  "voice_line_no": 68,
+  "text": "うん、そうなんだ。燕ちゃん、\nよかったら一緒に食べない？",
+  "speaker": "莉波",
+  "voice_cue": "sud_vo_adv_csprt-3-0098_02_hrnm-001",
+  "bank_name": "sud_vo_adv_csprt-3-0098_02",
+  "start": 25.1935573336,
+  "duration": 5.253,
+  "voice_start": 25.2935573336,
+  "voice_duration": 5.153,
+  "output_slug": "sud_vo_adv_csprt-3-0098_02_hrnm-001",
+  "output_index": 66,
+  "subsong_index": 17,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\rinami\\20260715_003446_limit100\\acb\\sud_vo_adv_csprt-3-0098_02.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\rinami\\20260715_003446_limit100\\scripts\\5236353533_2f1510de65cdabe6c8fcc9be8be7f9b3.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\rinami\\20260715_003446_limit100\\items\\0066_sud_vo_adv_csprt-3-0098_02_hrnm-001_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\rinami\\20260715_003446_limit100\\items\\0066_sud_vo_adv_csprt-3-0098_02_hrnm-001_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\rinami\\20260715_003446_limit100\\items\\0066_sud_vo_adv_csprt-3-0098_02_hrnm-001_03_metadata.json"
+}

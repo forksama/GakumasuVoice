@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5235363633/8fb6b28961efad26a5d68bf22aa4850a",
+  "line_no": 18,
+  "voice_line_no": 21,
+  "text": "……ふふ。",
+  "speaker": "広",
+  "voice_cue": "sud_vo_adv_pstory_001_shro_after-audition-mid-normal-02_shro-002",
+  "bank_name": "sud_vo_adv_pstory_001_shro_after-audition-mid-normal-02",
+  "start": 8.66300008,
+  "duration": 1.3728321381,
+  "voice_start": 8.76300008,
+  "voice_duration": 0.707,
+  "output_slug": "sud_vo_adv_pstory_001_shro_after-audition-mid-normal-02_shro-002",
+  "output_index": 12,
+  "subsong_index": 2,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\hiro\\20260715_001531_limit100\\acb\\sud_vo_adv_pstory_001_shro_after-audition-mid-normal-02.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\hiro\\20260715_001531_limit100\\scripts\\5235363633_8fb6b28961efad26a5d68bf22aa4850a.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\hiro\\20260715_001531_limit100\\items\\0012_sud_vo_adv_pstory_001_shro_after-audition-mid-normal-02_shro-002_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\hiro\\20260715_001531_limit100\\items\\0012_sud_vo_adv_pstory_001_shro_after-audition-mid-normal-02_shro-002_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\hiro\\20260715_001531_limit100\\items\\0012_sud_vo_adv_pstory_001_shro_after-audition-mid-normal-02_shro-002_03_metadata.json"
+}

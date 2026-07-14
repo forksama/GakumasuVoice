@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5236343733/041a4db7cf6152776422ca5df375f49c",
+  "line_no": 294,
+  "voice_line_no": 301,
+  "text": "いいに決まってるよ！　\nね、美鈴ちゃん？",
+  "speaker": "佑芽",
+  "voice_cue": "sud_vo_adv_event_025_main-03_hume-012",
+  "bank_name": "sud_vo_adv_event_025_main-03",
+  "start": 212.4612976135,
+  "duration": 3.2709969482,
+  "voice_start": 212.5612976135,
+  "voice_duration": 2.971,
+  "output_slug": "sud_vo_adv_event_025_main-03_hume-012",
+  "output_index": 12,
+  "subsong_index": 29,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\acb\\sud_vo_adv_event_025_main-03.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\scripts\\5236343733_041a4db7cf6152776422ca5df375f49c.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\items\\0012_sud_vo_adv_event_025_main-03_hume-012_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\items\\0012_sud_vo_adv_event_025_main-03_hume-012_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\items\\0012_sud_vo_adv_event_025_main-03_hume-012_03_metadata.json"
+}

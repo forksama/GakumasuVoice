@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5236323433/7caac344dfce07ac3f2fe16ca309af7e",
+  "line_no": 438,
+  "voice_line_no": 439,
+  "text": "今回ばかりは、\nままならない……とは、言えないね。",
+  "speaker": "広",
+  "voice_cue": "sud_vo_adv_event_014_main-01_shro-018",
+  "bank_name": "sud_vo_adv_event_014_main-01",
+  "start": 274.6740184536,
+  "duration": 6.43,
+  "voice_start": 274.7740184536,
+  "voice_duration": 6.33,
+  "output_slug": "sud_vo_adv_event_014_main-01_shro-018",
+  "output_index": 53,
+  "subsong_index": 64,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\hiro\\20260715_001531_limit100\\acb\\sud_vo_adv_event_014_main-01.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\hiro\\20260715_001531_limit100\\scripts\\5236323433_7caac344dfce07ac3f2fe16ca309af7e.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\hiro\\20260715_001531_limit100\\items\\0053_sud_vo_adv_event_014_main-01_shro-018_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\hiro\\20260715_001531_limit100\\items\\0053_sud_vo_adv_event_014_main-01_shro-018_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\hiro\\20260715_001531_limit100\\items\\0053_sud_vo_adv_event_014_main-01_shro-018_03_metadata.json"
+}

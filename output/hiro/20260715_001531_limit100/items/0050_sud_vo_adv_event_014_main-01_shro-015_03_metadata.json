@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5236323433/7caac344dfce07ac3f2fe16ca309af7e",
+  "line_no": 422,
+  "voice_line_no": 423,
+  "text": "クラスのみんなにとって、\nアイドルにとって、",
+  "speaker": "広",
+  "voice_cue": "sud_vo_adv_event_014_main-01_shro-015",
+  "bank_name": "sud_vo_adv_event_014_main-01",
+  "start": 262.1424444707,
+  "duration": 3.6354472656,
+  "voice_start": 262.2424444708,
+  "voice_duration": 3.502,
+  "output_slug": "sud_vo_adv_event_014_main-01_shro-015",
+  "output_index": 50,
+  "subsong_index": 61,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\hiro\\20260715_001531_limit100\\acb\\sud_vo_adv_event_014_main-01.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\hiro\\20260715_001531_limit100\\scripts\\5236323433_7caac344dfce07ac3f2fe16ca309af7e.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\hiro\\20260715_001531_limit100\\items\\0050_sud_vo_adv_event_014_main-01_shro-015_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\hiro\\20260715_001531_limit100\\items\\0050_sud_vo_adv_event_014_main-01_shro-015_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\hiro\\20260715_001531_limit100\\items\\0050_sud_vo_adv_event_014_main-01_shro-015_03_metadata.json"
+}

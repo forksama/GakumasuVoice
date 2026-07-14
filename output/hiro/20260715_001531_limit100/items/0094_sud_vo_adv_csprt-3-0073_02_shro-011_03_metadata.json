@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5234373433/1b400f1de9f182e96aead45e8597d1ef",
+  "line_no": 174,
+  "voice_line_no": 183,
+  "text": "完璧なピースが\nギャルの証明かもしれない……",
+  "speaker": "広",
+  "voice_cue": "sud_vo_adv_csprt-3-0073_02_shro-011",
+  "bank_name": "sud_vo_adv_csprt-3-0073_02",
+  "start": 99.6339033753,
+  "duration": 3.667,
+  "voice_start": 99.7339033753,
+  "voice_duration": 3.567,
+  "output_slug": "sud_vo_adv_csprt-3-0073_02_shro-011",
+  "output_index": 94,
+  "subsong_index": 11,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\hiro\\20260715_001531_limit100\\acb\\sud_vo_adv_csprt-3-0073_02.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\hiro\\20260715_001531_limit100\\scripts\\5234373433_1b400f1de9f182e96aead45e8597d1ef.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\hiro\\20260715_001531_limit100\\items\\0094_sud_vo_adv_csprt-3-0073_02_shro-011_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\hiro\\20260715_001531_limit100\\items\\0094_sud_vo_adv_csprt-3-0073_02_shro-011_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\hiro\\20260715_001531_limit100\\items\\0094_sud_vo_adv_csprt-3-0073_02_shro-011_03_metadata.json"
+}

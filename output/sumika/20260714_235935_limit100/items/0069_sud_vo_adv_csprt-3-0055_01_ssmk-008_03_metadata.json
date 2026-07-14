@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5234383833/e395e885c1602fe636eddfac99d5327c",
+  "line_no": 155,
+  "voice_line_no": 156,
+  "text": "てかさぁ、演説してた首席の女の子、\nめっちゃ可愛くなかった？",
+  "speaker": "清夏",
+  "voice_cue": "sud_vo_adv_csprt-3-0055_01_ssmk-008",
+  "bank_name": "sud_vo_adv_csprt-3-0055_01",
+  "start": 73.0028689459,
+  "duration": 5.5253328247,
+  "voice_start": 73.1028689459,
+  "voice_duration": 5.392,
+  "output_slug": "sud_vo_adv_csprt-3-0055_01_ssmk-008",
+  "output_index": 69,
+  "subsong_index": 16,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\sumika\\20260714_235935_limit100\\acb\\sud_vo_adv_csprt-3-0055_01.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\sumika\\20260714_235935_limit100\\scripts\\5234383833_e395e885c1602fe636eddfac99d5327c.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\sumika\\20260714_235935_limit100\\items\\0069_sud_vo_adv_csprt-3-0055_01_ssmk-008_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\sumika\\20260714_235935_limit100\\items\\0069_sud_vo_adv_csprt-3-0055_01_ssmk-008_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\sumika\\20260714_235935_limit100\\items\\0069_sud_vo_adv_csprt-3-0055_01_ssmk-008_03_metadata.json"
+}

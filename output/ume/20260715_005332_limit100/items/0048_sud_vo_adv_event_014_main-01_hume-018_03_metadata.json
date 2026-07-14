@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5236323433/7caac344dfce07ac3f2fe16ca309af7e",
+  "line_no": 345,
+  "voice_line_no": 348,
+  "text": "またまた～。あたしの手は\nごまかせないんだからね～。",
+  "speaker": "佑芽",
+  "voice_cue": "sud_vo_adv_event_014_main-01_hume-018",
+  "bank_name": "sud_vo_adv_event_014_main-01",
+  "start": 215.3531018237,
+  "duration": 4.8046153564,
+  "voice_start": 215.4531018238,
+  "voice_duration": 4.602,
+  "output_slug": "sud_vo_adv_event_014_main-01_hume-018",
+  "output_index": 48,
+  "subsong_index": 26,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\acb\\sud_vo_adv_event_014_main-01.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\scripts\\5236323433_7caac344dfce07ac3f2fe16ca309af7e.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\items\\0048_sud_vo_adv_event_014_main-01_hume-018_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\items\\0048_sud_vo_adv_event_014_main-01_hume-018_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\items\\0048_sud_vo_adv_event_014_main-01_hume-018_03_metadata.json"
+}

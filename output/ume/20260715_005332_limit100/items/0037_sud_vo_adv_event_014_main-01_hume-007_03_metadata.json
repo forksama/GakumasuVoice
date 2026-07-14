@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5236323433/7caac344dfce07ac3f2fe16ca309af7e",
+  "line_no": 82,
+  "voice_line_no": 85,
+  "text": "クラス対抗戦を！",
+  "speaker": "佑芽",
+  "voice_cue": "sud_vo_adv_event_014_main-01_hume-007",
+  "bank_name": "sud_vo_adv_event_014_main-01",
+  "start": 43.0087855514,
+  "duration": 2.2890863648,
+  "voice_start": 43.1087855514,
+  "voice_duration": 1.999,
+  "output_slug": "sud_vo_adv_event_014_main-01_hume-007",
+  "output_index": 37,
+  "subsong_index": 15,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\acb\\sud_vo_adv_event_014_main-01.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\scripts\\5236323433_7caac344dfce07ac3f2fe16ca309af7e.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\items\\0037_sud_vo_adv_event_014_main-01_hume-007_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\items\\0037_sud_vo_adv_event_014_main-01_hume-007_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\items\\0037_sud_vo_adv_event_014_main-01_hume-007_03_metadata.json"
+}

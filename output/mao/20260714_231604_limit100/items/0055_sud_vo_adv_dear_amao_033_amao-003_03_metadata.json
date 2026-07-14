@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5231373833/d36577ec5985cac906f46246eb801e82",
+  "line_no": 24,
+  "voice_line_no": 25,
+  "text": "久々のライブ、ちょっと緊張します。",
+  "speaker": "麻央",
+  "voice_cue": "sud_vo_adv_dear_amao_033_amao-003",
+  "bank_name": "sud_vo_adv_dear_amao_033",
+  "start": 12.4476664188,
+  "duration": 3.256,
+  "voice_start": 12.5476664188,
+  "voice_duration": 3.156,
+  "output_slug": "sud_vo_adv_dear_amao_033_amao-003",
+  "output_index": 55,
+  "subsong_index": 3,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\acb\\sud_vo_adv_dear_amao_033.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\scripts\\5231373833_d36577ec5985cac906f46246eb801e82.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\items\\0055_sud_vo_adv_dear_amao_033_amao-003_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\items\\0055_sud_vo_adv_dear_amao_033_amao-003_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\items\\0055_sud_vo_adv_dear_amao_033_amao-003_03_metadata.json"
+}

@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5235393933/f02cc1fbff5bd224fc7b8cba845392e5",
+  "line_no": 72,
+  "voice_line_no": 73,
+  "text": "わたくし、学園最下位の\nアイドルなのですけれど！？",
+  "speaker": "千奈",
+  "voice_cue": "sud_vo_adv_dear_kcna_003_kcna-006",
+  "bank_name": "sud_vo_adv_dear_kcna_003",
+  "start": 83.9013753999,
+  "duration": 5.548000631,
+  "voice_start": 84.0013760309,
+  "voice_duration": 5.448,
+  "output_slug": "sud_vo_adv_dear_kcna_003_kcna-006",
+  "output_index": 87,
+  "subsong_index": 20,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\china\\20260714_234531_limit100\\acb\\sud_vo_adv_dear_kcna_003.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\china\\20260714_234531_limit100\\scripts\\5235393933_f02cc1fbff5bd224fc7b8cba845392e5.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\china\\20260714_234531_limit100\\items\\0087_sud_vo_adv_dear_kcna_003_kcna-006_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\china\\20260714_234531_limit100\\items\\0087_sud_vo_adv_dear_kcna_003_kcna-006_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\china\\20260714_234531_limit100\\items\\0087_sud_vo_adv_dear_kcna_003_kcna-006_03_metadata.json"
+}

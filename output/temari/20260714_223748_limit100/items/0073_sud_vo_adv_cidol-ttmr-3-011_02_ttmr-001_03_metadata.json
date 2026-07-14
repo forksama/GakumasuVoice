@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5233373633/5894384409f4929064f9081c5b285b93",
+  "line_no": 9,
+  "voice_line_no": 15,
+  "text": "プロデューサー。\nレッスン終わりましたけど。",
+  "speaker": "手毬",
+  "voice_cue": "sud_vo_adv_cidol-ttmr-3-011_02_ttmr-001",
+  "bank_name": "sud_vo_adv_cidol-ttmr-3-011_02",
+  "start": 0.8,
+  "duration": 4.401,
+  "voice_start": 0.9,
+  "voice_duration": 4.301,
+  "output_slug": "sud_vo_adv_cidol-ttmr-3-011_02_ttmr-001",
+  "output_index": 73,
+  "subsong_index": 1,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\temari\\20260714_223748_limit100\\acb\\sud_vo_adv_cidol-ttmr-3-011_02.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\temari\\20260714_223748_limit100\\scripts\\5233373633_5894384409f4929064f9081c5b285b93.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\temari\\20260714_223748_limit100\\items\\0073_sud_vo_adv_cidol-ttmr-3-011_02_ttmr-001_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\temari\\20260714_223748_limit100\\items\\0073_sud_vo_adv_cidol-ttmr-3-011_02_ttmr-001_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\temari\\20260714_223748_limit100\\items\\0073_sud_vo_adv_cidol-ttmr-3-011_02_ttmr-001_03_metadata.json"
+}

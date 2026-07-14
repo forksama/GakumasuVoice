@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5235353133/d8efed0f79b6010b32b2b24ebc816ce8",
+  "line_no": 57,
+  "voice_line_no": 60,
+  "text": "ふふ、地獄のですろーど。\n踏破した、よ。",
+  "speaker": "広",
+  "voice_cue": "sud_vo_adv_dear_shro_018_shro-007",
+  "bank_name": "sud_vo_adv_dear_shro_018",
+  "start": 46.0313341519,
+  "duration": 5.776,
+  "voice_start": 46.1313341519,
+  "voice_duration": 5.676,
+  "output_slug": "sud_vo_adv_dear_shro_018_shro-007",
+  "output_index": 7,
+  "subsong_index": 7,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\hiro\\20260715_001531_limit100\\acb\\sud_vo_adv_dear_shro_018.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\hiro\\20260715_001531_limit100\\scripts\\5235353133_d8efed0f79b6010b32b2b24ebc816ce8.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\hiro\\20260715_001531_limit100\\items\\0007_sud_vo_adv_dear_shro_018_shro-007_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\hiro\\20260715_001531_limit100\\items\\0007_sud_vo_adv_dear_shro_018_shro-007_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\hiro\\20260715_001531_limit100\\items\\0007_sud_vo_adv_dear_shro_018_shro-007_03_metadata.json"
+}

@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5231383533/9e892c04614202994492103a131491d0",
+  "line_no": 70,
+  "voice_line_no": 78,
+  "text": "これとか。どっちが早く白くなるまで\n練ることができるか競争しました。",
+  "speaker": "美鈴",
+  "voice_cue": "sud_vo_adv_csprt-3-0091_02_hmsz-002",
+  "bank_name": "sud_vo_adv_csprt-3-0091_02",
+  "start": 24.775334047,
+  "duration": 5.9893327484,
+  "voice_start": 24.875334047,
+  "voice_duration": 5.876,
+  "output_slug": "sud_vo_adv_csprt-3-0091_02_hmsz-002",
+  "output_index": 19,
+  "subsong_index": 2,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\misuzu\\20260715_010942_limit100\\acb\\sud_vo_adv_csprt-3-0091_02.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\misuzu\\20260715_010942_limit100\\scripts\\5231383533_9e892c04614202994492103a131491d0.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\misuzu\\20260715_010942_limit100\\items\\0019_sud_vo_adv_csprt-3-0091_02_hmsz-002_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\misuzu\\20260715_010942_limit100\\items\\0019_sud_vo_adv_csprt-3-0091_02_hmsz-002_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\misuzu\\20260715_010942_limit100\\items\\0019_sud_vo_adv_csprt-3-0091_02_hmsz-002_03_metadata.json"
+}

@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5231313933/d1510341ff896241812b3d56769fc7e8",
+  "line_no": 37,
+  "voice_line_no": 38,
+  "text": "なんだか、不思議な感じだね。\n生徒会室で、きみと一緒にいるなんて。",
+  "speaker": "莉波",
+  "voice_cue": "sud_vo_adv_cidol-hrnm-3-013_03_hrnm-006",
+  "bank_name": "sud_vo_adv_cidol-hrnm-3-013_03",
+  "start": 30.5370006112,
+  "duration": 8.045,
+  "voice_start": 30.6370006112,
+  "voice_duration": 7.945,
+  "output_slug": "sud_vo_adv_cidol-hrnm-3-013_03_hrnm-006",
+  "output_index": 97,
+  "subsong_index": 6,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\rinami\\20260715_003446_limit100\\acb\\sud_vo_adv_cidol-hrnm-3-013_03.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\rinami\\20260715_003446_limit100\\scripts\\5231313933_d1510341ff896241812b3d56769fc7e8.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\rinami\\20260715_003446_limit100\\items\\0097_sud_vo_adv_cidol-hrnm-3-013_03_hrnm-006_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\rinami\\20260715_003446_limit100\\items\\0097_sud_vo_adv_cidol-hrnm-3-013_03_hrnm-006_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\rinami\\20260715_003446_limit100\\items\\0097_sud_vo_adv_cidol-hrnm-3-013_03_hrnm-006_03_metadata.json"
+}

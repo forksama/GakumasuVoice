@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5235313833/c1d6633e9b0aab996f5b67911872ed76",
+  "line_no": 98,
+  "voice_line_no": 99,
+  "text": "はああ～、やっぱりお姉ちゃんは\nすごいなぁ……",
+  "speaker": "佑芽",
+  "voice_cue": "sud_vo_adv_csprt-2-0034_01_hume-005",
+  "bank_name": "sud_vo_adv_csprt-2-0034_01",
+  "start": 54.5246658834,
+  "duration": 6.0983328247,
+  "voice_start": 54.6246658834,
+  "voice_duration": 5.965,
+  "output_slug": "sud_vo_adv_csprt-2-0034_01_hume-005",
+  "output_index": 28,
+  "subsong_index": 18,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\acb\\sud_vo_adv_csprt-2-0034_01.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\scripts\\5235313833_c1d6633e9b0aab996f5b67911872ed76.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\items\\0028_sud_vo_adv_csprt-2-0034_01_hume-005_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\items\\0028_sud_vo_adv_csprt-2-0034_01_hume-005_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\items\\0028_sud_vo_adv_csprt-2-0034_01_hume-005_03_metadata.json"
+}

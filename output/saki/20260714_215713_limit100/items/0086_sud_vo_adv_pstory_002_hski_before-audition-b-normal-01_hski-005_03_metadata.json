@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5232363533/ddd296a2f8213248d1a94eb61dfca21c",
+  "line_no": 37,
+  "voice_line_no": 38,
+  "text": "どうしたんだろう………？\n大舞台の前みたいなプレッシャー。",
+  "speaker": "咲季",
+  "voice_cue": "sud_vo_adv_pstory_002_hski_before-audition-b-normal-01_hski-005",
+  "bank_name": "sud_vo_adv_pstory_002_hski_before-audition-b-normal-01",
+  "start": 20.8033327358,
+  "duration": 5.0233347321,
+  "voice_start": 20.9033327358,
+  "voice_duration": 4.89,
+  "output_slug": "sud_vo_adv_pstory_002_hski_before-audition-b-normal-01_hski-005",
+  "output_index": 86,
+  "subsong_index": 5,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\acb\\sud_vo_adv_pstory_002_hski_before-audition-b-normal-01.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\scripts\\5232363533_ddd296a2f8213248d1a94eb61dfca21c.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\items\\0086_sud_vo_adv_pstory_002_hski_before-audition-b-normal-01_hski-005_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\items\\0086_sud_vo_adv_pstory_002_hski_before-audition-b-normal-01_hski-005_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\items\\0086_sud_vo_adv_pstory_002_hski_before-audition-b-normal-01_hski-005_03_metadata.json"
+}

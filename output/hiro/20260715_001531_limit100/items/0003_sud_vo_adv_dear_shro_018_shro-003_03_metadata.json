@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5235353133/d8efed0f79b6010b32b2b24ebc816ce8",
+  "line_no": 20,
+  "voice_line_no": 25,
+  "text": "学園最底辺だったわたしたちが、\n『N.I.A』を席巻してるなんて。",
+  "speaker": "広",
+  "voice_cue": "sud_vo_adv_dear_shro_018_shro-003",
+  "bank_name": "sud_vo_adv_dear_shro_018",
+  "start": 15.0773336766,
+  "duration": 4.923,
+  "voice_start": 15.1773336766,
+  "voice_duration": 4.823,
+  "output_slug": "sud_vo_adv_dear_shro_018_shro-003",
+  "output_index": 3,
+  "subsong_index": 3,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\hiro\\20260715_001531_limit100\\acb\\sud_vo_adv_dear_shro_018.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\hiro\\20260715_001531_limit100\\scripts\\5235353133_d8efed0f79b6010b32b2b24ebc816ce8.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\hiro\\20260715_001531_limit100\\items\\0003_sud_vo_adv_dear_shro_018_shro-003_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\hiro\\20260715_001531_limit100\\items\\0003_sud_vo_adv_dear_shro_018_shro-003_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\hiro\\20260715_001531_limit100\\items\\0003_sud_vo_adv_dear_shro_018_shro-003_03_metadata.json"
+}

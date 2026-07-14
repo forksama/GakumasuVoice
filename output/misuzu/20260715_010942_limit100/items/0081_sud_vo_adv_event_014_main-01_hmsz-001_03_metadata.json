@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5236323433/7caac344dfce07ac3f2fe16ca309af7e",
+  "line_no": 30,
+  "voice_line_no": 33,
+  "text": "まあ、佑芽さん。いつもながら\nダイナミックな登場ですね。",
+  "speaker": "美鈴",
+  "voice_cue": "sud_vo_adv_event_014_main-01_hmsz-001",
+  "bank_name": "sud_vo_adv_event_014_main-01",
+  "start": 6.3421527281,
+  "duration": 6.2401119385,
+  "voice_start": 6.4421527281,
+  "voice_duration": 6.066,
+  "output_slug": "sud_vo_adv_event_014_main-01_hmsz-001",
+  "output_index": 81,
+  "subsong_index": 1,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\misuzu\\20260715_010942_limit100\\acb\\sud_vo_adv_event_014_main-01.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\misuzu\\20260715_010942_limit100\\scripts\\5236323433_7caac344dfce07ac3f2fe16ca309af7e.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\misuzu\\20260715_010942_limit100\\items\\0081_sud_vo_adv_event_014_main-01_hmsz-001_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\misuzu\\20260715_010942_limit100\\items\\0081_sud_vo_adv_event_014_main-01_hmsz-001_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\misuzu\\20260715_010942_limit100\\items\\0081_sud_vo_adv_event_014_main-01_hmsz-001_03_metadata.json"
+}

@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5234393133/b949e5731ceefe8d5cf6add5d2f110e6",
+  "line_no": 72,
+  "voice_line_no": 75,
+  "text": "ちゃんと、伝わりました。\n今日のライブで、それを証明します。",
+  "speaker": "リーリヤ",
+  "voice_cue": "sud_vo_adv_cidol-kllj-3-008_03_kllj-012",
+  "bank_name": "sud_vo_adv_cidol-kllj-3-008_03",
+  "start": 85.7229948912,
+  "duration": 7.35,
+  "voice_start": 85.8229948912,
+  "voice_duration": 7.25,
+  "output_slug": "sud_vo_adv_cidol-kllj-3-008_03_kllj-012",
+  "output_index": 21,
+  "subsong_index": 12,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\lilja\\20260714_232653_limit100\\acb\\sud_vo_adv_cidol-kllj-3-008_03.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\lilja\\20260714_232653_limit100\\scripts\\5234393133_b949e5731ceefe8d5cf6add5d2f110e6.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\lilja\\20260714_232653_limit100\\items\\0021_sud_vo_adv_cidol-kllj-3-008_03_kllj-012_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\lilja\\20260714_232653_limit100\\items\\0021_sud_vo_adv_cidol-kllj-3-008_03_kllj-012_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\lilja\\20260714_232653_limit100\\items\\0021_sud_vo_adv_cidol-kllj-3-008_03_kllj-012_03_metadata.json"
+}

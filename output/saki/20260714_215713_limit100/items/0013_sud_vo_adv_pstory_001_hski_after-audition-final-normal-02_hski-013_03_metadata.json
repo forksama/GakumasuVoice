@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5236353933/f6456f7a0e2fcd7a47793c7d713d6215",
+  "line_no": 72,
+  "voice_line_no": 73,
+  "text": "――って、そう自信満々に言えたら、\nいいんだけどね。正直に言うと……",
+  "speaker": "咲季",
+  "voice_cue": "sud_vo_adv_pstory_001_hski_after-audition-final-normal-02_hski-013",
+  "bank_name": "sud_vo_adv_pstory_001_hski_after-audition-final-normal-02",
+  "start": 50.9665977356,
+  "duration": 8.1619980246,
+  "voice_start": 51.0665957602,
+  "voice_duration": 8.062,
+  "output_slug": "sud_vo_adv_pstory_001_hski_after-audition-final-normal-02_hski-013",
+  "output_index": 13,
+  "subsong_index": 13,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\acb\\sud_vo_adv_pstory_001_hski_after-audition-final-normal-02.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\scripts\\5236353933_f6456f7a0e2fcd7a47793c7d713d6215.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\items\\0013_sud_vo_adv_pstory_001_hski_after-audition-final-normal-02_hski-013_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\items\\0013_sud_vo_adv_pstory_001_hski_after-audition-final-normal-02_hski-013_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\items\\0013_sud_vo_adv_pstory_001_hski_after-audition-final-normal-02_hski-013_03_metadata.json"
+}

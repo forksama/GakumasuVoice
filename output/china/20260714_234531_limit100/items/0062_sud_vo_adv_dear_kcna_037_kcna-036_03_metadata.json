@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5236313133/12de4b0745790fd935d0593335d59322",
+  "line_no": 275,
+  "voice_line_no": 276,
+  "text": "わたくしが、大きな声で……\n勝ちどきを上げる日まで。",
+  "speaker": "千奈",
+  "voice_cue": "sud_vo_adv_dear_kcna_037_kcna-036",
+  "bank_name": "sud_vo_adv_dear_kcna_037",
+  "start": 239.965371874,
+  "duration": 5.8309969482,
+  "voice_start": 240.065371874,
+  "voice_duration": 5.531,
+  "output_slug": "sud_vo_adv_dear_kcna_037_kcna-036",
+  "output_index": 62,
+  "subsong_index": 36,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\china\\20260714_234531_limit100\\acb\\sud_vo_adv_dear_kcna_037.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\china\\20260714_234531_limit100\\scripts\\5236313133_12de4b0745790fd935d0593335d59322.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\china\\20260714_234531_limit100\\items\\0062_sud_vo_adv_dear_kcna_037_kcna-036_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\china\\20260714_234531_limit100\\items\\0062_sud_vo_adv_dear_kcna_037_kcna-036_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\china\\20260714_234531_limit100\\items\\0062_sud_vo_adv_dear_kcna_037_kcna-036_03_metadata.json"
+}

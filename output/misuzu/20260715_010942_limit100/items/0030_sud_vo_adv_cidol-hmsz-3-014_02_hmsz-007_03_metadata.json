@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5233303533/eece10c902056b8838ca9968c1180d92",
+  "line_no": 55,
+  "voice_line_no": 56,
+  "text": "もしかして……\nわたしに恋してしまったんですか？",
+  "speaker": "美鈴",
+  "voice_cue": "sud_vo_adv_cidol-hmsz-3-014_02_hmsz-007",
+  "bank_name": "sud_vo_adv_cidol-hmsz-3-014_02",
+  "start": 47.9840022365,
+  "duration": 5.326,
+  "voice_start": 48.0840022365,
+  "voice_duration": 5.226,
+  "output_slug": "sud_vo_adv_cidol-hmsz-3-014_02_hmsz-007",
+  "output_index": 30,
+  "subsong_index": 7,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\misuzu\\20260715_010942_limit100\\acb\\sud_vo_adv_cidol-hmsz-3-014_02.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\misuzu\\20260715_010942_limit100\\scripts\\5233303533_eece10c902056b8838ca9968c1180d92.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\misuzu\\20260715_010942_limit100\\items\\0030_sud_vo_adv_cidol-hmsz-3-014_02_hmsz-007_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\misuzu\\20260715_010942_limit100\\items\\0030_sud_vo_adv_cidol-hmsz-3-014_02_hmsz-007_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\misuzu\\20260715_010942_limit100\\items\\0030_sud_vo_adv_cidol-hmsz-3-014_02_hmsz-007_03_metadata.json"
+}

@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5236323433/7caac344dfce07ac3f2fe16ca309af7e",
+  "line_no": 44,
+  "voice_line_no": 47,
+  "text": "あっゴメン！　つい……",
+  "speaker": "佑芽",
+  "voice_cue": "sud_vo_adv_event_014_main-01_hume-003",
+  "bank_name": "sud_vo_adv_event_014_main-01",
+  "start": 19.162311724,
+  "duration": 2.4243907471,
+  "voice_start": 19.262311724,
+  "voice_duration": 2.202,
+  "output_slug": "sud_vo_adv_event_014_main-01_hume-003",
+  "output_index": 33,
+  "subsong_index": 11,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\acb\\sud_vo_adv_event_014_main-01.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\scripts\\5236323433_7caac344dfce07ac3f2fe16ca309af7e.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\items\\0033_sud_vo_adv_event_014_main-01_hume-003_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\items\\0033_sud_vo_adv_event_014_main-01_hume-003_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\items\\0033_sud_vo_adv_event_014_main-01_hume-003_03_metadata.json"
+}

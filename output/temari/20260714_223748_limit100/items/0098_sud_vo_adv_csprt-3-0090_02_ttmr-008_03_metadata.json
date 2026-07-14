@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5233333733/9cddec52edd2c2c987b50229ede35a4e",
+  "line_no": 105,
+  "voice_line_no": 106,
+  "text": "犬には追いかけ回されるし……\n猫には逃げられるし……",
+  "speaker": "手毬",
+  "voice_cue": "sud_vo_adv_csprt-3-0090_02_ttmr-008",
+  "bank_name": "sud_vo_adv_csprt-3-0090_02",
+  "start": 57.6926713478,
+  "duration": 5.032,
+  "voice_start": 57.7926713478,
+  "voice_duration": 4.932,
+  "output_slug": "sud_vo_adv_csprt-3-0090_02_ttmr-008",
+  "output_index": 98,
+  "subsong_index": 17,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\temari\\20260714_223748_limit100\\acb\\sud_vo_adv_csprt-3-0090_02.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\temari\\20260714_223748_limit100\\scripts\\5233333733_9cddec52edd2c2c987b50229ede35a4e.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\temari\\20260714_223748_limit100\\items\\0098_sud_vo_adv_csprt-3-0090_02_ttmr-008_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\temari\\20260714_223748_limit100\\items\\0098_sud_vo_adv_csprt-3-0090_02_ttmr-008_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\temari\\20260714_223748_limit100\\items\\0098_sud_vo_adv_csprt-3-0090_02_ttmr-008_03_metadata.json"
+}

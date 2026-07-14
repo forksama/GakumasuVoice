@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5234383433/5807618406aafa6a653c005c9fa2b71c",
+  "line_no": 31,
+  "voice_line_no": 32,
+  "text": "ああ……私、結局なにも\nしてあげられなかったのに。",
+  "speaker": "星南",
+  "voice_cue": "sud_vo_adv_csprt-3-0024_03_jsna-002",
+  "bank_name": "sud_vo_adv_csprt-3-0024_03",
+  "start": 14.9339996588,
+  "duration": 5.076,
+  "voice_start": 15.0339996588,
+  "voice_duration": 4.976,
+  "output_slug": "sud_vo_adv_csprt-3-0024_03_jsna-002",
+  "output_index": 19,
+  "subsong_index": 16,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\sena\\20260715_012617_limit100\\acb\\sud_vo_adv_csprt-3-0024_03.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\sena\\20260715_012617_limit100\\scripts\\5234383433_5807618406aafa6a653c005c9fa2b71c.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\sena\\20260715_012617_limit100\\items\\0019_sud_vo_adv_csprt-3-0024_03_jsna-002_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\sena\\20260715_012617_limit100\\items\\0019_sud_vo_adv_csprt-3-0024_03_jsna-002_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\sena\\20260715_012617_limit100\\items\\0019_sud_vo_adv_csprt-3-0024_03_jsna-002_03_metadata.json"
+}

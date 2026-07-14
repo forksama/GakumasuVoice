@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/52313333/b27f286278ef5809e64357af44b940cc",
+  "line_no": 139,
+  "voice_line_no": 140,
+  "text": "そ、そうじゃなくて……！",
+  "speaker": "リーリヤ",
+  "voice_cue": "sud_vo_adv_csprt-3-0008_01_kllj-009",
+  "bank_name": "sud_vo_adv_csprt-3-0008_01",
+  "start": 86.6585806111,
+  "duration": 3.5615409851,
+  "voice_start": 86.7585806111,
+  "voice_duration": 2.959,
+  "output_slug": "sud_vo_adv_csprt-3-0008_01_kllj-009",
+  "output_index": 9,
+  "subsong_index": 9,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\lilja\\20260714_232653_limit100\\acb\\sud_vo_adv_csprt-3-0008_01.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\lilja\\20260714_232653_limit100\\scripts\\52313333_b27f286278ef5809e64357af44b940cc.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\lilja\\20260714_232653_limit100\\items\\0009_sud_vo_adv_csprt-3-0008_01_kllj-009_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\lilja\\20260714_232653_limit100\\items\\0009_sud_vo_adv_csprt-3-0008_01_kllj-009_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\lilja\\20260714_232653_limit100\\items\\0009_sud_vo_adv_csprt-3-0008_01_kllj-009_03_metadata.json"
+}

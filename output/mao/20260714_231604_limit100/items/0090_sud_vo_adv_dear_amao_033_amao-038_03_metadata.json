@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5231373833/d36577ec5985cac906f46246eb801e82",
+  "line_no": 369,
+  "voice_line_no": 370,
+  "text": "ああ。ボクが子供のころに見た、\n憧れとは違うけど――",
+  "speaker": "麻央",
+  "voice_cue": "sud_vo_adv_dear_amao_033_amao-038",
+  "bank_name": "sud_vo_adv_dear_amao_033",
+  "start": 242.0443202431,
+  "duration": 4.97,
+  "voice_start": 242.1443202431,
+  "voice_duration": 4.87,
+  "output_slug": "sud_vo_adv_dear_amao_033_amao-038",
+  "output_index": 90,
+  "subsong_index": 38,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\acb\\sud_vo_adv_dear_amao_033.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\scripts\\5231373833_d36577ec5985cac906f46246eb801e82.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\items\\0090_sud_vo_adv_dear_amao_033_amao-038_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\items\\0090_sud_vo_adv_dear_amao_033_amao-038_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\items\\0090_sud_vo_adv_dear_amao_033_amao-038_03_metadata.json"
+}

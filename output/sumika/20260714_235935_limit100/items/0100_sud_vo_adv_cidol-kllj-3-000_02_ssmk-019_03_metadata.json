@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5232303433/7bd8f5c277399a65c19df3c8772d19de",
+  "line_no": 259,
+  "voice_line_no": 260,
+  "text": "てかリーリヤのプロデューサーが\nその曲にした理由、ちょっと分かる。",
+  "speaker": "清夏",
+  "voice_cue": "sud_vo_adv_cidol-kllj-3-000_02_ssmk-019",
+  "bank_name": "sud_vo_adv_cidol-kllj-3-000_02",
+  "start": 181.517021267,
+  "duration": 5.779,
+  "voice_start": 181.617021267,
+  "voice_duration": 5.679,
+  "output_slug": "sud_vo_adv_cidol-kllj-3-000_02_ssmk-019",
+  "output_index": 100,
+  "subsong_index": 44,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\sumika\\20260714_235935_limit100\\acb\\sud_vo_adv_cidol-kllj-3-000_02.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\sumika\\20260714_235935_limit100\\scripts\\5232303433_7bd8f5c277399a65c19df3c8772d19de.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\sumika\\20260714_235935_limit100\\items\\0100_sud_vo_adv_cidol-kllj-3-000_02_ssmk-019_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\sumika\\20260714_235935_limit100\\items\\0100_sud_vo_adv_cidol-kllj-3-000_02_ssmk-019_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\sumika\\20260714_235935_limit100\\items\\0100_sud_vo_adv_cidol-kllj-3-000_02_ssmk-019_03_metadata.json"
+}

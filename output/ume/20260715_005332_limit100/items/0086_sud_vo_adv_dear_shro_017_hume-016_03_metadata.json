@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5231313133/302d314da24a3de5ce21d994fca1a99b",
+  "line_no": 387,
+  "voice_line_no": 391,
+  "text": "競い合ってきたこと――\nあたし、ぜんぶ覚えてるもん。",
+  "speaker": "佑芽",
+  "voice_cue": "sud_vo_adv_dear_shro_017_hume-016",
+  "bank_name": "sud_vo_adv_dear_shro_017",
+  "start": 240.3593683194,
+  "duration": 5.146,
+  "voice_start": 240.4593683194,
+  "voice_duration": 5.046,
+  "output_slug": "sud_vo_adv_dear_shro_017_hume-016",
+  "output_index": 86,
+  "subsong_index": 16,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\acb\\sud_vo_adv_dear_shro_017.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\scripts\\5231313133_302d314da24a3de5ce21d994fca1a99b.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\items\\0086_sud_vo_adv_dear_shro_017_hume-016_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\items\\0086_sud_vo_adv_dear_shro_017_hume-016_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\items\\0086_sud_vo_adv_dear_shro_017_hume-016_03_metadata.json"
+}

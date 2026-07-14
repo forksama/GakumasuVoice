@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5231333333/6e6752f7c7e9e2f1805c16b90c1ab7f9",
+  "line_no": 28,
+  "voice_line_no": 29,
+  "text": "美鈴も、燐羽も、きっと観てる。",
+  "speaker": "手毬",
+  "voice_cue": "sud_vo_adv_cidol-ttmr-3-007_03_ttmr-002",
+  "bank_name": "sud_vo_adv_cidol-ttmr-3-007_03",
+  "start": 8.8473334327,
+  "duration": 2.5256660308,
+  "voice_start": 8.9473334327,
+  "voice_duration": 2.259,
+  "output_slug": "sud_vo_adv_cidol-ttmr-3-007_03_ttmr-002",
+  "output_index": 10,
+  "subsong_index": 2,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\temari\\20260714_223748_limit100\\acb\\sud_vo_adv_cidol-ttmr-3-007_03.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\temari\\20260714_223748_limit100\\scripts\\5231333333_6e6752f7c7e9e2f1805c16b90c1ab7f9.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\temari\\20260714_223748_limit100\\items\\0010_sud_vo_adv_cidol-ttmr-3-007_03_ttmr-002_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\temari\\20260714_223748_limit100\\items\\0010_sud_vo_adv_cidol-ttmr-3-007_03_ttmr-002_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\temari\\20260714_223748_limit100\\items\\0010_sud_vo_adv_cidol-ttmr-3-007_03_ttmr-002_03_metadata.json"
+}

@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5233393733/7cde23d4c88fe8f5323e11faada7d569",
+  "line_no": 297,
+  "voice_line_no": 300,
+  "text": "『<r=プリマステラ>一番星</r>』。わたしたちがアイドルを\n目指すきっかけになった……",
+  "speaker": "美鈴",
+  "voice_cue": "sud_vo_adv_dear_hmsz_020_hmsz-022",
+  "bank_name": "sud_vo_adv_dear_hmsz_020",
+  "start": 283.5595310614,
+  "duration": 6.8390000001,
+  "voice_start": 283.6595310615,
+  "voice_duration": 6.739,
+  "output_slug": "sud_vo_adv_dear_hmsz_020_hmsz-022",
+  "output_index": 65,
+  "subsong_index": 22,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\misuzu\\20260715_010942_limit100\\acb\\sud_vo_adv_dear_hmsz_020.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\misuzu\\20260715_010942_limit100\\scripts\\5233393733_7cde23d4c88fe8f5323e11faada7d569.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\misuzu\\20260715_010942_limit100\\items\\0065_sud_vo_adv_dear_hmsz_020_hmsz-022_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\misuzu\\20260715_010942_limit100\\items\\0065_sud_vo_adv_dear_hmsz_020_hmsz-022_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\misuzu\\20260715_010942_limit100\\items\\0065_sud_vo_adv_dear_hmsz_020_hmsz-022_03_metadata.json"
+}

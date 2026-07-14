@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5234383833/e395e885c1602fe636eddfac99d5327c",
+  "line_no": 121,
+  "voice_line_no": 122,
+  "text": "ねえねえ、あっちは何があるかな？\nせっかくだし、学校探索しよう！",
+  "speaker": "清夏",
+  "voice_cue": "sud_vo_adv_csprt-3-0055_01_ssmk-006",
+  "bank_name": "sud_vo_adv_csprt-3-0055_01",
+  "start": 51.8472046381,
+  "duration": 7.5113328247,
+  "voice_start": 51.9472046381,
+  "voice_duration": 7.378,
+  "output_slug": "sud_vo_adv_csprt-3-0055_01_ssmk-006",
+  "output_index": 67,
+  "subsong_index": 14,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\sumika\\20260714_235935_limit100\\acb\\sud_vo_adv_csprt-3-0055_01.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\sumika\\20260714_235935_limit100\\scripts\\5234383833_e395e885c1602fe636eddfac99d5327c.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\sumika\\20260714_235935_limit100\\items\\0067_sud_vo_adv_csprt-3-0055_01_ssmk-006_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\sumika\\20260714_235935_limit100\\items\\0067_sud_vo_adv_csprt-3-0055_01_ssmk-006_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\sumika\\20260714_235935_limit100\\items\\0067_sud_vo_adv_csprt-3-0055_01_ssmk-006_03_metadata.json"
+}

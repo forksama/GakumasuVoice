@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5235363633/8fb6b28961efad26a5d68bf22aa4850a",
+  "line_no": 39,
+  "voice_line_no": 42,
+  "text": "プロデューサー。いまのわたし、\nアイドルとして、どう？",
+  "speaker": "広",
+  "voice_cue": "sud_vo_adv_pstory_001_shro_after-audition-mid-normal-02_shro-005",
+  "bank_name": "sud_vo_adv_pstory_001_shro_after-audition-mid-normal-02",
+  "start": 21.8641612799,
+  "duration": 4.493,
+  "voice_start": 21.9641612799,
+  "voice_duration": 4.393,
+  "output_slug": "sud_vo_adv_pstory_001_shro_after-audition-mid-normal-02_shro-005",
+  "output_index": 15,
+  "subsong_index": 5,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\hiro\\20260715_001531_limit100\\acb\\sud_vo_adv_pstory_001_shro_after-audition-mid-normal-02.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\hiro\\20260715_001531_limit100\\scripts\\5235363633_8fb6b28961efad26a5d68bf22aa4850a.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\hiro\\20260715_001531_limit100\\items\\0015_sud_vo_adv_pstory_001_shro_after-audition-mid-normal-02_shro-005_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\hiro\\20260715_001531_limit100\\items\\0015_sud_vo_adv_pstory_001_shro_after-audition-mid-normal-02_shro-005_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\hiro\\20260715_001531_limit100\\items\\0015_sud_vo_adv_pstory_001_shro_after-audition-mid-normal-02_shro-005_03_metadata.json"
+}

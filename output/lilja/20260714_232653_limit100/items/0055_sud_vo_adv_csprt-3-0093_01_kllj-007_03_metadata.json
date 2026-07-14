@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5232363633/91c2f8d316e76a714841710cea673408",
+  "line_no": 116,
+  "voice_line_no": 117,
+  "text": "うん、一緒に最終確認しよう……！",
+  "speaker": "リーリヤ",
+  "voice_cue": "sud_vo_adv_csprt-3-0093_01_kllj-007",
+  "bank_name": "sud_vo_adv_csprt-3-0093_01",
+  "start": 65.093999234,
+  "duration": 2.984,
+  "voice_start": 65.193999234,
+  "voice_duration": 2.884,
+  "output_slug": "sud_vo_adv_csprt-3-0093_01_kllj-007",
+  "output_index": 55,
+  "subsong_index": 7,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\lilja\\20260714_232653_limit100\\acb\\sud_vo_adv_csprt-3-0093_01.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\lilja\\20260714_232653_limit100\\scripts\\5232363633_91c2f8d316e76a714841710cea673408.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\lilja\\20260714_232653_limit100\\items\\0055_sud_vo_adv_csprt-3-0093_01_kllj-007_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\lilja\\20260714_232653_limit100\\items\\0055_sud_vo_adv_csprt-3-0093_01_kllj-007_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\lilja\\20260714_232653_limit100\\items\\0055_sud_vo_adv_csprt-3-0093_01_kllj-007_03_metadata.json"
+}

@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5234383433/5807618406aafa6a653c005c9fa2b71c",
+  "line_no": 66,
+  "voice_line_no": 67,
+  "text": "はい。同じ寮なので……\n仲良くなったんです。",
+  "speaker": "莉波",
+  "voice_cue": "sud_vo_adv_csprt-3-0024_03_hrnm-002",
+  "bank_name": "sud_vo_adv_csprt-3-0024_03",
+  "start": 30.3216628962,
+  "duration": 4.099,
+  "voice_start": 30.4216628962,
+  "voice_duration": 3.999,
+  "output_slug": "sud_vo_adv_csprt-3-0024_03_hrnm-002",
+  "output_index": 46,
+  "subsong_index": 10,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\rinami\\20260715_003446_limit100\\acb\\sud_vo_adv_csprt-3-0024_03.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\rinami\\20260715_003446_limit100\\scripts\\5234383433_5807618406aafa6a653c005c9fa2b71c.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\rinami\\20260715_003446_limit100\\items\\0046_sud_vo_adv_csprt-3-0024_03_hrnm-002_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\rinami\\20260715_003446_limit100\\items\\0046_sud_vo_adv_csprt-3-0024_03_hrnm-002_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\rinami\\20260715_003446_limit100\\items\\0046_sud_vo_adv_csprt-3-0024_03_hrnm-002_03_metadata.json"
+}

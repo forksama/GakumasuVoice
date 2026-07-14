@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5231383233/df5f95d9f2bdd687c6971a45b17f4a8e",
+  "line_no": 66,
+  "voice_line_no": 67,
+  "text": "あ、あたし、これからバイトなんでぇ。\n失礼させてもらいまーっす。",
+  "speaker": "ことね",
+  "voice_cue": "sud_vo_adv_csprt-2-0002_01_fktn-006",
+  "bank_name": "sud_vo_adv_csprt-2-0002_01",
+  "start": 36.4929311276,
+  "duration": 5.4066596984,
+  "voice_start": 36.5929311276,
+  "voice_duration": 4.975,
+  "output_slug": "sud_vo_adv_csprt-2-0002_01_fktn-006",
+  "output_index": 65,
+  "subsong_index": 16,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\kotone\\20260714_230100_limit100\\acb\\sud_vo_adv_csprt-2-0002_01.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\kotone\\20260714_230100_limit100\\scripts\\5231383233_df5f95d9f2bdd687c6971a45b17f4a8e.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\kotone\\20260714_230100_limit100\\items\\0065_sud_vo_adv_csprt-2-0002_01_fktn-006_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\kotone\\20260714_230100_limit100\\items\\0065_sud_vo_adv_csprt-2-0002_01_fktn-006_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\kotone\\20260714_230100_limit100\\items\\0065_sud_vo_adv_csprt-2-0002_01_fktn-006_03_metadata.json"
+}

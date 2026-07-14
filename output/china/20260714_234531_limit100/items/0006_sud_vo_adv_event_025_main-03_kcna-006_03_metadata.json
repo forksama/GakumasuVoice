@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5236343733/041a4db7cf6152776422ca5df375f49c",
+  "line_no": 101,
+  "voice_line_no": 102,
+  "text": "花海さん、どうぞ。",
+  "speaker": "千奈",
+  "voice_cue": "sud_vo_adv_event_025_main-03_kcna-006",
+  "bank_name": "sud_vo_adv_event_025_main-03",
+  "start": 72.0296569874,
+  "duration": 1.8503312988,
+  "voice_start": 72.1296569874,
+  "voice_duration": 1.617,
+  "output_slug": "sud_vo_adv_event_025_main-03_kcna-006",
+  "output_index": 6,
+  "subsong_index": 39,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\china\\20260714_234531_limit100\\acb\\sud_vo_adv_event_025_main-03.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\china\\20260714_234531_limit100\\scripts\\5236343733_041a4db7cf6152776422ca5df375f49c.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\china\\20260714_234531_limit100\\items\\0006_sud_vo_adv_event_025_main-03_kcna-006_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\china\\20260714_234531_limit100\\items\\0006_sud_vo_adv_event_025_main-03_kcna-006_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\china\\20260714_234531_limit100\\items\\0006_sud_vo_adv_event_025_main-03_kcna-006_03_metadata.json"
+}

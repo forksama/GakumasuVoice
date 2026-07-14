@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5236323433/7caac344dfce07ac3f2fe16ca309af7e",
+  "line_no": 231,
+  "voice_line_no": 234,
+  "text": "悲壮感がすごい。",
+  "speaker": "佑芽",
+  "voice_cue": "sud_vo_adv_event_014_main-01_hume-011",
+  "bank_name": "sud_vo_adv_event_014_main-01",
+  "start": 134.4817422048,
+  "duration": 2.1366586914,
+  "voice_start": 134.5817422048,
+  "voice_duration": 1.999,
+  "output_slug": "sud_vo_adv_event_014_main-01_hume-011",
+  "output_index": 41,
+  "subsong_index": 19,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\acb\\sud_vo_adv_event_014_main-01.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\scripts\\5236323433_7caac344dfce07ac3f2fe16ca309af7e.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\items\\0041_sud_vo_adv_event_014_main-01_hume-011_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\items\\0041_sud_vo_adv_event_014_main-01_hume-011_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\items\\0041_sud_vo_adv_event_014_main-01_hume-011_03_metadata.json"
+}

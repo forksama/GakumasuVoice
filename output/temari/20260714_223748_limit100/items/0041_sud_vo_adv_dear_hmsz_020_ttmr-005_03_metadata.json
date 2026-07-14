@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5233393733/7cde23d4c88fe8f5323e11faada7d569",
+  "line_no": 108,
+  "voice_line_no": 109,
+  "text": "格下だと侮ってた月村手毬に、\n完全敗北したくせに。",
+  "speaker": "手毬",
+  "voice_cue": "sud_vo_adv_dear_hmsz_020_ttmr-005",
+  "bank_name": "sud_vo_adv_dear_hmsz_020",
+  "start": 98.4696337142,
+  "duration": 5.0949998856,
+  "voice_start": 98.5696337142,
+  "voice_duration": 4.9949998856,
+  "output_slug": "sud_vo_adv_dear_hmsz_020_ttmr-005",
+  "output_index": 41,
+  "subsong_index": 56,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\temari\\20260714_223748_limit100\\acb\\sud_vo_adv_dear_hmsz_020.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\temari\\20260714_223748_limit100\\scripts\\5233393733_7cde23d4c88fe8f5323e11faada7d569.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\temari\\20260714_223748_limit100\\items\\0041_sud_vo_adv_dear_hmsz_020_ttmr-005_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\temari\\20260714_223748_limit100\\items\\0041_sud_vo_adv_dear_hmsz_020_ttmr-005_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\temari\\20260714_223748_limit100\\items\\0041_sud_vo_adv_dear_hmsz_020_ttmr-005_03_metadata.json"
+}

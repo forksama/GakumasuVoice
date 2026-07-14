@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5234393133/b949e5731ceefe8d5cf6add5d2f110e6",
+  "line_no": 45,
+  "voice_line_no": 46,
+  "text": "でも、わたしは、わたしなので。\nわたしらしく、生きようと思います。",
+  "speaker": "リーリヤ",
+  "voice_cue": "sud_vo_adv_cidol-kllj-3-008_03_kllj-007",
+  "bank_name": "sud_vo_adv_cidol-kllj-3-008_03",
+  "start": 40.2726691398,
+  "duration": 8.683,
+  "voice_start": 40.3726691398,
+  "voice_duration": 8.583,
+  "output_slug": "sud_vo_adv_cidol-kllj-3-008_03_kllj-007",
+  "output_index": 16,
+  "subsong_index": 7,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\lilja\\20260714_232653_limit100\\acb\\sud_vo_adv_cidol-kllj-3-008_03.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\lilja\\20260714_232653_limit100\\scripts\\5234393133_b949e5731ceefe8d5cf6add5d2f110e6.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\lilja\\20260714_232653_limit100\\items\\0016_sud_vo_adv_cidol-kllj-3-008_03_kllj-007_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\lilja\\20260714_232653_limit100\\items\\0016_sud_vo_adv_cidol-kllj-3-008_03_kllj-007_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\lilja\\20260714_232653_limit100\\items\\0016_sud_vo_adv_cidol-kllj-3-008_03_kllj-007_03_metadata.json"
+}

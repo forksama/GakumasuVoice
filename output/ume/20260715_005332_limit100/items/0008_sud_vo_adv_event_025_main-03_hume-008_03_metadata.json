@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5236343733/041a4db7cf6152776422ca5df375f49c",
+  "line_no": 141,
+  "voice_line_no": 149,
+  "text": "ありがとう～♪　\n先輩方に提案できるように、\n資料を準備するね！",
+  "speaker": "佑芽",
+  "voice_cue": "sud_vo_adv_event_025_main-03_hume-008",
+  "bank_name": "sud_vo_adv_event_025_main-03",
+  "start": 95.2219964382,
+  "duration": 5.3583297729,
+  "voice_start": 95.3219964382,
+  "voice_duration": 5.025,
+  "output_slug": "sud_vo_adv_event_025_main-03_hume-008",
+  "output_index": 8,
+  "subsong_index": 25,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\acb\\sud_vo_adv_event_025_main-03.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\scripts\\5236343733_041a4db7cf6152776422ca5df375f49c.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\items\\0008_sud_vo_adv_event_025_main-03_hume-008_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\items\\0008_sud_vo_adv_event_025_main-03_hume-008_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\items\\0008_sud_vo_adv_event_025_main-03_hume-008_03_metadata.json"
+}

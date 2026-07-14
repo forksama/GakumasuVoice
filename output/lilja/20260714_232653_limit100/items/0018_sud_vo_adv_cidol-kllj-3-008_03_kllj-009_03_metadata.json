@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5234393133/b949e5731ceefe8d5cf6add5d2f110e6",
+  "line_no": 56,
+  "voice_line_no": 57,
+  "text": "ありがとうございます、センパイ。",
+  "speaker": "リーリヤ",
+  "voice_cue": "sud_vo_adv_cidol-kllj-3-008_03_kllj-009",
+  "bank_name": "sud_vo_adv_cidol-kllj-3-008_03",
+  "start": 65.1756690571,
+  "duration": 2.6599969482,
+  "voice_start": 65.2756690571,
+  "voice_duration": 2.36,
+  "output_slug": "sud_vo_adv_cidol-kllj-3-008_03_kllj-009",
+  "output_index": 18,
+  "subsong_index": 9,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\lilja\\20260714_232653_limit100\\acb\\sud_vo_adv_cidol-kllj-3-008_03.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\lilja\\20260714_232653_limit100\\scripts\\5234393133_b949e5731ceefe8d5cf6add5d2f110e6.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\lilja\\20260714_232653_limit100\\items\\0018_sud_vo_adv_cidol-kllj-3-008_03_kllj-009_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\lilja\\20260714_232653_limit100\\items\\0018_sud_vo_adv_cidol-kllj-3-008_03_kllj-009_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\lilja\\20260714_232653_limit100\\items\\0018_sud_vo_adv_cidol-kllj-3-008_03_kllj-009_03_metadata.json"
+}

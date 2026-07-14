@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5233353433/18e397b0ebec1b18fc47712a03241d46",
+  "line_no": 424,
+  "voice_line_no": 425,
+  "text": "自信あるのかないのかわからないヤツね！",
+  "speaker": "咲季",
+  "voice_cue": "sud_vo_adv_unit_01-01_14_hski-015",
+  "bank_name": "sud_vo_adv_unit_01-01_14",
+  "start": 181.3773615929,
+  "duration": 3.1073374023,
+  "voice_start": 181.3773615929,
+  "voice_duration": 3.074,
+  "output_slug": "sud_vo_adv_unit_01-01_14_hski-015",
+  "output_index": 66,
+  "subsong_index": 37,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\acb\\sud_vo_adv_unit_01-01_14.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\scripts\\5233353433_18e397b0ebec1b18fc47712a03241d46.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\items\\0066_sud_vo_adv_unit_01-01_14_hski-015_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\items\\0066_sud_vo_adv_unit_01-01_14_hski-015_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\items\\0066_sud_vo_adv_unit_01-01_14_hski-015_03_metadata.json"
+}

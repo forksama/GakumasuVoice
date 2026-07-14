@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5231373233/78608d3915910502d2734b488e9b8d72",
+  "line_no": 13,
+  "voice_line_no": 14,
+  "text": "キミ、ちょっといいかな。",
+  "speaker": "麻央",
+  "voice_cue": "sud_vo_adv_cidol-ttmr-3-000_02_amao-001",
+  "bank_name": "sud_vo_adv_cidol-ttmr-3-000_02",
+  "start": 5.3333333333,
+  "duration": 3.1516667938,
+  "voice_start": 5.4333333333,
+  "voice_duration": 2.685,
+  "output_slug": "sud_vo_adv_cidol-ttmr-3-000_02_amao-001",
+  "output_index": 28,
+  "subsong_index": 1,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\acb\\sud_vo_adv_cidol-ttmr-3-000_02.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\scripts\\5231373233_78608d3915910502d2734b488e9b8d72.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\items\\0028_sud_vo_adv_cidol-ttmr-3-000_02_amao-001_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\items\\0028_sud_vo_adv_cidol-ttmr-3-000_02_amao-001_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\items\\0028_sud_vo_adv_cidol-ttmr-3-000_02_amao-001_03_metadata.json"
+}

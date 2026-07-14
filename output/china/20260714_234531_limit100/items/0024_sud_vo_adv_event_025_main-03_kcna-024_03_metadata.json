@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5236343733/041a4db7cf6152776422ca5df375f49c",
+  "line_no": 408,
+  "voice_line_no": 416,
+  "text": "……かしこまりました。",
+  "speaker": "千奈",
+  "voice_cue": "sud_vo_adv_event_025_main-03_kcna-024",
+  "bank_name": "sud_vo_adv_event_025_main-03",
+  "start": 291.7345992017,
+  "duration": 2.9573618164,
+  "voice_start": 291.8345992017,
+  "voice_duration": 2.724,
+  "output_slug": "sud_vo_adv_event_025_main-03_kcna-024",
+  "output_index": 24,
+  "subsong_index": 57,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\china\\20260714_234531_limit100\\acb\\sud_vo_adv_event_025_main-03.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\china\\20260714_234531_limit100\\scripts\\5236343733_041a4db7cf6152776422ca5df375f49c.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\china\\20260714_234531_limit100\\items\\0024_sud_vo_adv_event_025_main-03_kcna-024_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\china\\20260714_234531_limit100\\items\\0024_sud_vo_adv_event_025_main-03_kcna-024_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\china\\20260714_234531_limit100\\items\\0024_sud_vo_adv_event_025_main-03_kcna-024_03_metadata.json"
+}

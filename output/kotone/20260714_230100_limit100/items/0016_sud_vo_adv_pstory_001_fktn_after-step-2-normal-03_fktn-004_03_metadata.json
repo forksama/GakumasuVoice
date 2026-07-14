@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/52353633/a8d8e721facb5a1bfc5abe3a0997ec79",
+  "line_no": 31,
+  "voice_line_no": 32,
+  "text": "ぎゃ～～～～～ッ！！　き、急に\n背後から話しかけないでくださいよぉ！",
+  "speaker": "ことね",
+  "voice_cue": "sud_vo_adv_pstory_001_fktn_after-step-2-normal-03_fktn-004",
+  "bank_name": "sud_vo_adv_pstory_001_fktn_after-step-2-normal-03",
+  "start": 22.8525153638,
+  "duration": 5.6293320713,
+  "voice_start": 22.9508474351,
+  "voice_duration": 5.531,
+  "output_slug": "sud_vo_adv_pstory_001_fktn_after-step-2-normal-03_fktn-004",
+  "output_index": 16,
+  "subsong_index": 4,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\kotone\\20260714_230100_limit100\\acb\\sud_vo_adv_pstory_001_fktn_after-step-2-normal-03.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\kotone\\20260714_230100_limit100\\scripts\\52353633_a8d8e721facb5a1bfc5abe3a0997ec79.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\kotone\\20260714_230100_limit100\\items\\0016_sud_vo_adv_pstory_001_fktn_after-step-2-normal-03_fktn-004_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\kotone\\20260714_230100_limit100\\items\\0016_sud_vo_adv_pstory_001_fktn_after-step-2-normal-03_fktn-004_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\kotone\\20260714_230100_limit100\\items\\0016_sud_vo_adv_pstory_001_fktn_after-step-2-normal-03_fktn-004_03_metadata.json"
+}

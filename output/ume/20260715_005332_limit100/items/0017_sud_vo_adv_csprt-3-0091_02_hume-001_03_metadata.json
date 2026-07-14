@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5231383533/9e892c04614202994492103a131491d0",
+  "line_no": 8,
+  "voice_line_no": 9,
+  "text": "あ！　ここ駄菓子がいっぱい売ってる！\nよければお土産買っていきませんか？",
+  "speaker": "佑芽",
+  "voice_cue": "sud_vo_adv_csprt-3-0091_02_hume-001",
+  "bank_name": "sud_vo_adv_csprt-3-0091_02",
+  "start": 0.8,
+  "duration": 5.399,
+  "voice_start": 0.9,
+  "voice_duration": 5.299,
+  "output_slug": "sud_vo_adv_csprt-3-0091_02_hume-001",
+  "output_index": 17,
+  "subsong_index": 7,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\acb\\sud_vo_adv_csprt-3-0091_02.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\scripts\\5231383533_9e892c04614202994492103a131491d0.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\items\\0017_sud_vo_adv_csprt-3-0091_02_hume-001_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\items\\0017_sud_vo_adv_csprt-3-0091_02_hume-001_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\items\\0017_sud_vo_adv_csprt-3-0091_02_hume-001_03_metadata.json"
+}

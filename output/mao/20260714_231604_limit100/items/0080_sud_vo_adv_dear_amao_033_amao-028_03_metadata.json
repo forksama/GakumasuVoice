@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5231373833/d36577ec5985cac906f46246eb801e82",
+  "line_no": 273,
+  "voice_line_no": 274,
+  "text": "なるほど、ふふ、洒落てますね。",
+  "speaker": "麻央",
+  "voice_cue": "sud_vo_adv_dear_amao_033_amao-028",
+  "bank_name": "sud_vo_adv_dear_amao_033",
+  "start": 180.8189880725,
+  "duration": 4.319,
+  "voice_start": 180.9189880725,
+  "voice_duration": 4.219,
+  "output_slug": "sud_vo_adv_dear_amao_033_amao-028",
+  "output_index": 80,
+  "subsong_index": 28,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\acb\\sud_vo_adv_dear_amao_033.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\scripts\\5231373833_d36577ec5985cac906f46246eb801e82.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\items\\0080_sud_vo_adv_dear_amao_033_amao-028_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\items\\0080_sud_vo_adv_dear_amao_033_amao-028_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\items\\0080_sud_vo_adv_dear_amao_033_amao-028_03_metadata.json"
+}

@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5231353033/892704e253818cd54d197444a3ab07a0",
+  "line_no": 77,
+  "voice_line_no": 78,
+  "text": "星南会長。",
+  "speaker": "莉波",
+  "voice_cue": "sud_vo_adv_dear_hrnm_035_hrnm-003",
+  "bank_name": "sud_vo_adv_dear_hrnm_035",
+  "start": 35.5230004723,
+  "duration": 1.6369984741,
+  "voice_start": 35.6230004723,
+  "voice_duration": 1.437,
+  "output_slug": "sud_vo_adv_dear_hrnm_035_hrnm-003",
+  "output_index": 3,
+  "subsong_index": 7,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\rinami\\20260715_003446_limit100\\acb\\sud_vo_adv_dear_hrnm_035.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\rinami\\20260715_003446_limit100\\scripts\\5231353033_892704e253818cd54d197444a3ab07a0.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\rinami\\20260715_003446_limit100\\items\\0003_sud_vo_adv_dear_hrnm_035_hrnm-003_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\rinami\\20260715_003446_limit100\\items\\0003_sud_vo_adv_dear_hrnm_035_hrnm-003_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\rinami\\20260715_003446_limit100\\items\\0003_sud_vo_adv_dear_hrnm_035_hrnm-003_03_metadata.json"
+}

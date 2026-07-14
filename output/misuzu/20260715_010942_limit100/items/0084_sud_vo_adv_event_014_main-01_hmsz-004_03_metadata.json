@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5236323433/7caac344dfce07ac3f2fe16ca309af7e",
+  "line_no": 315,
+  "voice_line_no": 319,
+  "text": "みなさん、本気で挑むでしょうね。\nわたしは遠慮したいですが。",
+  "speaker": "美鈴",
+  "voice_cue": "sud_vo_adv_event_014_main-01_hmsz-004",
+  "bank_name": "sud_vo_adv_event_014_main-01",
+  "start": 191.2022517134,
+  "duration": 6.1512073974,
+  "voice_start": 191.3022517133,
+  "voice_duration": 5.998,
+  "output_slug": "sud_vo_adv_event_014_main-01_hmsz-004",
+  "output_index": 84,
+  "subsong_index": 4,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\misuzu\\20260715_010942_limit100\\acb\\sud_vo_adv_event_014_main-01.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\misuzu\\20260715_010942_limit100\\scripts\\5236323433_7caac344dfce07ac3f2fe16ca309af7e.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\misuzu\\20260715_010942_limit100\\items\\0084_sud_vo_adv_event_014_main-01_hmsz-004_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\misuzu\\20260715_010942_limit100\\items\\0084_sud_vo_adv_event_014_main-01_hmsz-004_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\misuzu\\20260715_010942_limit100\\items\\0084_sud_vo_adv_event_014_main-01_hmsz-004_03_metadata.json"
+}

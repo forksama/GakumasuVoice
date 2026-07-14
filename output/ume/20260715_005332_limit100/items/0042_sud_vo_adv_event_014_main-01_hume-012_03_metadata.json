@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5236323433/7caac344dfce07ac3f2fe16ca309af7e",
+  "line_no": 254,
+  "voice_line_no": 257,
+  "text": "全員参加だって。",
+  "speaker": "佑芽",
+  "voice_cue": "sud_vo_adv_event_014_main-01_hume-012",
+  "bank_name": "sud_vo_adv_event_014_main-01",
+  "start": 148.0070675056,
+  "duration": 1.8710977783,
+  "voice_start": 148.1070675056,
+  "voice_duration": 1.699,
+  "output_slug": "sud_vo_adv_event_014_main-01_hume-012",
+  "output_index": 42,
+  "subsong_index": 20,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\acb\\sud_vo_adv_event_014_main-01.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\scripts\\5236323433_7caac344dfce07ac3f2fe16ca309af7e.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\items\\0042_sud_vo_adv_event_014_main-01_hume-012_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\items\\0042_sud_vo_adv_event_014_main-01_hume-012_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\items\\0042_sud_vo_adv_event_014_main-01_hume-012_03_metadata.json"
+}

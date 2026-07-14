@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5233333433/918b877dba755f94acaaae0c89d40165",
+  "line_no": 76,
+  "voice_line_no": 78,
+  "text": "まだまだ壁はありますか？",
+  "speaker": "佑芽",
+  "voice_cue": "sud_vo_adv_pstory_001_hume_after-audition-final-normal-01_hume-013",
+  "bank_name": "sud_vo_adv_pstory_001_hume_after-audition-final-normal-01",
+  "start": 57.4979975737,
+  "duration": 2.097,
+  "voice_start": 57.5979975737,
+  "voice_duration": 1.997,
+  "output_slug": "sud_vo_adv_pstory_001_hume_after-audition-final-normal-01_hume-013",
+  "output_index": 63,
+  "subsong_index": 13,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\acb\\sud_vo_adv_pstory_001_hume_after-audition-final-normal-01.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\scripts\\5233333433_918b877dba755f94acaaae0c89d40165.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\items\\0063_sud_vo_adv_pstory_001_hume_after-audition-final-normal-01_hume-013_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\items\\0063_sud_vo_adv_pstory_001_hume_after-audition-final-normal-01_hume-013_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\items\\0063_sud_vo_adv_pstory_001_hume_after-audition-final-normal-01_hume-013_03_metadata.json"
+}

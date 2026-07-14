@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5231373233/78608d3915910502d2734b488e9b8d72",
+  "line_no": 118,
+  "voice_line_no": 119,
+  "text": "うーい、ことねちゃんでーっす。\nなんか用～？",
+  "speaker": "ことね",
+  "voice_cue": "sud_vo_adv_cidol-ttmr-3-000_02_fktn-001",
+  "bank_name": "sud_vo_adv_cidol-ttmr-3-000_02",
+  "start": 73.5630038473,
+  "duration": 4.4959999084,
+  "voice_start": 73.6630038473,
+  "voice_duration": 4.3959999084,
+  "output_slug": "sud_vo_adv_cidol-ttmr-3-000_02_fktn-001",
+  "output_index": 52,
+  "subsong_index": 16,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\kotone\\20260714_230100_limit100\\acb\\sud_vo_adv_cidol-ttmr-3-000_02.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\kotone\\20260714_230100_limit100\\scripts\\5231373233_78608d3915910502d2734b488e9b8d72.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\kotone\\20260714_230100_limit100\\items\\0052_sud_vo_adv_cidol-ttmr-3-000_02_fktn-001_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\kotone\\20260714_230100_limit100\\items\\0052_sud_vo_adv_cidol-ttmr-3-000_02_fktn-001_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\kotone\\20260714_230100_limit100\\items\\0052_sud_vo_adv_cidol-ttmr-3-000_02_fktn-001_03_metadata.json"
+}

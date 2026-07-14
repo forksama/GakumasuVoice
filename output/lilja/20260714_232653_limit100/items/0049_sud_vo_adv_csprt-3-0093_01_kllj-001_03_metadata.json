@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5232363633/91c2f8d316e76a714841710cea673408",
+  "line_no": 23,
+  "voice_line_no": 24,
+  "text": "あっ、清夏ちゃん！\n清夏ちゃんのお母さんも……！",
+  "speaker": "リーリヤ",
+  "voice_cue": "sud_vo_adv_csprt-3-0093_01_kllj-001",
+  "bank_name": "sud_vo_adv_csprt-3-0093_01",
+  "start": 3.4076665999,
+  "duration": 5.314,
+  "voice_start": 3.5076665999,
+  "voice_duration": 5.214,
+  "output_slug": "sud_vo_adv_csprt-3-0093_01_kllj-001",
+  "output_index": 49,
+  "subsong_index": 1,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\lilja\\20260714_232653_limit100\\acb\\sud_vo_adv_csprt-3-0093_01.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\lilja\\20260714_232653_limit100\\scripts\\5232363633_91c2f8d316e76a714841710cea673408.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\lilja\\20260714_232653_limit100\\items\\0049_sud_vo_adv_csprt-3-0093_01_kllj-001_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\lilja\\20260714_232653_limit100\\items\\0049_sud_vo_adv_csprt-3-0093_01_kllj-001_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\lilja\\20260714_232653_limit100\\items\\0049_sud_vo_adv_csprt-3-0093_01_kllj-001_03_metadata.json"
+}

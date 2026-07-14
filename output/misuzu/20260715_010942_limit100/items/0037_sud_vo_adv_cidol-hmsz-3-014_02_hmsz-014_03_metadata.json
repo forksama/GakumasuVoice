@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5233303533/eece10c902056b8838ca9968c1180d92",
+  "line_no": 103,
+  "voice_line_no": 106,
+  "text": "この際、きちんと問い質した方が\nいいかもしれませんね。",
+  "speaker": "美鈴",
+  "voice_cue": "sud_vo_adv_cidol-hmsz-3-014_02_hmsz-014",
+  "bank_name": "sud_vo_adv_cidol-hmsz-3-014_02",
+  "start": 108.1893443022,
+  "duration": 4.123,
+  "voice_start": 108.2893443022,
+  "voice_duration": 4.023,
+  "output_slug": "sud_vo_adv_cidol-hmsz-3-014_02_hmsz-014",
+  "output_index": 37,
+  "subsong_index": 14,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\misuzu\\20260715_010942_limit100\\acb\\sud_vo_adv_cidol-hmsz-3-014_02.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\misuzu\\20260715_010942_limit100\\scripts\\5233303533_eece10c902056b8838ca9968c1180d92.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\misuzu\\20260715_010942_limit100\\items\\0037_sud_vo_adv_cidol-hmsz-3-014_02_hmsz-014_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\misuzu\\20260715_010942_limit100\\items\\0037_sud_vo_adv_cidol-hmsz-3-014_02_hmsz-014_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\misuzu\\20260715_010942_limit100\\items\\0037_sud_vo_adv_cidol-hmsz-3-014_02_hmsz-014_03_metadata.json"
+}

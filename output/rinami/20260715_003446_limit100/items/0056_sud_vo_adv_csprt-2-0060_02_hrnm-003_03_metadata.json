@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5233383933/bbd731d4e87a1cc5fc9e8a499419c875",
+  "line_no": 31,
+  "voice_line_no": 34,
+  "text": "これだけたくさんもらったから、\nみんなにおすそ分けできちゃうね。",
+  "speaker": "莉波",
+  "voice_cue": "sud_vo_adv_csprt-2-0060_02_hrnm-003",
+  "bank_name": "sud_vo_adv_csprt-2-0060_02",
+  "start": 18.7039989955,
+  "duration": 4.316,
+  "voice_start": 18.8039989955,
+  "voice_duration": 4.216,
+  "output_slug": "sud_vo_adv_csprt-2-0060_02_hrnm-003",
+  "output_index": 56,
+  "subsong_index": 3,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\rinami\\20260715_003446_limit100\\acb\\sud_vo_adv_csprt-2-0060_02.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\rinami\\20260715_003446_limit100\\scripts\\5233383933_bbd731d4e87a1cc5fc9e8a499419c875.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\rinami\\20260715_003446_limit100\\items\\0056_sud_vo_adv_csprt-2-0060_02_hrnm-003_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\rinami\\20260715_003446_limit100\\items\\0056_sud_vo_adv_csprt-2-0060_02_hrnm-003_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\rinami\\20260715_003446_limit100\\items\\0056_sud_vo_adv_csprt-2-0060_02_hrnm-003_03_metadata.json"
+}

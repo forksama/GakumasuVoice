@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5235363933/9f0999c8ee8ecd4a50fce6dc66044d1a",
+  "line_no": 303,
+  "voice_line_no": 304,
+  "text": "（こいつらに断られるのは想定内。\nあたしはけっこー友達多いんだから！）",
+  "speaker": "ことね",
+  "voice_cue": "sud_vo_adv_event_009_main-01_fktn-026",
+  "bank_name": "sud_vo_adv_event_009_main-01",
+  "start": 179.8229978049,
+  "duration": 6.3959908447,
+  "voice_start": 179.9896602755,
+  "voice_duration": 6.196,
+  "output_slug": "sud_vo_adv_event_009_main-01_fktn-026",
+  "output_index": 97,
+  "subsong_index": 26,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\kotone\\20260714_230100_limit100\\acb\\sud_vo_adv_event_009_main-01.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\kotone\\20260714_230100_limit100\\scripts\\5235363933_9f0999c8ee8ecd4a50fce6dc66044d1a.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\kotone\\20260714_230100_limit100\\items\\0097_sud_vo_adv_event_009_main-01_fktn-026_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\kotone\\20260714_230100_limit100\\items\\0097_sud_vo_adv_event_009_main-01_fktn-026_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\kotone\\20260714_230100_limit100\\items\\0097_sud_vo_adv_event_009_main-01_fktn-026_03_metadata.json"
+}

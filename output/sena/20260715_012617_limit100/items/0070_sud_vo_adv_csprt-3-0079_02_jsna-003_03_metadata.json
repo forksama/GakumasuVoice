@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5235303333/1ea65a47a56309f0fdf32b10970f2025",
+  "line_no": 70,
+  "voice_line_no": 71,
+  "text": "強いて言えば、躍動感ね。\n体の使い方をもう少し工夫した方が――",
+  "speaker": "星南",
+  "voice_cue": "sud_vo_adv_csprt-3-0079_02_jsna-003",
+  "bank_name": "sud_vo_adv_csprt-3-0079_02",
+  "start": 47.8520012303,
+  "duration": 6.489,
+  "voice_start": 47.9520012303,
+  "voice_duration": 6.389,
+  "output_slug": "sud_vo_adv_csprt-3-0079_02_jsna-003",
+  "output_index": 70,
+  "subsong_index": 17,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\sena\\20260715_012617_limit100\\acb\\sud_vo_adv_csprt-3-0079_02.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\sena\\20260715_012617_limit100\\scripts\\5235303333_1ea65a47a56309f0fdf32b10970f2025.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\sena\\20260715_012617_limit100\\items\\0070_sud_vo_adv_csprt-3-0079_02_jsna-003_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\sena\\20260715_012617_limit100\\items\\0070_sud_vo_adv_csprt-3-0079_02_jsna-003_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\sena\\20260715_012617_limit100\\items\\0070_sud_vo_adv_csprt-3-0079_02_jsna-003_03_metadata.json"
+}

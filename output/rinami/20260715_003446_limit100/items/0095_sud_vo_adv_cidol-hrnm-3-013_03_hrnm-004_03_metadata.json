@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5231313933/d1510341ff896241812b3d56769fc7e8",
+  "line_no": 27,
+  "voice_line_no": 28,
+  "text": "じゃんっ、千奈ちゃんのくれた、\n高級そうなお菓子もあります。",
+  "speaker": "莉波",
+  "voice_cue": "sud_vo_adv_cidol-hrnm-3-013_03_hrnm-004",
+  "bank_name": "sud_vo_adv_cidol-hrnm-3-013_03",
+  "start": 20.6036664601,
+  "duration": 5.9396679383,
+  "voice_start": 20.8703343984,
+  "voice_duration": 5.673,
+  "output_slug": "sud_vo_adv_cidol-hrnm-3-013_03_hrnm-004",
+  "output_index": 95,
+  "subsong_index": 4,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\rinami\\20260715_003446_limit100\\acb\\sud_vo_adv_cidol-hrnm-3-013_03.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\rinami\\20260715_003446_limit100\\scripts\\5231313933_d1510341ff896241812b3d56769fc7e8.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\rinami\\20260715_003446_limit100\\items\\0095_sud_vo_adv_cidol-hrnm-3-013_03_hrnm-004_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\rinami\\20260715_003446_limit100\\items\\0095_sud_vo_adv_cidol-hrnm-3-013_03_hrnm-004_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\rinami\\20260715_003446_limit100\\items\\0095_sud_vo_adv_cidol-hrnm-3-013_03_hrnm-004_03_metadata.json"
+}

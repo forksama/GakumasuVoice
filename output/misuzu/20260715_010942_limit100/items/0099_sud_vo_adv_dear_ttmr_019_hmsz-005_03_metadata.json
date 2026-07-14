@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5233313333/ad262873cc590575d079346db89dce7c",
+  "line_no": 155,
+  "voice_line_no": 156,
+  "text": "ただ……わたしを抜き去るほどだとは、\n思いませんでした。",
+  "speaker": "美鈴",
+  "voice_cue": "sud_vo_adv_dear_ttmr_019_hmsz-005",
+  "bank_name": "sud_vo_adv_dear_ttmr_019",
+  "start": 95.2720202228,
+  "duration": 6.792059021,
+  "voice_start": 95.3720202228,
+  "voice_duration": 6.23,
+  "output_slug": "sud_vo_adv_dear_ttmr_019_hmsz-005",
+  "output_index": 99,
+  "subsong_index": 5,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\misuzu\\20260715_010942_limit100\\acb\\sud_vo_adv_dear_ttmr_019.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\misuzu\\20260715_010942_limit100\\scripts\\5233313333_ad262873cc590575d079346db89dce7c.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\misuzu\\20260715_010942_limit100\\items\\0099_sud_vo_adv_dear_ttmr_019_hmsz-005_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\misuzu\\20260715_010942_limit100\\items\\0099_sud_vo_adv_dear_ttmr_019_hmsz-005_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\misuzu\\20260715_010942_limit100\\items\\0099_sud_vo_adv_dear_ttmr_019_hmsz-005_03_metadata.json"
+}

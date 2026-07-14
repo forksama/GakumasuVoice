@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5236353933/f6456f7a0e2fcd7a47793c7d713d6215",
+  "line_no": 77,
+  "voice_line_no": 78,
+  "text": "高順位を取れて嬉しいの。\nそんな自分が……不満で、不安。",
+  "speaker": "咲季",
+  "voice_cue": "sud_vo_adv_pstory_001_hski_after-audition-final-normal-02_hski-014",
+  "bank_name": "sud_vo_adv_pstory_001_hski_after-audition-final-normal-02",
+  "start": 59.3419304204,
+  "duration": 8.2649953398,
+  "voice_start": 59.4419257602,
+  "voice_duration": 8.165,
+  "output_slug": "sud_vo_adv_pstory_001_hski_after-audition-final-normal-02_hski-014",
+  "output_index": 14,
+  "subsong_index": 14,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\acb\\sud_vo_adv_pstory_001_hski_after-audition-final-normal-02.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\scripts\\5236353933_f6456f7a0e2fcd7a47793c7d713d6215.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\items\\0014_sud_vo_adv_pstory_001_hski_after-audition-final-normal-02_hski-014_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\items\\0014_sud_vo_adv_pstory_001_hski_after-audition-final-normal-02_hski-014_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\items\\0014_sud_vo_adv_pstory_001_hski_after-audition-final-normal-02_hski-014_03_metadata.json"
+}

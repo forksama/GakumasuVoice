@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5233363933/5d8d78fb2c81a55dcb196ee0fa993785",
+  "line_no": 14,
+  "voice_line_no": 15,
+  "text": "ん、どうしたの？\n眠そうな顔してるよ。",
+  "speaker": "莉波",
+  "voice_cue": "sud_vo_adv_pstory_001_hrnm_opening-normal-03_hrnm-002",
+  "bank_name": "sud_vo_adv_pstory_001_hrnm_opening-normal-03",
+  "start": 5.9653333238,
+  "duration": 4.89,
+  "voice_start": 6.0653333238,
+  "voice_duration": 4.79,
+  "output_slug": "sud_vo_adv_pstory_001_hrnm_opening-normal-03_hrnm-002",
+  "output_index": 52,
+  "subsong_index": 2,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\rinami\\20260715_003446_limit100\\acb\\sud_vo_adv_pstory_001_hrnm_opening-normal-03.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\rinami\\20260715_003446_limit100\\scripts\\5233363933_5d8d78fb2c81a55dcb196ee0fa993785.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\rinami\\20260715_003446_limit100\\items\\0052_sud_vo_adv_pstory_001_hrnm_opening-normal-03_hrnm-002_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\rinami\\20260715_003446_limit100\\items\\0052_sud_vo_adv_pstory_001_hrnm_opening-normal-03_hrnm-002_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\rinami\\20260715_003446_limit100\\items\\0052_sud_vo_adv_pstory_001_hrnm_opening-normal-03_hrnm-002_03_metadata.json"
+}

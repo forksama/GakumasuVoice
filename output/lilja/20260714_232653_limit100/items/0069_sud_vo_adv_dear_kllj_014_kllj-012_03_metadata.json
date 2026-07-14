@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5236363933/4da637f510a8cd24423de7e70fe6ac9c",
+  "line_no": 136,
+  "voice_line_no": 141,
+  "text": "けほ、けほ……あれ？\nなんか、喉が…………",
+  "speaker": "リーリヤ",
+  "voice_cue": "sud_vo_adv_dear_kllj_014_kllj-012",
+  "bank_name": "sud_vo_adv_dear_kllj_014",
+  "start": 95.710018829,
+  "duration": 5.6886664123,
+  "voice_start": 96.5687484741,
+  "voice_duration": 4.822,
+  "output_slug": "sud_vo_adv_dear_kllj_014_kllj-012",
+  "output_index": 69,
+  "subsong_index": 12,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\lilja\\20260714_232653_limit100\\acb\\sud_vo_adv_dear_kllj_014.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\lilja\\20260714_232653_limit100\\scripts\\5236363933_4da637f510a8cd24423de7e70fe6ac9c.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\lilja\\20260714_232653_limit100\\items\\0069_sud_vo_adv_dear_kllj_014_kllj-012_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\lilja\\20260714_232653_limit100\\items\\0069_sud_vo_adv_dear_kllj_014_kllj-012_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\lilja\\20260714_232653_limit100\\items\\0069_sud_vo_adv_dear_kllj_014_kllj-012_03_metadata.json"
+}

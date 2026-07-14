@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/523230363233/b134a57d3cda76153a02cff454ab84bf",
+  "line_no": 90,
+  "voice_line_no": 91,
+  "text": "手毬ちゃん、どうしたら\n一体感って生まれるのかな……？",
+  "speaker": "佑芽",
+  "voice_cue": "sud_vo_adv_csprt-3-0102_02_hume-003",
+  "bank_name": "sud_vo_adv_csprt-3-0102_02",
+  "start": 50.1819981808,
+  "duration": 3.462,
+  "voice_start": 50.2819981808,
+  "voice_duration": 3.362,
+  "output_slug": "sud_vo_adv_csprt-3-0102_02_hume-003",
+  "output_index": 93,
+  "subsong_index": 14,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\acb\\sud_vo_adv_csprt-3-0102_02.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\scripts\\523230363233_b134a57d3cda76153a02cff454ab84bf.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\items\\0093_sud_vo_adv_csprt-3-0102_02_hume-003_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\items\\0093_sud_vo_adv_csprt-3-0102_02_hume-003_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\items\\0093_sud_vo_adv_csprt-3-0102_02_hume-003_03_metadata.json"
+}

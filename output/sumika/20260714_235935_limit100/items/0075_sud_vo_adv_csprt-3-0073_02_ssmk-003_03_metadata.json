@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5234373433/1b400f1de9f182e96aead45e8597d1ef",
+  "line_no": 43,
+  "voice_line_no": 49,
+  "text": "ん～あんまわかってないんだけど、\nとりあえずゲーセンとか行ってみる？",
+  "speaker": "清夏",
+  "voice_cue": "sud_vo_adv_csprt-3-0073_02_ssmk-003",
+  "bank_name": "sud_vo_adv_csprt-3-0073_02",
+  "start": 23.9133871969,
+  "duration": 6.3049152374,
+  "voice_start": 24.0133871969,
+  "voice_duration": 6.075,
+  "output_slug": "sud_vo_adv_csprt-3-0073_02_ssmk-003",
+  "output_index": 75,
+  "subsong_index": 14,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\sumika\\20260714_235935_limit100\\acb\\sud_vo_adv_csprt-3-0073_02.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\sumika\\20260714_235935_limit100\\scripts\\5234373433_1b400f1de9f182e96aead45e8597d1ef.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\sumika\\20260714_235935_limit100\\items\\0075_sud_vo_adv_csprt-3-0073_02_ssmk-003_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\sumika\\20260714_235935_limit100\\items\\0075_sud_vo_adv_csprt-3-0073_02_ssmk-003_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\sumika\\20260714_235935_limit100\\items\\0075_sud_vo_adv_csprt-3-0073_02_ssmk-003_03_metadata.json"
+}

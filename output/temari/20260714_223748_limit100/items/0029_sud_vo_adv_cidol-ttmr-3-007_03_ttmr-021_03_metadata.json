@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5231333333/6e6752f7c7e9e2f1805c16b90c1ab7f9",
+  "line_no": 144,
+  "voice_line_no": 145,
+  "text": "いまなら、なんの引け目もなく\n言ってやれるんです！",
+  "speaker": "手毬",
+  "voice_cue": "sud_vo_adv_cidol-ttmr-3-007_03_ttmr-021",
+  "bank_name": "sud_vo_adv_cidol-ttmr-3-007_03",
+  "start": 149.8869677377,
+  "duration": 3.935,
+  "voice_start": 149.9869677377,
+  "voice_duration": 3.835,
+  "output_slug": "sud_vo_adv_cidol-ttmr-3-007_03_ttmr-021",
+  "output_index": 29,
+  "subsong_index": 21,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\temari\\20260714_223748_limit100\\acb\\sud_vo_adv_cidol-ttmr-3-007_03.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\temari\\20260714_223748_limit100\\scripts\\5231333333_6e6752f7c7e9e2f1805c16b90c1ab7f9.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\temari\\20260714_223748_limit100\\items\\0029_sud_vo_adv_cidol-ttmr-3-007_03_ttmr-021_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\temari\\20260714_223748_limit100\\items\\0029_sud_vo_adv_cidol-ttmr-3-007_03_ttmr-021_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\temari\\20260714_223748_limit100\\items\\0029_sud_vo_adv_cidol-ttmr-3-007_03_ttmr-021_03_metadata.json"
+}

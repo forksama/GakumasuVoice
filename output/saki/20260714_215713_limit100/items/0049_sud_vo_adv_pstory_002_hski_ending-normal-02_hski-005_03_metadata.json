@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5232363933/daffd6e0370d6ae2b0d62f2ba5521d90",
+  "line_no": 24,
+  "voice_line_no": 25,
+  "text": "ふふん！　ウォーミングアップは\nこのくらいにして、",
+  "speaker": "咲季",
+  "voice_cue": "sud_vo_adv_pstory_002_hski_ending-normal-02_hski-005",
+  "bank_name": "sud_vo_adv_pstory_002_hski_ending-normal-02",
+  "start": 14.9399996981,
+  "duration": 4.184,
+  "voice_start": 15.0399996981,
+  "voice_duration": 4.084,
+  "output_slug": "sud_vo_adv_pstory_002_hski_ending-normal-02_hski-005",
+  "output_index": 49,
+  "subsong_index": 5,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\acb\\sud_vo_adv_pstory_002_hski_ending-normal-02.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\scripts\\5232363933_daffd6e0370d6ae2b0d62f2ba5521d90.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\items\\0049_sud_vo_adv_pstory_002_hski_ending-normal-02_hski-005_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\items\\0049_sud_vo_adv_pstory_002_hski_ending-normal-02_hski-005_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\items\\0049_sud_vo_adv_pstory_002_hski_ending-normal-02_hski-005_03_metadata.json"
+}

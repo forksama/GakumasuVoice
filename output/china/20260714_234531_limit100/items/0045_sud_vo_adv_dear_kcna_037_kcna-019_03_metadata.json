@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5236313133/12de4b0745790fd935d0593335d59322",
+  "line_no": 137,
+  "voice_line_no": 144,
+  "text": "もうっ……先生ったら。\n事前に教えてくださいませぇ……",
+  "speaker": "千奈",
+  "voice_cue": "sud_vo_adv_dear_kcna_037_kcna-019",
+  "bank_name": "sud_vo_adv_dear_kcna_037",
+  "start": 103.1081145778,
+  "duration": 6.5549984741,
+  "voice_start": 103.2081145778,
+  "voice_duration": 6.355,
+  "output_slug": "sud_vo_adv_dear_kcna_037_kcna-019",
+  "output_index": 45,
+  "subsong_index": 19,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\china\\20260714_234531_limit100\\acb\\sud_vo_adv_dear_kcna_037.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\china\\20260714_234531_limit100\\scripts\\5236313133_12de4b0745790fd935d0593335d59322.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\china\\20260714_234531_limit100\\items\\0045_sud_vo_adv_dear_kcna_037_kcna-019_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\china\\20260714_234531_limit100\\items\\0045_sud_vo_adv_dear_kcna_037_kcna-019_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\china\\20260714_234531_limit100\\items\\0045_sud_vo_adv_dear_kcna_037_kcna-019_03_metadata.json"
+}

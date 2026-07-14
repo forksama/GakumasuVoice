@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5234313633/a656f38b3a96edda5ad774e1e83df712",
+  "line_no": 16,
+  "voice_line_no": 17,
+  "text": "……ふふっ、いい心がけだね。",
+  "speaker": "手毬",
+  "voice_cue": "sud_vo_adv_pstory_001_ttmr_opening-normal-03_ttmr-003",
+  "bank_name": "sud_vo_adv_pstory_001_ttmr_opening-normal-03",
+  "start": 13.575,
+  "duration": 3.0933330536,
+  "voice_start": 13.675,
+  "voice_duration": 2.992,
+  "output_slug": "sud_vo_adv_pstory_001_ttmr_opening-normal-03_ttmr-003",
+  "output_index": 35,
+  "subsong_index": 3,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\temari\\20260714_223748_limit100\\acb\\sud_vo_adv_pstory_001_ttmr_opening-normal-03.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\temari\\20260714_223748_limit100\\scripts\\5234313633_a656f38b3a96edda5ad774e1e83df712.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\temari\\20260714_223748_limit100\\items\\0035_sud_vo_adv_pstory_001_ttmr_opening-normal-03_ttmr-003_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\temari\\20260714_223748_limit100\\items\\0035_sud_vo_adv_pstory_001_ttmr_opening-normal-03_ttmr-003_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\temari\\20260714_223748_limit100\\items\\0035_sud_vo_adv_pstory_001_ttmr_opening-normal-03_ttmr-003_03_metadata.json"
+}

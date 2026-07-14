@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5234323033/b388e31603256c068e1e3f346b5b73da",
+  "line_no": 203,
+  "voice_line_no": 204,
+  "text": "お手本をありがとう、先輩。\n勉強になった……",
+  "speaker": "星南",
+  "voice_cue": "sud_vo_adv_cidol-jsna-3-011_02_jsna-030",
+  "bank_name": "sud_vo_adv_cidol-jsna-3-011_02",
+  "start": 183.4300000736,
+  "duration": 4.735,
+  "voice_start": 183.5300000736,
+  "voice_duration": 4.635,
+  "output_slug": "sud_vo_adv_cidol-jsna-3-011_02_jsna-030",
+  "output_index": 65,
+  "subsong_index": 30,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\sena\\20260715_012617_limit100\\acb\\sud_vo_adv_cidol-jsna-3-011_02.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\sena\\20260715_012617_limit100\\scripts\\5234323033_b388e31603256c068e1e3f346b5b73da.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\sena\\20260715_012617_limit100\\items\\0065_sud_vo_adv_cidol-jsna-3-011_02_jsna-030_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\sena\\20260715_012617_limit100\\items\\0065_sud_vo_adv_cidol-jsna-3-011_02_jsna-030_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\sena\\20260715_012617_limit100\\items\\0065_sud_vo_adv_cidol-jsna-3-011_02_jsna-030_03_metadata.json"
+}

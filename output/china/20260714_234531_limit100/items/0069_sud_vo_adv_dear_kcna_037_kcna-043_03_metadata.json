@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5236313133/12de4b0745790fd935d0593335d59322",
+  "line_no": 345,
+  "voice_line_no": 346,
+  "text": "いまだからこそ、\nよーくわかりますわ――",
+  "speaker": "千奈",
+  "voice_cue": "sud_vo_adv_dear_kcna_037_kcna-043",
+  "bank_name": "sud_vo_adv_dear_kcna_037",
+  "start": 299.8058482168,
+  "duration": 5.9599816895,
+  "voice_start": 299.9058482168,
+  "voice_duration": 5.66,
+  "output_slug": "sud_vo_adv_dear_kcna_037_kcna-043",
+  "output_index": 69,
+  "subsong_index": 43,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\china\\20260714_234531_limit100\\acb\\sud_vo_adv_dear_kcna_037.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\china\\20260714_234531_limit100\\scripts\\5236313133_12de4b0745790fd935d0593335d59322.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\china\\20260714_234531_limit100\\items\\0069_sud_vo_adv_dear_kcna_037_kcna-043_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\china\\20260714_234531_limit100\\items\\0069_sud_vo_adv_dear_kcna_037_kcna-043_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\china\\20260714_234531_limit100\\items\\0069_sud_vo_adv_dear_kcna_037_kcna-043_03_metadata.json"
+}

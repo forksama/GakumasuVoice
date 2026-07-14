@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5233303533/eece10c902056b8838ca9968c1180d92",
+  "line_no": 84,
+  "voice_line_no": 90,
+  "text": "ああ……全人類の夢を掌中に……\n<r=そら>宙</r>でまどろむ、上位の存在……",
+  "speaker": "美鈴",
+  "voice_cue": "sud_vo_adv_cidol-hmsz-3-014_02_hmsz-011",
+  "bank_name": "sud_vo_adv_cidol-hmsz-3-014_02",
+  "start": 84.8653444024,
+  "duration": 10.847,
+  "voice_start": 84.9653444024,
+  "voice_duration": 10.747,
+  "output_slug": "sud_vo_adv_cidol-hmsz-3-014_02_hmsz-011",
+  "output_index": 34,
+  "subsong_index": 11,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\misuzu\\20260715_010942_limit100\\acb\\sud_vo_adv_cidol-hmsz-3-014_02.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\misuzu\\20260715_010942_limit100\\scripts\\5233303533_eece10c902056b8838ca9968c1180d92.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\misuzu\\20260715_010942_limit100\\items\\0034_sud_vo_adv_cidol-hmsz-3-014_02_hmsz-011_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\misuzu\\20260715_010942_limit100\\items\\0034_sud_vo_adv_cidol-hmsz-3-014_02_hmsz-011_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\misuzu\\20260715_010942_limit100\\items\\0034_sud_vo_adv_cidol-hmsz-3-014_02_hmsz-011_03_metadata.json"
+}

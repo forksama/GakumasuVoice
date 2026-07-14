@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5233353433/18e397b0ebec1b18fc47712a03241d46",
+  "line_no": 406,
+  "voice_line_no": 407,
+  "text": "怒るわよ！？",
+  "speaker": "咲季",
+  "voice_cue": "sud_vo_adv_unit_01-01_14_hski-014",
+  "bank_name": "sud_vo_adv_unit_01-01_14",
+  "start": 171.2850528499,
+  "duration": 1.4703343506,
+  "voice_start": 171.2850528499,
+  "voice_duration": 1.237,
+  "output_slug": "sud_vo_adv_unit_01-01_14_hski-014",
+  "output_index": 65,
+  "subsong_index": 36,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\acb\\sud_vo_adv_unit_01-01_14.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\scripts\\5233353433_18e397b0ebec1b18fc47712a03241d46.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\items\\0065_sud_vo_adv_unit_01-01_14_hski-014_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\items\\0065_sud_vo_adv_unit_01-01_14_hski-014_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\saki\\20260714_215713_limit100\\items\\0065_sud_vo_adv_unit_01-01_14_hski-014_03_metadata.json"
+}

@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5231353033/892704e253818cd54d197444a3ab07a0",
+  "line_no": 128,
+  "voice_line_no": 129,
+  "text": "これだけは、はっきり言える。",
+  "speaker": "星南",
+  "voice_cue": "sud_vo_adv_dear_hrnm_035_jsna-008",
+  "bank_name": "sud_vo_adv_dear_hrnm_035",
+  "start": 76.7083355656,
+  "duration": 3.1663312988,
+  "voice_start": 76.8083355656,
+  "voice_duration": 2.933,
+  "output_slug": "sud_vo_adv_dear_hrnm_035_jsna-008",
+  "output_index": 16,
+  "subsong_index": 56,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\sena\\20260715_012617_limit100\\acb\\sud_vo_adv_dear_hrnm_035.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\sena\\20260715_012617_limit100\\scripts\\5231353033_892704e253818cd54d197444a3ab07a0.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\sena\\20260715_012617_limit100\\items\\0016_sud_vo_adv_dear_hrnm_035_jsna-008_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\sena\\20260715_012617_limit100\\items\\0016_sud_vo_adv_dear_hrnm_035_jsna-008_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\sena\\20260715_012617_limit100\\items\\0016_sud_vo_adv_dear_hrnm_035_jsna-008_03_metadata.json"
+}

@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/52313333/b27f286278ef5809e64357af44b940cc",
+  "line_no": 5,
+  "voice_line_no": 7,
+  "text": "ね、リーリヤ見て見て～。\nこの写真、懐かしくない？",
+  "speaker": "清夏",
+  "voice_cue": "sud_vo_adv_csprt-3-0008_01_ssmk-001",
+  "bank_name": "sud_vo_adv_csprt-3-0008_01",
+  "start": 0.8,
+  "duration": 4.7829600716,
+  "voice_start": 0.9,
+  "voice_duration": 4.665,
+  "output_slug": "sud_vo_adv_csprt-3-0008_01_ssmk-001",
+  "output_index": 1,
+  "subsong_index": 10,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\sumika\\20260714_235935_limit100\\acb\\sud_vo_adv_csprt-3-0008_01.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\sumika\\20260714_235935_limit100\\scripts\\52313333_b27f286278ef5809e64357af44b940cc.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\sumika\\20260714_235935_limit100\\items\\0001_sud_vo_adv_csprt-3-0008_01_ssmk-001_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\sumika\\20260714_235935_limit100\\items\\0001_sud_vo_adv_csprt-3-0008_01_ssmk-001_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\sumika\\20260714_235935_limit100\\items\\0001_sud_vo_adv_csprt-3-0008_01_ssmk-001_03_metadata.json"
+}

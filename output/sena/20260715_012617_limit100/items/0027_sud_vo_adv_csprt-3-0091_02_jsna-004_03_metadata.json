@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5231383533/9e892c04614202994492103a131491d0",
+  "line_no": 92,
+  "voice_line_no": 93,
+  "text": "そんなに面白い商品なの……？",
+  "speaker": "星南",
+  "voice_cue": "sud_vo_adv_csprt-3-0091_02_jsna-004",
+  "bank_name": "sud_vo_adv_csprt-3-0091_02",
+  "start": 33.3343303443,
+  "duration": 2.518,
+  "voice_start": 33.4343303443,
+  "voice_duration": 2.418,
+  "output_slug": "sud_vo_adv_csprt-3-0091_02_jsna-004",
+  "output_index": 27,
+  "subsong_index": 17,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\sena\\20260715_012617_limit100\\acb\\sud_vo_adv_csprt-3-0091_02.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\sena\\20260715_012617_limit100\\scripts\\5231383533_9e892c04614202994492103a131491d0.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\sena\\20260715_012617_limit100\\items\\0027_sud_vo_adv_csprt-3-0091_02_jsna-004_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\sena\\20260715_012617_limit100\\items\\0027_sud_vo_adv_csprt-3-0091_02_jsna-004_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\sena\\20260715_012617_limit100\\items\\0027_sud_vo_adv_csprt-3-0091_02_jsna-004_03_metadata.json"
+}

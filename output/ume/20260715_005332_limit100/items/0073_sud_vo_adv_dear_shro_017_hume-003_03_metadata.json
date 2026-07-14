@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5231313133/302d314da24a3de5ce21d994fca1a99b",
+  "line_no": 93,
+  "voice_line_no": 99,
+  "text": "広ちゃんは、プロデューサーさんの\n言うとおりにした方がいいと思うなあ。",
+  "speaker": "佑芽",
+  "voice_cue": "sud_vo_adv_dear_shro_017_hume-003",
+  "bank_name": "sud_vo_adv_dear_shro_017",
+  "start": 58.6196642094,
+  "duration": 7.3323312988,
+  "voice_start": 58.7196642094,
+  "voice_duration": 5.599,
+  "output_slug": "sud_vo_adv_dear_shro_017_hume-003",
+  "output_index": 73,
+  "subsong_index": 3,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\acb\\sud_vo_adv_dear_shro_017.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\scripts\\5231313133_302d314da24a3de5ce21d994fca1a99b.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\items\\0073_sud_vo_adv_dear_shro_017_hume-003_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\items\\0073_sud_vo_adv_dear_shro_017_hume-003_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\ume\\20260715_005332_limit100\\items\\0073_sud_vo_adv_dear_shro_017_hume-003_03_metadata.json"
+}

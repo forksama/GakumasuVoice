@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5235363833/e112073be42b8162e85b19648e82b7ac",
+  "line_no": 144,
+  "voice_line_no": 145,
+  "text": "Pっち、なかなかプレッシャー\nかけてくるじゃん……",
+  "speaker": "清夏",
+  "voice_cue": "sud_vo_adv_cidol-ssmk-3-000_01_ssmk-019",
+  "bank_name": "sud_vo_adv_cidol-ssmk-3-000_01",
+  "start": 136.8830165763,
+  "duration": 4.0716625976,
+  "voice_start": 136.9830165763,
+  "voice_duration": 3.705,
+  "output_slug": "sud_vo_adv_cidol-ssmk-3-000_01_ssmk-019",
+  "output_index": 30,
+  "subsong_index": 19,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\sumika\\20260714_235935_limit100\\acb\\sud_vo_adv_cidol-ssmk-3-000_01.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\sumika\\20260714_235935_limit100\\scripts\\5235363833_e112073be42b8162e85b19648e82b7ac.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\sumika\\20260714_235935_limit100\\items\\0030_sud_vo_adv_cidol-ssmk-3-000_01_ssmk-019_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\sumika\\20260714_235935_limit100\\items\\0030_sud_vo_adv_cidol-ssmk-3-000_01_ssmk-019_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\sumika\\20260714_235935_limit100\\items\\0030_sud_vo_adv_cidol-ssmk-3-000_01_ssmk-019_03_metadata.json"
+}

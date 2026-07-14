@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5233373633/5894384409f4929064f9081c5b285b93",
+  "line_no": 93,
+  "voice_line_no": 96,
+  "text": "話してみてください、ぜんぶ。",
+  "speaker": "手毬",
+  "voice_cue": "sud_vo_adv_cidol-ttmr-3-011_02_ttmr-012",
+  "bank_name": "sud_vo_adv_cidol-ttmr-3-011_02",
+  "start": 77.990300836,
+  "duration": 2.9120030517,
+  "voice_start": 78.090300836,
+  "voice_duration": 2.512,
+  "output_slug": "sud_vo_adv_cidol-ttmr-3-011_02_ttmr-012",
+  "output_index": 84,
+  "subsong_index": 12,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\temari\\20260714_223748_limit100\\acb\\sud_vo_adv_cidol-ttmr-3-011_02.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\temari\\20260714_223748_limit100\\scripts\\5233373633_5894384409f4929064f9081c5b285b93.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\temari\\20260714_223748_limit100\\items\\0084_sud_vo_adv_cidol-ttmr-3-011_02_ttmr-012_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\temari\\20260714_223748_limit100\\items\\0084_sud_vo_adv_cidol-ttmr-3-011_02_ttmr-012_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\temari\\20260714_223748_limit100\\items\\0084_sud_vo_adv_cidol-ttmr-3-011_02_ttmr-012_03_metadata.json"
+}

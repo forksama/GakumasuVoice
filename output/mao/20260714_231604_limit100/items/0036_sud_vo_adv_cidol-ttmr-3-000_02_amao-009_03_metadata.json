@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5231373233/78608d3915910502d2734b488e9b8d72",
+  "line_no": 229,
+  "voice_line_no": 230,
+  "text": "……さすがに女子寮の中には\n現れてくれないと思うよ。",
+  "speaker": "麻央",
+  "voice_cue": "sud_vo_adv_cidol-ttmr-3-000_02_amao-009",
+  "bank_name": "sud_vo_adv_cidol-ttmr-3-000_02",
+  "start": 151.2346766558,
+  "duration": 3.702,
+  "voice_start": 151.3346766558,
+  "voice_duration": 3.602,
+  "output_slug": "sud_vo_adv_cidol-ttmr-3-000_02_amao-009",
+  "output_index": 36,
+  "subsong_index": 9,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\acb\\sud_vo_adv_cidol-ttmr-3-000_02.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\scripts\\5231373233_78608d3915910502d2734b488e9b8d72.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\items\\0036_sud_vo_adv_cidol-ttmr-3-000_02_amao-009_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\items\\0036_sud_vo_adv_cidol-ttmr-3-000_02_amao-009_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\items\\0036_sud_vo_adv_cidol-ttmr-3-000_02_amao-009_03_metadata.json"
+}

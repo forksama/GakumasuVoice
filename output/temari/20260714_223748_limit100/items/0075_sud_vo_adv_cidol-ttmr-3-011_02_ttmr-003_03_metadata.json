@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5233373633/5894384409f4929064f9081c5b285b93",
+  "line_no": 29,
+  "voice_line_no": 32,
+  "text": "私が相談したのに、プロデューサーの\n方が気にしてるじゃないですか。",
+  "speaker": "手毬",
+  "voice_cue": "sud_vo_adv_cidol-ttmr-3-011_02_ttmr-003",
+  "bank_name": "sud_vo_adv_cidol-ttmr-3-011_02",
+  "start": 19.8004523119,
+  "duration": 4.963,
+  "voice_start": 19.9004523119,
+  "voice_duration": 4.863,
+  "output_slug": "sud_vo_adv_cidol-ttmr-3-011_02_ttmr-003",
+  "output_index": 75,
+  "subsong_index": 3,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\temari\\20260714_223748_limit100\\acb\\sud_vo_adv_cidol-ttmr-3-011_02.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\temari\\20260714_223748_limit100\\scripts\\5233373633_5894384409f4929064f9081c5b285b93.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\temari\\20260714_223748_limit100\\items\\0075_sud_vo_adv_cidol-ttmr-3-011_02_ttmr-003_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\temari\\20260714_223748_limit100\\items\\0075_sud_vo_adv_cidol-ttmr-3-011_02_ttmr-003_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\temari\\20260714_223748_limit100\\items\\0075_sud_vo_adv_cidol-ttmr-3-011_02_ttmr-003_03_metadata.json"
+}

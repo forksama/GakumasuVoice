@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5231373833/d36577ec5985cac906f46246eb801e82",
+  "line_no": 108,
+  "voice_line_no": 109,
+  "text": "……ん、こんな感じかな？",
+  "speaker": "麻央",
+  "voice_cue": "sud_vo_adv_dear_amao_033_amao-013",
+  "bank_name": "sud_vo_adv_dear_amao_033",
+  "start": 76.0963284282,
+  "duration": 4.067,
+  "voice_start": 76.1963284282,
+  "voice_duration": 3.967,
+  "output_slug": "sud_vo_adv_dear_amao_033_amao-013",
+  "output_index": 65,
+  "subsong_index": 13,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\acb\\sud_vo_adv_dear_amao_033.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\scripts\\5231373833_d36577ec5985cac906f46246eb801e82.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\items\\0065_sud_vo_adv_dear_amao_033_amao-013_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\items\\0065_sud_vo_adv_dear_amao_033_amao-013_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\items\\0065_sud_vo_adv_dear_amao_033_amao-013_03_metadata.json"
+}

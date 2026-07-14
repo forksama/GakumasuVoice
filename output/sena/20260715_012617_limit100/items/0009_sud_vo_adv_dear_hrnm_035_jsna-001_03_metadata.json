@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5231353033/892704e253818cd54d197444a3ab07a0",
+  "line_no": 61,
+  "voice_line_no": 62,
+  "text": "――莉波。",
+  "speaker": "星南",
+  "voice_cue": "sud_vo_adv_dear_hrnm_035_jsna-001",
+  "bank_name": "sud_vo_adv_dear_hrnm_035",
+  "start": 28.3750003142,
+  "duration": 1.4836660309,
+  "voice_start": 28.4750003142,
+  "voice_duration": 0.717,
+  "output_slug": "sud_vo_adv_dear_hrnm_035_jsna-001",
+  "output_index": 9,
+  "subsong_index": 49,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\sena\\20260715_012617_limit100\\acb\\sud_vo_adv_dear_hrnm_035.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\sena\\20260715_012617_limit100\\scripts\\5231353033_892704e253818cd54d197444a3ab07a0.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\sena\\20260715_012617_limit100\\items\\0009_sud_vo_adv_dear_hrnm_035_jsna-001_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\sena\\20260715_012617_limit100\\items\\0009_sud_vo_adv_dear_hrnm_035_jsna-001_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\sena\\20260715_012617_limit100\\items\\0009_sud_vo_adv_dear_hrnm_035_jsna-001_03_metadata.json"
+}

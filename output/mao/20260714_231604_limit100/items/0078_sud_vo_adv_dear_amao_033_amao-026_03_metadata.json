@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5231373833/d36577ec5985cac906f46246eb801e82",
+  "line_no": 244,
+  "voice_line_no": 245,
+  "text": "カッコ悪いところも、\n撮られちゃってましたけど……",
+  "speaker": "麻央",
+  "voice_cue": "sud_vo_adv_dear_amao_033_amao-026",
+  "bank_name": "sud_vo_adv_dear_amao_033",
+  "start": 160.1466354493,
+  "duration": 3.3633404541,
+  "voice_start": 160.2466354493,
+  "voice_duration": 3.23,
+  "output_slug": "sud_vo_adv_dear_amao_033_amao-026",
+  "output_index": 78,
+  "subsong_index": 26,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\acb\\sud_vo_adv_dear_amao_033.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\scripts\\5231373833_d36577ec5985cac906f46246eb801e82.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\items\\0078_sud_vo_adv_dear_amao_033_amao-026_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\items\\0078_sud_vo_adv_dear_amao_033_amao-026_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\items\\0078_sud_vo_adv_dear_amao_033_amao-026_03_metadata.json"
+}

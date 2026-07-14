@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5231373833/d36577ec5985cac906f46246eb801e82",
+  "line_no": 90,
+  "voice_line_no": 91,
+  "text": "ボクが見せたかった、\n今のボクの理想の姿です。",
+  "speaker": "麻央",
+  "voice_cue": "sud_vo_adv_dear_amao_033_amao-011",
+  "bank_name": "sud_vo_adv_dear_amao_033",
+  "start": 60.7486662915,
+  "duration": 4.072,
+  "voice_start": 60.8486662915,
+  "voice_duration": 3.972,
+  "output_slug": "sud_vo_adv_dear_amao_033_amao-011",
+  "output_index": 63,
+  "subsong_index": 11,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\acb\\sud_vo_adv_dear_amao_033.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\scripts\\5231373833_d36577ec5985cac906f46246eb801e82.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\items\\0063_sud_vo_adv_dear_amao_033_amao-011_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\items\\0063_sud_vo_adv_dear_amao_033_amao-011_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\mao\\20260714_231604_limit100\\items\\0063_sud_vo_adv_dear_amao_033_amao-011_03_metadata.json"
+}
