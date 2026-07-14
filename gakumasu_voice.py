@@ -10,8 +10,9 @@ import subprocess
 import sys
 import tempfile
 from dataclasses import asdict, dataclass
+from datetime import datetime
 from pathlib import Path
-from typing import Iterable
+from typing import Iterable, Iterator
 
 
 DEFAULT_ADB = r"C:\Program Files\NetEase\MuMu Player 12\nx_main\adb.exe"
@@ -22,8 +23,37 @@ DEFAULT_SCRIPT_BUCKETS = ("3", "4", "6", "7", "9")
 DEFAULT_SCRIPT_ROOTS = tuple(f"{DEFAULT_OCTO_ROOT}/{bucket}" for bucket in DEFAULT_SCRIPT_BUCKETS)
 DEFAULT_SCRIPT_ROOT = DEFAULT_SCRIPT_ROOTS[0]
 DEFAULT_SCRIPT_MAX_KB = 500
-DEFAULT_CHARACTER_CODE = "krnh"
-DEFAULT_CHARACTER_NAME = "燐羽"
+
+
+@dataclass(frozen=True)
+class CharacterPreset:
+    slug: str
+    code: str
+    character_name: str
+    full_name: str
+    english_name: str
+    aliases: tuple[str, ...] = ()
+
+
+IDOL_PRESETS: tuple[CharacterPreset, ...] = (
+    CharacterPreset("saki", "hski", "咲季", "花海咲季", "Saki Hanami", ("hanami-saki", "花海咲季", "咲季")),
+    CharacterPreset("temari", "ttmr", "手毬", "月村手毬", "Temari Tsukimura", ("tsukimura-temari", "月村手毬", "手毬")),
+    CharacterPreset("kotone", "fktn", "ことね", "藤田ことね", "Kotone Fujita", ("fujita-kotone", "藤田ことね", "ことね")),
+    CharacterPreset("mao", "amao", "麻央", "有村麻央", "Mao Arimura", ("arimura-mao", "有村麻央", "麻央")),
+    CharacterPreset("lilja", "kllj", "リーリヤ", "葛城リーリヤ", "Lilja Katsuragi", ("rirya", "katsuragi-lilja", "葛城リーリヤ", "リーリヤ")),
+    CharacterPreset("china", "kcna", "千奈", "倉本千奈", "China Kuramoto", ("kuramoto-china", "倉本千奈", "千奈")),
+    CharacterPreset("sumika", "ssmk", "清夏", "紫雲清夏", "Sumika Shiun", ("shiun-sumika", "紫雲清夏", "清夏")),
+    CharacterPreset("hiro", "shro", "広", "篠澤広", "Hiro Shinosawa", ("shinosawa-hiro", "篠澤広", "広")),
+    CharacterPreset("rinami", "hrnm", "莉波", "姫崎莉波", "Rinami Himesaki", ("himesaki-rinami", "姫崎莉波", "莉波")),
+    CharacterPreset("ume", "hume", "佑芽", "花海佑芽", "Ume Hanami", ("hanami-ume", "花海佑芽", "佑芽")),
+    CharacterPreset("misuzu", "hmsz", "美鈴", "秦谷美鈴", "Misuzu Hataya", ("hataya-misuzu", "秦谷美鈴", "美鈴")),
+    CharacterPreset("sena", "jsna", "星南", "十王星南", "Sena Juo", ("juo-sena", "十王星南", "星南")),
+    CharacterPreset("tsubame", "atbm", "燕", "雨夜燕", "Tsubame Amaya", ("amaya-tsubame", "雨夜燕", "燕")),
+)
+EXTRA_PRESETS: tuple[CharacterPreset, ...] = (
+    CharacterPreset("rinha", "krnh", "燐羽", "賀陽燐羽", "Rinha Kayo", ("kayo-rinha", "賀陽燐羽", "燐羽")),
+)
+ALL_PRESETS: tuple[CharacterPreset, ...] = IDOL_PRESETS + EXTRA_PRESETS
 
 
 @dataclass(frozen=True)
@@ -82,6 +112,46 @@ def safe_filename(value: str) -> str:
     return value or "item"
 
 
+def normalize_lookup(value: str) -> str:
+    return value.strip().lower().replace("_", "-")
+
+
+def find_character_preset(value: str) -> CharacterPreset | None:
+    needle = normalize_lookup(value)
+    if not needle:
+        return None
+    for preset in ALL_PRESETS:
+        candidates = (preset.slug, preset.code, preset.character_name, preset.full_name, preset.english_name, *preset.aliases)
+        if needle in {normalize_lookup(candidate) for candidate in candidates}:
+            return preset
+    return None
+
+
+def character_table(presets: Iterable[CharacterPreset] = IDOL_PRESETS) -> str:
+    lines = ["slug        code  display  full_name       english"]
+    for preset in presets:
+        lines.append(
+            f"{preset.slug:<11} {preset.code:<5} {preset.character_name:<8} {preset.full_name:<13} {preset.english_name}"
+        )
+    return "\n".join(lines)
+
+
+def character_help_text() -> str:
+    return "\n".join(
+        [
+            "Character presets (13 idols):",
+            character_table(IDOL_PRESETS),
+            "",
+            "Extra compatible preset:",
+            character_table(EXTRA_PRESETS),
+            "",
+            "Examples:",
+            "  python gakumasu_voice.py extract --character kotone --limit 200",
+            "  python gakumasu_voice.py extract --character-code fktn --character-name ことね --full-name 藤田ことね --limit 200",
+        ]
+    )
+
+
 def short_progress_item(value: str, max_len: int = 48) -> str:
     if len(value) <= max_len:
         return value
@@ -91,6 +161,42 @@ def short_progress_item(value: str, max_len: int = 48) -> str:
 def remote_tail(remote_path: str) -> str:
     parts = remote_path.strip("/").split("/")
     return "/".join(parts[-2:]) if len(parts) >= 2 else remote_path
+
+
+def script_local_name(remote_path: str) -> str:
+    parts = remote_path.split("/")
+    if len(parts) >= 2:
+        return safe_filename(parts[-2] + "_" + parts[-1]) + ".txt"
+    return safe_filename(remote_path) + ".txt"
+
+
+def summary_lines_path(output_root: Path, character_slug: str) -> Path:
+    return output_root / f"{safe_filename(character_slug)}_lines.tsv"
+
+
+def default_run_id(limit: int) -> str:
+    mode = f"limit{limit}" if limit else "full"
+    return f"{datetime.now().strftime('%Y%m%d_%H%M%S')}_{mode}"
+
+
+def make_run_output_root(base_output: Path, character_slug: str, run_id: str) -> Path:
+    character_dir = base_output / safe_filename(character_slug)
+    candidate = character_dir / safe_filename(run_id)
+    if not candidate.exists():
+        return candidate
+    for suffix in range(2, 1000):
+        next_candidate = character_dir / f"{safe_filename(run_id)}_{suffix}"
+        if not next_candidate.exists():
+            return next_candidate
+    raise ToolError(f"could not create a unique run directory under {character_dir}")
+
+
+def paired_item_paths(items_dir: Path, index: int, line: VoiceLine) -> tuple[Path, Path, Path]:
+    prefix = f"{index:04d}_{line.output_slug}"
+    subtitle_path = items_dir / f"{prefix}_01_subtitle.txt"
+    wav_path = items_dir / f"{prefix}_02_voice.wav"
+    metadata_path = items_dir / f"{prefix}_03_metadata.json"
+    return subtitle_path, wav_path, metadata_path
 
 
 def split_remote_paths(value: str) -> list[str]:
@@ -349,6 +455,53 @@ class AndroidClient:
             bar.finish()
         return sorted(paths)
 
+    def iter_text_files(self, roots: Iterable[str], max_kb: int) -> Iterator[str]:
+        root_list = list(roots)
+        if not root_list:
+            return
+        process = subprocess.Popen(
+            [
+                self.adb,
+                "-s",
+                self.device,
+                "shell",
+                "su",
+                "0",
+                "find",
+                *root_list,
+                "-type",
+                "f",
+                "-size",
+                f"-{max_kb}k",
+            ],
+            stdout=subprocess.PIPE,
+            stderr=subprocess.PIPE,
+        )
+        try:
+            if process.stdout is None:
+                return
+            for raw_line in process.stdout:
+                remote_path = raw_line.decode("utf-8", errors="replace").strip()
+                if remote_path.startswith("/"):
+                    yield remote_path
+        finally:
+            if process.poll() is None:
+                process.terminate()
+                try:
+                    process.wait(timeout=5)
+                except subprocess.TimeoutExpired:
+                    process.kill()
+                    process.wait()
+            if process.stderr is not None:
+                process.stderr.close()
+
+    def text_file_contains(self, remote_path: str, pattern: str) -> bool:
+        result = run_command(
+            [self.adb, "-s", self.device, "shell", "su", "0", "grep", "-a", "-q", pattern, remote_path],
+            check=False,
+        )
+        return result.returncode == 0
+
     def remote_file_exists(self, remote_path: str) -> bool:
         result = run_command(
             [self.adb, "-s", self.device, "shell", "su", "0", "test", "-f", remote_path],
@@ -394,6 +547,64 @@ def read_existing_voice_map(paths: Iterable[Path]) -> dict[str, str]:
     return bank_to_path
 
 
+@dataclass
+class BankCacheStats:
+    remote_cache_hits: int = 0
+    remote_cache_misses: int = 0
+    stale_remote_entries: int = 0
+    voice_map_hits: int = 0
+    grep_lookups: int = 0
+    updated_remote_entries: int = 0
+    local_acb_hits: int = 0
+    local_acb_pulls: int = 0
+    local_acb_copies: int = 0
+
+
+class BankPathCache:
+    def __init__(self, path: Path | None):
+        self.path = path
+        self.data: dict = {"version": 1, "banks": {}}
+        if path and path.exists():
+            try:
+                self.data = json.loads(path.read_text(encoding="utf-8"))
+            except json.JSONDecodeError:
+                print(f"WARN: ignoring invalid bank cache: {path}")
+        self.data.setdefault("version", 1)
+        self.data.setdefault("banks", {})
+
+    def get_remote_path(self, bank_name: str, octo_root: str) -> str:
+        entry = self.data.get("banks", {}).get(bank_name, {})
+        if entry.get("octo_root") != octo_root:
+            return ""
+        remote_path = entry.get("remote_path", "")
+        return remote_path if isinstance(remote_path, str) else ""
+
+    def mark_verified(self, bank_name: str) -> None:
+        entry = self.data.get("banks", {}).get(bank_name)
+        if entry:
+            entry["verified_at"] = datetime.now().isoformat(timespec="seconds")
+
+    def update_remote_path(self, bank_name: str, remote_path: str, octo_root: str, source: str) -> None:
+        self.data.setdefault("banks", {})[bank_name] = {
+            "remote_path": remote_path,
+            "octo_root": octo_root,
+            "source": source,
+            "updated_at": datetime.now().isoformat(timespec="seconds"),
+            "verified_at": datetime.now().isoformat(timespec="seconds"),
+        }
+
+    def remove(self, bank_name: str) -> None:
+        self.data.setdefault("banks", {}).pop(bank_name, None)
+
+    def save(self) -> None:
+        if not self.path:
+            return
+        self.path.parent.mkdir(parents=True, exist_ok=True)
+        tmp_path = self.path.with_suffix(self.path.suffix + ".tmp")
+        tmp_path.write_text(json.dumps(self.data, ensure_ascii=False, indent=2), encoding="utf-8")
+        tmp_path.replace(self.path)
+
+
 def vgmstream_metadata(vgmstream: str, acb_path: Path, subsong: int | None = None) -> str:
     args = [vgmstream, "-m"]
     if subsong is not None:
@@ -419,10 +630,40 @@ def build_subsong_map(vgmstream: str, acb_path: Path, *, progress: bool = False,
     return mapping
 
 
-def resolve_bank_path(client: AndroidClient, vgmstream: str, bank_name: str, octo_root: str, acb_dir: Path, known: dict[str, str]) -> str:
+def resolve_bank_path(
+    client: AndroidClient,
+    vgmstream: str,
+    bank_name: str,
+    octo_root: str,
+    acb_dir: Path,
+    known: dict[str, str],
+    *,
+    bank_cache: BankPathCache | None = None,
+    stats: BankCacheStats | None = None,
+) -> str:
+    if bank_cache:
+        cached_remote = bank_cache.get_remote_path(bank_name, octo_root)
+        if cached_remote:
+            if client.remote_file_exists(cached_remote):
+                if stats:
+                    stats.remote_cache_hits += 1
+                bank_cache.mark_verified(bank_name)
+                return cached_remote
+            if stats:
+                stats.stale_remote_entries += 1
+            bank_cache.remove(bank_name)
+        elif stats:
+            stats.remote_cache_misses += 1
+
     if bank_name in known and client.remote_file_exists(known[bank_name]):
+        if stats:
+            stats.voice_map_hits += 1
+        if bank_cache:
+            bank_cache.update_remote_path(bank_name, known[bank_name], octo_root, "voice_map")
         return known[bank_name]
 
+    if stats:
+        stats.grep_lookups += 1
     candidates = client.grep_files(bank_name, octo_root)
     for remote_path in candidates:
         with tempfile.TemporaryDirectory(prefix="gakumas_bank_probe_") as tmp:
@@ -434,120 +675,310 @@ def resolve_bank_path(client: AndroidClient, vgmstream: str, bank_name: str, oct
                 continue
             if bank_name in metadata:
                 known[bank_name] = remote_path
+                if stats:
+                    stats.updated_remote_entries += 1
+                if bank_cache:
+                    bank_cache.update_remote_path(bank_name, remote_path, octo_root, "grep")
                 return remote_path
 
     raise ToolError(f"could not resolve ACB path for bank {bank_name}")
 
 
+def acb_sidecar_path(acb_path: Path) -> Path:
+    return acb_path.with_suffix(acb_path.suffix + ".json")
+
+
+def read_acb_sidecar(acb_path: Path) -> dict:
+    sidecar = acb_sidecar_path(acb_path)
+    if not sidecar.exists():
+        return {}
+    try:
+        data = json.loads(sidecar.read_text(encoding="utf-8"))
+    except json.JSONDecodeError:
+        return {}
+    return data if isinstance(data, dict) else {}
+
+
+def write_acb_sidecar(acb_path: Path, bank_name: str, remote_acb: str) -> None:
+    acb_sidecar_path(acb_path).write_text(
+        json.dumps(
+            {
+                "bank_name": bank_name,
+                "remote_acb": remote_acb,
+                "cached_at": datetime.now().isoformat(timespec="seconds"),
+            },
+            ensure_ascii=False,
+            indent=2,
+        ),
+        encoding="utf-8",
+    )
+
+
+def ensure_local_acb(
+    *,
+    client: AndroidClient,
+    remote_acb: str,
+    bank_name: str,
+    run_acb_dir: Path,
+    shared_acb_dir: Path | None,
+    stats: BankCacheStats | None = None,
+) -> Path:
+    run_acb_dir.mkdir(parents=True, exist_ok=True)
+    run_acb = run_acb_dir / f"{safe_filename(bank_name)}.acb"
+    if run_acb.exists() and run_acb.stat().st_size > 0:
+        if stats:
+            stats.local_acb_hits += 1
+        return run_acb
+
+    if shared_acb_dir:
+        shared_acb_dir.mkdir(parents=True, exist_ok=True)
+        shared_acb = shared_acb_dir / f"{safe_filename(bank_name)}.acb"
+        if shared_acb.exists() and shared_acb.stat().st_size > 0:
+            sidecar = read_acb_sidecar(shared_acb)
+            if not sidecar or sidecar.get("remote_acb") == remote_acb:
+                shutil.copy2(shared_acb, run_acb)
+                if stats:
+                    stats.local_acb_hits += 1
+                    stats.local_acb_copies += 1
+                return run_acb
+
+        print(f"pull ACB {bank_name}")
+        client.pull_private_file(remote_acb, shared_acb)
+        write_acb_sidecar(shared_acb, bank_name, remote_acb)
+        shutil.copy2(shared_acb, run_acb)
+        if stats:
+            stats.local_acb_pulls += 1
+            stats.local_acb_copies += 1
+        return run_acb
+
+    print(f"pull ACB {bank_name}")
+    client.pull_private_file(remote_acb, run_acb)
+    if stats:
+        stats.local_acb_pulls += 1
+    return run_acb
+
+
+def collect_limited_character_voice_lines(
+    *,
+    client: AndroidClient,
+    script_roots: Iterable[str],
+    script_max_kb: int,
+    character_code: str,
+    line_limit: int,
+    scripts_dir: Path,
+    progress: bool,
+) -> tuple[dict[str, str], list[VoiceLine], list[str], int, bool]:
+    script_texts: dict[str, str] = {}
+    voice_lines: list[VoiceLine] = []
+    scripts_with_character_voice: list[str] = []
+    seen_paths: set[str] = set()
+    scanned_text_files = 0
+    stopped_early = False
+    pattern = f"{character_code}-"
+
+    for remote_path in client.iter_text_files(script_roots, script_max_kb):
+        if remote_path in seen_paths:
+            continue
+        seen_paths.add(remote_path)
+        scanned_text_files += 1
+        if progress and scanned_text_files % 100 == 0:
+            print(f"limited scan: checked {scanned_text_files} text files, collected {len(voice_lines)}/{line_limit}")
+
+        if not client.text_file_contains(remote_path, pattern):
+            continue
+
+        scripts_with_character_voice.append(remote_path)
+        script_text = client.cat_text(remote_path)
+        script_texts[remote_path] = script_text
+        (scripts_dir / script_local_name(remote_path)).write_text(script_text, encoding="utf-8")
+
+        remaining = line_limit - len(voice_lines)
+        voice_lines.extend(collect_character_voice_lines(script_text, remote_path, character_code)[:remaining])
+        if progress:
+            print(f"limited scan: {remote_tail(remote_path)} -> {len(voice_lines)}/{line_limit}")
+
+        if len(voice_lines) >= line_limit:
+            stopped_early = True
+            break
+
+    return script_texts, voice_lines, scripts_with_character_voice, scanned_text_files, stopped_early
+
+
 def write_voice_line_outputs(
     *,
+    index: int,
     line: VoiceLine,
     subsong_index: int,
     acb_path: Path,
-    output_root: Path,
+    items_dir: Path,
     vgmstream: str,
     script_local_path: Path,
-) -> Path:
-    item_dir = output_root / "items" / line.output_slug
-    item_dir.mkdir(parents=True, exist_ok=True)
-    wav_path = item_dir / "voice.wav"
-    subtitle_path = item_dir / "subtitle.txt"
-    metadata_path = item_dir / "metadata.json"
+) -> tuple[Path, Path, Path]:
+    items_dir.mkdir(parents=True, exist_ok=True)
+    subtitle_path, wav_path, metadata_path = paired_item_paths(items_dir, index, line)
 
     run_command([vgmstream, "-s", str(subsong_index), "-o", str(wav_path), str(acb_path)])
     subtitle_path.write_text(line.text + "\n", encoding="utf-8")
     metadata = asdict(line)
     metadata.update(
         {
+            "output_index": index,
             "subsong_index": subsong_index,
             "acb_file": str(acb_path),
             "script_file": str(script_local_path),
             "wav_file": str(wav_path),
             "subtitle_file": str(subtitle_path),
+            "metadata_file": str(metadata_path),
         }
     )
     metadata_path.write_text(json.dumps(metadata, ensure_ascii=False, indent=2), encoding="utf-8")
-    return wav_path
+    return subtitle_path, wav_path, metadata_path
 
 
-def extract_rinha(args: argparse.Namespace) -> int:
-    output_root = Path(args.output).resolve()
-    scripts_dir = output_root / "scripts"
-    acb_dir = output_root / "acb"
-    reports_dir = output_root / "reports"
-    scripts_dir.mkdir(parents=True, exist_ok=True)
-    acb_dir.mkdir(parents=True, exist_ok=True)
-    reports_dir.mkdir(parents=True, exist_ok=True)
-
-    client = AndroidClient(args.adb, args.device)
-    client.ensure_connected()
-    vgmstream = locate_vgmstream(args.vgmstream)
-
+def extract_character(args: argparse.Namespace) -> int:
     script_roots = split_remote_paths(args.script_root) if args.script_root else split_remote_paths(args.script_roots)
     if not script_roots:
         raise ToolError("no script roots configured")
     if args.script_max_kb <= 0:
         raise ToolError("--script-max-kb must be greater than 0")
+    if args.limit < 0:
+        raise ToolError("--limit must be 0 or greater")
 
-    krnh_script_paths = client.grep_text_files(
-        f"{args.character_code}-",
-        script_roots,
-        args.script_max_kb,
-        label="search voice",
-        progress=args.progress,
-    )
-    name_script_paths = client.grep_text_files(
-        f"name={args.character_name}",
-        script_roots,
-        args.script_max_kb,
-        label="search name",
-        progress=args.progress,
-    )
-    speaker_script_paths = client.grep_text_files(
-        f"img_adv_speaker_{args.character_code}",
-        script_roots,
-        args.script_max_kb,
-        label="search speaker",
-        progress=args.progress,
-    )
-    full_name_script_paths = (
-        client.grep_text_files(
-            args.full_name,
-            script_roots,
-            args.script_max_kb,
-            label="search full name",
+    preset = find_character_preset(args.character) if args.character else None
+    if args.character and not preset and not args.character_code:
+        raise ToolError(f"unknown --character {args.character!r}; run `python gakumasu_voice.py characters` to list presets")
+    character_code = args.character_code or (preset.code if preset else "")
+    character_name = args.character_name or (preset.character_name if preset else "")
+    full_name = args.full_name or (preset.full_name if preset else "")
+    character_slug = args.character_slug or (preset.slug if preset else character_code)
+    if not character_code:
+        raise ToolError("--character or --character-code is required")
+    if not character_slug:
+        raise ToolError("--character-slug is required when using a custom character code")
+
+    base_output = Path(args.output).resolve()
+    line_limit = args.limit or 0
+    run_id = args.run_id or default_run_id(line_limit)
+    output_root = make_run_output_root(base_output, character_slug, run_id)
+    bank_cache_path = None if args.no_bank_cache else Path(args.bank_cache or (base_output / "_cache" / "bank_paths.json")).resolve()
+    shared_acb_dir = None if args.no_acb_cache else Path(args.acb_cache_dir or (base_output / "_cache" / "acb")).resolve()
+    bank_cache = BankPathCache(bank_cache_path) if bank_cache_path else None
+    bank_cache_stats = BankCacheStats()
+
+    client = AndroidClient(args.adb, args.device)
+    client.ensure_connected()
+    vgmstream = locate_vgmstream(args.vgmstream)
+
+    scripts_dir = output_root / "scripts"
+    acb_dir = output_root / "acb"
+    items_dir = output_root / "items"
+    scripts_dir.mkdir(parents=True, exist_ok=True)
+    acb_dir.mkdir(parents=True, exist_ok=True)
+    items_dir.mkdir(parents=True, exist_ok=True)
+
+    print(f"character: {character_slug} ({character_code})")
+    if character_name or full_name:
+        print(f"name filters: display={character_name or '-'} full={full_name or '-'}")
+    print(f"output run: {output_root}")
+    if bank_cache_path:
+        print(f"bank cache: {bank_cache_path}")
+    if shared_acb_dir:
+        print(f"ACB cache: {shared_acb_dir}")
+
+    limited_search = line_limit > 0
+    scanned_text_file_count: int | None = None
+    search_complete = True
+
+    if limited_search:
+        print(f"limited extraction: stop after {line_limit} voice/subtitle items")
+        (
+            script_texts,
+            voice_lines,
+            voice_script_paths,
+            scanned_text_file_count,
+            stopped_early,
+        ) = collect_limited_character_voice_lines(
+            client=client,
+            script_roots=script_roots,
+            script_max_kb=args.script_max_kb,
+            character_code=character_code,
+            line_limit=line_limit,
+            scripts_dir=scripts_dir,
             progress=args.progress,
         )
-        if args.full_name
-        else []
-    )
-    all_script_paths = sorted(set(krnh_script_paths) | set(name_script_paths) | set(speaker_script_paths) | set(full_name_script_paths))
+        name_script_paths: list[str] = []
+        speaker_script_paths: list[str] = []
+        full_name_script_paths: list[str] = []
+        search_complete = not stopped_early
+        print(f"script roots: {len(script_roots)}")
+        print(f"text files checked before stop: {scanned_text_file_count}")
+        print(f"candidate scripts with {character_code}- voice: {len(voice_script_paths)}")
+    else:
+        voice_script_paths = client.grep_text_files(
+            f"{character_code}-",
+            script_roots,
+            args.script_max_kb,
+            label="search voice",
+            progress=args.progress,
+        )
+        name_script_paths = (
+            client.grep_text_files(
+                f"name={character_name}",
+                script_roots,
+                args.script_max_kb,
+                label="search name",
+                progress=args.progress,
+            )
+            if character_name
+            else []
+        )
+        speaker_script_paths = client.grep_text_files(
+            f"img_adv_speaker_{character_code}",
+            script_roots,
+            args.script_max_kb,
+            label="search speaker",
+            progress=args.progress,
+        )
+        full_name_script_paths = (
+            client.grep_text_files(
+                full_name,
+                script_roots,
+                args.script_max_kb,
+                label="search full name",
+                progress=args.progress,
+            )
+            if full_name
+            else []
+        )
+        all_script_paths = sorted(
+            set(voice_script_paths) | set(name_script_paths) | set(speaker_script_paths) | set(full_name_script_paths)
+        )
 
-    print(f"script roots: {len(script_roots)}")
-    print(f"scripts with {args.character_code}- voice: {len(krnh_script_paths)}")
-    print(f"scripts with name={args.character_name}: {len(name_script_paths)}")
-    print(f"scripts with speaker image {args.character_code}: {len(speaker_script_paths)}")
-    if args.full_name:
-        print(f"scripts mentioning {args.full_name}: {len(full_name_script_paths)}")
+        print(f"script roots: {len(script_roots)}")
+        print(f"scripts with {character_code}- voice: {len(voice_script_paths)}")
+        if character_name:
+            print(f"scripts with name={character_name}: {len(name_script_paths)}")
+        print(f"scripts with speaker image {character_code}: {len(speaker_script_paths)}")
+        if full_name:
+            print(f"scripts mentioning {full_name}: {len(full_name_script_paths)}")
 
-    script_texts: dict[str, str] = {}
-    script_progress = Progress("pull scripts", len(all_script_paths), enabled=args.progress)
-    for remote_path in all_script_paths:
-        script_progress.show(remote_tail(remote_path))
-        script_text = client.cat_text(remote_path)
-        script_texts[remote_path] = script_text
-        local_name = safe_filename(remote_path.split("/")[-2] + "_" + remote_path.split("/")[-1]) + ".txt"
-        (scripts_dir / local_name).write_text(script_text, encoding="utf-8")
-        script_progress.step(remote_tail(remote_path))
-    script_progress.finish()
+        script_texts = {}
+        script_progress = Progress("pull scripts", len(all_script_paths), enabled=args.progress)
+        for remote_path in all_script_paths:
+            script_progress.show(remote_tail(remote_path))
+            script_text = client.cat_text(remote_path)
+            script_texts[remote_path] = script_text
+            (scripts_dir / script_local_name(remote_path)).write_text(script_text, encoding="utf-8")
+            script_progress.step(remote_tail(remote_path))
+        script_progress.finish()
 
-    voice_lines: list[VoiceLine] = []
-    parse_progress = Progress("parse scripts", len(script_texts), enabled=args.progress)
-    for remote_path, script_text in script_texts.items():
-        parse_progress.show(remote_tail(remote_path))
-        voice_lines.extend(collect_character_voice_lines(script_text, remote_path, args.character_code))
-        parse_progress.step(remote_tail(remote_path))
-    parse_progress.finish()
+        voice_lines = []
+        parse_progress = Progress("parse scripts", len(script_texts), enabled=args.progress)
+        for remote_path, script_text in script_texts.items():
+            parse_progress.show(remote_tail(remote_path))
+            voice_lines.extend(collect_character_voice_lines(script_text, remote_path, character_code))
+            parse_progress.step(remote_tail(remote_path))
+        parse_progress.finish()
 
     bank_names = sorted({line.bank_name for line in voice_lines})
     known_maps = read_existing_voice_map([Path(args.voice_map)] if args.voice_map else [])
@@ -561,12 +992,27 @@ def extract_rinha(args: argparse.Namespace) -> int:
 
     for bank_index, bank_name in enumerate(bank_names, 1):
         print(f"bank {bank_index}/{len(bank_names)}: {bank_name}")
-        remote_acb = resolve_bank_path(client, vgmstream, bank_name, args.octo_root, acb_dir, known_maps)
+        remote_acb = resolve_bank_path(
+            client,
+            vgmstream,
+            bank_name,
+            args.octo_root,
+            acb_dir,
+            known_maps,
+            bank_cache=bank_cache,
+            stats=bank_cache_stats,
+        )
+        if bank_cache:
+            bank_cache.save()
         bank_remote_paths[bank_name] = remote_acb
-        local_acb = acb_dir / f"{safe_filename(bank_name)}.acb"
-        if not local_acb.exists():
-            print(f"pull ACB {bank_name}")
-            client.pull_private_file(remote_acb, local_acb)
+        local_acb = ensure_local_acb(
+            client=client,
+            remote_acb=remote_acb,
+            bank_name=bank_name,
+            run_acb_dir=acb_dir,
+            shared_acb_dir=shared_acb_dir,
+            stats=bank_cache_stats,
+        )
         bank_local_paths[bank_name] = local_acb
         bank_subsong_maps[bank_name] = build_subsong_map(
             vgmstream,
@@ -585,14 +1031,14 @@ def extract_rinha(args: argparse.Namespace) -> int:
             unmatched.append(line)
             export_progress.step(line.voice_cue)
             continue
-        script_local_name = safe_filename(line.script_path.split("/")[-2] + "_" + line.script_path.split("/")[-1]) + ".txt"
-        wav_path = write_voice_line_outputs(
+        subtitle_path, wav_path, metadata_path = write_voice_line_outputs(
+            index=index,
             line=line,
             subsong_index=subsong_index,
             acb_path=bank_local_paths[line.bank_name],
-            output_root=output_root,
+            items_dir=items_dir,
             vgmstream=vgmstream,
-            script_local_path=scripts_dir / script_local_name,
+            script_local_path=scripts_dir / script_local_name(line.script_path),
         )
         summary_rows.append(
             {
@@ -602,7 +1048,9 @@ def extract_rinha(args: argparse.Namespace) -> int:
                 "voice_cue": line.voice_cue,
                 "bank_name": line.bank_name,
                 "subsong_index": subsong_index,
+                "subtitle_file": str(subtitle_path),
                 "wav_file": str(wav_path),
+                "metadata_file": str(metadata_path),
                 "script_path": line.script_path,
                 "line_no": line.line_no,
                 "voice_line_no": line.voice_line_no,
@@ -612,7 +1060,7 @@ def extract_rinha(args: argparse.Namespace) -> int:
         export_progress.step(line.voice_cue)
     export_progress.finish()
 
-    summary_path = output_root / "rinha_lines.tsv"
+    summary_path = summary_lines_path(output_root, character_slug)
     with summary_path.open("w", encoding="utf-8", newline="") as fh:
         writer = csv.DictWriter(
             fh,
@@ -623,7 +1071,9 @@ def extract_rinha(args: argparse.Namespace) -> int:
                 "voice_cue",
                 "bank_name",
                 "subsong_index",
+                "subtitle_file",
                 "wav_file",
+                "metadata_file",
                 "script_path",
                 "line_no",
                 "voice_line_no",
@@ -639,10 +1089,20 @@ def extract_rinha(args: argparse.Namespace) -> int:
         "script_roots": script_roots,
         "script_max_kb": args.script_max_kb,
         "octo_root": args.octo_root,
-        "character_code": args.character_code,
-        "character_name": args.character_name,
-        "full_name": args.full_name,
-        "scripts_with_character_voice": krnh_script_paths,
+        "output_base": str(base_output),
+        "output_root": str(output_root),
+        "items_dir": str(items_dir),
+        "run_id": output_root.name,
+        "character_slug": character_slug,
+        "character_code": character_code,
+        "character_name": character_name,
+        "full_name": full_name,
+        "line_limit": line_limit or None,
+        "limited": limited_search,
+        "search_complete": search_complete,
+        "scanned_text_file_count": scanned_text_file_count,
+        "candidate_script_count": len(voice_script_paths),
+        "scripts_with_character_voice": voice_script_paths,
         "scripts_with_character_name": name_script_paths,
         "scripts_with_character_speaker_image": speaker_script_paths,
         "scripts_with_full_name_text": full_name_script_paths,
@@ -651,10 +1111,13 @@ def extract_rinha(args: argparse.Namespace) -> int:
         "unmatched_count": len(unmatched),
         "bank_count": len(bank_names),
         "bank_remote_paths": bank_remote_paths,
+        "bank_cache_path": str(bank_cache_path) if bank_cache_path else "",
+        "acb_cache_dir": str(shared_acb_dir) if shared_acb_dir else "",
+        "bank_cache_stats": asdict(bank_cache_stats),
     }
-    (reports_dir / "coverage.json").write_text(json.dumps(coverage, ensure_ascii=False, indent=2), encoding="utf-8")
+    (output_root / "coverage.json").write_text(json.dumps(coverage, ensure_ascii=False, indent=2), encoding="utf-8")
     if unmatched:
-        (reports_dir / "unmatched.json").write_text(
+        (output_root / "unmatched.json").write_text(
             json.dumps([asdict(line) for line in unmatched], ensure_ascii=False, indent=2),
             encoding="utf-8",
         )
@@ -663,29 +1126,78 @@ def extract_rinha(args: argparse.Namespace) -> int:
     print(f"voice lines exported: {len(summary_rows)}")
     print(f"summary: {summary_path}")
     print(f"items: {output_root / 'items'}")
+    print(f"bank cache stats: {asdict(bank_cache_stats)}")
     if unmatched:
         print(f"WARN: unmatched lines: {len(unmatched)}")
     return 0 if not unmatched else 2
 
 
+def extract_rinha(args: argparse.Namespace) -> int:
+    return extract_character(args)
+
+
+def print_characters(args: argparse.Namespace) -> int:
+    print(character_help_text())
+    return 0
+
+
+def add_extract_arguments(
+    parser: argparse.ArgumentParser,
+    *,
+    default_character: str = "",
+    default_output: Path = Path("output"),
+) -> None:
+    parser.add_argument("--adb", default=DEFAULT_ADB)
+    parser.add_argument("--device", default=DEFAULT_DEVICE)
+    parser.add_argument("--script-root", default="", help="Single legacy script root. Overrides --script-roots when set.")
+    parser.add_argument("--script-roots", default=",".join(DEFAULT_SCRIPT_ROOTS))
+    parser.add_argument("--script-max-kb", type=int, default=DEFAULT_SCRIPT_MAX_KB)
+    parser.add_argument("--no-progress", action="store_false", dest="progress", help="Disable progress bars.")
+    parser.add_argument("--octo-root", default=DEFAULT_OCTO_ROOT)
+    parser.add_argument("--character", default=default_character, help="Preset slug/code/name, e.g. kotone, fktn, 藤田ことね.")
+    parser.add_argument("--character-code", default="", help="Override or provide the voice cue code, e.g. fktn.")
+    parser.add_argument("--character-name", default="", help="Override or provide the ADV display name, e.g. ことね.")
+    parser.add_argument("--full-name", default="", help="Override or provide the full name search text, e.g. 藤田ことね.")
+    parser.add_argument("--character-slug", default="", help="Override output character directory name.")
+    parser.add_argument("--limit", type=int, default=0, help="Stop after N matched voice/subtitle items. 0 means full extraction.")
+    parser.add_argument("--run-id", default="", help="Run subdirectory name. Defaults to timestamp plus full/limitN.")
+    parser.add_argument("--voice-map", default="")
+    parser.add_argument("--bank-cache", default="", help="Persistent bank_name to remote ACB path cache. Defaults to <output>\\_cache\\bank_paths.json.")
+    parser.add_argument("--no-bank-cache", action="store_true", help="Disable persistent remote bank path cache.")
+    parser.add_argument("--acb-cache-dir", default="", help="Shared local ACB cache directory. Defaults to <output>\\_cache\\acb.")
+    parser.add_argument("--no-acb-cache", action="store_true", help="Disable shared local ACB cache.")
+    parser.add_argument("--vgmstream", default="")
+    parser.add_argument("--output", default=str(default_output), help="Base output directory; creates <output>\\<character>\\<run-id>.")
+    parser.set_defaults(func=extract_character)
+
+
 def build_parser() -> argparse.ArgumentParser:
-    parser = argparse.ArgumentParser(description="Extract Gakumasu character ADV subtitles and voice WAVs.")
+    parser = argparse.ArgumentParser(
+        description="Extract Gakumasu character ADV subtitles and voice WAVs.",
+        formatter_class=argparse.RawDescriptionHelpFormatter,
+        epilog=character_help_text(),
+    )
     subparsers = parser.add_subparsers(dest="command")
-    extract = subparsers.add_parser("extract-rinha", help="Extract Rinha/Kayo Rinha voice lines.")
-    extract.add_argument("--adb", default=DEFAULT_ADB)
-    extract.add_argument("--device", default=DEFAULT_DEVICE)
-    extract.add_argument("--script-root", default="", help="Single legacy script root. Overrides --script-roots when set.")
-    extract.add_argument("--script-roots", default=",".join(DEFAULT_SCRIPT_ROOTS))
-    extract.add_argument("--script-max-kb", type=int, default=DEFAULT_SCRIPT_MAX_KB)
-    extract.add_argument("--no-progress", action="store_false", dest="progress", help="Disable progress bars.")
-    extract.add_argument("--octo-root", default=DEFAULT_OCTO_ROOT)
-    extract.add_argument("--character-code", default=DEFAULT_CHARACTER_CODE)
-    extract.add_argument("--character-name", default=DEFAULT_CHARACTER_NAME)
-    extract.add_argument("--full-name", default="賀陽燐羽")
-    extract.add_argument("--voice-map", default="")
-    extract.add_argument("--vgmstream", default="")
-    extract.add_argument("--output", default=str(Path("output") / "rinha"))
-    extract.set_defaults(func=extract_rinha)
+    extract = subparsers.add_parser(
+        "extract",
+        help="Extract a character selected by --character or --character-code.",
+        formatter_class=argparse.RawDescriptionHelpFormatter,
+        epilog=character_help_text(),
+    )
+    add_extract_arguments(extract)
+    extract_character_legacy = subparsers.add_parser(
+        "extract-character",
+        help="Compatibility alias for extract.",
+        formatter_class=argparse.RawDescriptionHelpFormatter,
+        epilog=character_help_text(),
+    )
+    add_extract_arguments(extract_character_legacy)
+    rinha = subparsers.add_parser("extract-rinha", help="Extract Rinha/Kayo Rinha voice lines.")
+    add_extract_arguments(rinha, default_character="rinha")
+    kotone = subparsers.add_parser("extract-kotone", help="Extract Kotone/Fujita Kotone voice lines.")
+    add_extract_arguments(kotone, default_character="kotone")
+    characters = subparsers.add_parser("characters", help="List built-in character presets.")
+    characters.set_defaults(func=print_characters)
     return parser
 
 
