@@ -10,6 +10,12 @@ C:\Repositories\GakumasuVoice
 
 运行环境默认是 Windows Command Prompt，不要给用户 PowerShell 指令。
 
+BGM 抽取、外置 AWB、以及 `StreamAwbHash` 处理见：
+
+```text
+C:\Repositories\GakumasuVoice\BGM_EXTRACTION_GUIDE.md
+```
+
 ## 目标产物
 
 为指定角色导出一组一一对应的字幕和语音文件：
