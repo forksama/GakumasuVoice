@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/6/5236313536/f0bf2128a56cb96eb7bc211797cbe13f",
+  "line_no": 27,
+  "voice_line_no": 28,
+  "text": "もちろん、きみとこうして\n昼食をとる時間は、",
+  "speaker": "あさり先生",
+  "voice_cue": "sud_vo_adv_csprt-3-0020_01_nasr-004",
+  "bank_name": "sud_vo_adv_csprt-3-0020_01",
+  "start": 12.0219626572,
+  "duration": 3.5712462044,
+  "voice_start": 12.1219623239,
+  "voice_duration": 3.46,
+  "output_slug": "sud_vo_adv_csprt-3-0020_01_nasr-004",
+  "output_index": 152,
+  "subsong_index": 4,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\acb\\sud_vo_adv_csprt-3-0020_01.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\scripts\\5236313536_f0bf2128a56cb96eb7bc211797cbe13f.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0152_sud_vo_adv_csprt-3-0020_01_nasr-004_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0152_sud_vo_adv_csprt-3-0020_01_nasr-004_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0152_sud_vo_adv_csprt-3-0020_01_nasr-004_03_metadata.json"
+}

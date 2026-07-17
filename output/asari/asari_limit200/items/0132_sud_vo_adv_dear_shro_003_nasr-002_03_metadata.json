@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/6/5232303736/1bf985f1d698bfb75b6f4c833ea6015e",
+  "line_no": 12,
+  "voice_line_no": 13,
+  "text": "プロデューサーとしての大切な\n心構えについて、一言だけ。",
+  "speaker": "あさり先生",
+  "voice_cue": "sud_vo_adv_dear_shro_003_nasr-002",
+  "bank_name": "sud_vo_adv_dear_shro_003",
+  "start": 3.9533333015,
+  "duration": 4.5799993038,
+  "voice_start": 4.1,
+  "voice_duration": 4.373,
+  "output_slug": "sud_vo_adv_dear_shro_003_nasr-002",
+  "output_index": 132,
+  "subsong_index": 45,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\acb\\sud_vo_adv_dear_shro_003.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\scripts\\5232303736_1bf985f1d698bfb75b6f4c833ea6015e.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0132_sud_vo_adv_dear_shro_003_nasr-002_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0132_sud_vo_adv_dear_shro_003_nasr-002_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0132_sud_vo_adv_dear_shro_003_nasr-002_03_metadata.json"
+}

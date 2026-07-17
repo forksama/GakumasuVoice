@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5234393533/5c16801f33fe25acb52603dce92e3042",
+  "line_no": 39,
+  "voice_line_no": 41,
+  "text": "このライブは、\n定期的に開催されています。",
+  "speaker": "あさり先生",
+  "voice_cue": "sud_vo_adv_tutorial_first_cmmn-05_nasr-008",
+  "bank_name": "sud_vo_adv_tutorial_first_cmmn-05",
+  "start": 29.4543312671,
+  "duration": 3.1000007152,
+  "voice_start": 29.5326905582,
+  "voice_duration": 2.861,
+  "output_slug": "sud_vo_adv_tutorial_first_cmmn-05_nasr-008",
+  "output_index": 20,
+  "subsong_index": 8,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\acb\\sud_vo_adv_tutorial_first_cmmn-05.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\scripts\\5234393533_5c16801f33fe25acb52603dce92e3042.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0020_sud_vo_adv_tutorial_first_cmmn-05_nasr-008_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0020_sud_vo_adv_tutorial_first_cmmn-05_nasr-008_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0020_sud_vo_adv_tutorial_first_cmmn-05_nasr-008_03_metadata.json"
+}

@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/6/52373236/55f2beff02ac5f81ed47c036163e54a4",
+  "line_no": 31,
+  "voice_line_no": 32,
+  "text": "メインステージでライブをする\n権利を得るためには、",
+  "speaker": "あさり先生",
+  "voice_cue": "sud_vo_adv_pstory_001_cmmn_world-explanation_nasr-005",
+  "bank_name": "sud_vo_adv_pstory_001_cmmn_world-explanation",
+  "start": 21.8333348911,
+  "duration": 3.273333168,
+  "voice_start": 21.9333382244,
+  "voice_duration": 3.142,
+  "output_slug": "sud_vo_adv_pstory_001_cmmn_world-explanation_nasr-005",
+  "output_index": 166,
+  "subsong_index": 5,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\acb\\sud_vo_adv_pstory_001_cmmn_world-explanation.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\scripts\\52373236_55f2beff02ac5f81ed47c036163e54a4.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0166_sud_vo_adv_pstory_001_cmmn_world-explanation_nasr-005_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0166_sud_vo_adv_pstory_001_cmmn_world-explanation_nasr-005_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0166_sud_vo_adv_pstory_001_cmmn_world-explanation_nasr-005_03_metadata.json"
+}

@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/6/5231313936/cc214b04c3c474bad217844498979ea0",
+  "line_no": 11,
+  "voice_line_no": 8,
+  "text": "プロデューサーくん。\nこれが頼まれていた申請書です。",
+  "speaker": "あさり先生",
+  "voice_cue": "sud_vo_adv_csprt-3-0019_01_nasr-001",
+  "bank_name": "sud_vo_adv_csprt-3-0019_01",
+  "start": 0.8,
+  "duration": 4.149333292,
+  "voice_start": 0.9,
+  "voice_duration": 3.965,
+  "output_slug": "sud_vo_adv_csprt-3-0019_01_nasr-001",
+  "output_index": 134,
+  "subsong_index": 1,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\acb\\sud_vo_adv_csprt-3-0019_01.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\scripts\\5231313936_cc214b04c3c474bad217844498979ea0.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0134_sud_vo_adv_csprt-3-0019_01_nasr-001_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0134_sud_vo_adv_csprt-3-0019_01_nasr-001_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0134_sud_vo_adv_csprt-3-0019_01_nasr-001_03_metadata.json"
+}

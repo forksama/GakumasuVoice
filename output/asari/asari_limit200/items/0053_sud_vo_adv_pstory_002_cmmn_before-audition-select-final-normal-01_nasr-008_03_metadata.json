@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5233313033/ee9278116c24937baea9fd65f5aedf3d",
+  "line_no": 43,
+  "voice_line_no": 44,
+  "text": "運命の岐路に\nなるかもしれませんからね。",
+  "speaker": "あさり先生",
+  "voice_cue": "sud_vo_adv_pstory_002_cmmn_before-audition-select-final-normal-01_nasr-008",
+  "bank_name": "sud_vo_adv_pstory_002_cmmn_before-audition-select-final-normal-01",
+  "start": 31.1316707134,
+  "duration": 2.8716641235,
+  "voice_start": 31.2316707134,
+  "voice_duration": 2.605,
+  "output_slug": "sud_vo_adv_pstory_002_cmmn_before-audition-select-final-normal-01_nasr-008",
+  "output_index": 53,
+  "subsong_index": 8,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\acb\\sud_vo_adv_pstory_002_cmmn_before-audition-select-final-normal-01.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\scripts\\5233313033_ee9278116c24937baea9fd65f5aedf3d.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0053_sud_vo_adv_pstory_002_cmmn_before-audition-select-final-normal-01_nasr-008_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0053_sud_vo_adv_pstory_002_cmmn_before-audition-select-final-normal-01_nasr-008_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0053_sud_vo_adv_pstory_002_cmmn_before-audition-select-final-normal-01_nasr-008_03_metadata.json"
+}

@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/6/5231313936/cc214b04c3c474bad217844498979ea0",
+  "line_no": 31,
+  "voice_line_no": 32,
+  "text": "どういたしまして。\nこのくらい、お安い御用ですよ。",
+  "speaker": "あさり先生",
+  "voice_cue": "sud_vo_adv_csprt-3-0019_01_nasr-004",
+  "bank_name": "sud_vo_adv_csprt-3-0019_01",
+  "start": 15.5626652839,
+  "duration": 4.093999752,
+  "voice_start": 15.6626656971,
+  "voice_duration": 3.943,
+  "output_slug": "sud_vo_adv_csprt-3-0019_01_nasr-004",
+  "output_index": 137,
+  "subsong_index": 4,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\acb\\sud_vo_adv_csprt-3-0019_01.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\scripts\\5231313936_cc214b04c3c474bad217844498979ea0.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0137_sud_vo_adv_csprt-3-0019_01_nasr-004_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0137_sud_vo_adv_csprt-3-0019_01_nasr-004_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0137_sud_vo_adv_csprt-3-0019_01_nasr-004_03_metadata.json"
+}

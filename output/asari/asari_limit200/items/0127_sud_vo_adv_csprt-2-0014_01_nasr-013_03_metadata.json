@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/4/5234313834/36946e668517493833f52270b70f329a",
+  "line_no": 80,
+  "voice_line_no": 82,
+  "text": "そうだ、もしよかったら――",
+  "speaker": "あさり先生",
+  "voice_cue": "sud_vo_adv_csprt-2-0014_01_nasr-013",
+  "bank_name": "sud_vo_adv_csprt-2-0014_01",
+  "start": 57.8369071142,
+  "duration": 4.2509956622,
+  "voice_start": 57.9369027764,
+  "voice_duration": 4.151,
+  "output_slug": "sud_vo_adv_csprt-2-0014_01_nasr-013",
+  "output_index": 127,
+  "subsong_index": 13,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\acb\\sud_vo_adv_csprt-2-0014_01.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\scripts\\5234313834_36946e668517493833f52270b70f329a.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0127_sud_vo_adv_csprt-2-0014_01_nasr-013_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0127_sud_vo_adv_csprt-2-0014_01_nasr-013_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0127_sud_vo_adv_csprt-2-0014_01_nasr-013_03_metadata.json"
+}

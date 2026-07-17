@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/4/5231343234/9242706f3401fe1aee8eab7d1293b62f",
+  "line_no": 29,
+  "voice_line_no": 33,
+  "text": "もはや初星学園最大の催し――\nという枠では、収まり切らない！",
+  "speaker": "あさり先生",
+  "voice_cue": "sud_vo_adv_pstory_003_cmmn_world-explanation-selection_nasr-005",
+  "bank_name": "sud_vo_adv_pstory_003_cmmn_world-explanation-selection",
+  "start": 22.7793326562,
+  "duration": 5.9210011444,
+  "voice_start": 22.8793326562,
+  "voice_duration": 5.521,
+  "output_slug": "sud_vo_adv_pstory_003_cmmn_world-explanation-selection_nasr-005",
+  "output_index": 89,
+  "subsong_index": 5,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\acb\\sud_vo_adv_pstory_003_cmmn_world-explanation-selection.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\scripts\\5231343234_9242706f3401fe1aee8eab7d1293b62f.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0089_sud_vo_adv_pstory_003_cmmn_world-explanation-selection_nasr-005_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0089_sud_vo_adv_pstory_003_cmmn_world-explanation-selection_nasr-005_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0089_sud_vo_adv_pstory_003_cmmn_world-explanation-selection_nasr-005_03_metadata.json"
+}

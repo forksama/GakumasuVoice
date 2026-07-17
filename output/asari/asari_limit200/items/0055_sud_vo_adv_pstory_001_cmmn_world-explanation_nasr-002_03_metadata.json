@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5231353433/6e9b2802f6cfb98402e7cdea9ec99848",
+  "line_no": 15,
+  "voice_line_no": 16,
+  "text": "初星学園には定期的に行っている\n『初』という公演があるんです。",
+  "speaker": "あさり先生",
+  "voice_cue": "sud_vo_adv_pstory_001_cmmn_world-explanation_nasr-002",
+  "bank_name": "sud_vo_adv_pstory_001_cmmn_world-explanation",
+  "start": 6.9666665714,
+  "duration": 6.1666666031,
+  "voice_start": 7.0666669047,
+  "voice_duration": 6.026,
+  "output_slug": "sud_vo_adv_pstory_001_cmmn_world-explanation_nasr-002",
+  "output_index": 55,
+  "subsong_index": 2,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\acb\\sud_vo_adv_pstory_001_cmmn_world-explanation.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\scripts\\5231353433_6e9b2802f6cfb98402e7cdea9ec99848.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0055_sud_vo_adv_pstory_001_cmmn_world-explanation_nasr-002_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0055_sud_vo_adv_pstory_001_cmmn_world-explanation_nasr-002_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0055_sud_vo_adv_pstory_001_cmmn_world-explanation_nasr-002_03_metadata.json"
+}

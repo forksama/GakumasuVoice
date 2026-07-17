@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/4/5231393534/a35d08d8041d52040858265be7125421",
+  "line_no": 7,
+  "voice_line_no": 8,
+  "text": "プロデューサーくん。\nどうですか、秦谷さんの\nプロデュースは？",
+  "speaker": "あさり先生",
+  "voice_cue": "sud_vo_adv_dear_hmsz_004_nasr-001",
+  "bank_name": "sud_vo_adv_dear_hmsz_004",
+  "start": 0.8,
+  "duration": 4.224,
+  "voice_start": 0.9,
+  "voice_duration": 4.124,
+  "output_slug": "sud_vo_adv_dear_hmsz_004_nasr-001",
+  "output_index": 77,
+  "subsong_index": 30,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\acb\\sud_vo_adv_dear_hmsz_004.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\scripts\\5231393534_a35d08d8041d52040858265be7125421.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0077_sud_vo_adv_dear_hmsz_004_nasr-001_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0077_sud_vo_adv_dear_hmsz_004_nasr-001_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0077_sud_vo_adv_dear_hmsz_004_nasr-001_03_metadata.json"
+}

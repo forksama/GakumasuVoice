@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/4/5231393534/a35d08d8041d52040858265be7125421",
+  "line_no": 54,
+  "voice_line_no": 59,
+  "text": "御存知じゃありませんっ！",
+  "speaker": "あさり先生",
+  "voice_cue": "sud_vo_adv_dear_hmsz_004_nasr-008",
+  "bank_name": "sud_vo_adv_dear_hmsz_004",
+  "start": 56.1503290754,
+  "duration": 2.5786671753,
+  "voice_start": 56.2503290754,
+  "voice_duration": 2.012,
+  "output_slug": "sud_vo_adv_dear_hmsz_004_nasr-008",
+  "output_index": 84,
+  "subsong_index": 37,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\acb\\sud_vo_adv_dear_hmsz_004.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\scripts\\5231393534_a35d08d8041d52040858265be7125421.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0084_sud_vo_adv_dear_hmsz_004_nasr-008_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0084_sud_vo_adv_dear_hmsz_004_nasr-008_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0084_sud_vo_adv_dear_hmsz_004_nasr-008_03_metadata.json"
+}

@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/7/5232353337/389a7abec90efd42f699b6f514e9dab3",
+  "line_no": 27,
+  "voice_line_no": 28,
+  "text": "参加資格は、第一に、\nアイドル養成校の生徒であること。",
+  "speaker": "あさり先生",
+  "voice_cue": "sud_vo_adv_pstory_002_cmmn_world-explanation_nasr-005",
+  "bank_name": "sud_vo_adv_pstory_002_cmmn_world-explanation",
+  "start": 17.2333317598,
+  "duration": 5.5819989204,
+  "voice_start": 17.3333317598,
+  "voice_duration": 5.2820000648,
+  "output_slug": "sud_vo_adv_pstory_002_cmmn_world-explanation_nasr-005",
+  "output_index": 194,
+  "subsong_index": 5,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\acb\\sud_vo_adv_pstory_002_cmmn_world-explanation.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\scripts\\5232353337_389a7abec90efd42f699b6f514e9dab3.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0194_sud_vo_adv_pstory_002_cmmn_world-explanation_nasr-005_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0194_sud_vo_adv_pstory_002_cmmn_world-explanation_nasr-005_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0194_sud_vo_adv_pstory_002_cmmn_world-explanation_nasr-005_03_metadata.json"
+}

@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5231353433/6e9b2802f6cfb98402e7cdea9ec99848",
+  "line_no": 38,
+  "voice_line_no": 39,
+  "text": "最終試験の結果は特に重要です。",
+  "speaker": "あさり先生",
+  "voice_cue": "sud_vo_adv_pstory_001_cmmn_world-explanation_nasr-007",
+  "bank_name": "sud_vo_adv_pstory_001_cmmn_world-explanation",
+  "start": 28.8666687329,
+  "duration": 2.9666658402,
+  "voice_start": 28.9666653996,
+  "voice_duration": 2.775,
+  "output_slug": "sud_vo_adv_pstory_001_cmmn_world-explanation_nasr-007",
+  "output_index": 60,
+  "subsong_index": 7,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\acb\\sud_vo_adv_pstory_001_cmmn_world-explanation.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\scripts\\5231353433_6e9b2802f6cfb98402e7cdea9ec99848.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0060_sud_vo_adv_pstory_001_cmmn_world-explanation_nasr-007_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0060_sud_vo_adv_pstory_001_cmmn_world-explanation_nasr-007_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0060_sud_vo_adv_pstory_001_cmmn_world-explanation_nasr-007_03_metadata.json"
+}

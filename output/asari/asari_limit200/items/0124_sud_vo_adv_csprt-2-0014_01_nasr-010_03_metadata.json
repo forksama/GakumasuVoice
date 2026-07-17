@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/4/5234313834/36946e668517493833f52270b70f329a",
+  "line_no": 63,
+  "voice_line_no": 64,
+  "text": "プロデューサー科の生徒は、\nきみより年上の方も多いんですから。",
+  "speaker": "あさり先生",
+  "voice_cue": "sud_vo_adv_csprt-2-0014_01_nasr-010",
+  "bank_name": "sud_vo_adv_csprt-2-0014_01",
+  "start": 43.1962447708,
+  "duration": 4.5290018203,
+  "voice_start": 43.2962465911,
+  "voice_duration": 4.429,
+  "output_slug": "sud_vo_adv_csprt-2-0014_01_nasr-010",
+  "output_index": 124,
+  "subsong_index": 10,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\acb\\sud_vo_adv_csprt-2-0014_01.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\scripts\\5234313834_36946e668517493833f52270b70f329a.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0124_sud_vo_adv_csprt-2-0014_01_nasr-010_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0124_sud_vo_adv_csprt-2-0014_01_nasr-010_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0124_sud_vo_adv_csprt-2-0014_01_nasr-010_03_metadata.json"
+}

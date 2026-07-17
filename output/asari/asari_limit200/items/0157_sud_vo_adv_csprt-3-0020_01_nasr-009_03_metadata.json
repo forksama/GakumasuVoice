@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/6/5236313536/f0bf2128a56cb96eb7bc211797cbe13f",
+  "line_no": 64,
+  "voice_line_no": 65,
+  "text": "う～ん……とってもいいことですよ。\nいいことなのですが……",
+  "speaker": "あさり先生",
+  "voice_cue": "sud_vo_adv_csprt-3-0020_01_nasr-009",
+  "bank_name": "sud_vo_adv_csprt-3-0020_01",
+  "start": 48.7712375595,
+  "duration": 7.5007838592,
+  "voice_start": 48.8712342262,
+  "voice_duration": 7.386,
+  "output_slug": "sud_vo_adv_csprt-3-0020_01_nasr-009",
+  "output_index": 157,
+  "subsong_index": 9,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\acb\\sud_vo_adv_csprt-3-0020_01.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\scripts\\5236313536_f0bf2128a56cb96eb7bc211797cbe13f.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0157_sud_vo_adv_csprt-3-0020_01_nasr-009_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0157_sud_vo_adv_csprt-3-0020_01_nasr-009_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0157_sud_vo_adv_csprt-3-0020_01_nasr-009_03_metadata.json"
+}

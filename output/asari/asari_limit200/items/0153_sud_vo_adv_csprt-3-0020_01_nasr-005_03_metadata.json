@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/6/5236313536/f0bf2128a56cb96eb7bc211797cbe13f",
+  "line_no": 32,
+  "voice_line_no": 33,
+  "text": "わたしにとってもかけがえのない\nものです。ですけどね――……",
+  "speaker": "あさり先生",
+  "voice_cue": "sud_vo_adv_csprt-3-0020_01_nasr-005",
+  "bank_name": "sud_vo_adv_csprt-3-0020_01",
+  "start": 15.7865421378,
+  "duration": 4.3786318931,
+  "voice_start": 15.8865454711,
+  "voice_duration": 4.266,
+  "output_slug": "sud_vo_adv_csprt-3-0020_01_nasr-005",
+  "output_index": 153,
+  "subsong_index": 5,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\acb\\sud_vo_adv_csprt-3-0020_01.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\scripts\\5236313536_f0bf2128a56cb96eb7bc211797cbe13f.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0153_sud_vo_adv_csprt-3-0020_01_nasr-005_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0153_sud_vo_adv_csprt-3-0020_01_nasr-005_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0153_sud_vo_adv_csprt-3-0020_01_nasr-005_03_metadata.json"
+}

@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/4/5236353634/0d9010b7bd6fbcc5075ce4a5672f07dc",
+  "line_no": 29,
+  "voice_line_no": 31,
+  "text": "あれ……プロデューサーくん。\nどうしたんですか？",
+  "speaker": "あさり先生",
+  "voice_cue": "sud_vo_adv_startup_2026_ef-01_cmmn-01_nasr-001",
+  "bank_name": "sud_vo_adv_startup_2026_ef-01_cmmn-01",
+  "start": 8.7333327216,
+  "duration": 5.346665001,
+  "voice_start": 8.8333327216,
+  "voice_duration": 5.198,
+  "output_slug": "sud_vo_adv_startup_2026_ef-01_cmmn-01_nasr-001",
+  "output_index": 107,
+  "subsong_index": 1,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\acb\\sud_vo_adv_startup_2026_ef-01_cmmn-01.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\scripts\\5236353634_0d9010b7bd6fbcc5075ce4a5672f07dc.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0107_sud_vo_adv_startup_2026_ef-01_cmmn-01_nasr-001_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0107_sud_vo_adv_startup_2026_ef-01_cmmn-01_nasr-001_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0107_sud_vo_adv_startup_2026_ef-01_cmmn-01_nasr-001_03_metadata.json"
+}

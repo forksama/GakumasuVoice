@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5231353233/18061077c41ce15a66bb707365dd2051",
+  "line_no": 27,
+  "voice_line_no": 28,
+  "text": "……先生、そんな質問をされたのは\n生まれてはじめてです。",
+  "speaker": "あさり先生",
+  "voice_cue": "sud_vo_adv_csprt-2-0014_02_nasr-003",
+  "bank_name": "sud_vo_adv_csprt-2-0014_02",
+  "start": 12.95300089,
+  "duration": 5.8863333683,
+  "voice_start": 13.0530035876,
+  "voice_duration": 5.625,
+  "output_slug": "sud_vo_adv_csprt-2-0014_02_nasr-003",
+  "output_index": 36,
+  "subsong_index": 3,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\acb\\sud_vo_adv_csprt-2-0014_02.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\scripts\\5231353233_18061077c41ce15a66bb707365dd2051.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0036_sud_vo_adv_csprt-2-0014_02_nasr-003_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0036_sud_vo_adv_csprt-2-0014_02_nasr-003_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0036_sud_vo_adv_csprt-2-0014_02_nasr-003_03_metadata.json"
+}

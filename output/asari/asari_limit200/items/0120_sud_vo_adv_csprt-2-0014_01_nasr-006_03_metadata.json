@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/4/5234313834/36946e668517493833f52270b70f329a",
+  "line_no": 40,
+  "voice_line_no": 41,
+  "text": "では、プライベートはどうでしょう？",
+  "speaker": "あさり先生",
+  "voice_cue": "sud_vo_adv_csprt-2-0014_01_nasr-006",
+  "bank_name": "sud_vo_adv_csprt-2-0014_01",
+  "start": 25.044242355,
+  "duration": 2.8660004958,
+  "voice_start": 25.1442430036,
+  "voice_duration": 2.646,
+  "output_slug": "sud_vo_adv_csprt-2-0014_01_nasr-006",
+  "output_index": 120,
+  "subsong_index": 6,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\acb\\sud_vo_adv_csprt-2-0014_01.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\scripts\\5234313834_36946e668517493833f52270b70f329a.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0120_sud_vo_adv_csprt-2-0014_01_nasr-006_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0120_sud_vo_adv_csprt-2-0014_01_nasr-006_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0120_sud_vo_adv_csprt-2-0014_01_nasr-006_03_metadata.json"
+}

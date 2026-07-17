@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5231353233/18061077c41ce15a66bb707365dd2051",
+  "line_no": 13,
+  "voice_line_no": 14,
+  "text": "はい。なんですか、プロデューサーくん。",
+  "speaker": "あさり先生",
+  "voice_cue": "sud_vo_adv_csprt-2-0014_02_nasr-001",
+  "bank_name": "sud_vo_adv_csprt-2-0014_02",
+  "start": 3.0666666667,
+  "duration": 2.6419998855,
+  "voice_start": 3.166667,
+  "voice_duration": 2.402,
+  "output_slug": "sud_vo_adv_csprt-2-0014_02_nasr-001",
+  "output_index": 34,
+  "subsong_index": 1,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\acb\\sud_vo_adv_csprt-2-0014_02.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\scripts\\5231353233_18061077c41ce15a66bb707365dd2051.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0034_sud_vo_adv_csprt-2-0014_02_nasr-001_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0034_sud_vo_adv_csprt-2-0014_02_nasr-001_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0034_sud_vo_adv_csprt-2-0014_02_nasr-001_03_metadata.json"
+}

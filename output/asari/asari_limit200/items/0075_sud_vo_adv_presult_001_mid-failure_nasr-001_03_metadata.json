@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/4/5234383634/ed8f036a9535844ae763022b213883c8",
+  "line_no": 16,
+  "voice_line_no": 17,
+  "text": "試験、お疲れさまでした。\n厳しい結果になりましたね……",
+  "speaker": "あさり先生",
+  "voice_cue": "sud_vo_adv_presult_001_mid-failure_nasr-001",
+  "bank_name": "sud_vo_adv_presult_001_mid-failure",
+  "start": 2.53333323,
+  "duration": 5.2263335018,
+  "voice_start": 2.709842205,
+  "voice_duration": 4.686,
+  "output_slug": "sud_vo_adv_presult_001_mid-failure_nasr-001",
+  "output_index": 75,
+  "subsong_index": 1,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\acb\\sud_vo_adv_presult_001_mid-failure.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\scripts\\5234383634_ed8f036a9535844ae763022b213883c8.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0075_sud_vo_adv_presult_001_mid-failure_nasr-001_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0075_sud_vo_adv_presult_001_mid-failure_nasr-001_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0075_sud_vo_adv_presult_001_mid-failure_nasr-001_03_metadata.json"
+}

@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/4/5231343234/9242706f3401fe1aee8eab7d1293b62f",
+  "line_no": 123,
+  "voice_line_no": 124,
+  "text": "きみと、きみの担当アイドルが、\nどこまで健闘できるのか――",
+  "speaker": "あさり先生",
+  "voice_cue": "sud_vo_adv_pstory_003_cmmn_world-explanation-selection_nasr-021",
+  "bank_name": "sud_vo_adv_pstory_003_cmmn_world-explanation-selection",
+  "start": 101.8819770455,
+  "duration": 4.8569969483,
+  "voice_start": 101.9819770455,
+  "voice_duration": 4.557,
+  "output_slug": "sud_vo_adv_pstory_003_cmmn_world-explanation-selection_nasr-021",
+  "output_index": 105,
+  "subsong_index": 21,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\acb\\sud_vo_adv_pstory_003_cmmn_world-explanation-selection.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\scripts\\5231343234_9242706f3401fe1aee8eab7d1293b62f.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0105_sud_vo_adv_pstory_003_cmmn_world-explanation-selection_nasr-021_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0105_sud_vo_adv_pstory_003_cmmn_world-explanation-selection_nasr-021_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0105_sud_vo_adv_pstory_003_cmmn_world-explanation-selection_nasr-021_03_metadata.json"
+}

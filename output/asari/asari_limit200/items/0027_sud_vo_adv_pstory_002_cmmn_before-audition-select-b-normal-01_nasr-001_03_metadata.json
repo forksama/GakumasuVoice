@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5235303533/160fc8d771fe33c6bbe2d4ffdc999bc2",
+  "line_no": 9,
+  "voice_line_no": 10,
+  "text": "プロデューサーくん、\nオーディションが近づいてきましたよ。",
+  "speaker": "あさり先生",
+  "voice_cue": "sud_vo_adv_pstory_002_cmmn_before-audition-select-b-normal-01_nasr-001",
+  "bank_name": "sud_vo_adv_pstory_002_cmmn_before-audition-select-b-normal-01",
+  "start": 0.8,
+  "duration": 4.0750001907,
+  "voice_start": 0.9,
+  "voice_duration": 3.675,
+  "output_slug": "sud_vo_adv_pstory_002_cmmn_before-audition-select-b-normal-01_nasr-001",
+  "output_index": 27,
+  "subsong_index": 1,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\acb\\sud_vo_adv_pstory_002_cmmn_before-audition-select-b-normal-01.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\scripts\\5235303533_160fc8d771fe33c6bbe2d4ffdc999bc2.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0027_sud_vo_adv_pstory_002_cmmn_before-audition-select-b-normal-01_nasr-001_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0027_sud_vo_adv_pstory_002_cmmn_before-audition-select-b-normal-01_nasr-001_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0027_sud_vo_adv_pstory_002_cmmn_before-audition-select-b-normal-01_nasr-001_03_metadata.json"
+}

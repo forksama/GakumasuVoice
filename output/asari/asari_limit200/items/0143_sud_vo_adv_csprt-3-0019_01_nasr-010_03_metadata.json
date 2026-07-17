@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/6/5231313936/cc214b04c3c474bad217844498979ea0",
+  "line_no": 70,
+  "voice_line_no": 71,
+  "text": "先生は、知っています。",
+  "speaker": "あさり先生",
+  "voice_cue": "sud_vo_adv_csprt-3-0019_01_nasr-010",
+  "bank_name": "sud_vo_adv_csprt-3-0019_01",
+  "start": 48.1969993801,
+  "duration": 1.7063373642,
+  "voice_start": 48.2969977589,
+  "voice_duration": 1.542,
+  "output_slug": "sud_vo_adv_csprt-3-0019_01_nasr-010",
+  "output_index": 143,
+  "subsong_index": 10,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\acb\\sud_vo_adv_csprt-3-0019_01.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\scripts\\5231313936_cc214b04c3c474bad217844498979ea0.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0143_sud_vo_adv_csprt-3-0019_01_nasr-010_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0143_sud_vo_adv_csprt-3-0019_01_nasr-010_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0143_sud_vo_adv_csprt-3-0019_01_nasr-010_03_metadata.json"
+}

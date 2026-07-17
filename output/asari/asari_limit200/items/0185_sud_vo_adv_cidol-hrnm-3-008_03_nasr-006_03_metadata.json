@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/6/5234383736/f112bced2e0f553b65d6a108646fc0f6",
+  "line_no": 106,
+  "voice_line_no": 107,
+  "text": "そういえば、今日は姫崎さんの\nライブでしたね。",
+  "speaker": "あさり先生",
+  "voice_cue": "sud_vo_adv_cidol-hrnm-3-008_03_nasr-006",
+  "bank_name": "sud_vo_adv_cidol-hrnm-3-008_03",
+  "start": 82.4339957877,
+  "duration": 3.58,
+  "voice_start": 82.5339957877,
+  "voice_duration": 3.48,
+  "output_slug": "sud_vo_adv_cidol-hrnm-3-008_03_nasr-006",
+  "output_index": 185,
+  "subsong_index": 44,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\acb\\sud_vo_adv_cidol-hrnm-3-008_03.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\scripts\\5234383736_f112bced2e0f553b65d6a108646fc0f6.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0185_sud_vo_adv_cidol-hrnm-3-008_03_nasr-006_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0185_sud_vo_adv_cidol-hrnm-3-008_03_nasr-006_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0185_sud_vo_adv_cidol-hrnm-3-008_03_nasr-006_03_metadata.json"
+}

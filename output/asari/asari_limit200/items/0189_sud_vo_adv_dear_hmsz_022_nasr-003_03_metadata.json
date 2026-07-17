@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/7/5231343937/99a57df031812d0ac77d6115fd81eb2a",
+  "line_no": 276,
+  "voice_line_no": 277,
+  "text": "辛い悔しさや、前向きな目標を\nアイドルと共有できたなら上出来です♪",
+  "speaker": "あさり先生",
+  "voice_cue": "sud_vo_adv_dear_hmsz_022_nasr-003",
+  "bank_name": "sud_vo_adv_dear_hmsz_022",
+  "start": 289.7279825521,
+  "duration": 6.014,
+  "voice_start": 289.8279825521,
+  "voice_duration": 5.914,
+  "output_slug": "sud_vo_adv_dear_hmsz_022_nasr-003",
+  "output_index": 189,
+  "subsong_index": 45,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\acb\\sud_vo_adv_dear_hmsz_022.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\scripts\\5231343937_99a57df031812d0ac77d6115fd81eb2a.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0189_sud_vo_adv_dear_hmsz_022_nasr-003_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0189_sud_vo_adv_dear_hmsz_022_nasr-003_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0189_sud_vo_adv_dear_hmsz_022_nasr-003_03_metadata.json"
+}

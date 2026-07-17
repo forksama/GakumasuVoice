@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/4/5231343234/9242706f3401fe1aee8eab7d1293b62f",
+  "line_no": 34,
+  "voice_line_no": 40,
+  "text": "そう判断されたがゆえの\n決定だそうです。",
+  "speaker": "あさり先生",
+  "voice_cue": "sud_vo_adv_pstory_003_cmmn_world-explanation-selection_nasr-006",
+  "bank_name": "sud_vo_adv_pstory_003_cmmn_world-explanation-selection",
+  "start": 28.9070005245,
+  "duration": 3.1899992371,
+  "voice_start": 29.0070005245,
+  "voice_duration": 2.79,
+  "output_slug": "sud_vo_adv_pstory_003_cmmn_world-explanation-selection_nasr-006",
+  "output_index": 90,
+  "subsong_index": 6,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\acb\\sud_vo_adv_pstory_003_cmmn_world-explanation-selection.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\scripts\\5231343234_9242706f3401fe1aee8eab7d1293b62f.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0090_sud_vo_adv_pstory_003_cmmn_world-explanation-selection_nasr-006_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0090_sud_vo_adv_pstory_003_cmmn_world-explanation-selection_nasr-006_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0090_sud_vo_adv_pstory_003_cmmn_world-explanation-selection_nasr-006_03_metadata.json"
+}

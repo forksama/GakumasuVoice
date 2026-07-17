@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/7/5232353337/389a7abec90efd42f699b6f514e9dab3",
+  "line_no": 21,
+  "voice_line_no": 22,
+  "text": "大会期間中、各学園が主催する\nオーディションがいくつも催されます。",
+  "speaker": "あさり先生",
+  "voice_cue": "sud_vo_adv_pstory_002_cmmn_world-explanation_nasr-004",
+  "bank_name": "sud_vo_adv_pstory_002_cmmn_world-explanation",
+  "start": 11.4333329042,
+  "duration": 5.6079989433,
+  "voice_start": 11.5333329042,
+  "voice_duration": 5.3080000877,
+  "output_slug": "sud_vo_adv_pstory_002_cmmn_world-explanation_nasr-004",
+  "output_index": 193,
+  "subsong_index": 4,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\acb\\sud_vo_adv_pstory_002_cmmn_world-explanation.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\scripts\\5232353337_389a7abec90efd42f699b6f514e9dab3.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0193_sud_vo_adv_pstory_002_cmmn_world-explanation_nasr-004_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0193_sud_vo_adv_pstory_002_cmmn_world-explanation_nasr-004_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0193_sud_vo_adv_pstory_002_cmmn_world-explanation_nasr-004_03_metadata.json"
+}

@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5236353033/66957cba034ae31d41a98cd2d960984e",
+  "line_no": 16,
+  "voice_line_no": 19,
+  "text": "……せ、先生まで\n緊張してきちゃいました……！",
+  "speaker": "あさり先生",
+  "voice_cue": "sud_vo_adv_pstory_003_cmmn_selection-03-normal-01_nasr-003",
+  "bank_name": "sud_vo_adv_pstory_003_cmmn_selection-03-normal-01",
+  "start": 10.3666670481,
+  "duration": 5.2689996719,
+  "voice_start": 10.4666670481,
+  "voice_duration": 4.9689998627,
+  "output_slug": "sud_vo_adv_pstory_003_cmmn_selection-03-normal-01_nasr-003",
+  "output_index": 68,
+  "subsong_index": 3,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\acb\\sud_vo_adv_pstory_003_cmmn_selection-03-normal-01.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\scripts\\5236353033_66957cba034ae31d41a98cd2d960984e.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0068_sud_vo_adv_pstory_003_cmmn_selection-03-normal-01_nasr-003_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0068_sud_vo_adv_pstory_003_cmmn_selection-03-normal-01_nasr-003_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0068_sud_vo_adv_pstory_003_cmmn_selection-03-normal-01_nasr-003_03_metadata.json"
+}

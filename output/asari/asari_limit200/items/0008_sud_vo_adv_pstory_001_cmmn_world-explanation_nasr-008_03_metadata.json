@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/52333233/91ba871477f411619acb005f396314fe",
+  "line_no": 43,
+  "voice_line_no": 44,
+  "text": "さあ、思い浮かべてみてください。",
+  "speaker": "あさり先生",
+  "voice_cue": "sud_vo_adv_pstory_001_cmmn_world-explanation_nasr-008",
+  "bank_name": "sud_vo_adv_pstory_001_cmmn_world-explanation",
+  "start": 32.0333341281,
+  "duration": 3.0000005723,
+  "voice_start": 32.1333307948,
+  "voice_duration": 2.842,
+  "output_slug": "sud_vo_adv_pstory_001_cmmn_world-explanation_nasr-008",
+  "output_index": 8,
+  "subsong_index": 8,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\acb\\sud_vo_adv_pstory_001_cmmn_world-explanation.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\scripts\\52333233_91ba871477f411619acb005f396314fe.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0008_sud_vo_adv_pstory_001_cmmn_world-explanation_nasr-008_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0008_sud_vo_adv_pstory_001_cmmn_world-explanation_nasr-008_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0008_sud_vo_adv_pstory_001_cmmn_world-explanation_nasr-008_03_metadata.json"
+}

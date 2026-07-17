@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/4/5231343234/9242706f3401fe1aee8eab7d1293b62f",
+  "line_no": 90,
+  "voice_line_no": 93,
+  "text": "まずはより厳しくなった、\n『H.I.Fセレクション』について。",
+  "speaker": "あさり先生",
+  "voice_cue": "sud_vo_adv_pstory_003_cmmn_world-explanation-selection_nasr-015",
+  "bank_name": "sud_vo_adv_pstory_003_cmmn_world-explanation-selection",
+  "start": 68.017650747,
+  "duration": 4.7580030518,
+  "voice_start": 68.117650747,
+  "voice_duration": 4.358,
+  "output_slug": "sud_vo_adv_pstory_003_cmmn_world-explanation-selection_nasr-015",
+  "output_index": 99,
+  "subsong_index": 15,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\acb\\sud_vo_adv_pstory_003_cmmn_world-explanation-selection.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\scripts\\5231343234_9242706f3401fe1aee8eab7d1293b62f.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0099_sud_vo_adv_pstory_003_cmmn_world-explanation-selection_nasr-015_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0099_sud_vo_adv_pstory_003_cmmn_world-explanation-selection_nasr-015_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0099_sud_vo_adv_pstory_003_cmmn_world-explanation-selection_nasr-015_03_metadata.json"
+}

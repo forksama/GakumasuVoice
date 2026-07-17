@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/4/5231343234/9242706f3401fe1aee8eab7d1293b62f",
+  "line_no": 48,
+  "voice_line_no": 52,
+  "text": "お答えしましょう。\n次回以降の『H.I.F』では、",
+  "speaker": "あさり先生",
+  "voice_cue": "sud_vo_adv_pstory_003_cmmn_world-explanation-selection_nasr-008",
+  "bank_name": "sud_vo_adv_pstory_003_cmmn_world-explanation-selection",
+  "start": 38.0749989701,
+  "duration": 4.9259969483,
+  "voice_start": 38.1749989701,
+  "voice_duration": 4.626,
+  "output_slug": "sud_vo_adv_pstory_003_cmmn_world-explanation-selection_nasr-008",
+  "output_index": 92,
+  "subsong_index": 8,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\acb\\sud_vo_adv_pstory_003_cmmn_world-explanation-selection.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\scripts\\5231343234_9242706f3401fe1aee8eab7d1293b62f.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0092_sud_vo_adv_pstory_003_cmmn_world-explanation-selection_nasr-008_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0092_sud_vo_adv_pstory_003_cmmn_world-explanation-selection_nasr-008_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0092_sud_vo_adv_pstory_003_cmmn_world-explanation-selection_nasr-008_03_metadata.json"
+}

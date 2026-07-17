@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/6/5232303736/1bf985f1d698bfb75b6f4c833ea6015e",
+  "line_no": 20,
+  "voice_line_no": 21,
+  "text": "担当アイドルを深く理解すること！\n基本にして、極意ですよ。",
+  "speaker": "あさり先生",
+  "voice_cue": "sud_vo_adv_dear_shro_003_nasr-003",
+  "bank_name": "sud_vo_adv_dear_shro_003",
+  "start": 8.7333326339,
+  "duration": 5.6533332825,
+  "voice_start": 8.8333333333,
+  "voice_duration": 5.529,
+  "output_slug": "sud_vo_adv_dear_shro_003_nasr-003",
+  "output_index": 133,
+  "subsong_index": 46,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\acb\\sud_vo_adv_dear_shro_003.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\scripts\\5232303736_1bf985f1d698bfb75b6f4c833ea6015e.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0133_sud_vo_adv_dear_shro_003_nasr-003_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0133_sud_vo_adv_dear_shro_003_nasr-003_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0133_sud_vo_adv_dear_shro_003_nasr-003_03_metadata.json"
+}

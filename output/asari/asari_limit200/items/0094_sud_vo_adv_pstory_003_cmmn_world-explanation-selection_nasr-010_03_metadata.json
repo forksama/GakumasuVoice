@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/4/5231343234/9242706f3401fe1aee8eab7d1293b62f",
+  "line_no": 56,
+  "voice_line_no": 63,
+  "text": "ソロとユニットによる\n部門分けがなくなります。",
+  "speaker": "あさり先生",
+  "voice_cue": "sud_vo_adv_pstory_003_cmmn_world-explanation-selection_nasr-010",
+  "bank_name": "sud_vo_adv_pstory_003_cmmn_world-explanation-selection",
+  "start": 47.0509949648,
+  "duration": 3.4859992371,
+  "voice_start": 47.1509949648,
+  "voice_duration": 3.086,
+  "output_slug": "sud_vo_adv_pstory_003_cmmn_world-explanation-selection_nasr-010",
+  "output_index": 94,
+  "subsong_index": 10,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\acb\\sud_vo_adv_pstory_003_cmmn_world-explanation-selection.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\scripts\\5231343234_9242706f3401fe1aee8eab7d1293b62f.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0094_sud_vo_adv_pstory_003_cmmn_world-explanation-selection_nasr-010_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0094_sud_vo_adv_pstory_003_cmmn_world-explanation-selection_nasr-010_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0094_sud_vo_adv_pstory_003_cmmn_world-explanation-selection_nasr-010_03_metadata.json"
+}

@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/52333233/91ba871477f411619acb005f396314fe",
+  "line_no": 19,
+  "voice_line_no": 20,
+  "text": "中間と最終、\n2回の試験を突破することで、",
+  "speaker": "あさり先生",
+  "voice_cue": "sud_vo_adv_pstory_001_cmmn_world-explanation_nasr-003",
+  "bank_name": "sud_vo_adv_pstory_001_cmmn_world-explanation",
+  "start": 13.3333333652,
+  "duration": 4.0866676331,
+  "voice_start": 13.4333336985,
+  "voice_duration": 3.971,
+  "output_slug": "sud_vo_adv_pstory_001_cmmn_world-explanation_nasr-003",
+  "output_index": 3,
+  "subsong_index": 3,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\acb\\sud_vo_adv_pstory_001_cmmn_world-explanation.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\scripts\\52333233_91ba871477f411619acb005f396314fe.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0003_sud_vo_adv_pstory_001_cmmn_world-explanation_nasr-003_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0003_sud_vo_adv_pstory_001_cmmn_world-explanation_nasr-003_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0003_sud_vo_adv_pstory_001_cmmn_world-explanation_nasr-003_03_metadata.json"
+}

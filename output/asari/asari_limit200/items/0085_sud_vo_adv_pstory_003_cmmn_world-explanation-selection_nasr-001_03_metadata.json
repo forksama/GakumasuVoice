@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/4/5231343234/9242706f3401fe1aee8eab7d1293b62f",
+  "line_no": 7,
+  "voice_line_no": 9,
+  "text": "プロデューサーくん。\n今日はとっても大事な授業をします。",
+  "speaker": "あさり先生",
+  "voice_cue": "sud_vo_adv_pstory_003_cmmn_world-explanation-selection_nasr-001",
+  "bank_name": "sud_vo_adv_pstory_003_cmmn_world-explanation-selection",
+  "start": 0.8,
+  "duration": 4.6780000953,
+  "voice_start": 0.9,
+  "voice_duration": 4.178,
+  "output_slug": "sud_vo_adv_pstory_003_cmmn_world-explanation-selection_nasr-001",
+  "output_index": 85,
+  "subsong_index": 1,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\acb\\sud_vo_adv_pstory_003_cmmn_world-explanation-selection.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\scripts\\5231343234_9242706f3401fe1aee8eab7d1293b62f.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0085_sud_vo_adv_pstory_003_cmmn_world-explanation-selection_nasr-001_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0085_sud_vo_adv_pstory_003_cmmn_world-explanation-selection_nasr-001_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0085_sud_vo_adv_pstory_003_cmmn_world-explanation-selection_nasr-001_03_metadata.json"
+}

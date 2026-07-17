@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/6/5231313936/cc214b04c3c474bad217844498979ea0",
+  "line_no": 23,
+  "voice_line_no": 24,
+  "text": "きみのレポートを読んで、\nわたしの意見をまとめたものです。",
+  "speaker": "あさり先生",
+  "voice_cue": "sud_vo_adv_csprt-3-0019_01_nasr-003",
+  "bank_name": "sud_vo_adv_csprt-3-0019_01",
+  "start": 8.7786663647,
+  "duration": 3.7373330917,
+  "voice_start": 8.8786664446,
+  "voice_duration": 3.593,
+  "output_slug": "sud_vo_adv_csprt-3-0019_01_nasr-003",
+  "output_index": 136,
+  "subsong_index": 3,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\acb\\sud_vo_adv_csprt-3-0019_01.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\scripts\\5231313936_cc214b04c3c474bad217844498979ea0.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0136_sud_vo_adv_csprt-3-0019_01_nasr-003_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0136_sud_vo_adv_csprt-3-0019_01_nasr-003_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0136_sud_vo_adv_csprt-3-0019_01_nasr-003_03_metadata.json"
+}

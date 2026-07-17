@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5231353433/6e9b2802f6cfb98402e7cdea9ec99848",
+  "line_no": 76,
+  "voice_line_no": 77,
+  "text": "その光景が現実になるよう、\nがんばっていきましょう。",
+  "speaker": "あさり先生",
+  "voice_cue": "sud_vo_adv_pstory_001_cmmn_world-explanation_nasr-012",
+  "bank_name": "sud_vo_adv_pstory_001_cmmn_world-explanation",
+  "start": 78.1333214441,
+  "duration": 3.6666685105,
+  "voice_start": 78.2333181108,
+  "voice_duration": 3.491,
+  "output_slug": "sud_vo_adv_pstory_001_cmmn_world-explanation_nasr-012",
+  "output_index": 65,
+  "subsong_index": 12,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\acb\\sud_vo_adv_pstory_001_cmmn_world-explanation.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\scripts\\5231353433_6e9b2802f6cfb98402e7cdea9ec99848.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0065_sud_vo_adv_pstory_001_cmmn_world-explanation_nasr-012_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0065_sud_vo_adv_pstory_001_cmmn_world-explanation_nasr-012_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0065_sud_vo_adv_pstory_001_cmmn_world-explanation_nasr-012_03_metadata.json"
+}

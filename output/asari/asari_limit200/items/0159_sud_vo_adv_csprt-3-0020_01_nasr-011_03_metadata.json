@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/6/5236313536/f0bf2128a56cb96eb7bc211797cbe13f",
+  "line_no": 77,
+  "voice_line_no": 78,
+  "text": "他愛のない雑談です。\n趣味とか……恋愛とか……",
+  "speaker": "あさり先生",
+  "voice_cue": "sud_vo_adv_csprt-3-0020_01_nasr-011",
+  "bank_name": "sud_vo_adv_csprt-3-0020_01",
+  "start": 62.8271016342,
+  "duration": 6.6611172027,
+  "voice_start": 62.9270983009,
+  "voice_duration": 6.382,
+  "output_slug": "sud_vo_adv_csprt-3-0020_01_nasr-011",
+  "output_index": 159,
+  "subsong_index": 11,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\acb\\sud_vo_adv_csprt-3-0020_01.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\scripts\\5236313536_f0bf2128a56cb96eb7bc211797cbe13f.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0159_sud_vo_adv_csprt-3-0020_01_nasr-011_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0159_sud_vo_adv_csprt-3-0020_01_nasr-011_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0159_sud_vo_adv_csprt-3-0020_01_nasr-011_03_metadata.json"
+}

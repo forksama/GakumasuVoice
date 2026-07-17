@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/6/5231313936/cc214b04c3c474bad217844498979ea0",
+  "line_no": 56,
+  "voice_line_no": 57,
+  "text": "だから、改めて……伝えます。",
+  "speaker": "あさり先生",
+  "voice_cue": "sud_vo_adv_csprt-3-0019_01_nasr-008",
+  "bank_name": "sud_vo_adv_csprt-3-0019_01",
+  "start": 39.8623301703,
+  "duration": 3.5510008011,
+  "voice_start": 39.9623290577,
+  "voice_duration": 3.0,
+  "output_slug": "sud_vo_adv_csprt-3-0019_01_nasr-008",
+  "output_index": 141,
+  "subsong_index": 8,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\acb\\sud_vo_adv_csprt-3-0019_01.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\scripts\\5231313936_cc214b04c3c474bad217844498979ea0.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0141_sud_vo_adv_csprt-3-0019_01_nasr-008_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0141_sud_vo_adv_csprt-3-0019_01_nasr-008_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0141_sud_vo_adv_csprt-3-0019_01_nasr-008_03_metadata.json"
+}

@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/4/5231343234/9242706f3401fe1aee8eab7d1293b62f",
+  "line_no": 53,
+  "voice_line_no": 55,
+  "text": "出場アイドルをいままでよりも\nさらに厳選し、",
+  "speaker": "あさり先生",
+  "voice_cue": "sud_vo_adv_pstory_003_cmmn_world-explanation-selection_nasr-009",
+  "bank_name": "sud_vo_adv_pstory_003_cmmn_world-explanation-selection",
+  "start": 43.2076624516,
+  "duration": 3.6499992371,
+  "voice_start": 43.3076624516,
+  "voice_duration": 3.25,
+  "output_slug": "sud_vo_adv_pstory_003_cmmn_world-explanation-selection_nasr-009",
+  "output_index": 93,
+  "subsong_index": 9,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\acb\\sud_vo_adv_pstory_003_cmmn_world-explanation-selection.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\scripts\\5231343234_9242706f3401fe1aee8eab7d1293b62f.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0093_sud_vo_adv_pstory_003_cmmn_world-explanation-selection_nasr-009_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0093_sud_vo_adv_pstory_003_cmmn_world-explanation-selection_nasr-009_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0093_sud_vo_adv_pstory_003_cmmn_world-explanation-selection_nasr-009_03_metadata.json"
+}

@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/7/5231343937/99a57df031812d0ac77d6115fd81eb2a",
+  "line_no": 269,
+  "voice_line_no": 270,
+  "text": "敗北直後のミーティングとは、\n担当アイドルの心をケアし、\nふたたび進むための儀式。",
+  "speaker": "あさり先生",
+  "voice_cue": "sud_vo_adv_dear_hmsz_022_nasr-002",
+  "bank_name": "sud_vo_adv_dear_hmsz_022",
+  "start": 282.5083159235,
+  "duration": 7.013,
+  "voice_start": 282.6083159235,
+  "voice_duration": 6.913,
+  "output_slug": "sud_vo_adv_dear_hmsz_022_nasr-002",
+  "output_index": 188,
+  "subsong_index": 44,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\acb\\sud_vo_adv_dear_hmsz_022.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\scripts\\5231343937_99a57df031812d0ac77d6115fd81eb2a.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0188_sud_vo_adv_dear_hmsz_022_nasr-002_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0188_sud_vo_adv_dear_hmsz_022_nasr-002_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0188_sud_vo_adv_dear_hmsz_022_nasr-002_03_metadata.json"
+}

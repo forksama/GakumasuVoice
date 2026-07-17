@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/7/5232353337/389a7abec90efd42f699b6f514e9dab3",
+  "line_no": 63,
+  "voice_line_no": 64,
+  "text": "一部のオーディションには、\n参加条件が設定されています。",
+  "speaker": "あさり先生",
+  "voice_cue": "sud_vo_adv_pstory_002_cmmn_world-explanation_nasr-011",
+  "bank_name": "sud_vo_adv_pstory_002_cmmn_world-explanation",
+  "start": 55.6000051657,
+  "duration": 3.9020000458,
+  "voice_start": 55.7000051657,
+  "voice_duration": 3.802,
+  "output_slug": "sud_vo_adv_pstory_002_cmmn_world-explanation_nasr-011",
+  "output_index": 200,
+  "subsong_index": 11,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\acb\\sud_vo_adv_pstory_002_cmmn_world-explanation.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\scripts\\5232353337_389a7abec90efd42f699b6f514e9dab3.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0200_sud_vo_adv_pstory_002_cmmn_world-explanation_nasr-011_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0200_sud_vo_adv_pstory_002_cmmn_world-explanation_nasr-011_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0200_sud_vo_adv_pstory_002_cmmn_world-explanation_nasr-011_03_metadata.json"
+}

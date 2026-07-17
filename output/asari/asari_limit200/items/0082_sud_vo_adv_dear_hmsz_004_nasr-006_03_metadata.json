@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/4/5231393534/a35d08d8041d52040858265be7125421",
+  "line_no": 38,
+  "voice_line_no": 42,
+  "text": "プロデューサーくん……\nアイドルは作物じゃないんですよ？",
+  "speaker": "あさり先生",
+  "voice_cue": "sud_vo_adv_dear_hmsz_004_nasr-006",
+  "bank_name": "sud_vo_adv_dear_hmsz_004",
+  "start": 40.0619967688,
+  "duration": 4.599,
+  "voice_start": 40.1619967688,
+  "voice_duration": 4.499,
+  "output_slug": "sud_vo_adv_dear_hmsz_004_nasr-006",
+  "output_index": 82,
+  "subsong_index": 35,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\acb\\sud_vo_adv_dear_hmsz_004.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\scripts\\5231393534_a35d08d8041d52040858265be7125421.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0082_sud_vo_adv_dear_hmsz_004_nasr-006_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0082_sud_vo_adv_dear_hmsz_004_nasr-006_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0082_sud_vo_adv_dear_hmsz_004_nasr-006_03_metadata.json"
+}

@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/6/5231313936/cc214b04c3c474bad217844498979ea0",
+  "line_no": 39,
+  "voice_line_no": 40,
+  "text": "どうしたんですか、改まって。",
+  "speaker": "あさり先生",
+  "voice_cue": "sud_vo_adv_csprt-3-0019_01_nasr-005",
+  "bank_name": "sud_vo_adv_csprt-3-0019_01",
+  "start": 23.4633320777,
+  "duration": 2.5649992752,
+  "voice_start": 23.5633345527,
+  "voice_duration": 2.414,
+  "output_slug": "sud_vo_adv_csprt-3-0019_01_nasr-005",
+  "output_index": 138,
+  "subsong_index": 5,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\acb\\sud_vo_adv_csprt-3-0019_01.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\scripts\\5231313936_cc214b04c3c474bad217844498979ea0.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0138_sud_vo_adv_csprt-3-0019_01_nasr-005_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0138_sud_vo_adv_csprt-3-0019_01_nasr-005_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0138_sud_vo_adv_csprt-3-0019_01_nasr-005_03_metadata.json"
+}

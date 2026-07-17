@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/7/5231343937/99a57df031812d0ac77d6115fd81eb2a",
+  "line_no": 265,
+  "voice_line_no": 266,
+  "text": "いいですか、\nプロデューサーくん。",
+  "speaker": "あさり先生",
+  "voice_cue": "sud_vo_adv_dear_hmsz_022_nasr-001",
+  "bank_name": "sud_vo_adv_dear_hmsz_022",
+  "start": 280.4503158281,
+  "duration": 1.858,
+  "voice_start": 280.5503158281,
+  "voice_duration": 1.758,
+  "output_slug": "sud_vo_adv_dear_hmsz_022_nasr-001",
+  "output_index": 187,
+  "subsong_index": 43,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\acb\\sud_vo_adv_dear_hmsz_022.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\scripts\\5231343937_99a57df031812d0ac77d6115fd81eb2a.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0187_sud_vo_adv_dear_hmsz_022_nasr-001_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0187_sud_vo_adv_dear_hmsz_022_nasr-001_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0187_sud_vo_adv_dear_hmsz_022_nasr-001_03_metadata.json"
+}

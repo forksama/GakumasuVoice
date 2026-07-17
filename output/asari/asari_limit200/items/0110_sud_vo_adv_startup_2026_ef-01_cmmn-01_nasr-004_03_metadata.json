@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/4/5236353634/0d9010b7bd6fbcc5075ce4a5672f07dc",
+  "line_no": 62,
+  "voice_line_no": 63,
+  "text": "先生にできることなら、\nなんでも言ってみてください♪",
+  "speaker": "あさり先生",
+  "voice_cue": "sud_vo_adv_startup_2026_ef-01_cmmn-01_nasr-004",
+  "bank_name": "sud_vo_adv_startup_2026_ef-01_cmmn-01",
+  "start": 23.1173317203,
+  "duration": 3.6370003815,
+  "voice_start": 23.2173317203,
+  "voice_duration": 3.437,
+  "output_slug": "sud_vo_adv_startup_2026_ef-01_cmmn-01_nasr-004",
+  "output_index": 110,
+  "subsong_index": 4,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\acb\\sud_vo_adv_startup_2026_ef-01_cmmn-01.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\scripts\\5236353634_0d9010b7bd6fbcc5075ce4a5672f07dc.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0110_sud_vo_adv_startup_2026_ef-01_cmmn-01_nasr-004_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0110_sud_vo_adv_startup_2026_ef-01_cmmn-01_nasr-004_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0110_sud_vo_adv_startup_2026_ef-01_cmmn-01_nasr-004_03_metadata.json"
+}

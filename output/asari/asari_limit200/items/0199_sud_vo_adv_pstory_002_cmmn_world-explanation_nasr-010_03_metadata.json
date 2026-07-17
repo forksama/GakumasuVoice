@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/7/5232353337/389a7abec90efd42f699b6f514e9dab3",
+  "line_no": 61,
+  "voice_line_no": 62,
+  "text": "『N.I.A』の期間中、\n多くのライブが開催されますが、",
+  "speaker": "あさり先生",
+  "voice_cue": "sud_vo_adv_pstory_002_cmmn_world-explanation_nasr-010",
+  "bank_name": "sud_vo_adv_pstory_002_cmmn_world-explanation",
+  "start": 51.5999987285,
+  "duration": 3.8079999447,
+  "voice_start": 51.7000051657,
+  "voice_duration": 3.708,
+  "output_slug": "sud_vo_adv_pstory_002_cmmn_world-explanation_nasr-010",
+  "output_index": 199,
+  "subsong_index": 10,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\acb\\sud_vo_adv_pstory_002_cmmn_world-explanation.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\scripts\\5232353337_389a7abec90efd42f699b6f514e9dab3.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0199_sud_vo_adv_pstory_002_cmmn_world-explanation_nasr-010_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0199_sud_vo_adv_pstory_002_cmmn_world-explanation_nasr-010_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0199_sud_vo_adv_pstory_002_cmmn_world-explanation_nasr-010_03_metadata.json"
+}

@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/6/5234383736/f112bced2e0f553b65d6a108646fc0f6",
+  "line_no": 77,
+  "voice_line_no": 78,
+  "text": "あ、いたいた。ちょうどよかった。\nプロデューサーくん。",
+  "speaker": "あさり先生",
+  "voice_cue": "sud_vo_adv_cidol-hrnm-3-008_03_nasr-001",
+  "bank_name": "sud_vo_adv_cidol-hrnm-3-008_03",
+  "start": 53.3293368252,
+  "duration": 4.8403351135,
+  "voice_start": 53.4293368252,
+  "voice_duration": 4.607,
+  "output_slug": "sud_vo_adv_cidol-hrnm-3-008_03_nasr-001",
+  "output_index": 180,
+  "subsong_index": 39,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\acb\\sud_vo_adv_cidol-hrnm-3-008_03.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\scripts\\5234383736_f112bced2e0f553b65d6a108646fc0f6.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0180_sud_vo_adv_cidol-hrnm-3-008_03_nasr-001_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0180_sud_vo_adv_cidol-hrnm-3-008_03_nasr-001_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0180_sud_vo_adv_cidol-hrnm-3-008_03_nasr-001_03_metadata.json"
+}

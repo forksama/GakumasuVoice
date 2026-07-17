@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/4/5231343234/9242706f3401fe1aee8eab7d1293b62f",
+  "line_no": 104,
+  "voice_line_no": 105,
+  "text": "3回ある試験に参加し、\n好成績をおさめる必要があります。",
+  "speaker": "あさり先生",
+  "voice_cue": "sud_vo_adv_pstory_003_cmmn_world-explanation-selection_nasr-017",
+  "bank_name": "sud_vo_adv_pstory_003_cmmn_world-explanation-selection",
+  "start": 77.3976558047,
+  "duration": 4.8169954224,
+  "voice_start": 77.4976558047,
+  "voice_duration": 4.417,
+  "output_slug": "sud_vo_adv_pstory_003_cmmn_world-explanation-selection_nasr-017",
+  "output_index": 101,
+  "subsong_index": 17,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\acb\\sud_vo_adv_pstory_003_cmmn_world-explanation-selection.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\scripts\\5231343234_9242706f3401fe1aee8eab7d1293b62f.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0101_sud_vo_adv_pstory_003_cmmn_world-explanation-selection_nasr-017_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0101_sud_vo_adv_pstory_003_cmmn_world-explanation-selection_nasr-017_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0101_sud_vo_adv_pstory_003_cmmn_world-explanation-selection_nasr-017_03_metadata.json"
+}

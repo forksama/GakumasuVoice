@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/6/5236313536/f0bf2128a56cb96eb7bc211797cbe13f",
+  "line_no": 21,
+  "voice_line_no": 22,
+  "text": "もう～……先生以外で、です。",
+  "speaker": "あさり先生",
+  "voice_cue": "sud_vo_adv_csprt-3-0020_01_nasr-003",
+  "bank_name": "sud_vo_adv_csprt-3-0020_01",
+  "start": 8.0411883551,
+  "duration": 3.7741076736,
+  "voice_start": 8.1411886884,
+  "voice_duration": 3.528,
+  "output_slug": "sud_vo_adv_csprt-3-0020_01_nasr-003",
+  "output_index": 151,
+  "subsong_index": 3,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\acb\\sud_vo_adv_csprt-3-0020_01.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\scripts\\5236313536_f0bf2128a56cb96eb7bc211797cbe13f.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0151_sud_vo_adv_csprt-3-0020_01_nasr-003_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0151_sud_vo_adv_csprt-3-0020_01_nasr-003_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0151_sud_vo_adv_csprt-3-0020_01_nasr-003_03_metadata.json"
+}

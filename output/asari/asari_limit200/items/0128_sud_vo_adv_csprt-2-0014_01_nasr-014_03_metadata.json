@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/4/5234313834/36946e668517493833f52270b70f329a",
+  "line_no": 85,
+  "voice_line_no": 86,
+  "text": "わたしとお友達になる\nというのはどうでしょう。",
+  "speaker": "あさり先生",
+  "voice_cue": "sud_vo_adv_csprt-2-0014_01_nasr-014",
+  "bank_name": "sud_vo_adv_csprt-2-0014_01",
+  "start": 62.2899076228,
+  "duration": 3.8633441925,
+  "voice_start": 62.3899099517,
+  "voice_duration": 3.501,
+  "output_slug": "sud_vo_adv_csprt-2-0014_01_nasr-014",
+  "output_index": 128,
+  "subsong_index": 14,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\acb\\sud_vo_adv_csprt-2-0014_01.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\scripts\\5234313834_36946e668517493833f52270b70f329a.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0128_sud_vo_adv_csprt-2-0014_01_nasr-014_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0128_sud_vo_adv_csprt-2-0014_01_nasr-014_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0128_sud_vo_adv_csprt-2-0014_01_nasr-014_03_metadata.json"
+}

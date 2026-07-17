@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/4/5234313834/36946e668517493833f52270b70f329a",
+  "line_no": 6,
+  "voice_line_no": 7,
+  "text": "本日の授業はここまで。\n皆さん、お疲れ様でした。",
+  "speaker": "あさり先生",
+  "voice_cue": "sud_vo_adv_csprt-2-0014_01_nasr-001",
+  "bank_name": "sud_vo_adv_csprt-2-0014_01",
+  "start": 1.9000000835,
+  "duration": 4.601,
+  "voice_start": 2.0000000835,
+  "voice_duration": 4.501,
+  "output_slug": "sud_vo_adv_csprt-2-0014_01_nasr-001",
+  "output_index": 115,
+  "subsong_index": 1,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\acb\\sud_vo_adv_csprt-2-0014_01.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\scripts\\5234313834_36946e668517493833f52270b70f329a.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0115_sud_vo_adv_csprt-2-0014_01_nasr-001_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0115_sud_vo_adv_csprt-2-0014_01_nasr-001_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0115_sud_vo_adv_csprt-2-0014_01_nasr-001_03_metadata.json"
+}

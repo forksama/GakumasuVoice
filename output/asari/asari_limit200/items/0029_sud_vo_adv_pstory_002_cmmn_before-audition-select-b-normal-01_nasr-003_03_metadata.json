@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5235303533/160fc8d771fe33c6bbe2d4ffdc999bc2",
+  "line_no": 20,
+  "voice_line_no": 21,
+  "text": "挑戦できるオーディションは3つ！",
+  "speaker": "あさり先生",
+  "voice_cue": "sud_vo_adv_pstory_002_cmmn_before-audition-select-b-normal-01_nasr-003",
+  "bank_name": "sud_vo_adv_pstory_002_cmmn_before-audition-select-b-normal-01",
+  "start": 8.7130003814,
+  "duration": 2.7936667938,
+  "voice_start": 8.8130003814,
+  "voice_duration": 2.327,
+  "output_slug": "sud_vo_adv_pstory_002_cmmn_before-audition-select-b-normal-01_nasr-003",
+  "output_index": 29,
+  "subsong_index": 3,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\acb\\sud_vo_adv_pstory_002_cmmn_before-audition-select-b-normal-01.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\scripts\\5235303533_160fc8d771fe33c6bbe2d4ffdc999bc2.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0029_sud_vo_adv_pstory_002_cmmn_before-audition-select-b-normal-01_nasr-003_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0029_sud_vo_adv_pstory_002_cmmn_before-audition-select-b-normal-01_nasr-003_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0029_sud_vo_adv_pstory_002_cmmn_before-audition-select-b-normal-01_nasr-003_03_metadata.json"
+}

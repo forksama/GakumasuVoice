@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/6/5234393036/3712b08c9acc22d7bd890d046e5d0d68",
+  "line_no": 28,
+  "voice_line_no": 29,
+  "text": "ぜひ、今後のプロデュースに\n活かしてくださいね♪",
+  "speaker": "あさり先生",
+  "voice_cue": "sud_vo_adv_startup_2025_anniv-01_cmmn-01_nasr-005",
+  "bank_name": "sud_vo_adv_startup_2025_anniv-01_cmmn-01",
+  "start": 18.6853340835,
+  "duration": 3.4380007629,
+  "voice_start": 18.7853340835,
+  "voice_duration": 3.138,
+  "output_slug": "sud_vo_adv_startup_2025_anniv-01_cmmn-01_nasr-005",
+  "output_index": 177,
+  "subsong_index": 5,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\acb\\sud_vo_adv_startup_2025_anniv-01_cmmn-01.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\scripts\\5234393036_3712b08c9acc22d7bd890d046e5d0d68.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0177_sud_vo_adv_startup_2025_anniv-01_cmmn-01_nasr-005_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0177_sud_vo_adv_startup_2025_anniv-01_cmmn-01_nasr-005_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0177_sud_vo_adv_startup_2025_anniv-01_cmmn-01_nasr-005_03_metadata.json"
+}

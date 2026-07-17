@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5233313033/ee9278116c24937baea9fd65f5aedf3d",
+  "line_no": 32,
+  "voice_line_no": 33,
+  "text": "くれぐれも慎重に、参加する\nオーディションを選んでください。",
+  "speaker": "あさり先生",
+  "voice_cue": "sud_vo_adv_pstory_002_cmmn_before-audition-select-final-normal-01_nasr-006",
+  "bank_name": "sud_vo_adv_pstory_002_cmmn_before-audition-select-final-normal-01",
+  "start": 24.1013335463,
+  "duration": 4.3170011444,
+  "voice_start": 24.2013335463,
+  "voice_duration": 3.917,
+  "output_slug": "sud_vo_adv_pstory_002_cmmn_before-audition-select-final-normal-01_nasr-006",
+  "output_index": 51,
+  "subsong_index": 6,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\acb\\sud_vo_adv_pstory_002_cmmn_before-audition-select-final-normal-01.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\scripts\\5233313033_ee9278116c24937baea9fd65f5aedf3d.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0051_sud_vo_adv_pstory_002_cmmn_before-audition-select-final-normal-01_nasr-006_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0051_sud_vo_adv_pstory_002_cmmn_before-audition-select-final-normal-01_nasr-006_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0051_sud_vo_adv_pstory_002_cmmn_before-audition-select-final-normal-01_nasr-006_03_metadata.json"
+}

@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5235303533/160fc8d771fe33c6bbe2d4ffdc999bc2",
+  "line_no": 24,
+  "voice_line_no": 26,
+  "text": "ただし、条件を満たしていないと、\n参加できないものもありますよ～。",
+  "speaker": "あさり先生",
+  "voice_cue": "sud_vo_adv_pstory_002_cmmn_before-audition-select-b-normal-01_nasr-004",
+  "bank_name": "sud_vo_adv_pstory_002_cmmn_before-audition-select-b-normal-01",
+  "start": 11.700000499,
+  "duration": 5.7700001907,
+  "voice_start": 11.800000499,
+  "voice_duration": 5.37,
+  "output_slug": "sud_vo_adv_pstory_002_cmmn_before-audition-select-b-normal-01_nasr-004",
+  "output_index": 30,
+  "subsong_index": 4,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\acb\\sud_vo_adv_pstory_002_cmmn_before-audition-select-b-normal-01.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\scripts\\5235303533_160fc8d771fe33c6bbe2d4ffdc999bc2.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0030_sud_vo_adv_pstory_002_cmmn_before-audition-select-b-normal-01_nasr-004_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0030_sud_vo_adv_pstory_002_cmmn_before-audition-select-b-normal-01_nasr-004_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0030_sud_vo_adv_pstory_002_cmmn_before-audition-select-b-normal-01_nasr-004_03_metadata.json"
+}

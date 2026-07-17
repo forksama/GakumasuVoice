@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/6/5234393036/3712b08c9acc22d7bd890d046e5d0d68",
+  "line_no": 21,
+  "voice_line_no": 22,
+  "text": "それは……通知表です！",
+  "speaker": "あさり先生",
+  "voice_cue": "sud_vo_adv_startup_2025_anniv-01_cmmn-01_nasr-003",
+  "bank_name": "sud_vo_adv_startup_2025_anniv-01_cmmn-01",
+  "start": 10.231001119,
+  "duration": 3.4123335876,
+  "voice_start": 10.331001119,
+  "voice_duration": 3.079,
+  "output_slug": "sud_vo_adv_startup_2025_anniv-01_cmmn-01_nasr-003",
+  "output_index": 175,
+  "subsong_index": 3,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\acb\\sud_vo_adv_startup_2025_anniv-01_cmmn-01.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\scripts\\5234393036_3712b08c9acc22d7bd890d046e5d0d68.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0175_sud_vo_adv_startup_2025_anniv-01_cmmn-01_nasr-003_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0175_sud_vo_adv_startup_2025_anniv-01_cmmn-01_nasr-003_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0175_sud_vo_adv_startup_2025_anniv-01_cmmn-01_nasr-003_03_metadata.json"
+}

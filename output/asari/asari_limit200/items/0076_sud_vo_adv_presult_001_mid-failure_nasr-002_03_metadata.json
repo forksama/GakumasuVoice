@@ -1,0 +1,21 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/4/5234383634/ed8f036a9535844ae763022b213883c8",
+  "line_no": 25,
+  "voice_line_no": 26,
+  "text": "残念ながら、出場はできませんでしたが\n悔しさをバネに、もう一度\nアイドルと一緒に頑張りましょう！",
+  "speaker": "あさり先生",
+  "voice_cue": "sud_vo_adv_presult_001_mid-failure_nasr-002",
+  "bank_name": "sud_vo_adv_presult_001_mid-failure",
+  "start": 9.1863335479,
+  "duration": 7.6106664521,
+  "voice_start": 9.253,
+  "voice_duration": 7.544,
+  "output_slug": "sud_vo_adv_presult_001_mid-failure_nasr-002",
+  "output_index": 76,
+  "subsong_index": 2,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\acb\\sud_vo_adv_presult_001_mid-failure.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\scripts\\5234383634_ed8f036a9535844ae763022b213883c8.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0076_sud_vo_adv_presult_001_mid-failure_nasr-002_02_voice.wav",
+  "subtitle_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0076_sud_vo_adv_presult_001_mid-failure_nasr-002_01_subtitle.txt",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\0076_sud_vo_adv_presult_001_mid-failure_nasr-002_03_metadata.json"
+}
