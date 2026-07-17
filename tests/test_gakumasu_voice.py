@@ -6,13 +6,16 @@ from gakumasu_voice import (
     BankPathCache,
     collect_limited_character_voice_lines,
     collect_character_voice_lines,
+    count_character_script_voice_subtitles,
     ensure_local_acb,
     find_character_preset,
+    normalize_adv_text,
     paired_item_paths,
     parse_stream_count,
     parse_stream_name,
     resolve_bank_path,
     split_remote_paths,
+    write_text_only_line_summary,
 )
 
 
@@ -50,10 +53,44 @@ def test_collects_fktn_voice_for_kotone():
     assert lines[0].bank_name == "sud_vo_adv_demo_005"
 
 
+def test_normalizes_user_placeholder_and_markup_tags():
+    assert normalize_adv_text("{user}くん、<em>よろしく</em>。") == "プロデューサーくん、よろしく。"
+    assert normalize_adv_text("『<r=プリマステラ>一番星</r>』") == "『プリマステラ』"
+
+
 def test_character_preset_lookup_accepts_slug_code_and_full_name():
     assert find_character_preset("kotone").code == "fktn"
     assert find_character_preset("fktn").slug == "kotone"
     assert find_character_preset("藤田ことね").character_name == "ことね"
+    assert find_character_preset("asari").code == "nasr"
+    assert find_character_preset("nasr").slug == "asari"
+    assert find_character_preset("あさり先生").full_name == "根緒 亜紗里"
+
+
+def test_counts_character_voice_subtitle_pairs_without_acb_lookup():
+    script = "\n".join(
+        [
+            "[message text=説明しますね。 name=あさり先生 clip=\\{\"_startTime\":1.0,\"_duration\":2.0\\}]",
+            "[voice voice=sud_vo_adv_demo_001_nasr-001 actorId=nasr clip=\\{\"_startTime\":1.1,\"_duration\":1.6\\}]",
+            "[message text=次です。 name=あさり先生 clip=\\{\"_startTime\":4.0,\"_duration\":2.0\\}]",
+            "[voice voice=sud_vo_adv_demo_001_nasr-002 actorId=nasr clip=\\{\"_startTime\":4.1,\"_duration\":1.6\\}]",
+            "[message text=別人です。 name=ことね clip=\\{\"_startTime\":7.0,\"_duration\":2.0\\}]",
+            "[voice voice=sud_vo_adv_demo_002_fktn-001 actorId=fktn clip=\\{\"_startTime\":7.1,\"_duration\":1.6\\}]",
+        ]
+    )
+
+    counts = count_character_script_voice_subtitles(
+        {"script.bin": script},
+        "nasr",
+        character_name="あさり先生",
+        count_display_name=True,
+    )
+
+    assert counts["voice_cue_count"] == 2
+    assert counts["voice_subtitle_pair_count"] == 2
+    assert counts["display_name_subtitle_count"] == 2
+    assert counts["bank_count"] == 1
+    assert counts["bank_names"] == ["sud_vo_adv_demo_001"]
 
 
 def test_paired_item_paths_keep_subtitle_and_voice_adjacent(tmp_path: Path):
@@ -71,6 +108,22 @@ def test_paired_item_paths_keep_subtitle_and_voice_adjacent(tmp_path: Path):
     assert wav.name == "0012_sud_vo_adv_demo_005_fktn-001_02_voice.wav"
     assert metadata.name == "0012_sud_vo_adv_demo_005_fktn-001_03_metadata.json"
     assert sorted([metadata.name, wav.name, subtitle.name]) == [subtitle.name, wav.name, metadata.name]
+
+
+def test_write_text_only_line_summary_outputs_tsv(tmp_path: Path):
+    script = "\n".join(
+        [
+            "[message text=説明しますね。 name=あさり先生 clip=\\{\"_startTime\":1.0,\"_duration\":2.0\\}]",
+            "[voice voice=sud_vo_adv_demo_001_nasr-001 actorId=nasr clip=\\{\"_startTime\":1.1,\"_duration\":1.6\\}]",
+        ]
+    )
+    line = collect_character_voice_lines(script, "script.bin", "nasr")[0]
+
+    summary = write_text_only_line_summary(tmp_path, "asari", [line])
+
+    rows = summary.read_text(encoding="utf-8").splitlines()
+    assert rows[0].startswith("index\tspeaker\ttext\tvoice_cue\tbank_name")
+    assert "あさり先生\t説明しますね。\tsud_vo_adv_demo_001_nasr-001" in rows[1]
 
 
 def test_ignores_name_rinha_when_voice_is_someone_else():

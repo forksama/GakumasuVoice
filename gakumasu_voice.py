@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import argparse
+import builtins
 import csv
 import json
 import os
@@ -9,6 +10,7 @@ import shutil
 import subprocess
 import sys
 import tempfile
+import time
 from dataclasses import asdict, dataclass
 from datetime import datetime
 from pathlib import Path
@@ -23,6 +25,38 @@ DEFAULT_SCRIPT_BUCKETS = ("3", "4", "6", "7", "9")
 DEFAULT_SCRIPT_ROOTS = tuple(f"{DEFAULT_OCTO_ROOT}/{bucket}" for bucket in DEFAULT_SCRIPT_BUCKETS)
 DEFAULT_SCRIPT_ROOT = DEFAULT_SCRIPT_ROOTS[0]
 DEFAULT_SCRIPT_MAX_KB = 500
+ADV_RUBY_RE = re.compile(r"<r=([^>\r\n]+)>(.*?)</r>")
+ADV_TEXT_TAG_RE = re.compile(r"</?[A-Za-z][^>\r\n]*>")
+
+_ORIGINAL_PRINT = builtins.print
+_ELAPSED_START: float | None = None
+
+
+def elapsed_prefix() -> str:
+    if _ELAPSED_START is None:
+        return ""
+    elapsed_seconds = max(0, int(time.monotonic() - _ELAPSED_START))
+    hours, remainder = divmod(elapsed_seconds, 3600)
+    minutes, seconds = divmod(remainder, 60)
+    return f"[{hours:02d}:{minutes:02d}:{seconds:02d}]"
+
+
+def elapsed_print(*args, sep: str = " ", end: str = "\n", file=None, flush: bool = False) -> None:
+    prefix = elapsed_prefix()
+    if not prefix:
+        _ORIGINAL_PRINT(*args, sep=sep, end=end, file=file, flush=flush)
+        return
+
+    text = sep.join(str(arg) for arg in args)
+    lines = text.split("\n")
+    prefixed = "\n".join(f"{prefix} {line}" if line else prefix for line in lines)
+    _ORIGINAL_PRINT(prefixed, end=end, file=file, flush=flush)
+
+
+def install_elapsed_printing() -> None:
+    global _ELAPSED_START
+    _ELAPSED_START = time.monotonic()
+    builtins.print = elapsed_print
 
 
 @dataclass(frozen=True)
@@ -51,6 +85,14 @@ IDOL_PRESETS: tuple[CharacterPreset, ...] = (
     CharacterPreset("tsubame", "atbm", "燕", "雨夜燕", "Tsubame Amaya", ("amaya-tsubame", "雨夜燕", "燕")),
 )
 EXTRA_PRESETS: tuple[CharacterPreset, ...] = (
+    CharacterPreset(
+        "asari",
+        "nasr",
+        "あさり先生",
+        "根緒 亜紗里",
+        "Asari Neo",
+        ("asari-sensei", "neo-asari", "根緒亜紗里", "根緒 亜紗里", "あさり"),
+    ),
     CharacterPreset("rinha", "krnh", "燐羽", "賀陽燐羽", "Rinha Kayo", ("kayo-rinha", "賀陽燐羽", "燐羽")),
 )
 ALL_PRESETS: tuple[CharacterPreset, ...] = IDOL_PRESETS + EXTRA_PRESETS
@@ -100,6 +142,13 @@ def decode_adv_text(value: str) -> str:
         .replace(r"\{", "{")
         .replace(r"\}", "}")
     )
+
+
+def normalize_adv_text(value: str) -> str:
+    value = value.replace("{user}", "プロデューサー")
+    value = ADV_RUBY_RE.sub(lambda match: match.group(1), value)
+    value = ADV_TEXT_TAG_RE.sub("", value)
+    return value
 
 
 def tsv_text(value: str) -> str:
@@ -237,8 +286,8 @@ def parse_script_events(script: str, script_path: str) -> tuple[list[MessageEven
     for line_no, line in enumerate(script.splitlines(), 1):
         stripped = line.strip()
         if stripped.startswith("[message "):
-            text = decode_adv_text(extract_attr(stripped, "text", text_followers))
-            speaker = decode_adv_text(extract_attr(stripped, "name", name_followers))
+            text = normalize_adv_text(decode_adv_text(extract_attr(stripped, "text", text_followers)))
+            speaker = normalize_adv_text(decode_adv_text(extract_attr(stripped, "name", name_followers)))
             messages.append(
                 MessageEvent(
                     script_path=script_path,
@@ -320,6 +369,39 @@ def collect_character_voice_lines(script: str, script_path: str, character_code:
     return lines
 
 
+def count_character_script_voice_subtitles(
+    script_texts: dict[str, str],
+    character_code: str,
+    *,
+    character_name: str = "",
+    count_display_name: bool = False,
+) -> dict:
+    voice_cue_count = 0
+    voice_subtitle_pair_count = 0
+    display_name_subtitle_count = 0 if count_display_name and character_name else None
+    bank_names: set[str] = set()
+
+    for script_path, script_text in script_texts.items():
+        messages, voices = parse_script_events(script_text, script_path)
+        for voice in voices:
+            bank_name = character_bank_name(voice.voice_cue, character_code)
+            if bank_name:
+                voice_cue_count += 1
+                bank_names.add(bank_name)
+        voice_subtitle_pair_count += len(collect_character_voice_lines(script_text, script_path, character_code))
+
+        if display_name_subtitle_count is not None:
+            display_name_subtitle_count += sum(1 for message in messages if message.speaker == character_name)
+
+    return {
+        "voice_cue_count": voice_cue_count,
+        "voice_subtitle_pair_count": voice_subtitle_pair_count,
+        "display_name_subtitle_count": display_name_subtitle_count,
+        "bank_count": len(bank_names),
+        "bank_names": sorted(bank_names),
+    }
+
+
 def parse_stream_count(metadata: str) -> int:
     match = re.search(r"stream count:\s*(\d+)", metadata)
     return int(match.group(1)) if match else 1
@@ -372,7 +454,8 @@ class Progress:
         filled = int(self.width * ratio)
         bar = "#" * filled + "." * (self.width - filled)
         pct = int(ratio * 100)
-        message = f"\r{self.label}: [{bar}] {shown}/{self.total} {pct:3d}%"
+        prefix = elapsed_prefix()
+        message = f"\r{prefix + ' ' if prefix else ''}{self.label}: [{bar}] {shown}/{self.total} {pct:3d}%"
         if item:
             message += f" {short_progress_item(item)}"
         padding = " " * max(0, self.last_len - len(message))
@@ -835,15 +918,7 @@ def write_voice_line_outputs(
     return subtitle_path, wav_path, metadata_path
 
 
-def extract_character(args: argparse.Namespace) -> int:
-    script_roots = split_remote_paths(args.script_root) if args.script_root else split_remote_paths(args.script_roots)
-    if not script_roots:
-        raise ToolError("no script roots configured")
-    if args.script_max_kb <= 0:
-        raise ToolError("--script-max-kb must be greater than 0")
-    if args.limit < 0:
-        raise ToolError("--limit must be 0 or greater")
-
+def resolve_character_selection(args: argparse.Namespace) -> tuple[str, str, str, str]:
     preset = find_character_preset(args.character) if args.character else None
     if args.character and not preset and not args.character_code:
         raise ToolError(f"unknown --character {args.character!r}; run `python gakumasu_voice.py characters` to list presets")
@@ -855,6 +930,19 @@ def extract_character(args: argparse.Namespace) -> int:
         raise ToolError("--character or --character-code is required")
     if not character_slug:
         raise ToolError("--character-slug is required when using a custom character code")
+    return character_code, character_name, full_name, character_slug
+
+
+def extract_character(args: argparse.Namespace) -> int:
+    script_roots = split_remote_paths(args.script_root) if args.script_root else split_remote_paths(args.script_roots)
+    if not script_roots:
+        raise ToolError("no script roots configured")
+    if args.script_max_kb <= 0:
+        raise ToolError("--script-max-kb must be greater than 0")
+    if args.limit < 0:
+        raise ToolError("--limit must be 0 or greater")
+
+    character_code, character_name, full_name, character_slug = resolve_character_selection(args)
 
     base_output = Path(args.output).resolve()
     line_limit = args.limit or 0
@@ -1132,6 +1220,228 @@ def extract_character(args: argparse.Namespace) -> int:
     return 0 if not unmatched else 2
 
 
+def count_character(args: argparse.Namespace) -> int:
+    script_roots = split_remote_paths(args.script_root) if args.script_root else split_remote_paths(args.script_roots)
+    if not script_roots:
+        raise ToolError("no script roots configured")
+    if args.script_max_kb <= 0:
+        raise ToolError("--script-max-kb must be greater than 0")
+
+    character_code, character_name, full_name, character_slug = resolve_character_selection(args)
+    base_output = Path(args.output).resolve()
+    run_id = args.run_id or f"{datetime.now().strftime('%Y%m%d_%H%M%S')}_count"
+    output_root = make_run_output_root(base_output, character_slug, run_id)
+    scripts_dir = output_root / "scripts"
+    scripts_dir.mkdir(parents=True, exist_ok=True)
+
+    client = AndroidClient(args.adb, args.device)
+    client.ensure_connected()
+
+    print(f"character: {character_slug} ({character_code})")
+    if character_name or full_name:
+        print(f"name filters: display={character_name or '-'} full={full_name or '-'}")
+    print(f"output run: {output_root}")
+    print("count mode: scripts only; no ACB lookup or WAV export")
+
+    if args.progress:
+        print(f"searching voice scripts for {character_code}- in {len(script_roots)} roots", flush=True)
+    voice_script_paths = client.grep_text_files(
+        f"{character_code}-",
+        script_roots,
+        args.script_max_kb,
+        label="search voice",
+        progress=args.progress,
+    )
+    if args.progress:
+        print(f"voice script search done: {len(voice_script_paths)} scripts", flush=True)
+    name_script_paths = (
+        client.grep_text_files(
+            f"name={character_name}",
+            script_roots,
+            args.script_max_kb,
+            label="search name",
+            progress=args.progress,
+        )
+        if args.include_name_count and character_name
+        else []
+    )
+    all_script_paths = sorted(set(voice_script_paths) | set(name_script_paths))
+
+    print(f"script roots: {len(script_roots)}")
+    print(f"scripts with {character_code}- voice: {len(voice_script_paths)}")
+    if args.include_name_count and character_name:
+        print(f"scripts with name={character_name}: {len(name_script_paths)}")
+
+    script_texts: dict[str, str] = {}
+    script_progress = Progress("pull scripts", len(all_script_paths), enabled=args.progress)
+    for remote_path in all_script_paths:
+        script_progress.show(remote_tail(remote_path))
+        script_text = client.cat_text(remote_path)
+        script_texts[remote_path] = script_text
+        (scripts_dir / script_local_name(remote_path)).write_text(script_text, encoding="utf-8")
+        script_progress.step(remote_tail(remote_path))
+    script_progress.finish()
+
+    counts = count_character_script_voice_subtitles(
+        script_texts,
+        character_code,
+        character_name=character_name,
+        count_display_name=args.include_name_count,
+    )
+    report = {
+        "script_root": args.script_root or args.script_roots,
+        "script_roots": script_roots,
+        "script_max_kb": args.script_max_kb,
+        "output_base": str(base_output),
+        "output_root": str(output_root),
+        "run_id": output_root.name,
+        "character_slug": character_slug,
+        "character_code": character_code,
+        "character_name": character_name,
+        "full_name": full_name,
+        "include_name_count": args.include_name_count,
+        "candidate_script_count": len(all_script_paths),
+        "scripts_with_character_voice": voice_script_paths,
+        "scripts_with_character_name": name_script_paths,
+        **counts,
+    }
+    report_path = output_root / "count.json"
+    report_path.write_text(json.dumps(report, ensure_ascii=False, indent=2), encoding="utf-8")
+
+    print(f"voice cue count: {counts['voice_cue_count']}")
+    print(f"voice/subtitle pairs: {counts['voice_subtitle_pair_count']}")
+    if args.include_name_count and character_name:
+        print(f"display-name subtitle count: {counts['display_name_subtitle_count']}")
+    print(f"bank count: {counts['bank_count']}")
+    print(f"count report: {report_path}")
+    return 0
+
+
+def write_text_only_line_summary(output_root: Path, character_slug: str, voice_lines: list[VoiceLine]) -> Path:
+    summary_path = summary_lines_path(output_root, character_slug)
+    with summary_path.open("w", encoding="utf-8", newline="") as fh:
+        writer = csv.DictWriter(
+            fh,
+            fieldnames=[
+                "index",
+                "speaker",
+                "text",
+                "voice_cue",
+                "bank_name",
+                "script_path",
+                "line_no",
+                "voice_line_no",
+                "start",
+                "duration",
+                "voice_start",
+                "voice_duration",
+            ],
+            delimiter="\t",
+        )
+        writer.writeheader()
+        for index, line in enumerate(voice_lines, 1):
+            writer.writerow(
+                {
+                    "index": index,
+                    "speaker": line.speaker,
+                    "text": tsv_text(line.text),
+                    "voice_cue": line.voice_cue,
+                    "bank_name": line.bank_name,
+                    "script_path": line.script_path,
+                    "line_no": line.line_no,
+                    "voice_line_no": line.voice_line_no,
+                    "start": line.start,
+                    "duration": line.duration,
+                    "voice_start": line.voice_start,
+                    "voice_duration": line.voice_duration,
+                }
+            )
+    return summary_path
+
+
+def lines_character(args: argparse.Namespace) -> int:
+    script_roots = split_remote_paths(args.script_root) if args.script_root else split_remote_paths(args.script_roots)
+    if not script_roots:
+        raise ToolError("no script roots configured")
+    if args.script_max_kb <= 0:
+        raise ToolError("--script-max-kb must be greater than 0")
+
+    character_code, character_name, full_name, character_slug = resolve_character_selection(args)
+    base_output = Path(args.output).resolve()
+    run_id = args.run_id or f"{datetime.now().strftime('%Y%m%d_%H%M%S')}_lines"
+    output_root = make_run_output_root(base_output, character_slug, run_id)
+    scripts_dir = output_root / "scripts"
+    scripts_dir.mkdir(parents=True, exist_ok=True)
+
+    client = AndroidClient(args.adb, args.device)
+    client.ensure_connected()
+
+    print(f"character: {character_slug} ({character_code})")
+    if character_name or full_name:
+        print(f"name filters: display={character_name or '-'} full={full_name or '-'}")
+    print(f"output run: {output_root}")
+    print("lines mode: scripts only; no ACB lookup or WAV export")
+
+    if args.progress:
+        print(f"searching voice scripts for {character_code}- in {len(script_roots)} roots", flush=True)
+    voice_script_paths = client.grep_text_files(
+        f"{character_code}-",
+        script_roots,
+        args.script_max_kb,
+        label="search voice",
+        progress=args.progress,
+    )
+    if args.progress:
+        print(f"voice script search done: {len(voice_script_paths)} scripts", flush=True)
+
+    print(f"script roots: {len(script_roots)}")
+    print(f"scripts with {character_code}- voice: {len(voice_script_paths)}")
+
+    script_texts: dict[str, str] = {}
+    script_progress = Progress("pull scripts", len(voice_script_paths), enabled=args.progress)
+    for remote_path in voice_script_paths:
+        script_progress.show(remote_tail(remote_path))
+        script_text = client.cat_text(remote_path)
+        script_texts[remote_path] = script_text
+        (scripts_dir / script_local_name(remote_path)).write_text(script_text, encoding="utf-8")
+        script_progress.step(remote_tail(remote_path))
+    script_progress.finish()
+
+    voice_lines: list[VoiceLine] = []
+    parse_progress = Progress("parse scripts", len(script_texts), enabled=args.progress)
+    for remote_path, script_text in script_texts.items():
+        parse_progress.show(remote_tail(remote_path))
+        voice_lines.extend(collect_character_voice_lines(script_text, remote_path, character_code))
+        parse_progress.step(remote_tail(remote_path))
+    parse_progress.finish()
+
+    summary_path = write_text_only_line_summary(output_root, character_slug, voice_lines)
+    report = {
+        "script_root": args.script_root or args.script_roots,
+        "script_roots": script_roots,
+        "script_max_kb": args.script_max_kb,
+        "output_base": str(base_output),
+        "output_root": str(output_root),
+        "run_id": output_root.name,
+        "character_slug": character_slug,
+        "character_code": character_code,
+        "character_name": character_name,
+        "full_name": full_name,
+        "scripts_with_character_voice": voice_script_paths,
+        "voice_subtitle_pair_count": len(voice_lines),
+        "bank_count": len({line.bank_name for line in voice_lines}),
+        "summary_path": str(summary_path),
+    }
+    report_path = output_root / "lines.json"
+    report_path.write_text(json.dumps(report, ensure_ascii=False, indent=2), encoding="utf-8")
+
+    print(f"voice/subtitle pairs: {len(voice_lines)}")
+    print(f"bank count: {report['bank_count']}")
+    print(f"summary: {summary_path}")
+    print(f"line report: {report_path}")
+    return 0
+
+
 def extract_rinha(args: argparse.Namespace) -> int:
     return extract_character(args)
 
@@ -1171,6 +1481,51 @@ def add_extract_arguments(
     parser.set_defaults(func=extract_character)
 
 
+def add_count_arguments(
+    parser: argparse.ArgumentParser,
+    *,
+    default_character: str = "",
+    default_output: Path = Path("output"),
+) -> None:
+    parser.add_argument("--adb", default=DEFAULT_ADB)
+    parser.add_argument("--device", default=DEFAULT_DEVICE)
+    parser.add_argument("--script-root", default="", help="Single legacy script root. Overrides --script-roots when set.")
+    parser.add_argument("--script-roots", default=",".join(DEFAULT_SCRIPT_ROOTS))
+    parser.add_argument("--script-max-kb", type=int, default=DEFAULT_SCRIPT_MAX_KB)
+    parser.add_argument("--no-progress", action="store_false", dest="progress", help="Disable progress bars.")
+    parser.add_argument("--character", default=default_character, help="Preset slug/code/name, e.g. asari, nasr, kotone.")
+    parser.add_argument("--character-code", default="", help="Override or provide the voice cue code, e.g. nasr.")
+    parser.add_argument("--character-name", default="", help="Override or provide the ADV display name, e.g. あさり先生.")
+    parser.add_argument("--full-name", default="", help="Override or provide the full name search text, e.g. 根緒 亜紗里.")
+    parser.add_argument("--character-slug", default="", help="Override output character directory name.")
+    parser.add_argument("--include-name-count", action="store_true", help="Also count message subtitles whose name= display text matches the character.")
+    parser.add_argument("--run-id", default="", help="Run subdirectory name. Defaults to timestamp plus count.")
+    parser.add_argument("--output", default=str(default_output), help="Base output directory; creates <output>\\<character>\\<run-id>.")
+    parser.set_defaults(func=count_character)
+
+
+def add_lines_arguments(
+    parser: argparse.ArgumentParser,
+    *,
+    default_character: str = "",
+    default_output: Path = Path("output"),
+) -> None:
+    parser.add_argument("--adb", default=DEFAULT_ADB)
+    parser.add_argument("--device", default=DEFAULT_DEVICE)
+    parser.add_argument("--script-root", default="", help="Single legacy script root. Overrides --script-roots when set.")
+    parser.add_argument("--script-roots", default=",".join(DEFAULT_SCRIPT_ROOTS))
+    parser.add_argument("--script-max-kb", type=int, default=DEFAULT_SCRIPT_MAX_KB)
+    parser.add_argument("--no-progress", action="store_false", dest="progress", help="Disable progress bars.")
+    parser.add_argument("--character", default=default_character, help="Preset slug/code/name, e.g. asari, nasr, kotone.")
+    parser.add_argument("--character-code", default="", help="Override or provide the voice cue code, e.g. nasr.")
+    parser.add_argument("--character-name", default="", help="Override or provide the ADV display name, e.g. あさり先生.")
+    parser.add_argument("--full-name", default="", help="Override or provide the full name search text, e.g. 根緒 亜紗里.")
+    parser.add_argument("--character-slug", default="", help="Override output character directory name.")
+    parser.add_argument("--run-id", default="", help="Run subdirectory name. Defaults to timestamp plus lines.")
+    parser.add_argument("--output", default=str(default_output), help="Base output directory; creates <output>\\<character>\\<run-id>.")
+    parser.set_defaults(func=lines_character)
+
+
 def build_parser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(
         description="Extract Gakumasu character ADV subtitles and voice WAVs.",
@@ -1185,6 +1540,20 @@ def build_parser() -> argparse.ArgumentParser:
         epilog=character_help_text(),
     )
     add_extract_arguments(extract)
+    count = subparsers.add_parser(
+        "count",
+        help="Count character ADV voice/subtitle pairs without ACB lookup or WAV export.",
+        formatter_class=argparse.RawDescriptionHelpFormatter,
+        epilog=character_help_text(),
+    )
+    add_count_arguments(count)
+    lines = subparsers.add_parser(
+        "lines",
+        help="Write character ADV voice/subtitle text lines without ACB lookup or WAV export.",
+        formatter_class=argparse.RawDescriptionHelpFormatter,
+        epilog=character_help_text(),
+    )
+    add_lines_arguments(lines)
     extract_character_legacy = subparsers.add_parser(
         "extract-character",
         help="Compatibility alias for extract.",
@@ -1202,6 +1571,7 @@ def build_parser() -> argparse.ArgumentParser:
 
 
 def main(argv: list[str] | None = None) -> int:
+    install_elapsed_printing()
     parser = build_parser()
     args = parser.parse_args(argv)
     if not hasattr(args, "func"):

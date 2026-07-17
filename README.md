@@ -24,6 +24,18 @@ python gakumasu_voice.py characters
 python gakumasu_voice.py extract --help
 ```
 
+Count character voice/subtitle pairs without ACB lookup or WAV export:
+
+```cmd
+python gakumasu_voice.py count --character asari
+```
+
+Write character voice/subtitle text lines without ACB lookup or WAV export:
+
+```cmd
+python gakumasu_voice.py lines --character asari
+```
+
 The extractor uses `voice=..._<character_code>-...` as the authoritative character
 voice marker. `name=<display name>` alone is not enough, because scripts can show
 one name while the actual voice cue belongs to another character.
@@ -57,6 +69,13 @@ Pass any `slug`, `code`, display name, or full name to `--character`.
 | misuzu | hmsz | 美鈴 | 秦谷美鈴 | Misuzu Hataya |
 | sena | jsna | 星南 | 十王星南 | Sena Juo |
 | tsubame | atbm | 燕 | 雨夜燕 | Tsubame Amaya |
+
+Extra presets:
+
+| slug | code | display | full name | English |
+| --- | --- | --- | --- | --- |
+| asari | nasr | あさり先生 | 根緒 亜紗里 | Asari Neo |
+| rinha | krnh | 燐羽 | 賀陽燐羽 | Rinha Kayo |
 
 `rinha` / `krnh` remains available as a compatibility preset for the old Rinha
 workflow.
