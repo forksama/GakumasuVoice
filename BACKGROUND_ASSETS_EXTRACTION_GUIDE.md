@@ -5,6 +5,13 @@ background assets from the Android emulator cache.
 
 Validated on 2026-07-23.
 
+Character ADV speaker image extraction, including the Rinha `krnh` 2D speaker
+assets and the 2D-vs-3D script distinction, is documented separately:
+
+```text
+CHARACTER_SPEAKER_ASSETS_GUIDE.md
+```
+
 ## Summary
 
 Story backgrounds are mixed:
