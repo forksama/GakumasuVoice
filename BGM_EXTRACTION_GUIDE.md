@@ -213,6 +213,106 @@ output\bgm\sud_bgm_adv_foreboding-001\sud_bgm_adv_foreboding-001.wav
 If `ffmpeg` is unavailable, Python's standard `wave` module is enough to
 concatenate PCM WAV files. Do not concatenate encoded HCA/AWB bytes directly.
 
+## Validated BGM Categories
+
+Small-sample validation on 2026-07-18 showed the tested BGM categories all use
+the same high-level packaging: a small hash-named `@UTF` ACB plus a real
+external `AFS2` AWB referenced by `StreamAwbHash`.
+
+The ACB is not the final audio when `vgmstream-cli -m <cue>.acb` only shows a
+short `[pre]` stream around 0.08-0.10s. Parse the ACB, find the external AWB,
+then decode the AWB.
+
+Validated examples:
+
+```text
+sud_bgm_adv_foreboding-001
+  ACB pre only: 2 streams around 0.086s
+  AWB hash: c6cffd358e759078aa9f67e9888d682c
+  AWB blocks: 3.243s then 74.387s
+
+sud_bgm_adv_daily-001
+  ACB pre only: 2 streams around 0.10s
+  AWB hash: e230d43e3414db9af71c4309dc8e21d1
+  AWB blocks: 11.388s then 58.192s
+  Note: final block order is AWB subsong 2, then AWB subsong 1.
+
+sud_bgm_adv_inst-all-001
+  ACB pre only: 1 stream around 0.102s
+  AWB hash: 5db19de464da27cc88cbf7d59d9e946e
+  AWB: 1 stream, 158.118s
+
+sud_bgm_general_gasha-02
+  ACB pre only: 1 stream around 0.089s
+  AWB hash: d5a6cffdf874d9e28342a115c5bdfdd0
+  AWB: 1 stream, 82.862s
+
+sud_bgm_produce_cmn-01
+  ACB pre only: 1 stream around 0.099s
+  AWB hash: 49f937a4d14f11a3e784828dbec8c4b7
+  AWB: 1 stream, 60.728s
+
+sud_bgm_audition
+  ACB pre only: 1 stream around 0.096s
+  AWB hash: 6f08f385880456c25e86ae1855c28636
+  AWB: 1 stream, 24.267s
+```
+
+Use the local probe helper to inspect an ACB:
+
+```cmd
+python tools\probe_bgm_acb.py output\bgm\<cue>\source\<cue>.acb
+```
+
+### Single-Stream External AWB
+
+When `WaveformTable` has one row and the AWB has one stream, decode the AWB
+directly:
+
+```cmd
+vgmstream-cli -o output\bgm\<cue>\<cue>.wav output\bgm\<cue>\source\<cue>.awb
+```
+
+Equivalent explicit form:
+
+```cmd
+vgmstream-cli -s 1 -o output\bgm\<cue>\<cue>.wav output\bgm\<cue>\source\<cue>.awb
+```
+
+This covered the validated `adv_inst`, `general`, `produce`, and `audition`
+samples.
+
+### Multi-Block External AWB
+
+When `BlockTable` has multiple rows, do not assume AWB subsongs are already in
+playback order. Use this mapping:
+
+```text
+BlockTable rows give playback order.
+BlockTable.Name is a 1-based index into WaveformTable rows.
+WaveformTable.StreamAwbId maps to AWB subsong index as StreamAwbId + 1.
+```
+
+Then export each block in `BlockTable` order and concatenate decoded PCM WAVs.
+
+For `sud_bgm_adv_foreboding-001`, `BlockTable.Name` maps to AWB subsongs 1 then
+2:
+
+```cmd
+vgmstream-cli -s 1 -o output\bgm\<cue>\<cue>_01_block.wav output\bgm\<cue>\source\<cue>.awb
+vgmstream-cli -s 2 -o output\bgm\<cue>\<cue>_02_block.wav output\bgm\<cue>\source\<cue>.awb
+```
+
+For `sud_bgm_adv_daily-001`, `BlockTable.Name` maps to AWB subsongs 2 then 1:
+
+```cmd
+vgmstream-cli -s 2 -o output\bgm\sud_bgm_adv_daily-001\sud_bgm_adv_daily-001_01_block.wav output\bgm\sud_bgm_adv_daily-001\source\sud_bgm_adv_daily-001.awb
+vgmstream-cli -s 1 -o output\bgm\sud_bgm_adv_daily-001\sud_bgm_adv_daily-001_02_block.wav output\bgm\sud_bgm_adv_daily-001\source\sud_bgm_adv_daily-001.awb
+```
+
+Concatenate those decoded WAV files in block order only when a single one-cycle
+WAV is desired. Keep separate block WAVs if preserving loop structure matters.
+
 ## Batch Extraction Logic
 
 A reusable BGM extractor should follow this shape:
