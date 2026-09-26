@@ -1,0 +1,22 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5231383933/447f72a7ccbd28b1c4520aa685af4152",
+  "line_no": 35,
+  "voice_line_no": 39,
+  "text": "頑張ります、センパイ……！\n合格……合格します、絶対……！",
+  "speaker": "リーリヤ",
+  "voice_cue": "sud_vo_adv_pstory_002_kllj_before-audition-b-normal-01_kllj-004",
+  "bank_name": "sud_vo_adv_pstory_002_kllj_before-audition-b-normal-01",
+  "start": 20.3673338005,
+  "duration": 7.743,
+  "voice_start": 20.4673338005,
+  "voice_duration": 7.643,
+  "output_slug": "sud_vo_adv_pstory_002_kllj_before-audition-b-normal-01_kllj-004",
+  "output_index": 27,
+  "subsong_index": 4,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\lilja\\20260714_232653_limit100\\acb\\sud_vo_adv_pstory_002_kllj_before-audition-b-normal-01.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\lilja\\20260714_232653_limit100\\scripts\\5231383933_447f72a7ccbd28b1c4520aa685af4152.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\lilja\\20260714_232653_limit100\\items\\keep\\頑張ります、センパイ……！_合格……合格します、絶対……！.wav",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\lilja\\20260714_232653_limit100\\items\\keep\\頑張ります、センパイ……！_合格……合格します、絶対……！.json",
+  "duration_seconds": 7.643,
+  "bucket": "keep"
+}
