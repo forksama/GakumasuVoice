@@ -1,3 +1,17 @@
+"""Re-normalise v1 output text from cached scripts -- SUPERSEDED.
+
+DEPRECATED.  Discovery and rehydration here are built around the v1 file names
+(``*_01_subtitle.txt``, ``*_03_metadata.json``, ``subtitle.txt``).  v2 items have no
+subtitle file -- the subtitle is the file name -- so this tool will not find them,
+and nothing yet renames v2 items when their text is corrected.
+
+Its ``--rehydrate-from-scripts`` step still repairs the extract TSV, which v2 keeps,
+but the v2 extractor writes its own TSV and has never been run, so treat that as
+unverified.
+
+No v2 replacement exists yet.  See V2_NOTES.md.
+"""
+
 from __future__ import annotations
 
 import argparse

@@ -1,3 +1,24 @@
+"""GakumasuVoice v1 extractor -- its OUTPUT LAYOUT IS SUPERSEDED.
+
+DEPRECATED OUTPUT LAYOUT.  This module writes
+
+    items\\NNNN_<voice_cue>_01_subtitle.txt
+    items\\NNNN_<voice_cue>_02_voice.wav
+    items\\NNNN_<voice_cue>_03_metadata.json
+
+That layout is superseded by v2, which names every wav after its subtitle text and
+keeps one metadata .json per voice with the same stem:
+
+    gakumasu_voice_v2.py    the current extractor (v2 layout)  -- NOT YET VALIDATED
+    verify_outputs_v2.py    the current verifier
+    v2_naming.py            the canonical v2 naming rule
+    V2_NOTES.md             what changed, what is verified, what is not
+
+This module is retained on purpose: v2 imports its ADV parsing, adb and cache layer
+unchanged, and the existing tests still target it.  Do not use it to produce new
+runs -- its item-writing logic is no longer the current output format.
+"""
+
 from __future__ import annotations
 
 import argparse

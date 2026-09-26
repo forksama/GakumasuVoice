@@ -1,3 +1,20 @@
+"""Verifier for the v1 item layout -- SUPERSEDED, use verify_outputs_v2.py.
+
+DEPRECATED.  This tool expects each row's ``subtitle_file`` and ``metadata_file`` to
+exist, which only holds for the v1 layout:
+
+    items\\NNNN_<voice_cue>_01_subtitle.txt
+    items\\NNNN_<voice_cue>_02_voice.wav
+    items\\NNNN_<voice_cue>_03_metadata.json
+
+v2 items have no subtitle file -- the subtitle is the file name -- so this tool
+reports every item as missing.  It also fails its
+``len(rows) == coverage["exported_count"]`` check for any run whose duplicate voice
+cues were collapsed, because coverage.json keeps the v1 counts on purpose.
+
+Use ``verify_outputs_v2.py`` instead.  See V2_NOTES.md.
+"""
+
 from __future__ import annotations
 
 import argparse
