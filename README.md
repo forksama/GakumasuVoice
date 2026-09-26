@@ -2,6 +2,21 @@
 
 Extract Gakumasu ADV voice lines from a MuMu Player 12 Android cache.
 
+> **Output layout changed.** Everything below describes the v1 tools
+> (`gakumasu_voice.py`, `verify_outputs.py`), whose **item layout is superseded**.
+> The current layout names every wav after its subtitle text and keeps one metadata
+> `.json` per voice:
+>
+> ```cmd
+> python gakumasu_voice_v2.py extract --character kotone --limit 200
+> python verify_outputs_v2.py
+> ```
+>
+> `gakumasu_voice_v2.py` is the current extractor but **has not been run end to end
+> yet** (it needs MuMu running). The migration of the existing output **has** been
+> run and verified. See [V2_NOTES.md](V2_NOTES.md) for the layout, the naming rule,
+> and exactly what is and is not verified.
+
 ## Usage
 
 Run from Windows Command Prompt:

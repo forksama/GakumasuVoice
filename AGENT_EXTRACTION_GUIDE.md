@@ -1,5 +1,13 @@
 # Gakumasu ADV Voice Extraction Agent Guide
 
+> **注意：本文描述的是 v1 产出布局，已过期。**
+> 文中提到的 `items\<voice_cue>\subtitle.txt`、`subtitle.txt`、`_01_subtitle.txt`
+> 等命名属于旧布局。当前布局是 v2：每个 wav 以**字幕内容**命名，并配一个同名
+> `metadata.json`（`えっ？.wav` ↔ `えっ？.json`），不再有 `subtitle.txt`。
+> 布局、命名规则、以及**哪些已实测通过 / 哪些尚未验证**见 `V2_NOTES.md`。
+> 本文其余内容（脚本解析、voice cue 与字幕对齐、ACB bank 定位、缓存与加速）仍然有效，
+> v2 原样复用。
+
 这份文档是给下一次接手的 agent 用的。目标是把当前已经跑通的燐羽抽取链路抽象成可复用流程，用来为其他角色编写或改造抽取脚本。
 
 当前项目位置：
