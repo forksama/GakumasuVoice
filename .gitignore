@@ -1,4 +1,37 @@
 __pycache__/
 .pytest_cache/
 *.pyc
+
+# Bank/ACB acceleration cache: regenerable, indexed by bank name, and the source of
+# truth for the per-run acb/ copies below.
 output/_cache/
+
+# Per-run working copies.  scripts/ is the raw ADV text pulled from the device,
+# acb/ is a copy of output/_cache/acb, and reports/ is the legacy location of the
+# oldest run's coverage.json.  All regenerable by re-running the extractor.
+output/**/scripts/
+output/**/acb/
+output/**/reports/
+
+# Scratch and intermediate output: kept on disk, not worth versioning.
+output/affection10/
+output/bgm/
+output/bgm_probe/
+output/rinha_style_test/
+output/rinha/speaker_assets/
+output/asari/test_*/
+
+# Reports from ad-hoc `count` / `lines` runs, which write no items.
+output/**/count.json
+output/**/lines.json
+
+# These two trees are large and mostly intermediate, so only the one reviewed
+# subdirectory of each is versioned.  A negation works here because the parent
+# directory itself is not excluded, only its children.
+output/bgm_batch/*
+!output/bgm_batch/bgm_all_fixed/
+
+output/background_assets/*
+!output/background_assets/extracted/
+output/background_assets/extracted/*
+!output/background_assets/extracted/a_bgsize_wide_textures/
