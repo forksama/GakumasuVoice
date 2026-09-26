@@ -1,0 +1,22 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5233393733/7cde23d4c88fe8f5323e11faada7d569",
+  "line_no": 332,
+  "voice_line_no": 336,
+  "text": "わたしたちにとって……『プリマステラ』は、\nとても特別な称号。",
+  "speaker": "美鈴",
+  "voice_cue": "sud_vo_adv_dear_hmsz_020_hmsz-029",
+  "bank_name": "sud_vo_adv_dear_hmsz_020",
+  "start": 334.1235765575,
+  "duration": 8.2089816895,
+  "voice_start": 334.2235765575,
+  "voice_duration": 7.909,
+  "output_slug": "sud_vo_adv_dear_hmsz_020_hmsz-029",
+  "output_index": 72,
+  "subsong_index": 29,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\misuzu\\20260715_010942_limit100\\acb\\sud_vo_adv_dear_hmsz_020.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\misuzu\\20260715_010942_limit100\\scripts\\5233393733_7cde23d4c88fe8f5323e11faada7d569.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\misuzu\\20260715_010942_limit100\\items\\keep\\わたしたちにとって……『プリマステラ』は、_とても特別な称号。.wav",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\misuzu\\20260715_010942_limit100\\items\\keep\\わたしたちにとって……『プリマステラ』は、_とても特別な称号。.json",
+  "duration_seconds": 7.909,
+  "bucket": "keep"
+}
