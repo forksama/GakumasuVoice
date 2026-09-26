@@ -1,0 +1,28 @@
+{
+  "cue": "sud_bgm_adv_inst-shro-003",
+  "remote_acb": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/5/5235363735/d11091114ab61310fe8805614ca68ba3",
+  "remote_awb": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/7/523133313137/7d38b9d3c655ce3c79929b38ef0f40a7",
+  "awb_hash": "7d38b9d3c655ce3c79929b38ef0f40a7",
+  "local_acb": "C:\\Repositories\\GakumasuVoice\\output\\bgm_batch\\bgm_all_fixed\\sud_bgm_adv_inst-shro-003\\source\\sud_bgm_adv_inst-shro-003.acb",
+  "local_awb": "C:\\Repositories\\GakumasuVoice\\output\\bgm_batch\\bgm_all_fixed\\sud_bgm_adv_inst-shro-003\\source\\sud_bgm_adv_inst-shro-003.awb",
+  "stream_count": 1,
+  "block_order": [
+    {
+      "block": 1,
+      "subsong": 1,
+      "length_ms": 0,
+      "start_ms": 0
+    }
+  ],
+  "block_wavs": [],
+  "final_wav": "C:\\Repositories\\GakumasuVoice\\output\\bgm_batch\\bgm_all_fixed\\sud_bgm_adv_inst-shro-003\\sud_bgm_adv_inst-shro-003.wav",
+  "waveform_rows": [
+    {
+      "StreamAwbId": 0,
+      "SamplingRate": 44100,
+      "NumSamples": 6350421,
+      "Streaming": 2
+    }
+  ],
+  "block_rows": []
+}
