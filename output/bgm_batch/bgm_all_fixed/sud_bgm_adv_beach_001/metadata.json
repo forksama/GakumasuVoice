@@ -1,0 +1,60 @@
+{
+  "cue": "sud_bgm_adv_beach_001",
+  "remote_acb": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/8/5233343038/e4eede775ec3b852a7bcb569032e3fc7",
+  "remote_awb": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/0/5235353330/e51f3a46c4b2bb4d84e8e5c8f66ca5d0",
+  "awb_hash": "e51f3a46c4b2bb4d84e8e5c8f66ca5d0",
+  "local_acb": "C:\\Repositories\\GakumasuVoice\\output\\bgm_batch\\bgm_all_fixed\\sud_bgm_adv_beach_001\\source\\sud_bgm_adv_beach_001.acb",
+  "local_awb": "C:\\Repositories\\GakumasuVoice\\output\\bgm_batch\\bgm_all_fixed\\sud_bgm_adv_beach_001\\source\\sud_bgm_adv_beach_001.awb",
+  "stream_count": 2,
+  "block_order": [
+    {
+      "block": 1,
+      "subsong": 1,
+      "length_ms": 19186,
+      "start_ms": 0
+    },
+    {
+      "block": 2,
+      "subsong": 2,
+      "length_ms": 44637,
+      "start_ms": 19186
+    }
+  ],
+  "block_wavs": [
+    "C:\\Repositories\\GakumasuVoice\\output\\bgm_batch\\bgm_all_fixed\\sud_bgm_adv_beach_001\\blocks\\sud_bgm_adv_beach_001_01_subsong1.wav",
+    "C:\\Repositories\\GakumasuVoice\\output\\bgm_batch\\bgm_all_fixed\\sud_bgm_adv_beach_001\\blocks\\sud_bgm_adv_beach_001_02_subsong2.wav"
+  ],
+  "final_wav": "C:\\Repositories\\GakumasuVoice\\output\\bgm_batch\\bgm_all_fixed\\sud_bgm_adv_beach_001\\sud_bgm_adv_beach_001.wav",
+  "waveform_rows": [
+    {
+      "StreamAwbId": 0,
+      "SamplingRate": 48000,
+      "NumSamples": 920928,
+      "Streaming": 2
+    },
+    {
+      "StreamAwbId": 1,
+      "SamplingRate": 48000,
+      "NumSamples": 2142576,
+      "Streaming": 2
+    }
+  ],
+  "block_rows": [
+    {
+      "Name": 1,
+      "Length": 19186,
+      "StartPosition": 0,
+      "NumLoops": 0,
+      "PlaybackType": 0,
+      "JumpDestination": 0
+    },
+    {
+      "Name": 2,
+      "Length": 44637,
+      "StartPosition": 19186,
+      "NumLoops": 65535,
+      "PlaybackType": 0,
+      "JumpDestination": 0
+    }
+  ]
+}

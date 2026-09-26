@@ -1,0 +1,60 @@
+{
+  "cue": "sud_bgm_adv_happy-001",
+  "remote_acb": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/6/5232343536/a1fc4e7d892ec1331dfa67b4639ef4a7",
+  "remote_awb": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/5/5236353335/246a28a3b60786f7d56fa45e7485ddfd",
+  "awb_hash": "246a28a3b60786f7d56fa45e7485ddfd",
+  "local_acb": "C:\\Repositories\\GakumasuVoice\\output\\bgm_batch\\bgm_all_fixed\\sud_bgm_adv_happy-001\\source\\sud_bgm_adv_happy-001.acb",
+  "local_awb": "C:\\Repositories\\GakumasuVoice\\output\\bgm_batch\\bgm_all_fixed\\sud_bgm_adv_happy-001\\source\\sud_bgm_adv_happy-001.awb",
+  "stream_count": 2,
+  "block_order": [
+    {
+      "block": 1,
+      "subsong": 2,
+      "length_ms": 1391,
+      "start_ms": 0
+    },
+    {
+      "block": 2,
+      "subsong": 1,
+      "length_ms": 41272,
+      "start_ms": 1391
+    }
+  ],
+  "block_wavs": [
+    "C:\\Repositories\\GakumasuVoice\\output\\bgm_batch\\bgm_all_fixed\\sud_bgm_adv_happy-001\\blocks\\sud_bgm_adv_happy-001_01_subsong2.wav",
+    "C:\\Repositories\\GakumasuVoice\\output\\bgm_batch\\bgm_all_fixed\\sud_bgm_adv_happy-001\\blocks\\sud_bgm_adv_happy-001_02_subsong1.wav"
+  ],
+  "final_wav": "C:\\Repositories\\GakumasuVoice\\output\\bgm_batch\\bgm_all_fixed\\sud_bgm_adv_happy-001\\sud_bgm_adv_happy-001.wav",
+  "waveform_rows": [
+    {
+      "StreamAwbId": 1,
+      "SamplingRate": 48000,
+      "NumSamples": 66768,
+      "Streaming": 2
+    },
+    {
+      "StreamAwbId": 0,
+      "SamplingRate": 48000,
+      "NumSamples": 1981056,
+      "Streaming": 2
+    }
+  ],
+  "block_rows": [
+    {
+      "Name": 1,
+      "Length": 1391,
+      "StartPosition": 0,
+      "NumLoops": 0,
+      "PlaybackType": 0,
+      "JumpDestination": 0
+    },
+    {
+      "Name": 2,
+      "Length": 41272,
+      "StartPosition": 1391,
+      "NumLoops": 65535,
+      "PlaybackType": 0,
+      "JumpDestination": 0
+    }
+  ]
+}

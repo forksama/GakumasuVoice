@@ -1,0 +1,28 @@
+{
+  "cue": "sud_bgm_adv_all-001-ssmk_normal-004",
+  "remote_acb": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/5/5235363035/2189d47e6da03bf9136dc2c89421d18a",
+  "remote_awb": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/4/5236343934/6e5ef23261bece4dca1254f620166356",
+  "awb_hash": "6e5ef23261bece4dca1254f620166356",
+  "local_acb": "C:\\Repositories\\GakumasuVoice\\output\\bgm_batch\\bgm_all_fixed\\sud_bgm_adv_all-001-ssmk_normal-004\\source\\sud_bgm_adv_all-001-ssmk_normal-004.acb",
+  "local_awb": "C:\\Repositories\\GakumasuVoice\\output\\bgm_batch\\bgm_all_fixed\\sud_bgm_adv_all-001-ssmk_normal-004\\source\\sud_bgm_adv_all-001-ssmk_normal-004.awb",
+  "stream_count": 1,
+  "block_order": [
+    {
+      "block": 1,
+      "subsong": 1,
+      "length_ms": 0,
+      "start_ms": 0
+    }
+  ],
+  "block_wavs": [],
+  "final_wav": "C:\\Repositories\\GakumasuVoice\\output\\bgm_batch\\bgm_all_fixed\\sud_bgm_adv_all-001-ssmk_normal-004\\sud_bgm_adv_all-001-ssmk_normal-004.wav",
+  "waveform_rows": [
+    {
+      "StreamAwbId": 0,
+      "SamplingRate": 48000,
+      "NumSamples": 1495411,
+      "Streaming": 2
+    }
+  ],
+  "block_rows": []
+}

@@ -1,0 +1,60 @@
+{
+  "cue": "sud_bgm_adv_foreboding-001",
+  "remote_acb": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/6/5236303236/b3f0e70aa714f75f0f80a8c6ce8305bb",
+  "remote_awb": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/4/5233393734/c6cffd358e759078aa9f67e9888d682c",
+  "awb_hash": "c6cffd358e759078aa9f67e9888d682c",
+  "local_acb": "C:\\Repositories\\GakumasuVoice\\output\\bgm_batch\\bgm_all_fixed\\sud_bgm_adv_foreboding-001\\source\\sud_bgm_adv_foreboding-001.acb",
+  "local_awb": "C:\\Repositories\\GakumasuVoice\\output\\bgm_batch\\bgm_all_fixed\\sud_bgm_adv_foreboding-001\\source\\sud_bgm_adv_foreboding-001.awb",
+  "stream_count": 2,
+  "block_order": [
+    {
+      "block": 1,
+      "subsong": 1,
+      "length_ms": 3243,
+      "start_ms": 0
+    },
+    {
+      "block": 2,
+      "subsong": 2,
+      "length_ms": 74387,
+      "start_ms": 3243
+    }
+  ],
+  "block_wavs": [
+    "C:\\Repositories\\GakumasuVoice\\output\\bgm_batch\\bgm_all_fixed\\sud_bgm_adv_foreboding-001\\blocks\\sud_bgm_adv_foreboding-001_01_subsong1.wav",
+    "C:\\Repositories\\GakumasuVoice\\output\\bgm_batch\\bgm_all_fixed\\sud_bgm_adv_foreboding-001\\blocks\\sud_bgm_adv_foreboding-001_02_subsong2.wav"
+  ],
+  "final_wav": "C:\\Repositories\\GakumasuVoice\\output\\bgm_batch\\bgm_all_fixed\\sud_bgm_adv_foreboding-001\\sud_bgm_adv_foreboding-001.wav",
+  "waveform_rows": [
+    {
+      "StreamAwbId": 0,
+      "SamplingRate": 48000,
+      "NumSamples": 155664,
+      "Streaming": 2
+    },
+    {
+      "StreamAwbId": 1,
+      "SamplingRate": 48000,
+      "NumSamples": 3570576,
+      "Streaming": 2
+    }
+  ],
+  "block_rows": [
+    {
+      "Name": 1,
+      "Length": 3243,
+      "StartPosition": 0,
+      "NumLoops": 0,
+      "PlaybackType": 0,
+      "JumpDestination": 0
+    },
+    {
+      "Name": 2,
+      "Length": 74387,
+      "StartPosition": 3243,
+      "NumLoops": 65535,
+      "PlaybackType": 0,
+      "JumpDestination": 0
+    }
+  ]
+}

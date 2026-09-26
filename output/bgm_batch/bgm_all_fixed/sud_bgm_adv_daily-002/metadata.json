@@ -1,0 +1,60 @@
+{
+  "cue": "sud_bgm_adv_daily-002",
+  "remote_acb": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/1/5235353531/72a91ec9974c850e92718e546af4b040",
+  "remote_awb": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/0/5233383130/6c5992e9d1869ebe1c5cb97c01e6c413",
+  "awb_hash": "6c5992e9d1869ebe1c5cb97c01e6c413",
+  "local_acb": "C:\\Repositories\\GakumasuVoice\\output\\bgm_batch\\bgm_all_fixed\\sud_bgm_adv_daily-002\\source\\sud_bgm_adv_daily-002.acb",
+  "local_awb": "C:\\Repositories\\GakumasuVoice\\output\\bgm_batch\\bgm_all_fixed\\sud_bgm_adv_daily-002\\source\\sud_bgm_adv_daily-002.awb",
+  "stream_count": 2,
+  "block_order": [
+    {
+      "block": 1,
+      "subsong": 1,
+      "length_ms": 2758,
+      "start_ms": 0
+    },
+    {
+      "block": 2,
+      "subsong": 2,
+      "length_ms": 42674,
+      "start_ms": 2758
+    }
+  ],
+  "block_wavs": [
+    "C:\\Repositories\\GakumasuVoice\\output\\bgm_batch\\bgm_all_fixed\\sud_bgm_adv_daily-002\\blocks\\sud_bgm_adv_daily-002_01_subsong1.wav",
+    "C:\\Repositories\\GakumasuVoice\\output\\bgm_batch\\bgm_all_fixed\\sud_bgm_adv_daily-002\\blocks\\sud_bgm_adv_daily-002_02_subsong2.wav"
+  ],
+  "final_wav": "C:\\Repositories\\GakumasuVoice\\output\\bgm_batch\\bgm_all_fixed\\sud_bgm_adv_daily-002\\sud_bgm_adv_daily-002.wav",
+  "waveform_rows": [
+    {
+      "StreamAwbId": 0,
+      "SamplingRate": 48000,
+      "NumSamples": 132384,
+      "Streaming": 2
+    },
+    {
+      "StreamAwbId": 1,
+      "SamplingRate": 48000,
+      "NumSamples": 2048352,
+      "Streaming": 2
+    }
+  ],
+  "block_rows": [
+    {
+      "Name": 1,
+      "Length": 2758,
+      "StartPosition": 0,
+      "NumLoops": 0,
+      "PlaybackType": 0,
+      "JumpDestination": 0
+    },
+    {
+      "Name": 2,
+      "Length": 42674,
+      "StartPosition": 2758,
+      "NumLoops": 65535,
+      "PlaybackType": 0,
+      "JumpDestination": 0
+    }
+  ]
+}

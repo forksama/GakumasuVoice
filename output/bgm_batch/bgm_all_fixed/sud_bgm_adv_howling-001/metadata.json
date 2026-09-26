@@ -1,0 +1,60 @@
+{
+  "cue": "sud_bgm_adv_howling-001",
+  "remote_acb": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/4/52363834/d1322accf774a4e4fc8d79ae2ebddae3",
+  "remote_awb": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/0/5233393630/1a2a585c02d16841491319fa125315bd",
+  "awb_hash": "1a2a585c02d16841491319fa125315bd",
+  "local_acb": "C:\\Repositories\\GakumasuVoice\\output\\bgm_batch\\bgm_all_fixed\\sud_bgm_adv_howling-001\\source\\sud_bgm_adv_howling-001.acb",
+  "local_awb": "C:\\Repositories\\GakumasuVoice\\output\\bgm_batch\\bgm_all_fixed\\sud_bgm_adv_howling-001\\source\\sud_bgm_adv_howling-001.awb",
+  "stream_count": 2,
+  "block_order": [
+    {
+      "block": 1,
+      "subsong": 1,
+      "length_ms": 10952,
+      "start_ms": 0
+    },
+    {
+      "block": 2,
+      "subsong": 2,
+      "length_ms": 76797,
+      "start_ms": 10952
+    }
+  ],
+  "block_wavs": [
+    "C:\\Repositories\\GakumasuVoice\\output\\bgm_batch\\bgm_all_fixed\\sud_bgm_adv_howling-001\\blocks\\sud_bgm_adv_howling-001_01_subsong1.wav",
+    "C:\\Repositories\\GakumasuVoice\\output\\bgm_batch\\bgm_all_fixed\\sud_bgm_adv_howling-001\\blocks\\sud_bgm_adv_howling-001_02_subsong2.wav"
+  ],
+  "final_wav": "C:\\Repositories\\GakumasuVoice\\output\\bgm_batch\\bgm_all_fixed\\sud_bgm_adv_howling-001\\sud_bgm_adv_howling-001.wav",
+  "waveform_rows": [
+    {
+      "StreamAwbId": 0,
+      "SamplingRate": 48000,
+      "NumSamples": 525696,
+      "Streaming": 2
+    },
+    {
+      "StreamAwbId": 1,
+      "SamplingRate": 48000,
+      "NumSamples": 3686256,
+      "Streaming": 2
+    }
+  ],
+  "block_rows": [
+    {
+      "Name": 1,
+      "Length": 10952,
+      "StartPosition": 0,
+      "NumLoops": 0,
+      "PlaybackType": 0,
+      "JumpDestination": 0
+    },
+    {
+      "Name": 2,
+      "Length": 76797,
+      "StartPosition": 10952,
+      "NumLoops": 65535,
+      "PlaybackType": 0,
+      "JumpDestination": 0
+    }
+  ]
+}

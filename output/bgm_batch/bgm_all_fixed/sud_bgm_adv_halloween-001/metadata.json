@@ -1,0 +1,37 @@
+{
+  "cue": "sud_bgm_adv_halloween-001",
+  "remote_acb": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/8/5231333538/63d14cf7815882f6fc5a6ce5490fdd98",
+  "remote_awb": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/8/5236363338/1f888dff97ea170e392f9f57407ce80c",
+  "awb_hash": "1f888dff97ea170e392f9f57407ce80c",
+  "local_acb": "C:\\Repositories\\GakumasuVoice\\output\\bgm_batch\\bgm_all_fixed\\sud_bgm_adv_halloween-001\\source\\sud_bgm_adv_halloween-001.acb",
+  "local_awb": "C:\\Repositories\\GakumasuVoice\\output\\bgm_batch\\bgm_all_fixed\\sud_bgm_adv_halloween-001\\source\\sud_bgm_adv_halloween-001.awb",
+  "stream_count": 1,
+  "block_order": [
+    {
+      "block": 1,
+      "subsong": 1,
+      "length_ms": 63829,
+      "start_ms": 0
+    }
+  ],
+  "block_wavs": [],
+  "final_wav": "C:\\Repositories\\GakumasuVoice\\output\\bgm_batch\\bgm_all_fixed\\sud_bgm_adv_halloween-001\\sud_bgm_adv_halloween-001.wav",
+  "waveform_rows": [
+    {
+      "StreamAwbId": 0,
+      "SamplingRate": 48000,
+      "NumSamples": 3063830,
+      "Streaming": 2
+    }
+  ],
+  "block_rows": [
+    {
+      "Name": 1,
+      "Length": 63829,
+      "StartPosition": 0,
+      "NumLoops": 65535,
+      "PlaybackType": 1,
+      "JumpDestination": 0
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "cue": "sud_bgm_adv_christmas-001",
+  "remote_acb": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/6/5232383036/2251932e4e7914141983252e7a188f84",
+  "remote_awb": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/0/52313030/2832c0d94c1615fd3d38c7346810136c",
+  "awb_hash": "2832c0d94c1615fd3d38c7346810136c",
+  "local_acb": "C:\\Repositories\\GakumasuVoice\\output\\bgm_batch\\bgm_all_fixed\\sud_bgm_adv_christmas-001\\source\\sud_bgm_adv_christmas-001.acb",
+  "local_awb": "C:\\Repositories\\GakumasuVoice\\output\\bgm_batch\\bgm_all_fixed\\sud_bgm_adv_christmas-001\\source\\sud_bgm_adv_christmas-001.awb",
+  "stream_count": 2,
+  "block_order": [
+    {
+      "block": 1,
+      "subsong": 1,
+      "length_ms": 4206,
+      "start_ms": 0
+    },
+    {
+      "block": 2,
+      "subsong": 2,
+      "length_ms": 63162,
+      "start_ms": 4206
+    }
+  ],
+  "block_wavs": [
+    "C:\\Repositories\\GakumasuVoice\\output\\bgm_batch\\bgm_all_fixed\\sud_bgm_adv_christmas-001\\blocks\\sud_bgm_adv_christmas-001_01_subsong1.wav",
+    "C:\\Repositories\\GakumasuVoice\\output\\bgm_batch\\bgm_all_fixed\\sud_bgm_adv_christmas-001\\blocks\\sud_bgm_adv_christmas-001_02_subsong2.wav"
+  ],
+  "final_wav": "C:\\Repositories\\GakumasuVoice\\output\\bgm_batch\\bgm_all_fixed\\sud_bgm_adv_christmas-001\\sud_bgm_adv_christmas-001.wav",
+  "waveform_rows": [
+    {
+      "StreamAwbId": 0,
+      "SamplingRate": 48000,
+      "NumSamples": 201888,
+      "Streaming": 2
+    },
+    {
+      "StreamAwbId": 1,
+      "SamplingRate": 48000,
+      "NumSamples": 3031776,
+      "Streaming": 2
+    }
+  ],
+  "block_rows": [
+    {
+      "Name": 1,
+      "Length": 4206,
+      "StartPosition": 0,
+      "NumLoops": 0,
+      "PlaybackType": 0,
+      "JumpDestination": 0
+    },
+    {
+      "Name": 2,
+      "Length": 63162,
+      "StartPosition": 4206,
+      "NumLoops": 65535,
+      "PlaybackType": 0,
+      "JumpDestination": 0
+    }
+  ]
+}
