@@ -1,0 +1,51 @@
+{
+  "cue": "sud_bgm_adv_valentine-001",
+  "remote_acb": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/4/5235313434/068e7c45b94abda168ccdfcff0bbd20e",
+  "remote_awb": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/0/52363930/0e88142b47ed0cda6dd19b78dad403cb",
+  "awb_hash": "0e88142b47ed0cda6dd19b78dad403cb",
+  "local_acb": "C:\\Repositories\\GakumasuVoice\\output\\bgm_batch\\bgm_all_fixed\\sud_bgm_adv_valentine-001\\source\\sud_bgm_adv_valentine-001.acb",
+  "local_awb": "C:\\Repositories\\GakumasuVoice\\output\\bgm_batch\\bgm_all_fixed\\sud_bgm_adv_valentine-001\\source\\sud_bgm_adv_valentine-001.awb",
+  "stream_count": 1,
+  "block_order": [
+    {
+      "block": 2,
+      "subsong": 1,
+      "length_ms": 63798,
+      "start_ms": 413
+    }
+  ],
+  "block_wavs": [],
+  "final_wav": "C:\\Repositories\\GakumasuVoice\\output\\bgm_batch\\bgm_all_fixed\\sud_bgm_adv_valentine-001\\sud_bgm_adv_valentine-001.wav",
+  "waveform_rows": [
+    {
+      "StreamAwbId": 65535,
+      "SamplingRate": 48000,
+      "NumSamples": 19824,
+      "Streaming": 0
+    },
+    {
+      "StreamAwbId": 0,
+      "SamplingRate": 48000,
+      "NumSamples": 3062349,
+      "Streaming": 2
+    }
+  ],
+  "block_rows": [
+    {
+      "Name": 1,
+      "Length": 413,
+      "StartPosition": 0,
+      "NumLoops": 0,
+      "PlaybackType": 0,
+      "JumpDestination": 0
+    },
+    {
+      "Name": 2,
+      "Length": 63798,
+      "StartPosition": 413,
+      "NumLoops": 65535,
+      "PlaybackType": 0,
+      "JumpDestination": 0
+    }
+  ]
+}

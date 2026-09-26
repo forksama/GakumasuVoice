@@ -1,0 +1,81 @@
+{
+  "cue": "sud_bgm_produce_lesson-hard-lasthalf-01",
+  "remote_acb": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/8/5231303038/e961bc0edf8d87f588003ebecfbc1f5e",
+  "remote_awb": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/5/5236373535/db76b7813905f95ae40e2ffe100a4c3d",
+  "awb_hash": "db76b7813905f95ae40e2ffe100a4c3d",
+  "local_acb": "C:\\Repositories\\GakumasuVoice\\output\\bgm_batch\\bgm_all_fixed\\sud_bgm_produce_lesson-hard-lasthalf-01\\source\\sud_bgm_produce_lesson-hard-lasthalf-01.acb",
+  "local_awb": "C:\\Repositories\\GakumasuVoice\\output\\bgm_batch\\bgm_all_fixed\\sud_bgm_produce_lesson-hard-lasthalf-01\\source\\sud_bgm_produce_lesson-hard-lasthalf-01.awb",
+  "stream_count": 3,
+  "block_order": [
+    {
+      "block": 1,
+      "subsong": 1,
+      "length_ms": 2667,
+      "start_ms": 0
+    },
+    {
+      "block": 2,
+      "subsong": 3,
+      "length_ms": 21333,
+      "start_ms": 2667
+    },
+    {
+      "block": 3,
+      "subsong": 2,
+      "length_ms": 3349,
+      "start_ms": 24000
+    }
+  ],
+  "block_wavs": [
+    "C:\\Repositories\\GakumasuVoice\\output\\bgm_batch\\bgm_all_fixed\\sud_bgm_produce_lesson-hard-lasthalf-01\\blocks\\sud_bgm_produce_lesson-hard-lasthalf-01_01_subsong1.wav",
+    "C:\\Repositories\\GakumasuVoice\\output\\bgm_batch\\bgm_all_fixed\\sud_bgm_produce_lesson-hard-lasthalf-01\\blocks\\sud_bgm_produce_lesson-hard-lasthalf-01_02_subsong3.wav",
+    "C:\\Repositories\\GakumasuVoice\\output\\bgm_batch\\bgm_all_fixed\\sud_bgm_produce_lesson-hard-lasthalf-01\\blocks\\sud_bgm_produce_lesson-hard-lasthalf-01_03_subsong2.wav"
+  ],
+  "final_wav": "C:\\Repositories\\GakumasuVoice\\output\\bgm_batch\\bgm_all_fixed\\sud_bgm_produce_lesson-hard-lasthalf-01\\sud_bgm_produce_lesson-hard-lasthalf-01.wav",
+  "waveform_rows": [
+    {
+      "StreamAwbId": 0,
+      "SamplingRate": 48000,
+      "NumSamples": 128015,
+      "Streaming": 2
+    },
+    {
+      "StreamAwbId": 2,
+      "SamplingRate": 48000,
+      "NumSamples": 1023983,
+      "Streaming": 2
+    },
+    {
+      "StreamAwbId": 1,
+      "SamplingRate": 48000,
+      "NumSamples": 160770,
+      "Streaming": 2
+    }
+  ],
+  "block_rows": [
+    {
+      "Name": 1,
+      "Length": 2667,
+      "StartPosition": 0,
+      "NumLoops": 0,
+      "PlaybackType": 0,
+      "JumpDestination": 0
+    },
+    {
+      "Name": 2,
+      "Length": 21333,
+      "StartPosition": 2667,
+      "NumLoops": 0,
+      "PlaybackType": 2,
+      "JumpDestination": 0
+    },
+    {
+      "Name": 3,
+      "Length": 3349,
+      "StartPosition": 24000,
+      "NumLoops": 0,
+      "PlaybackType": 0,
+      "JumpDestination": 0
+    }
+  ]
+}
