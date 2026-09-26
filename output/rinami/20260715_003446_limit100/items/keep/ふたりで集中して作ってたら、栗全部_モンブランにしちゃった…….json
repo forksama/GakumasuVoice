@@ -1,0 +1,22 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5233383933/bbd731d4e87a1cc5fc9e8a499419c875",
+  "line_no": 113,
+  "voice_line_no": 114,
+  "text": "ふたりで集中して作ってたら、栗全部\nモンブランにしちゃった……",
+  "speaker": "莉波",
+  "voice_cue": "sud_vo_adv_csprt-2-0060_02_hrnm-009",
+  "bank_name": "sud_vo_adv_csprt-2-0060_02",
+  "start": 69.0079982935,
+  "duration": 6.558,
+  "voice_start": 69.1079982935,
+  "voice_duration": 6.458,
+  "output_slug": "sud_vo_adv_csprt-2-0060_02_hrnm-009",
+  "output_index": 62,
+  "subsong_index": 9,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\rinami\\20260715_003446_limit100\\acb\\sud_vo_adv_csprt-2-0060_02.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\rinami\\20260715_003446_limit100\\scripts\\5233383933_bbd731d4e87a1cc5fc9e8a499419c875.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\rinami\\20260715_003446_limit100\\items\\keep\\ふたりで集中して作ってたら、栗全部_モンブランにしちゃった…….wav",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\rinami\\20260715_003446_limit100\\items\\keep\\ふたりで集中して作ってたら、栗全部_モンブランにしちゃった…….json",
+  "duration_seconds": 6.459,
+  "bucket": "keep"
+}
