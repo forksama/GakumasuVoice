@@ -1,0 +1,34 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/52333233/91ba871477f411619acb005f396314fe",
+  "line_no": 38,
+  "voice_line_no": 39,
+  "text": "最終試験の結果は特に重要です。",
+  "speaker": "あさり先生",
+  "voice_cue": "sud_vo_adv_pstory_001_cmmn_world-explanation_nasr-007",
+  "bank_name": "sud_vo_adv_pstory_001_cmmn_world-explanation",
+  "start": 28.8666687329,
+  "duration": 2.9666658402,
+  "voice_start": 28.9666653996,
+  "voice_duration": 2.775,
+  "output_slug": "sud_vo_adv_pstory_001_cmmn_world-explanation_nasr-007",
+  "output_index": 145,
+  "subsong_index": 7,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\acb\\sud_vo_adv_pstory_001_cmmn_world-explanation.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\scripts\\52333233_91ba871477f411619acb005f396314fe.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\reject\\最終試験の結果は特に重要です。.wav",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\reject\\最終試験の結果は特に重要です。.json",
+  "also_referenced_by": [
+    {
+      "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5231353433/6e9b2802f6cfb98402e7cdea9ec99848",
+      "line_no": 38,
+      "voice_line_no": 39
+    },
+    {
+      "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/6/52373236/55f2beff02ac5f81ed47c036163e54a4",
+      "line_no": 38,
+      "voice_line_no": 39
+    }
+  ],
+  "duration_seconds": 2.776,
+  "bucket": "reject"
+}

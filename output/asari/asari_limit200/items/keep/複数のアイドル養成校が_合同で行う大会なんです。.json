@@ -1,0 +1,22 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/7/5232353337/389a7abec90efd42f699b6f514e9dab3",
+  "line_no": 17,
+  "voice_line_no": 18,
+  "text": "複数のアイドル養成校が\n合同で行う大会なんです。",
+  "speaker": "あさり先生",
+  "voice_cue": "sud_vo_adv_pstory_002_cmmn_world-explanation_nasr-003",
+  "bank_name": "sud_vo_adv_pstory_002_cmmn_world-explanation",
+  "start": 6.8333330949,
+  "duration": 4.3969999314,
+  "voice_start": 6.9333330949,
+  "voice_duration": 4.0970001221,
+  "output_slug": "sud_vo_adv_pstory_002_cmmn_world-explanation_nasr-003",
+  "output_index": 169,
+  "subsong_index": 3,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\acb\\sud_vo_adv_pstory_002_cmmn_world-explanation.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\scripts\\5232353337_389a7abec90efd42f699b6f514e9dab3.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\keep\\複数のアイドル養成校が_合同で行う大会なんです。.wav",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\keep\\複数のアイドル養成校が_合同で行う大会なんです。.json",
+  "duration_seconds": 4.097,
+  "bucket": "keep"
+}

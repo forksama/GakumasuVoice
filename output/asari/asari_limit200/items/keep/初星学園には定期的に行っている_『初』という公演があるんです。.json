@@ -1,0 +1,34 @@
+{
+  "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/52333233/91ba871477f411619acb005f396314fe",
+  "line_no": 15,
+  "voice_line_no": 16,
+  "text": "初星学園には定期的に行っている\n『初』という公演があるんです。",
+  "speaker": "あさり先生",
+  "voice_cue": "sud_vo_adv_pstory_001_cmmn_world-explanation_nasr-002",
+  "bank_name": "sud_vo_adv_pstory_001_cmmn_world-explanation",
+  "start": 6.9666665714,
+  "duration": 6.1666666031,
+  "voice_start": 7.0666669047,
+  "voice_duration": 6.026,
+  "output_slug": "sud_vo_adv_pstory_001_cmmn_world-explanation_nasr-002",
+  "output_index": 140,
+  "subsong_index": 2,
+  "acb_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\acb\\sud_vo_adv_pstory_001_cmmn_world-explanation.acb",
+  "script_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\scripts\\52333233_91ba871477f411619acb005f396314fe.txt",
+  "wav_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\keep\\初星学園には定期的に行っている_『初』という公演があるんです。.wav",
+  "metadata_file": "C:\\Repositories\\GakumasuVoice\\output\\asari\\asari_limit200\\items\\keep\\初星学園には定期的に行っている_『初』という公演があるんです。.json",
+  "also_referenced_by": [
+    {
+      "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/3/5231353433/6e9b2802f6cfb98402e7cdea9ec99848",
+      "line_no": 15,
+      "voice_line_no": 16
+    },
+    {
+      "script_path": "/data/data/com.bandainamcoent.idolmaster_gakuen/files/octo/v1/400/6/52373236/55f2beff02ac5f81ed47c036163e54a4",
+      "line_no": 15,
+      "voice_line_no": 16
+    }
+  ],
+  "duration_seconds": 6.026,
+  "bucket": "keep"
+}
